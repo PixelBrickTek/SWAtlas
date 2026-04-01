@@ -373,15 +373,42 @@ img {
 }
 
 
+.privacy-policy-page .privacy-policy-card {
+  border-radius: 40px;
+  overflow: visible;
+  padding: 36px 34px 34px;
+}
+
+.privacy-policy-page .privacy-policy-card .mini-tag {
+  display: block;
+  line-height: 1.45;
+  margin-left: 2px;
+}
+
+.privacy-policy-page .privacy-policy-card p,
+.privacy-policy-page .privacy-policy-card span,
+.privacy-policy-page .privacy-policy-card h1,
+.privacy-policy-page .privacy-policy-card h2,
+.privacy-policy-page .privacy-policy-card h3 {
+  max-width: 100%;
+  overflow-wrap: anywhere;
+  word-break: keep-all;
+}
+
+@media (max-width: 720px) {
+  .privacy-policy-page .privacy-policy-card {
+    border-radius: 28px;
+    padding: 28px 22px 24px;
+  }
+}
+
 .hero-screenshot {
   width: min(360px, 84%);
+  height: auto;
+  object-fit: contain;
   border-radius: 34px;
   overflow: hidden;
   box-shadow: 0 24px 64px rgba(22, 58, 40, 0.16);
-}
-
-.privacy-policy-card {
-  border-radius: 40px;
 }
 
 @media (max-width: 720px) {
@@ -389,23 +416,4 @@ img {
     width: min(320px, 88%);
     border-radius: 28px;
   }
-
-  .privacy-policy-card {
-    border-radius: 28px;
-  }
-}
-
-
-.privacy-policy-card {
-  overflow: hidden;
-}
-
-.privacy-policy-card p,
-.privacy-policy-card span,
-.privacy-policy-card h1,
-.privacy-policy-card h2,
-.privacy-policy-card h3 {
-  max-width: 100%;
-  overflow-wrap: anywhere;
-  word-break: keep-all;
 }
