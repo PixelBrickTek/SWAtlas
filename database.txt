@@ -1,4 +1,4 @@
-A26 Shortwave Frequency List  April 01  2026,  0600 UTC   Day 1 = Sunday
+A26 Shortwave Frequency List  April 1  2026,  0400 UTC   Day 1 = Sunday
 kHz           Time(UTC)       ITU Station                Lang. Location    Days 
 +-------------+---------+-----+---+------------------------+---+-----------+----
 
@@ -697,7 +697,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 1251          0000-2400       CHN CNR 1 Voice of China     Chi Heilongjian 1-7  
 1251          0325-2000       HNG Danko Radio              Hun Nyiregyhaza 1-7  
 1251          0325-2000       HNG Danko Radio              Hun Szombathely 1-7  
-1251          1430-1500       TJK IBRA MEDIA/R.Sadaye Zind Haz Dushanbe-Ya 1-7  
+1251          1530-1600       TJK IBRA MEDIA/R.Sadaye Zind Haz Dushanbe-Ya 1-7  
 1251          1630-1650       TJK NHK WORLD RADIO JAPAN    Per Dushanbe-Ya 1-7  
 1260          0000-2400       G   Absolute Radio           Eng Romney Marc 1-7  
 1260          0000-2400       J   Tohoku Hoso (TBC)        Jpn Miyagi-Send 1-7  
@@ -804,22 +804,25 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 1377          0100-1930       IND AIR Hyderabad            Hin Hyderabad   1-7  
 1377          2025-1805       CHN CNR 1 Voice of China     Chi Xingyang-HE 1-7  
 1377          2000-1800       TIB PBS Xizang               Chi Lhasa-Baidi 1-7  
-1377          1700-1830       ARM TWR Europe               Per Yerevan-Gav 1-7  
-1377          1830-1945       ARM TWR Europe               Ukr Yerevan-Gav 1-7  
-1386          1830-2100       LTU BBC World Service        Eng Viesintos   1-7  
-1386          1800-1830       LTU Deutshe Welle            Rus Viesintos   1-7  
-1386          1500-1515       LTU NHK WORLD RADIO JAPAN    Rus Viesintos   23456
-1386          1500-1520       LTU NHK WORLD RADIO JAPAN    Rus Viesintos   17   
-1386          1700-1720       LTU NHK WORLD RADIO JAPAN    Rus Viesintos   1-7  
-1386          1730-1750       LTU NHK WORLD RADIO JAPAN    Rus Viesintos   1-7  
-1386          0530-0830       LTU Radio Liberty            Rus Viesintos   1-7  
+1377          1710-1725       ARM TWR Europe               Tur Yerevan-Gav 1-7  
+1377          1725-1740       ARM TWR Europe               Kaz Yerevan-Gav 1-7  
+1377          1740-1755       ARM TWR Europe               Uzb Yerevan-Gav 1-7  
+1377          1800-1930       ARM TWR Europe               Per Yerevan-Gav 1-7  
+1377          1930-2045       ARM TWR Europe               Ukr Yerevan-Gav 1-7  
 1386          0400-0500       LTU Radio Poland             Bel Viesintos   1-7  
 1386          0500-0530       LTU Radio Poland             Ukr Viesintos   1-7  
-1386          1400-1500       LTU Radio Poland             Eng Viesintos   1-7  
+1386          0530-0830       LTU Radio Liberty            Rus Viesintos   1-7  
+1386          1300-1400       LTU Radio Poland             Eng Viesintos   1-7  
+1386          1500-1515       LTU NHK WORLD RADIO JAPAN    Rus Viesintos   23456
+1386          1500-1520       LTU NHK WORLD RADIO JAPAN    Rus Viesintos   17   
 1386          1530-1600       LTU Radio Poland             Ger Viesintos   1-7  
 1386          1600-1630       LTU Radio Poland             Rus Viesintos   1-7  
 1386          1630-1700       LTU Radio Poland             Pol Viesintos   1-7  
+1386          1700-1720       LTU NHK WORLD RADIO JAPAN    Rus Viesintos   1-7  
 1386          1700-1730       LTU Radio Poland             Bel Viesintos   1-7  
+1386          1730-1750       LTU NHK WORLD RADIO JAPAN    Rus Viesintos   1-7  
+1386          1800-1830       LTU Deutshe Welle            Rus Viesintos   1-7  
+1386          1830-2100       LTU BBC World Service        Eng Viesintos   1-7  
 1386          2100-2130       LTU Radio Ukraine Internatio Rom Viesintos   1-7  
 1386          2130-2200       LTU Radio Ukraine Internatio Bel Viesintos   1-7  
 1386          2200-2230       LTU Radio Ukraine Internatio Bel Viesintos   1-7  
@@ -1424,7 +1427,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 5850          1130-1200       USA WRN R.Slovakia Int.      Eng Okeechobee1 1-7  
 5857          0000-2400       KOR HLL Seoul Meteorological Kor Boseong     1-7  
 5860          0000-2400       KWT RADIO FARDA              Per Kuwait      1-7  
-5890          1900-0400       BUL Iran International TV    Per Kostinbrod( 1-7  
+5890          1900-0200       BUL Iran International TV    Per Kostinbrod( 1-7  
 5890          0300-1300       USA WWCR NASHVILLE           Eng Nashville   1-7  
 5895          0455-2205       NOR LKB/LLE R.Northern Star  Nor Erdal       1-7  
 5900          1930-1945       BUL BIBLE VOICE BCN Radio Da Ara Kostinbrod( 1-7  
@@ -1440,17 +1443,17 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 5905          1600-1630       D   Deutscher Wetterdiens    Ger Pinneberg   1-7  
 5905          2000-2030       D   Deutscher Wetterdiens    Ger Pinneberg   1-7  
 5910          0000-2400       CLM Alcaravan Radio          Spa Puerto Ller 1-7  
-5910          1430-1457       ROU R.ROMANIA INT.           Aro Saftica     1-7  
-5910          1500-1527       ROU R.ROMANIA INT.           Ukr Saftica     1-7  
-5910          1530-1557       ROU R.ROMANIA INT.           Ser Saftica     1-7  
-5910          1600-1627       ROU R.ROMANIA INT.           Ita Saftica     1-7  
-5910          1630-1657       ROU R.ROMANIA INT.           Aro Saftica     1-7  
-5910          1700-1727       ROU R.ROMANIA INT.           Ukr Saftica     1-7  
-5910          1730-1757       ROU R.ROMANIA INT.           Ser Saftica     1-7  
-5910          1830-1857       ROU R.ROMANIA INT.           Aro Saftica     1-7  
-5910          1900-1927       ROU R.ROMANIA INT.           Ukr Saftica     1-7  
-5910          1930-1957       ROU R.ROMANIA INT.           Ser Saftica     1-7  
-5910          1800-1827       ROU R.ROMANIA INT. DRM xHE E Ita Saftica     1-7  
+5910          1430-1457       ROU R.ROMANIA INT.           Aro Tiganesti   1-7  
+5910          1500-1527       ROU R.ROMANIA INT.           Ukr Tiganesti   1-7  
+5910          1530-1557       ROU R.ROMANIA INT.           Ser Tiganesti   1-7  
+5910          1600-1627       ROU R.ROMANIA INT.           Ita Tiganesti   1-7  
+5910          1630-1657       ROU R.ROMANIA INT.           Aro Tiganesti   1-7  
+5910          1700-1727       ROU R.ROMANIA INT.           Ukr Tiganesti   1-7  
+5910          1730-1757       ROU R.ROMANIA INT.           Ser Tiganesti   1-7  
+5910          1830-1857       ROU R.ROMANIA INT.           Aro Tiganesti   1-7  
+5910          1900-1927       ROU R.ROMANIA INT.           Ukr Tiganesti   1-7  
+5910          1930-1957       ROU R.ROMANIA INT.           Ser Tiganesti   1-7  
+5910          1800-1827       ROU R.ROMANIA INT. DRM xHE E Ita Tiganesti   1-7  
 5915          0230-0530       MMR Myanmar Radio            Bur Naypyidaw   1-7  
 5915          0630-1400       MMR Myanmar Radio            Bur Naypyidaw   1-7  
 5915          2330-0230       MMR Myanmar Radio            Bur Naypyidaw   1-7  
@@ -1461,13 +1464,13 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 5920          0400-0500       D   HCJB Deutsch             Rus Weenermoor  1-7  
 5920          0500-2300       D   HCJB Deutsch             Ger Weenermoor  1-7  
 5920          2300-0100       D   HCJB Deutsch             Rus Weenermoor  1-7  
-5920          1730-1800       TWN New Korean Hope Radio    Kor Tamsui Dist 135  
-5920          0000-1400       USA WTWW                     Eng Lebanon TN  1-7  
 5920          1600-1630       J   Shiokaze (Sea-breeze)    Jpn Ibaragi-Kog 267  
 5920          1600-1700       J   Shiokaze (Sea-breeze)    Kor Ibaragi-Kog 35   
 5920          1600-1700       J   Shiokaze (Sea-breeze)    Eng Ibaragi-Kog 4    
 5920          1600-1700       J   Shiokaze (Sea-breeze)    Jpn Ibaragi-Kog 1    
 5920          1630-1700       J   Shiokaze (Sea-breeze)    Kor Ibaragi-Kog 267  
+5920          1730-1800       TWN New Korean Hope Radio    Kor Tamsui Dist 135  
+5920          0000-1400       USA WTWW                     Eng Lebanon TN  1-7  
 5925          1000-1705       CHN CNR 5                    Chi Beijing 491 1-7  
 5925          2055-2400       CHN CNR 5                    Chi Beijing 491 1-7  
 5925          0300-0600       VTN Voice of Vietnam 2       Vie Hanoi-Xuan  1-7  
@@ -1549,7 +1552,6 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 5975          0800-0900       CHN CNR 8                    Chi Beijing 491 5-3  
 5975          0900-1400       CHN CNR 8                    Kor Beijing 491 1-7  
 5975          1400-1505       CHN CNR 8                    Chi Beijing 491 1-7  
-5980          1200-1400       USA R.MARTI                  Spa Greenville  1-7  
 5980          2100-2200       DNK Radio OZ-Viola           Dan Hilleroed   4    
 5980          1600-2000       FIN Scandinav.Weekend R.     Fin Virrat      7    
 5985          1130-1158       CHN CHINA RADIO INTERNATIONA Fil Beijing 572 1-7  
@@ -1627,7 +1629,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 6030          0000-2400       CAN CFVP Calgary             Eng Calgary     1-7  
 6030          2025-1805       CHN CNR 1 (DRM) 3EA          Chi Beijing 572 1-7  
 6030          1100-1605       CHN CNR 2-China Business Rad Chi Nanning 954 1-7  
-6030          0100-1100       USA R.MARTI                  Spa Greenville  1-7  
+6030          0100-1200       USA R.MARTI                  Spa Greenville  1-7  
 6030          0255-2000       ETH Radio Oromiya            Afa Addis Ababa 1-7  
 6030          0130-0200       MMR Thazin Radio             Eng Naypyidaw   1-7  
 6030          2330-0130       MMR Thazin Radio             Bur Naypyidaw   1-7  
@@ -1726,6 +1728,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 6070          1200-1250       KRE Voice of Korea           Jpn Kanggye     1-7  
 6070          0800-0900       D   VORW Radio International Eng Rohrbach Wa 4    
 6070          1700-1800       D   VORW Radio International Eng Rohrbach Wa 3    
+6070          1705-1805       J   Shiokaze (Sea-breeze)    Jpn Ibaragi-Kog 1-7  
 6075          0000-0057       TKS CHINA RADIO INTERNATIONA Eng Kashi-Saiba 1-7  
 6075          1400-1700       CHN CNR 1 Jamming            Chi Qiqihar 202 1-7  
 6075          2200-2400       CHN CNR 1 Jamming            Chi Xianyang 59 1-7  
@@ -2152,8 +2155,8 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 7315          1600-1657       CHN CHINA RADIO INTERNATIONA Vie Kunming-Ann 1-7  
 7315          1100-1605       CHN CNR 2-China Business Rad Chi Xianyang 59 1-7  
 7315          2055-0100       CHN CNR 2-China Business Rad Chi Xianyang 59 1-7  
-7315          0430-0500       CVA JRC Radio Dabanga        Dar Santa Maria 1-7  
-7315          0400-0430       CVA JRC Radio Tamazui        Jub Santa Maria 1-7  
+7315          0330-0400       MDG JRC Radio Dabanga        Dar Talata-Volo 3456 
+7315          0400-0430       CVA JRC Radio Tamazui        Jub Santa Maria 3456 
 7320          0200-0215       UAE FEBA Radio Pakistan      Urd Al-Dhabbiya 1-7  
 7320          0215-0230       UAE FEBA Radio Pakistan      Bal Al-Dhabbiya 234  
 7320          0215-0230       UAE FEBA Radio Pakistan      Sin Al-Dhabbiya 567  
@@ -2198,7 +2201,9 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 7350          2300-2400       CHN CNR 11                   Tib Baoji-Sifan 1-7  
 7350          0930-0950       J   NHK WORLD RADIO JAPAN    Rus Ibaragi-Kog 1-7  
 7355          1950-2050       J   Shiokaze (Sea-breeze)    Jpn Ibaragi-Kog 1-7  
-7355          0300-1200       USA R.MARTI                  Spa Greenville  1-7  
+7355          2200-2400       USA R.MARTI                  Spa Greenville  1-7  
+7355          0000-1000       USA R.MARTI                  Spa Greenville  1-7  
+7355          1000-1400       USA R.MARTI                  Spa Greenville  1-7  
 7355          1323-1420       IRN VO ISLAMIC REP.IRAN      Kur Sirjan      1-7  
 7355          1200-1300       ALS World Christian Broadc.K Eng Anchor Poin 1-7  
 7360          1130-1227       CHN CHINA RADIO INTERNATIONA Tha Kunming-Ann 1-7  
@@ -2212,7 +2217,8 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 7365          1200-1805       CHN CNR 1 Voice of China     Chi Shijiazhuan 1-7  
 7365          0300-0530       D   HCJB Deutsch             Rus Weenermoor  1-7  
 7365          0530-0300       D   HCJB Deutsch             Ger Weenermoor  1-7  
-7365          0100-0300       USA R.MARTI                  Spa Greenville  1-7  
+7365          0100-0500       USA R.MARTI                  Spa Greenville  1-7  
+7365          1200-1400       USA R.MARTI                  Spa Greenville  1-7  
 7370          1100-1157       CHN CHINA RADIO INTERNATIONA Can Nanning 954 1-7  
 7370          1300-1605       CHN CNR 2-China Business Rad Chi Beijing 491 1-7  
 7370          2055-2300       CHN CNR 2-China Business Rad Chi Beijing 491 1-7  
@@ -2275,9 +2281,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 7435          1800-1857       CHN CHINA RADIO INTERNATIONA Ita Jinhua 831  1-7  
 7435          1900-1930       CHN CHINA RADIO INTERNATIONA Hun Xianyang 59 1-7  
 7435          1930-2000       CHN CHINA RADIO INTERNATIONA Rom Xianyang 59 1-7  
-7435          1200-1300       USA R.MARTI                  Spa Greenville  1-7  
-7435          1300-1500       USA R.MARTI                  Spa Greenville  1-7  
-7435          2300-1100       USA R.MARTI                  Spa Greenville  1-7  
+7435          0100-1000       USA R.MARTI                  Spa Greenville  1-7  
 7435          2145-1600       VTN Voice of Vietnam 1       Vie Hanoi-Sonta 1-7  
 7440          1200-1400       CHN CHINA RADIO INTERNATIONA Chi Nanning 954 1-7  
 7445          0030-0100       CVA BBC                      Dar Santa Maria 1-7  
@@ -2325,8 +2329,6 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 7490          0100-0200       USA WBCQ Voice of Revival    Eng Monticello  2    
 7490          2100-2130       USA WBCQ World of Radio      Eng Monticello  4    
 7490          1300-1600       USA WWCR NASHVILLE           Eng Nashville   1-7  
-7500          2200-2230       PHL VOICE OF AMERICA         Chi Tinang      23456
-7500          2200-2230       PHL VOICE OF AMERICA         Chi Tinang      17   
 7505          2200-1600       USA WRNO                     Eng New Orleans 1-7  
 7510          1900-1930       MDA Voice of Spring(Sedoye B Per Grigoriopol 56   
 7520          0000-0300       USA WWCR NASHVILLE           Eng Nashville   1-7  
@@ -2334,8 +2336,6 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 7530          1930-2000       UZB Voice of Martyrs         Kor Tashkent    1-7  
 7530          2100-2130       UZB Voice of Martyrs         Kor Tashkent    1-7  
 7553          0830-0945       CHN Numbers Station 2        Chi             1-7  
-7560          2200-2230       KWT VOICE OF AMERICA         Chi Kuwait      23456
-7560          2200-2230       KWT VOICE OF AMERICA         Chi Kuwait      17   
 7570          0000-0100       USA WRMI VORW Radio Internat Eng Okeechobee5 7    
 7570          0100-0130       USA WRMI RAE Argentina to th Spa Okeechobee5 12   
 7570          0100-0200       USA WRMI VORW Radio Internat Eng Okeechobee5 1    
@@ -2466,8 +2466,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 9276          0300-0400       TWN XingXing guangbo diantai Chi Kuanyin     1-7  
 9280          0000-2400       TWN * SOH Xi Wang Zhi Sheng  Chi Miaoli      1-7  
 9300          2130-1630       TWN * SOH Xi Wang Zhi Sheng  Chi Miaoli      1-7  
-9310          1530-1600       PHL VOICE OF AMERICA         Kor Tinang      23456
-9310          1530-1600       PHL VOICE OF AMERICA         Kor Tinang      17   
+9310          1530-1600       PHL VOICE OF AMERICA         Kor Tinang      1-7  
 9320          1900-2000       TJK Trans World Radio        Kor Dushanbe-Or 1-7  
 9320          1400-1500       TWN * SOH Xi Wang Zhi Sheng  Can Pingtung    1-7  
 9320          2357-1646       TWN * SOH Xi Wang Zhi Sheng  Chi Pingtung    1-7  
@@ -2484,10 +2483,10 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 9345          1300-1315       UZB BVBN Vision for Christ   Kor Tashkent    1    
 9345          1315-1330       UZB BVBN Voice of Truth      Eng Tashkent    2    
 9350          1900-2400       USA WWCR NASHVILLE           Eng Nashville   1-7  
-9355          1630-1645       KWT VOA Ashna Radio          Dar Kuwait      1-7  
-9355          1645-1700       KWT VOA Ashna Radio          Pas Kuwait      1-7  
 9360          1400-2400       PHL RADIO FARDA              Per Tinang      1-7  
 9360          0000-1400       KWT RADIO FARDA              Per Kuwait      1-7  
+9370          1630-1645       KWT VOA Ashna Radio          Dar Kuwait      1-7  
+9370          1645-1700       KWT VOA Ashna Radio          Pas Kuwait      1-7  
 9380          1744-1759       SWZ Trans World Radio        Tur Manzini     7    
 9390          1430-1500       TJK BBC                      Kor Dushanbe-Or 23456
 9390          1530-1600       TJK BBC                      Kor Dushanbe-Or 23456
@@ -2693,6 +2692,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 9525          1800-1900       OMA BBC                      Pas Al Seela    1-7  
 9525          1900-2057       CHN CHINA RADIO INTERNATIONA Rus Beijing 572 1-7  
 9525          1300-1400       TWN R.TAIWAN INT.            Tha Paochung    1-7  
+9525          2000-0400       BUL Iran International TV    Per Kostinbrod( 1-7  
 9530          2200-1500       TWN * SOH Xi Wang Zhi Sheng  Chi Miaoli      1-7  
 9535          0100-0157       TKS CHINA RADIO INTERNATIONA Eng Kashi-Saiba 1-7  
 9535          1330-1427       CHN CHINA RADIO INTERNATIONA Ind Kunming-Ann 1-7  
@@ -2736,7 +2736,6 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 9560          0900-1100       TKS PBS Xinjiang             Uyg Urumqi      124-7
 9560          1100-1200       TKS PBS Xinjiang             Uyg Urumqi      1-7  
 9560          0600-0630       TKS PBS Xinjiang (CNR13)     Uyg Urumqi      1-7  
-9565          2200-2400       USA R.MARTI                  Spa Greenville  1-7  
 9570          1100-1157       CHN CHINA RADIO INTERNATIONA Can Kunming-Ann 1-7  
 9570          1200-1230       CUB CHINA RADIO INTERNATIONA Can Quivican    1-7  
 9570          1500-1527       TKS CHINA RADIO INTERNATIONA Per Urumqi Hutu 1-7  
@@ -2818,6 +2817,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 9620          1600-1730       IND ALL INDIA RADIO          Per Bengaluru   1-7  
 9620          1730-1930       IND ALL INDIA RADIO          Ara Bengaluru   1-7  
 9620          1930-2030       IND ALL INDIA RADIO          Fre Bengaluru   1-7  
+9625          2200-2230       PHL VOICE OF AMERICA         Chi Tinang      1-7  
 9630          0000-0600       CHN CNR 1 Voice of China     Chi Golmud 916  1-7  
 9630          0600-0900       CHN CNR 1 Voice of China     Chi Golmud 916  124-7
 9630          0900-1100       CHN CNR 1 Voice of China     Chi Golmud 916  1-7  
@@ -2925,6 +2925,8 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 9690          2100-2200       INS VOICE OF INDONESIA       Fre Jakarta-Cim 1-7  
 9690          2200-2300       INS VOICE OF INDONESIA       Eng Jakarta-Cim 1-7  
 9690          2300-2400       INS VOICE OF INDONESIA       Jpn Jakarta-Cim 1-7  
+9690          2000-2015       F   PABC Tony Alamo Ministri     Issoudun    16   
+9690          2030-2100       F   PABC Tony Alamo Ministri     Issoudun    1    
 9695          0100-0157       TKS CHINA RADIO INTERNATIONA Urd Kashi-Saiba 1-7  
 9695          1730-1830       CHN CHINA RADIO INTERNATIONA Chi Kunming-Ann 1-7  
 9695          1100-1200       TWN R.TAIWAN INT.            Vie Paochung    1-7  
@@ -3081,6 +3083,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 9800          1400-1457       TKS CHINA RADIO INTERNATIONA Urd Kashi-Saiba 1-7  
 9800          1700-1800       TKS CHINA RADIO INTERNATIONA Can Urumqi Hutu 1-7  
 9800          1500-1600       ALS World Christian Broadc.K Rus Anchor Poin 1-7  
+9805          1000-1300       USA R.MARTI                  Spa Greenville  1-7  
 9810          1300-1805       CHN CNR 1 Voice of China     Chi Nanning 954 1-7  
 9810          2025-2300       CHN CNR 1 Voice of China     Chi Nanning 954 1-7  
 9810          0100-0600       CHN CNR 2-China Business Rad Chi Baoji-Sifan 1-7  
@@ -3089,7 +3092,6 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 9820          1000-1057       CHN CHINA RADIO INTERNATIONA Chi Beijing 572 1-7  
 9820          1100-1605       CHN CNR 2-China Business Rad Chi Xianyang 59 1-7  
 9820          2055-2400       CHN CNR 2-China Business Rad Chi Xianyang 59 1-7  
-9820          0000-0500       USA R.MARTI                  Spa Greenville  1-7  
 9820          0000-2400       B   RADIO 9 DE JULHO         Por Sao Paulo S 1-7  
 9820          0000-0102       CHN VO Beibu Bay Radio       Chi Nanning 954 1-7  
 9820          0945-1100       CHN VO Beibu Bay Radio       Chi Nanning 954 1-7  
@@ -3423,9 +3425,9 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 11560         1500-1530       UZB Trans World Radio        Kor Tashkent    23456
 11560         1530-1700       UZB Trans World Radio        Kor Tashkent    1-7  
 11570         2000-2100       UZB North Korea Reform Radio Kor Tashkent    1-7  
-11575         2200-2230       PHL VOICE OF AMERICA         Chi Tinang      1-7  
 11580         1500-1600       TWN * SOH Xi Wang Zhi Sheng  Can Miaoli      1-7  
 11580         2100-1500       TWN * SOH Xi Wang Zhi Sheng  Chi Miaoli      1-7  
+11590         2200-2230       KWT VOICE OF AMERICA         Chi Kuwait      1-7  
 11600         1545-1600       BUL BIBLE VOICE BCN Radio Da Ara Kostinbrod( 1-57 
 11600         1545-1615       BUL BIBLE VOICE BCN Radio Da Ara Kostinbrod( 6    
 11600         1300-1330       PHL FEBC Radio Liangyou      Hui Bocaue      1-7  
@@ -3480,9 +3482,9 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 11640         1830-1927       MLI CHINA RADIO INTERNATIONA Ara Bamako II   1-7  
 11640         1930-1957       MLI CHINA RADIO INTERNATIONA Por Bamako II   1-7  
 11640         2000-2127       MLI CHINA RADIO INTERNATIONA Eng Bamako II   1-7  
-11640         0430-0500       MDG JRC Radio Dabanga        Dar Talata-Volo 1-7  
+11640         0330-0400       MDG JRC Radio Dabanga        Dar Talata-Volo 1-7  
+11640         0430-0500       CVA JRC Radio Tamazui        Jub Santa Maria 1-7  
 11640         1700-1800       MDG JRC Radio Dabanga        Dar Talata-Volo 1-7  
-11640         0400-0430       CVA JRC Radio Tamazui        Jub Santa Maria 1-7  
 11645         1500-1557       KRE Voice of Korea           Ara Kujang      1-7  
 11645         1600-1657       KRE Voice of Korea           Eng Kujang      1-7  
 11645         1700-1757       KRE Voice of Korea           Ara Kujang      1-7  
@@ -3735,8 +3737,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 11860         0258-0400       TIB PBS Xizang               Chi Lhasa       1-7  
 11860         0500-0858       TIB PBS Xizang               Chi Lhasa       124-7
 11860         0400-0500       TIB PBS Xizang (CNR1)        Chi Lhasa       1-7  
-11860         0000-0100       USA R.MARTI                  Spa Greenville  1-7  
-11860         1400-2300       USA R.MARTI                  Spa Greenville  1-7  
+11860         1400-0100       USA R.MARTI                  Spa Greenville  1-7  
 11860         1600-1657       ROU R.ROMANIA INT.           Heb Tiganesti   1    
 11860         1600-1657       ROU R.ROMANIA INT.           Rom Tiganesti   2-7  
 11865         0900-1030       IND ALL INDIA RADIO          Nep Delhi (King 1-7  
@@ -3850,10 +3851,10 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 11925         0600-0700       CHN CHINA RADIO INTERNATIONA Eng Nanning 954 1-7  
 11925         1200-1805       CHN CNR 1 Voice of China     Chi Lingshi 725 1-7  
 11925         2025-2330       CHN CNR 1 Voice of China     Chi Lingshi 725 1-7  
-11925         0700-0730       ASC                          Hau Ascension   1-7  
+11930         1300-2000       USA R.MARTI                  Spa Greenville  1-7  
+11930         2000-2100       USA R.MARTI                  Spa Greenville  1-7  
+11930         2100-2400       USA R.MARTI                  Spa Greenville  1-7  
 11930         0000-0100       USA R.MARTI                  Spa Greenville  1-7  
-11930         1200-1300       USA R.MARTI                  Spa Greenville  1-7  
-11930         1300-2400       USA R.MARTI                  Spa Greenville  1-7  
 11935         1000-1300       CHN CHINA RADIO INTERNATIONA Rus Shijiazhuan 1-7  
 11935         0600-0900       CHN CNR 5                    Chi Beijing 491 5-3  
 11935         2300-0600       CHN CNR 5                    Chi Beijing 491 1-7  
@@ -4054,7 +4055,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 13530         2110-1550       TWN * SOH Xi Wang Zhi Sheng  Chi Miaoli      1-7  
 13550         2100-1600       TWN * SOH Xi Wang Zhi Sheng  Chi Miaoli      1-7  
 13570         0000-1200       KOR HLL Seoul Meteorological Kor Boseong     1-7  
-13570         1300-2300       USA R.MARTI                  Spa Greenville  1-7  
+13570         1400-0100       USA R.MARTI                  Spa Greenville  1-7  
 13575         1200-1300       TKS CHINA RADIO INTERNATIONA Rus Urumqi Hutu 1-7  
 13580         0000-0200       CHN CHINA RADIO INTERNATIONA Chi Beijing 572 1-7  
 13580         1000-1100       CHN CHINA RADIO INTERNATIONA Eng Kunming-Ann 1-7  
@@ -4169,6 +4170,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 13720         0300-0357       TKS CHINA RADIO INTERNATIONA Hin Kashi-Saiba 1-7  
 13720         1000-1157       CHN CHINA RADIO INTERNATIONA Eng Xianyang 59 1-7  
 13720         2000-2030       F   R.FRANCE INT.            Hau Issoudun    1-7  
+13720         1400-0100       USA R.MARTI                  Spa Greenville  1-7  
 13725         1630-1725       TUR VOICE OF TURKEY          Spa Emirler     1-7  
 13730         0500-0515       D   BIBLE VOICE BCN          Ara Nauen       6    
 13730         0758-0857       CHN CHINA R.INT. (DRM) 3F2 x Chi Kunming-Ann 1-7  
@@ -4236,7 +4238,6 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 13810         1158-1400       TKS CHINA RADIO INTERNATIONA Chi Kashi-Saiba 1-7  
 13810         1800-1957       TKS CHINA RADIO INTERNATIONA Ger Kashi-Saiba 1-7  
 13810         0400-1100       CHN CNR 1 (DRM) xHE AAC 3EB  Chi Kunming-Ann 1-7  
-13820         1500-2200       USA R.MARTI                  Spa Greenville  1-7  
 13820         0700-0730       USA WINB DRM                 Eng Red Lion    7    
 13825         2200-2400       OMA BBC                      Eng Al Seela    1-7  
 13825         0053-0900       CHN CNR 1 (DRM) 1 xHE AAC    Chi Beijing 572 1-7  
@@ -4508,7 +4509,6 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 15380         0600-0900       CHN CNR 1 Voice of China     Chi Beijing 572 124-7
 15380         0900-1100       CHN CNR 1 Voice of China     Chi Beijing 572 1-7  
 15380         2300-0600       CHN CNR 1 Voice of China     Chi Beijing 572 1-7  
-15380         1600-2200       USA R.MARTI                  Spa Greenville  1-7  
 15380         1130-1430       IRN VO ISLAMIC REP.IRAN      Ara Sirjan      1-7  
 15390         0600-0900       CHN CNR 13                   Uyg Lingshi 725 124-7
 15390         0900-1000       CHN CNR 13                   Chi Lingshi 725 1-7  
@@ -4661,8 +4661,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 15550         0000-0600       CHN CNR 7 Radio The Great Ba Can Huhhot 694  1-7  
 15550         0600-0900       CHN CNR 7 Radio The Great Ba Can Huhhot 694  124-7
 15550         0900-1100       CHN CNR 7 Radio The Great Ba Can Huhhot 694  124-7
-15550         1600-1700       MDG JRC Radio Dabanga        Dar Talata-Volo 1-7  
-15550         1700-1800       MDG JRC Radio Dabanga        Dar Talata-Volo 1-7  
+15550         1700-1800       CVA JRC Radio Dabanga        Dar Santa Maria 1-7  
 15550         1330-1400       GUM KSDA-Adventist World R.G Ass Agat        14   
 15555         1200-1257       CHN CHINA RADIO INTERNATIONA Eng Xianyang 59 1-7  
 15555         1400-2200       USA WJHR Radio International Eng Milton FL   1-7  
@@ -5007,7 +5006,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 17665         0500-0600       TKS CNR 8                    Chi Urumqi Hutu 1-7  
 17665         2055-2100       TKS CNR 8                    Chi Urumqi Hutu 1-7  
 17665         2100-0100       TKS CNR 8                    Mon Urumqi Hutu 1-7  
-17670         1730-1900       G   IBRA MEDIA/Radio Sama    Ara Woofferton  1-7  
+17670         1730-1900       G   IBRA MEDIA-Radio Sama    Ara Woofferton  1-7  
 17670         1300-1400       D   Music 4 Joy DRM          Mus Nauen       35   
 17670         1230-1245       UZB BIBLE VOICE BCN          Ind Tashkent    1    
 17670         0700-0900       TKS CHINA RADIO INTERNATIONA Eng Kashi-Saiba 1-7  
@@ -5078,7 +5077,6 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 17750         0529-0600       CVA BBC                      Kin Santa Maria 1    
 17750         0700-0757       CHN CHINA RADIO INTERNATIONA Cha Xianyang 59 1-7  
 17750         0900-1100       TKS CHINA RADIO INTERNATIONA Eng Kashi-Saiba 1-7  
-17760         0400-0427       ROU R.ROMANIA INT.           Chi Tiganesti   1-7  
 17760         0530-0557       ROU R.ROMANIA INT.           Eng Galbeni-Bac 1-7  
 17760         0800-0857       ROU R.ROMANIA INT.           Rom Galbeni-Bac 1    
 17760         1230-1257       ROU R.ROMANIA INT. DRM E1001 Chi SNR Tiganes 1-7  
@@ -5135,7 +5133,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 17810         0155-0500       J   NHK WORLD RADIO JAPAN    Jpn Ibaragi-Kog 1-7  
 17810         1530-1630       F   VORW Radio International Eng Issoudun    2    
 17810         1230-1250       CVA VATICAN RADIO            Rus Santa Maria 1-7  
-17815         1630-1700       F   PABC                     Amh Issoudun    1    
+17815         1630-1700       F   PABC Tony Alamo Ministri Amh Issoudun    1    
 17815         0559-0700       OMA BBC DRM 11               Eng Al Seela    1-7  
 17815         1200-1300       F   R.FRANCE INT.            Fre Issoudun    1-7  
 17825         1200-1300       OMA BBC                      Eng Al Seela    1-7  
@@ -5155,7 +5153,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 17850         1800-1900       F   R.FRANCE INT.            Fre Issoudun    1-7  
 17850         1900-2000       F   R.FRANCE INT.            Fre Issoudun    1-7  
 17850         1000-1100       F   R.FRANCE INT. DRM 1000   Fre Issoudun    1-7  
-17855         0400-0557       CHN CHINA RADIO INTERNATIONA Eng Beijing 572 1-7  
+17855         0357-0557       CHN CHINA RADIO INTERNATIONA Eng Beijing 572 1-7  
 17860         1100-1157       ROU R.ROMANIA INT.           Eng Galbeni-Bac 1-7  
 17865         0600-0800       TKS CHINA RADIO INTERNATIONA Fre Kashi-Saiba 1-7  
 17865         0830-1030       UAE IBRA MEDIA/R.Sadaye Zind Dar Al-Dhabbiya 1-7  
@@ -5168,7 +5166,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 17890         0600-0900       CHN CNR 1 Voice of China     Chi Beijing 572 124-7
 17890         0900-1000       CHN CNR 1 Voice of China     Chi Beijing 572 1-7  
 17895         0800-0900       J   NHK WORLD RADIO JAPAN    Jpn Ibaragi-Kog 1-7  
-17900         0400-1630       BUL Iran International TV    Per Kostinbrod( 1-7  
+17900         1000-1500       BUL Iran International TV    Per Kostinbrod( 1-7  
 18040         2230-2400       TWN Carriers only            Car Kuanyin     1-7  
 18040         0000-0100       TWN XingXing guangbo diantai Chi Kuanyin     1-7  
 18040         0100-0200       TWN XingXing guangbo diantai Chi Kuanyin     1-7  
