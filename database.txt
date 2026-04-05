@@ -1,4 +1,4 @@
-A26 Shortwave Frequency List  April 4  2026,  1500 UTC   Day 1 = Sunday
+A26 Shortwave Frequency List  April 6  2026,  1500 UTC   Day 1 = Sunday
 kHz           Time(UTC)       ITU Station                Lang. Location    Days
 +-------------+---------+-----+---+------------------------+---+-----------+----
 
