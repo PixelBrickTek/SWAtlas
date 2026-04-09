@@ -19,7 +19,12 @@
             <img src="ico.png" alt="SWAtlas logo" class="top-brand-logo">
             <span>SWAtlas</span>
           </a>
-        <div class="top-anchor-nav">
+        <button class="top-anchor-menu-button" type="button" aria-label="Open menu" aria-expanded="false" aria-controls="top-anchor-nav">
+          <span></span>
+          <span></span>
+          <span></span>
+        </button>
+        <div class="top-anchor-nav" id="top-anchor-nav">
           <a href="#database" class="top-anchor-link">Database</a>
           <a href="#experience" class="top-anchor-link">ScreenShot</a>
           <a href="#features" class="top-anchor-link top-anchor-link-primary">Features</a>
@@ -194,5 +199,27 @@
       </div>
     </footer>
   </div>
+
+  <script>
+    const topAnchorMenuButton = document.querySelector('.top-anchor-menu-button');
+    const topAnchorNav = document.querySelector('.top-anchor-nav');
+
+    if (topAnchorMenuButton && topAnchorNav) {
+      topAnchorMenuButton.addEventListener('click', () => {
+        const isOpen = topAnchorNav.classList.toggle('is-open');
+        topAnchorMenuButton.classList.toggle('is-open', isOpen);
+        topAnchorMenuButton.setAttribute('aria-expanded', String(isOpen));
+      });
+
+      topAnchorNav.querySelectorAll('.top-anchor-link').forEach((link) => {
+        link.addEventListener('click', () => {
+          topAnchorNav.classList.remove('is-open');
+          topAnchorMenuButton.classList.remove('is-open');
+          topAnchorMenuButton.setAttribute('aria-expanded', 'false');
+        });
+      });
+    }
+  </script>
+
 </body>
 </html>
