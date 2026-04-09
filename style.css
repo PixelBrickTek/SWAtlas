@@ -117,7 +117,7 @@ img {
   padding: 10px 14px;
   border: 1px solid rgba(255,255,255,0.12);
   border-radius: 20px;
-  background: rgba(14, 28, 22, 0.68);
+  background: #ffffff;
   backdrop-filter: blur(22px) saturate(140%);
   -webkit-backdrop-filter: blur(22px) saturate(140%);
   box-shadow: 0 18px 40px rgba(0, 0, 0, 0.24);
@@ -131,7 +131,7 @@ img {
   font-size: 1rem;
   font-weight: 800;
   letter-spacing: -0.03em;
-  color: #f6fff9;
+  color: #0f3b2c;
 }
 
 .top-anchor-nav {
@@ -147,8 +147,8 @@ img {
   padding: 10px 14px;
   border-radius: 12px;
   border: 1px solid rgba(255,255,255,0.08);
-  background: linear-gradient(180deg, rgba(255,255,255,0.08), rgba(255,255,255,0.03));
-  color: rgba(240, 255, 246, 0.92);
+  background: linear-gradient(180deg, rgba(15, 59, 44, 0.08), rgba(15, 59, 44, 0.04));
+  color: #0f3b2c;
   text-align: center;
   font-weight: 700;
   font-size: 0.92rem;
@@ -680,4 +680,16 @@ img {
     border-radius: 28px;
     padding: 28px 22px 24px;
   }
+}
+
+
+.top-brand {
+  gap: 0.5rem;
+}
+
+.top-brand-logo {
+  width: 1em;
+  height: 1em;
+  object-fit: contain;
+  flex-shrink: 0;
 }
