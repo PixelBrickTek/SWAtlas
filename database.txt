@@ -1,4 +1,4 @@
-A26 Shortwave Frequency List  April 18  2026,  0300 UTC   Day 1 = Sunday
+A26 Shortwave Frequency List  April 22  2026,  0200 UTC   Day 1 = Sunday
 kHz           Time(UTC)       ITU Station                Lang. Location    Days 
 +-------------+---------+-----+---+------------------------+---+-----------+----
 
@@ -2466,6 +2466,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 9280          0000-2400       TWN * SOH Xi Wang Zhi Sheng  Chi Miaoli      1-7  
 9300          2130-1630       TWN * SOH Xi Wang Zhi Sheng  Chi Miaoli      1-7  
 9310          1530-1600       PHL VOICE OF AMERICA         Kor Tinang      23456
+9310          1600-1830       PHL VOICE OF AMERICA         Kor Tinang      23456
 9320          1900-2000       TJK Trans World Radio        Kor Dushanbe-Or 1-7  
 9320          1400-1500       TWN * SOH Xi Wang Zhi Sheng  Can Pingtung    1-7  
 9320          2357-1646       TWN * SOH Xi Wang Zhi Sheng  Chi Pingtung    1-7  
@@ -2594,7 +2595,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 9455          1330-1357       TWN Furusato no kaze         Jpn Paochung    1-7  
 9455          1300-1328       TWN Nippon no Kaze"il bon ue Kor Paochung    1-7  
 9455          1500-1600       CHN CHINA RADIO INTERNATIONA Chi Kunming-Ann 1-7  
-9455          2230-2245       PHL RADIO FREE ASIA          Chi Tinang      1-7  
+9455          2230-2245       PHL RADIO FREE ASIA          Chi Tinang      23456
 9455          0000-0100       USA WRMI RAE Argentina to th Jpn Okeechobee1 34567
 9455          0100-0200       USA WRMI R.Prague            Eng Okeechobee1 1-7  
 9455          0100-0200       USA WRMI RAE Argentina to th Spa Okeechobee1 34567
@@ -2785,6 +2786,9 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 9590          0530-0630       MMR Thazin Radio             Kac Naypyidaw   1-7  
 9590          0630-0730       MMR Thazin Radio             Wa  Naypyidaw   1-7  
 9590          0730-0830       MMR Thazin Radio             Pao Naypyidaw   1-7  
+9590          0000-0200       UZB BBC                      Eng Tashkent    1234 
+9590          0000-0100       UZB BBC                      Eng Tashkent    567  
+9590          0100-0200       UZB BBC                      Eng Tashkent    167  
 9595          0900-1100       TWN * R.TAIWAN INT.          Chi Paochung    1-7  
 9600          1200-1300       CHN CHINA RADIO INTERNATIONA Eng Kunming-Ann 1-7  
 9600          1300-1357       CHN CHINA RADIO INTERNATIONA Ben Baoji-Xinji 1-7  
@@ -3018,7 +3022,6 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 9740          0357-0457       ROU R.ROMANIA INT.           Rom Galbeni-Bac 1-7  
 9745          1930-2027       TKS CHINA RADIO INTERNATIONA Esp Urumqi Hutu 1-7  
 9745          2055-0100       TKS CNR 7 Radio The Great Ba Can Kashi-Saiba 1-7  
-9750          0000-0200       UZB BBC                      Eng Tashkent    1-7  
 9750          1730-1800       UAE IBRA MEDIA/Radio Ibrahim xst Al-Dhabbiya 1-7  
 9750          0800-0830       J   NHK WORLD RADIO JAPAN    Kor Ibaragi-Kog 1-7  
 9750          0955-1350       J   NHK WORLD RADIO JAPAN    Jpn Ibaragi-Kog 1-7  
@@ -3204,12 +3207,13 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 9890          1700-1757       KRE Voice of Korea           Ara Kujang      1-7  
 9895          0230-0300       UAE IBRA MEDIA/R.Sadaye Zind Dar Al-Dhabbiya 1-7  
 9895          2000-2100       GUM KSDA-Adventist World R.G Kor Agat        1-7  
-9900          2200-2400       CHN CNR 1 Jamming            Chi Dongfang Ha 1-7  
-9900          1500-1600       GUM Living Water Ministry    Kor Merizo      1-7  
 9900          0045-0200       EGY R.CAIRO                  Spa Abis        1-7  
+9900          1330-1345       PHL RADIO FREE ASIA          Kor Tinang      35   
+9900          1330-1345       PHL RADIO FREE ASIA          Kor Tinang      246  
+9900          1500-1600       GUM Living Water Ministry    Kor Merizo      1-7  
 9900          1700-1900       EGY R.CAIRO                  Tur Abis        1-7  
+9900          2200-2400       CHN CNR 1 Jamming            Chi Dongfang Ha 1-7  
 9900          2200-2400       TWN * R.TAIWAN INT.          Chi Tamsui Dist 1-7  
-9900          1330-1345       PHL RADIO FREE ASIA          Kor Tinang      1-7  
 9915          0600-0700       ASC BBC                      Eng Ascension   1-7  
 9920          2105-1700       TWN * SOH Xi Wang Zhi Sheng  Chi Miaoli      1-7  
 9920          1730-2030       PHL R.PILIPINAS              Fil Tinang      1-7  
@@ -3290,7 +3294,6 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 9955          0300-0330       USA WRMI R.Prague            Eng Okeechobee3 1-7  
 9955          0330-0400       USA WRMI R.Prague            Fre Okeechobee3 1-7  
 9955          0330-0400       USA WRMI R.Slovakia Int.     Spa Okeechobee3 1-7  
-9955          0400-1100       USA WRMI Classic Redneck Rad Eng Okeechobee3 1-7  
 9955          1000-1030       USA WRMI Frecuencia al Dia   Spa Okeechobee3 7    
 9955          1000-1030       USA WRMI Yeshua Prayer       Eng Okeechobee3 1    
 9955          1000-1100       USA WRMI Classic Redneck Rad Eng Okeechobee3 356  
@@ -3309,19 +3312,23 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 9955          1300-1330       USA WRMI Antena DX           Spa Okeechobee3 4    
 9955          1300-1330       USA WRMI Frecuencia al Dia   Spa Okeechobee3 5    
 9955          1300-1330       USA WRMI Living the Bible    Eng Okeechobee3 1    
-9955          1300-1330       USA WRMI Wave Scan           Eng Okeechobee3 7    
+9955          1300-1330       USA WRMI Wave Scan           Eng Okeechobee3 67   
 9955          1300-1330       USA WRMI Words of Life       Eng Okeechobee3 6    
 9955          1300-1330       USA WRMI World of Radio      Eng Okeechobee3 3    
-9955          1330-1345       USA WRMI CQ Calling          Eng Okeechobee3 4    
+9955          1300-1330       USA WRMI Antena DX           Eng Okeechobee3 4    
 9955          1330-1345       USA WRMI Frank and Ernest    Eng Okeechobee3 6    
 9955          1330-1345       USA WRMI Viva Miami          Spa Okeechobee3 35   
 9955          1330-1400       USA WRMI Living the Bible    Eng Okeechobee3 7    
 9955          1330-1400       USA WRMI Wave Scan           Eng Okeechobee3 1    
 9955          1345-1400       USA WRMI Midnight Cry Minist Spa Okeechobee3 23456
-9955          1400-1415       USA WRMI Wave Scan           Eng Okeechobee3 2    
-9955          1400-1430       USA WRMI Full Gospel Hour    Ful Okeechobee3 127  
-9955          1400-1430       USA WRMI World of Radio      Eng Okeechobee3 4    
-9955          1500-1600       USA WRMI Classic Redneck Rad Eng Okeechobee3 17   
+9955          1400-1430       USA WRMI Wave Scan           Eng Okeechobee3 25   
+9955          1400-1430       USA WRMI Full Gospel Hour    Eng Okeechobee3 167  
+9955          1400-1430       USA WRMI Frecuencia al Dia   Spa Okeechobee3 4    
+9955          1400-1430       USA WRMI World of Radio      Eng Okeechobee3 3    
+9955          1400-1430       USA WRMI SW Radiogram        Eng Okeechobee3 1    
+9955          1400-1430       USA WRMI School of the Spiri Eng Okeechobee3 23456
+9955          1430-1500       USA WRMI Wave Scan           Eng Okeechobee3 7    
+9955          1500-1600       USA WRMI World Radio Network Eng Okeechobee3 23456
 9955          2100-2115       USA WRMI Frank and Ernest    Eng Okeechobee3 35   
 9955          2100-2130       USA WRMI Your Story Hour Dec Eng Okeechobee3 7    
 9955          2100-2200       USA WRMI Apostalic Asembly   Eng Okeechobee3 1    
