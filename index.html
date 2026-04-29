@@ -12,6 +12,7 @@
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
+  <div class="scroll-progress" aria-hidden="true"></div>
   <div class="page-shell">
     <div class="top-anchor-bar">
       <div class="top-anchor-inner">
@@ -37,7 +38,7 @@
     <div class="ambient ambient-3"></div>
 
     <header class="hero">
-      <div class="hero-grid">
+      <div class="hero-grid reveal-scope">
         <div class="hero-copy">
           <div class="eyebrow">Premium Shortwave Discovery - SW Atlas</div>
           <h1>Explore shortwave with a cleaner, more modern interface.</h1>
@@ -72,7 +73,7 @@
 
     <main>
       <section class="section database-section" id="database">
-        <div class="database-shell glass-card">
+        <div class="database-shell glass-card reveal-scope">
           <div class="section-heading database-heading">
             <span class="section-tag">Database Foundation</span>
             <h2>Built on Aoki + Eibi shortwave data, along with additional listening databases, for fast local discovery.</h2>
@@ -115,7 +116,7 @@
           <h2>ScreenShot</h2>
         </div>
 
-        <div class="intro-gallery-shell glass-card">
+        <div class="intro-gallery-shell glass-card reveal-scope">
           <div class="intro-gallery">
             <article class="intro-shot-card"><img src="f1.jpg" alt="SWAtlas screenshot 1" class="intro-shot"></article>
             <article class="intro-shot-card"><img src="f2.jpg" alt="SWAtlas screenshot 2" class="intro-shot"></article>
@@ -135,7 +136,7 @@
           <h2>Everything SW-listeners need</h2>
         </div>
 
-        <div class="feature-grid">
+        <div class="feature-grid reveal-scope">
           <article class="feature-card">
             <div class="card-number">01</div>
             <h3>Fast Frequency Search</h3>
@@ -220,6 +221,28 @@
         });
       });
     }
+
+    const revealItems = document.querySelectorAll('.hero-copy, .hero-visual, .stat-card, .database-card, .intro-shot-card, .feature-card, .section-heading');
+    const revealObserver = new IntersectionObserver((entries) => {
+      entries.forEach((entry) => {
+        if (entry.isIntersecting) {
+          entry.target.classList.add('is-visible');
+          revealObserver.unobserve(entry.target);
+        }
+      });
+    }, { threshold: 0.16, rootMargin: '0px 0px -8% 0px' });
+
+    revealItems.forEach((item) => revealObserver.observe(item));
+
+    const updateScrollProgress = () => {
+      const height = document.documentElement.scrollHeight - window.innerHeight;
+      const progress = height > 0 ? window.scrollY / height : 0;
+      document.documentElement.style.setProperty('--scroll-progress', progress);
+    };
+
+    updateScrollProgress();
+    window.addEventListener('scroll', updateScrollProgress, { passive: true });
+    window.addEventListener('resize', updateScrollProgress);
   </script>
 
 </body>
