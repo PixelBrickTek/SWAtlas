@@ -1,4 +1,4 @@
-A26 Shortwave Frequecy List  May 3  2026,  0900 UTC   Day 1 = Sunday
+A26 Shortwave Frequecy List  May 6  2026,  0300 UTC   Day 1 = Sunday
 kHz           Time(UTC)       ITU Station                Lang. Location    Days 
 +-------------+---------+-----+---+------------------------+---+-----------+----
 
@@ -244,7 +244,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 801           0000-2400       HOL Radio 7000               Dut Beilen      1-7  
 801           0000-2400       BHR x Radio Bahrain          Eng Abu Hayan   1-7  
 801           0000-2400       HOL Radio Jong Europa        Eng Kloosterzan 1-7  
-801           0000-2400       J   Radio Fukushima (RFC)    Jpn Fukushima-H 1-7  
+801           0000-2400       J   x Radio Fukushima (RFC)  Jpn Fukushima-H 1-7  
 801           0000-2400       J   Tohoku Hoso (TBC)        Jpn Miyagi-Kese 1-7  
 801           0000-2400       J   x Tokai Radio Hoso       Jpn Gifu-Ena    1-7  
 810           0000-2400       J   AFN Tokyo                Eng Tokyo       1-7  
@@ -495,8 +495,8 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 1053          0000-2400       G   TalkSPORT                Eng Droitwich   1-7  
 1053          0000-2400       AUS Vision Christian Radio   Eng Brisbane/Ti 1-7  
 1062          0000-2400       CZE Country Radio            Cze Praha/Zbras 1-7  
-1062          0000-2400       J   Aomori Hoso (RAB)        Jpn Aomori-Nohe 1-7  
-1062          0000-2400       J   Chubu Nippon Hoso (CBC)  Jpn Gifu-Gero   1-7  
+1062          0000-2400       J   x Aomori Hoso (RAB)      Jpn Aomori-Nohe 1-7  
+1062          0000-2400       J   x Chubu Nippon Hoso (CBC Jpn Gifu-Gero   1-7  
 1062          0000-2400       J   Chubu Nippon Hoso (CBC)  Jpn Gifu-Kamiok 1-7  
 1062          0000-2400       J   IBC Iwate Hoso           Jpn Kamaishi    1-7  
 1062          0000-2400       J   x IBC Iwate Hoso         Jpn Iwate-Tanoh 1-7  
@@ -506,9 +506,9 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 1062          0000-2400       J   Niigata Hoso (BSN)       Jpn Tokamachi   1-7  
 1062          0000-2400       J   RKB Radio                Jpn Fukuoka-Omu 1-7  
 1062          0000-2400       J   x RKB Radio              Jpn Fukuoka-Yuk 1-7  
-1062          0000-2400       J   Shinetsu Hoso (SBC)      Jpn Nagano-Ueda 1-7  
+1062          0000-2400       J   x Shinetsu Hoso (SBC)    Jpn Nagano-Ueda 1-7  
 1062          0000-2400       J   STV Radio                Jpn Hokkaido-Ne 1-7  
-1062          0000-2400       J   Tochigi Hoso (CRT)       Jpn Tochigi-Ash 1-7  
+1062          0000-2400       J   x Tochigi Hoso (CRT)     Jpn Tochigi-Ash 1-7  
 1062          0000-2400       J   x Tokai Radio Hoso       Jpn Mie-Owase   1-7  
 1070          0000-2400       USA KNX                      Eng Los Angeles 1-7  
 1071          0100-0130       IND ALL INDIA RADIO          Sin Rajkot      1-7  
@@ -548,8 +548,8 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 1098          1200-1300       TWN R.TAIWAN INT.            Amo Kouhu       1-7  
 1098          1300-1700       TWN R.TAIWAN INT.            Chi Kouhu       1-7  
 1107          0000-2400       J   Hokuriku Hoso (MRO)      Jpn Ishikawa-Ka 1-7  
-1107          0000-2400       J   Hokuriku Hoso (MRO)      Jpn Ishikawa-Na 1-7  
-1107          0000-2400       J   Hokuriku Hoso (MRO)      Jpn Ishikawa-Wa 1-7  
+1107          0000-2400       J   x Hokuriku Hoso (MRO)    Jpn Ishikawa-Na 1-7  
+1107          0000-2400       J   x Hokuriku Hoso (MRO)    Jpn Ishikawa-Wa 1-7  
 1107          0000-2400       J   x Minami Nihon Hoso (MBC Jpn Akune       1-7  
 1107          0000-2400       J   Minami Nihon Hoso (MBC)  Jpn Kagoshima   1-7  
 1107          0000-2400       J   x Minami Nihon Hoso (MBC Jpn Satsumasend 1-7  
@@ -559,12 +559,12 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 1116          0000-2400       AUS 4BC News Talk 1116       Eng Brisbane/Nu 1-7  
 1116          0000-2400       J   x Nankai Hoso (RNB)      Jpn Uwajima     1-7  
 1116          0000-2400       J   x Nankai Hoso (RNB)      Jpn Mishomidoro 1-7  
-1116          0000-2400       J   Nankai Hoso (RNB)        Jpn Matsuyama   1-7  
+1116          0000-2400       J   x Nankai Hoso (RNB)      Jpn Matsuyama   1-7  
 1116          0000-2400       J   x Nankai Hoso (RNB)      Jpn Niihama     1-7  
 1116          0000-2400       J   x Nankai Hoso (RNB)      Jpn Ozu         1-7  
 1116          0000-2400       J   x Nankai Hoso (RNB)      Jpn Yawatahama  1-7  
-1116          0000-2400       J   NBC Radio Saga           Jpn Saga-Imari  1-7  
-1116          0000-2400       J   Niigata Hoso (BSN)       Jpn Niigata     1-7  
+1116          0000-2400       J   x NBC Radio Saga         Jpn Saga-Imari  1-7  
+1116          0000-2400       J   x Niigata Hoso (BSN)     Jpn Niigata     1-7  
 1134          0000-2400       J   Bunka Hoso(NCB)          Jpn Tokyo       1-7  
 1134          2055-1805       KOR KBS 3 Radio HLKC         Kor Hwaseong    1-7  
 1134          0000-2400       KWT R.KUWAIT                 Ara Sulaibiyah  1-7  
@@ -647,13 +647,13 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 1197          0000-2400       J   Gifu Radio (GBS)         Jpn Hagiwara    1-7  
 1197          0000-2400       J   x Ibaragi Hoso (IBS)     Jpn Mito        1-7  
 1197          0000-2400       J   Kouchi Hoso (RKC)        Jpn Nakamura    1-7  
-1197          0000-2400       J   Kumamoto Hoso (RKK)      Jpn Aso         1-7  
+1197          0000-2400       J   x Kumamoto Hoso (RKK)    Jpn Aso         1-7  
 1197          0000-2400       J   Kumamoto Hoso (RKK)      Jpn Kawaura     1-7  
 1197          0000-2400       J   Kumamoto Hoso (RKK)      Jpn Kumamoto-Go 1-7  
 1197          0000-2400       J   Kumamoto Hoso (RKK)      Jpn Goshonoura  1-7  
 1197          0000-2400       J   x Kumamoto Hoso (RKK)    Jpn Arao        1-7  
 1197          0000-2400       J   Kumamoto Hoso (RKK)      Jpn Oguni       1-7  
-1197          0000-2400       J   Kumamoto Hoso (RKK)      Jpn Hitoyoshi   1-7  
+1197          0000-2400       J   x Kumamoto Hoso (RKK)    Jpn Hitoyoshi   1-7  
 1197          0000-2400       J   Kumamoto Hoso (RKK)      Jpn Soyo Minami 1-7  
 1197          0000-2400       J   Kumamoto Hoso (RKK)      Jpn Soyo Kita   1-7  
 1197          0000-2400       J   Kumamoto Hoso (RKK)      Jpn Minamiaso   1-7  
@@ -666,7 +666,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 1197          0000-2400       J   STV Radio                Jpn Rumoi       1-7  
 1206          0000-2400       CHN PBS Yanbian              Kor Jilin-Yanji 1-7  
 1215          0000-2400       G   Absolute Radio           Eng Moorside Ed 1-7  
-1215          0000-2400       J   Aomori Hoso (RAB)        Jpn Aomori-Hiro 1-7  
+1215          0000-2400       J   x Aomori Hoso (RAB)      Jpn Aomori-Hiro 1-7  
 1215          0000-2400       J   x KBS Kyoto (KBS)        Jpn Shiga-Hikon 1-7  
 1215          0000-2400       J   KBS Kyoto (KBS)          Jpn Kyoto-Maizu 1-7  
 1215          0000-2400       J   Tohoku Hoso (TBC)        Jpn Miyagi-Shiz 1-7  
@@ -680,7 +680,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 1233          0230-1920       CYP Monte Carlo Doualiya     Ara Cape Greco  1-7  
 1233          0000-2400       J   Nagasaki Hoso (NBC)      Jpn Nagasaki    1-7  
 1233          0000-2400       J   Nagasaki Hoso (NBC)      Jpn Nagasaki-Sh 1-7  
-1233          0000-2400       J   Nagasaki Hoso (NBC)      Jpn Nagasaki-Is 1-7  
+1233          0000-2400       J   x Nagasaki Hoso (NBC)    Jpn Nagasaki-Is 1-7  
 1233          0000-2400       J   NHK 1 Osaka              Jpn Hyogo-SinOn 1-7  
 1233          0000-2400       CZE Radio Dechovka           Cze Praha/Zbras 1-7  
 1233          0000-2400       J   Wakayama Hoso (WBS)      Jpn Wakayama-Ta 1-7  
@@ -850,13 +850,13 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 1404          0000-2400       GRC ERA Net                  Gre Komotini    1-7  
 1404          0000-2400       J   Hokkaido Hoso (HBC)      Jpn Hokkaido-Ku 1-7  
 1404          0000-2400       ROU Radio Romania Sighetul M Rom Jucu        1-7  
-1404          0000-2400       J   Shizuoka Hoso (SBS)      Jpn Gotemba     1-7  
+1404          0000-2400       J   x Shizuoka Hoso (SBS)    Jpn Gotemba     1-7  
 1404          0000-2400       J   Shizuoka Hoso (SBS)      Jpn Hamamatsu   1-7  
 1404          0000-2400       J   Shizuoka Hoso (SBS)      Jpn Hamamatsu-T 1-7  
 1404          0000-2400       J   Shizuoka Hoso (SBS)      Jpn Hamamatsu-H 1-7  
 1404          0000-2400       J   Shizuoka Hoso (SBS)      Jpn Kakegawa    1-7  
 1404          0000-2400       J   Shizuoka Hoso (SBS)      Jpn Hamamatsu-M 1-7  
-1404          0000-2400       J   Shizuoka Hoso (SBS)      Jpn Mishima     1-7  
+1404          0000-2400       J   x Shizuoka Hoso (SBS)    Jpn Mishima     1-7  
 1404          0000-2400       J   Shizuoka Hoso (SBS)      Jpn Hamamatsu-S 1-7  
 1404          0000-2400       J   Shizuoka Hoso (SBS)      Jpn Shizuoka    1-7  
 1404          0000-2400       J   Shizuoka Hoso (SBS)      Jpn Hamamatsu-T 1-7  
@@ -908,9 +908,9 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 1449          0000-2400       J   Hokkaido Hoso (HBC)      Jpn Hokkaido-Ab 1-7  
 1449          0000-2400       J   Minami Nihon Hoso (MBC)  Jpn Kagoshima-N 1-7  
 1449          0000-2400       J   Nishi Nihon Hoso (RNC)   Jpn Kagawa-Kano 1-7  
-1449          0000-2400       J   Nishi Nihon Hoso (RNC)   Jpn Kagawa-Maru 1-7  
+1449          0000-2400       J   x Nishi Nihon Hoso (RNC) Jpn Kagawa-Maru 1-7  
 1449          0000-2400       J   Nishi Nihon Hoso (RNC)   Jpn Kagawa-Taka 1-7  
-1449          0000-2400       J   Nishi Nihon Hoso (RNC)   Jpn Kagawa-Shir 1-7  
+1449          0000-2400       J   x Nishi Nihon Hoso (RNC) Jpn Kagawa-Shir 1-7  
 1449          0000-2400       ARS SBA Radio Riyadh         Ara Jeddah/Bahr 1-7  
 1449          1420-1820       IRN VO ISLAMIC REP.IRAN      Tur Bandar Tork 1-7  
 1449          0000-2400       MLD Voice of Maldives        Dhi Thilafushi  1-7  
@@ -924,7 +924,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 1458          0000-2400       J   x NBC Radio Saga         Jpn Saga        1-7  
 1458          0000-2400       J   x NBC Radio Saga         Jpn Saga-Karats 1-7  
 1458          0000-2400       J   Radio Fukushima (RFC)    Jpn Fukushima   1-7  
-1458          0000-2400       J   Shinetsu Hoso (SBC)      Jpn Nagano-Saku 1-7  
+1458          0000-2400       J   x Shinetsu Hoso (SBC)    Jpn Nagano-Saku 1-7  
 1458          0000-2400       ROU SRR Radio Romania Actual Rom Valu lui Tr 1-7  
 1458          0000-2400       J   Tokai Radio Hoso         Jpn Gifu-Kamiok 1-7  
 1467          0000-2400       ARS SBA Radio Riyadh         Ara Hafar Al-Ba 1-7  
@@ -976,13 +976,13 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 1485          0000-2400       J   x Aomori Hoso (RAB)      Jpn Aomori-Hach 1-7  
 1485          0000-2400       J   x Aomori Hoso (RAB)      Jpn Aomori-Towa 1-7  
 1485          0000-2400       G   BBC Radio 4              Eng Wallasey    1-7  
-1485          0000-2400       J   Chubu Nippon Hoso (CBC)  Jpn Aichi-Toyoh 1-7  
-1485          0000-2400       J   Chubu Nippon Hoso (CBC)  Jpn Mie-Ueno    1-7  
+1485          0000-2400       J   x Chubu Nippon Hoso (CBC Jpn Aichi-Toyoh 1-7  
+1485          0000-2400       J   x Chubu Nippon Hoso (CBC Jpn Mie-Ueno    1-7  
 1485          0000-2400       J   Hokuriku Hoso (MRO)      Jpn Ishikawa-Ya 1-7  
 1485          0000-2400       J   KBC Radio                Jpn Fukuoka-Omu 1-7  
 1485          0000-2400       J   x KBC Radio              Jpn Fukuoka-Yuk 1-7  
 1485          0000-2400       J   KBS Kyoto (KBS)          Jpn Kyoto-Fukuc 1-7  
-1485          0000-2400       J   Niigata Hoso (BSN)       Jpn Niigata-Shi 1-7  
+1485          0000-2400       J   x Niigata Hoso (BSN)     Jpn Niigata-Shi 1-7  
 1485          0000-2400       J   Radio Nippon             Jpn Kanagawa-Od 1-7  
 1485          0000-2400       J   Sanin Hoso (BSS)         Jpn Shimane-Ota 1-7  
 1485          0000-2400       J   Shinetsu Hoso (SBC)      Jpn Nagano-Karu 1-7  
@@ -1012,11 +1012,11 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 1530          0000-2400       J   x Chugoku Hoso (RCC)     Jpn Hiroshima-F 1-7  
 1530          0000-2400       J   Chugoku Hoso (RCC)       Jpn Hiroshima-F 1-7  
 1530          0000-2400       J   Chugoku Hoso (RCC)       Jpn Hiroshima-M 1-7  
-1530          0000-2400       J   Niigata Hoso (BSN)       Jpn Itoigawa    1-7  
-1530          0000-2400       J   Niigata Hoso (BSN)       Jpn Joetsu      1-7  
+1530          0000-2400       J   x Niigata Hoso (BSN)     Jpn Itoigawa    1-7  
+1530          0000-2400       J   x Niigata Hoso (BSN)     Jpn Joetsu      1-7  
 1530          0000-2400       CHN PBS Jilin                Chi Fuyu Jilin  1-7  
 1530          0000-2400       ROU Radio Romania Actualitat Rom Radauti     1-7  
-1530          0000-2400       J   Tochigi Hoso (CRT)       Jpn Utsunomiya  1-7  
+1530          0000-2400       J   x Tochigi Hoso (CRT)     Jpn Utsunomiya  1-7  
 1539          0000-2400       UAE Asianet Radio            Mal Al-Dhabbiya 1-7  
 1539          2025-1805       CHN CNR 1 Voice of China     Chi Golmud 916  1-7  
 1539          0000-2400       UAE Kadak FM                 Hin Al-Dhabbiya 1-7  
@@ -1024,8 +1024,8 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 1557          0000-2400       J   Akita Hoso (ABS)         Jpn Odate       1-7  
 1557          0000-2400       J   Akita Hoso (ABS)         Jpn Honjo       1-7  
 1557          0000-2400       J   Chubu Nippon Hoso (CBC)  Jpn Takayama    1-7  
-1557          0000-2400       J   Chubu Nippon Hoso (CBC)  Jpn Shinshiro   1-7  
-1557          0000-2400       J   Chubu Nippon Hoso (CBC)  Jpn Nakatsugawa 1-7  
+1557          0000-2400       J   x Chubu Nippon Hoso (CBC Jpn Shinshiro   1-7  
+1557          0000-2400       J   x Chubu Nippon Hoso (CBC Jpn Nakatsugawa 1-7  
 1557          2200-2300       TWN eBible Fellowship        Chi Kouhu       1-7  
 1557          0000-2400       J   x Fukui Hoso (FBC)       Jpn Obama       1-7  
 1557          0000-2400       J   x Fukui Hoso (FBC)       Jpn Tsuruga     1-7  
@@ -1034,17 +1034,17 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 1557          1100-1200       TWN KBS WORLD RADIO          Chi Kouhu       1-7  
 1557          0000-2400       J   Kouchi Hoso (RKC)        Jpn Susaki      1-7  
 1557          0000-2400       J   Oita Hoso (OBS)          Jpn Takeda      1-7  
-1557          0000-2400       J   Oita Hoso (OBS)          Jpn Nakatsu     1-7  
+1557          0000-2400       J   x Oita Hoso (OBS)        Jpn Nakatsu     1-7  
 1557          0000-2400       J   Oita Hoso (OBS)          Jpn Hita        1-7  
 1557          0800-0900       TWN R.TAIWAN INT.            Vie Kouhu       1-7  
 1557          0900-1100       TWN * R.TAIWAN INT.          Chi Kouhu       1-7  
 1557          1200-1700       TWN * R.TAIWAN INT.          Chi Kouhu       1-7  
 1557          2300-2400       TWN * R.TAIWAN INT.          Vie Kouhu       1-7  
 1557          1555-2205       LTU Radio Lenta              Rus Kaunas/Sitk 1-7  
-1557          0000-2400       J   Sanin Hoso (BSS)         Jpn Kurayoshi   1-7  
+1557          0000-2400       J   x Sanin Hoso (BSS)       Jpn Kurayoshi   1-7  
 1557          0000-2400       J   Sanin Hoso (BSS)         Jpn Hamada      1-7  
 1557          0000-2400       J   Shizuoka Hoso (SBS)      Jpn Atami       1-7  
-1557          0000-2400       J   Shizuoka Hoso (SBS)      Jpn Fujinomiya  1-7  
+1557          0000-2400       J   x Shizuoka Hoso (SBS)    Jpn Fujinomiya  1-7  
 1557          0000-2400       J   Tohoku Hoso (TBC)        Jpn Naruko      1-7  
 1557          0000-2400       J   x Tokai Radio Hoso       Jpn Ueno        1-7  
 1557          0000-2400       J   Wakayama Hoso (WBS)      Eng Shingu      1-7  
@@ -1594,7 +1594,6 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 5990          1900-1930       UAE WRN Vsemirnaya Radioset  Rus Al-Dhabbiya 357  
 5995          1600-1657       TKS CHINA RADIO INTERNATIONA Rus Kashi-Saiba 1-7  
 5995          2055-2400       CHN CNR 2-China Business Rad Chi Nanning 954 1-7  
-5995          0250-0005       KRE North Korean Jamming     Noi Kujang      1-7  
 5995          0555-0800       MLI R.MALI                   Fre Bamako I    1-7  
 5995          1800-2400       MLI R.MALI                   Fre Bamako I    1-7  
 6000          1100-1805       CHN CNR 1 Voice of China     Chi Beijing 572 1-7  
@@ -1748,7 +1747,6 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 6080          0933-1200       CHN Hulunbei'er Xinwen Zongh Mon Hailar      1-7  
 6080          1300-1600       CHN Hulunbei'er Xinwen Zongh Mon Hailar      1-7  
 6080          2150-0530       CHN Hulunbei'er Xinwen Zongh Mon Hailar      1-7  
-6080          1800-2100       UZB Norddeutscher Rundfunk   Ger Tashkent    3    
 6080          0000-2400       B   Radio Marumby            Por Curitiba PR 1-7  
 6085          1500-1600       CHN CHINA RADIO INTERNATIONA Rus Hohhot 694  1-7  
 6085          0700-1700       D   Radio Mi Amigo Internati Ger Kall-Krekel 1-7  
@@ -2337,6 +2335,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 7490          0100-0200       USA WBCQ Voice of Revival    Eng Monticello  2    
 7490          2100-2130       USA WBCQ World of Radio      Eng Monticello  4    
 7490          1300-1600       USA WWCR NASHVILLE           Eng Nashville   1-7  
+7490          1430-2100       UZB V RADIO FARDA            Per Tashkent    1-7  
 7505          2200-1600       USA WRNO                     Eng New Orleans 1-7  
 7510          1900-1930       MDA Voice of Spring(Sedoye B Per Grigoriopol 56   
 7520          0000-0300       USA WWCR NASHVILLE           Eng Nashville   1-7  
@@ -2708,6 +2707,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 9535          1500-1557       TKS CHINA RADIO INTERNATIONA Urd Kashi-Saiba 1-7  
 9535          1600-1757       CHN CHINA RADIO INTERNATIONA Ger Baoji-Xinji 1-7  
 9535          1900-1957       CHN CHINA RADIO INTERNATIONA Por Baoji-Xinji 1-7  
+9535          2100-2400       PHL VOICE OF AMERICA         Chi Tinang      23456
 9540          2300-2130       TWN * SOH Xi Wang Zhi Sheng  Chi Pingtung    1-7  
 9540          0500-0600       G   Radio Ndarason Internati Kan Woofferton  1-7  
 9540          1100-1200       CHN CHINA RADIO INTERNATIONA Can Beijing 572 1-7  
@@ -2812,7 +2812,6 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 9610          0100-0157       CHN CHINA RADIO INTERNATIONA Amo Kunming-Ann 1-7  
 9610          1100-1157       CHN CHINA RADIO INTERNATIONA Chi Kunming-Ann 1-7  
 9610          1500-1557       CHN CHINA RADIO INTERNATIONA Ben Kunming-Ann 1-7  
-9610          1000-1100       CHN CNR 1 Jamming            Chi Fujiang     1-7  
 9610          0100-0200       CHN CNR 8                    Chi Beijing 491 1-7  
 9610          0200-0500       CHN CNR 8                    Mon Beijing 491 1-7  
 9610          0500-0600       CHN CNR 8                    Chi Beijing 491 1-7  
@@ -3058,7 +3057,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 9765          2030-2100       G   Global Talk America      Hau Woofferton  23456
 9765          2100-2200       MDG World Christian Broadc.K Por Mahajanga 3 1-7  
 9765          2200-2300       MDG World Christian Broadc.K Por Mahajanga 3 1-7  
-9770          1930-2030       F   Radio for Peace Internat Per Issoudun    1-7  
+9770          1930-2030       UZB Radio for Peace Internat Per Tashkent    1-7  
 9770          1600-1657       TKS CHINA RADIO INTERNATIONA Hak Urumqi Hutu 1-7  
 9770          1700-1800       CHN CHINA RADIO INTERNATIONA Can Xianyang 59 1-7  
 9770          0800-1030       KOR KBS WORLD RADIO          Eng Kimjae      1-7  
@@ -3447,6 +3446,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 11570         2000-2100       UZB North Korea Reform Radio Kor Tashkent    1-7  
 11580         1500-1600       TWN * SOH Xi Wang Zhi Sheng  Can Miaoli      1-7  
 11580         2100-1500       TWN * SOH Xi Wang Zhi Sheng  Chi Miaoli      1-7  
+11590         2100-2200       KWT VOICE OF AMERICA         Chi Kuwait      23456
 11590         2200-2230       KWT VOICE OF AMERICA         Chi Kuwait      23456
 11590         2230-2400       KWT VOICE OF AMERICA         Chi Kuwait      23456
 11600         1545-1600       BUL BIBLE VOICE BCN Radio Da Ara Kostinbrod( 1-57 
@@ -4007,6 +4007,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 12065         1030-1100       TWN R.TAIWAN INT.            Hak Paochung    1-7  
 12070         1130-1157       CHN CHINA RADIO INTERNATIONA Fil Nanning 954 1-7  
 12070         2300-0100       PHL FEBC Radio Liangyou 1    Chi Iba         1-7  
+12070         0600-1300       KWT RADIO FARDA              Per Kuwait      1-7  
 12070         1430-1700       UAE RADIO FARDA              Per Al-Dhabbiya 1-7  
 12070         1700-2100       G   RADIO FARDA              Per Woofferton  1-7  
 12075         0700-0900       USA WINB DRM                 Eng Red Lion    23456
@@ -4650,7 +4651,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 15490         1450-1510       CVA VATICAN RADIO            Tam Santa Maria 1-7  
 15490         1510-1530       CVA VATICAN RADIO            Mal Santa Maria 1-7  
 15495         1000-1100       F   R.FRANCE INT. DRM 1000   Fre Issoudun    1-7  
-15500         0830-0930       F   Radio for Peace Internat Per Issoudun    1-7  
+15500         0830-0930       UZB Radio for Peace Internat Per Tashkent    1-7  
 15500         1100-1130       GUM KSDA-Adventist World R.G Ind Agat        1-7  
 15500         1130-1200       GUM KSDA-Adventist World R.G Sun Agat        1357 
 15500         1130-1200       GUM KSDA-Adventist World R.G Jav Agat        246  
