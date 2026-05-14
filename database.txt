@@ -1,4 +1,4 @@
-A26 Shortwave Frequecy List  May 11  2026,  0300 UTC   Day 1 = Sunday
+A26 Shortwave Frequecy List  May 13  2026,  0801 UTC   Day 1 = Sunday
 kHz           Time(UTC)       ITU Station                Lang. Location    Days 
 +-------------+---------+-----+---+------------------------+---+-----------+----
 
@@ -2415,7 +2415,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 7780          0530-0600       USA WRMI R.Czech             Eng Okeechobee1 1-7  
 7780          0800-0900       USA WRMI Bible Fellowship    Eng Okeechobee1 1-7  
 7780          0900-1000       USA WRMI OTH Radio           Eng Okeechobee1 6    
-7780          0900-1000       USA WRMI Shortwave Radiogram Eng Okeechobee1 1    
+7780          0930-1000       USA WRMI Shortwave Radiogram Eng Okeechobee1 5    
 7780          0900-1000       USA WRMI The Mighty KBC      Eng Okeechobee1 7    
 7780          0900-1000       USA WRMI Voice of Indonesia  Eng Okeechobee1 2345 
 7780          1000-1200       USA WRMI WRN                 Eng Okeechobee1 1-7  
@@ -2453,8 +2453,8 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 9265          2330-2400       USA WINB Day of Decision     Spa Red Lion    2    
 9265          1630-1700       USA WINB Living the Bible    Eng Red Lion    7    
 9265          2130-2200       USA WINB Living the Bible    Eng Red Lion    7    
-9265          0030-0100       USA WINB Shortwave Radiogram Eng Red Lion    6    
-9265          0330-0400       USA WINB Shortwave Radiogram Eng Red Lion    7    
+9265          2330-2400       USA WINB Shortwave Radiogram Eng Red Lion    5    
+9265          0230-0300       USA WINB Shortwave Radiogram Eng Red Lion    7    
 9265          0000-0100       USA WINB The Overcomer Minis Eng Red Lion    7    
 9265          0200-0300       USA WINB The Overcomer Minis Eng Red Lion    3    
 9265          0300-0400       USA WINB The Overcomer Minis Eng Red Lion    14   
@@ -3329,7 +3329,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 9955          1400-1430       USA WRMI Full Gospel Hour    Eng Okeechobee3 167  
 9955          1400-1430       USA WRMI Frecuencia al Dia   Spa Okeechobee3 4    
 9955          1400-1430       USA WRMI World of Radio      Eng Okeechobee3 3    
-9955          1400-1430       USA WRMI SW Radiogram        Eng Okeechobee3 1    
+9955          1430-1500       USA WRMI SW Radiogram        Eng Okeechobee3 1    
 9955          1400-1430       USA WRMI School of the Spiri Eng Okeechobee3 23456
 9955          1430-1500       USA WRMI Wave Scan           Eng Okeechobee3 7    
 9955          1500-1600       USA WRMI World Radio Network Eng Okeechobee3 23456
@@ -3728,7 +3728,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 11815         1600-1620       CVA VATICAN RADIO            Arm Santa Maria 1-7  
 11815         1620-1640       CVA VATICAN RADIO            Rus Santa Maria 1-7  
 11815         1640-1700       CVA VATICAN RADIO            Ukr Santa Maria 1-7  
-11815         1700-2100       G   TV Sound                 Per Woofferton  1-7  
+11815         1700-2100       G   Radio Payam              Per Woofferton  1-7  
 11820         0000-0057       CHN CHINA RADIO INTERNATIONA Can Xianyang 59 1-7  
 11820         0200-0257       ROU R.ROMANIA INT.           Spa Tiganesti   1-7  
 11825         1700-1757       CHN CHINA RADIO INTERNATIONA Cro Beijing 572 1-7  
@@ -3760,6 +3760,8 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 11860         1400-0100       USA R.MARTI                  Spa Greenville  1-7  
 11860         1600-1657       ROU R.ROMANIA INT.           Heb Tiganesti   1    
 11860         1600-1657       ROU R.ROMANIA INT.           Rom Tiganesti   2-7  
+11860         1430-1500       UZB BBC                      Kor Tashkent    23456
+11860         1530-1600       UZB BBC                      Kor Tashkent    23456
 11865         0900-1030       IND ALL INDIA RADIO          Nep Delhi (King 1-7  
 11865         1045-1215       IND ALL INDIA RADIO          Tib Delhi (King 1-7  
 11865         1045-1215       IND ALL INDIA RADIO          Tib Delhi (King 1-7  
@@ -3945,8 +3947,6 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 11995         2000-2100       F   R.FRANCE INT.            Fre Issoudun    1-7  
 11995         2100-2200       F   R.FRANCE INT.            Fre Issoudun    1-7  
 12000         0300-0357       TKS CHINA RADIO INTERNATIONA Eng Kashi-Saiba 1-7  
-12005         1430-1500       UZB BBC                      Kor Tashkent    23456
-12005         1530-1600       UZB BBC                      Kor Tashkent    23456
 12005         0900-1000       CHN CHINA RADIO INTERNATIONA Chi Kunming-Ann 1-7  
 12005         1000-1100       CHN CHINA RADIO INTERNATIONA Can Kunming-Ann 1-7  
 12010         1400-1457       CHN CHINA RADIO INTERNATIONA Vie Baoji-Xinji 1-7  
@@ -4379,7 +4379,8 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 15150         0900-0957       ROU R.ROMANIA INT.           Rom Galbeni-Bac 1    
 15150         1000-1057       ROU R.ROMANIA INT.           Fre Galbeni-Bac 1-7  
 15160         0058-0400       CHN CHINA RADIO INTERNATIONA Chi Jinhua 831  1-7  
-15160         0400-0600       CHN CHINA RADIO INTERNATIONA Can Jinhua 831  1-7  
+15160         0400-0500       CHN CHINA RADIO INTERNATIONA Can Jinhua 831  1-7  
+15160         0458-0600       CHN CHINA RADIO INTERNATIONA Can Jinhua 831  1-7  
 15160         0600-0653       CHN CHINA RADIO INTERNATIONA Chi Jinhua 831  1-7  
 15160         1030-1127       CHN CHINA RADIO INTERNATIONA Khm Nanning 954 1-7  
 15160         0900-1000       KOR KBS WORLD RADIO          Kor Kimjae      1-7  
@@ -4802,7 +4803,6 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 15730         2144-1530       TWN * SOH Xi Wang Zhi Sheng  Chi Miaoli      1-7  
 15735         1400-1500       USA WINB DRM                 Eng Red Lion    23456
 15740         2144-1530       TWN * SOH Xi Wang Zhi Sheng  Chi Miaoli      1-7  
-15750         0400-1900       BUL Iran International TV    Per Kostinbrod( 1-7  
 15750         0900-1000       USA WINB DRM                 Eng Red Lion    7    
 15750         1500-2000       USA WINB DRM                 Eng Red Lion    23456
 15760         2130-1500       TWN * SOH Xi Wang Zhi Sheng  Chi Miaoli      1-7  
@@ -4823,6 +4823,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 15760         1403-1500       CHN CNR 1 Jamming            Chi Qiqihar 202 1-7  
 15760         2200-2300       CHN CNR 1 Jamming            Chi Qiqihar 202 1-7  
 15760         2303-0000       CHN CNR 1 Jamming            Chi Qiqihar 202 1-7  
+15765         0400-1900       BUL Iran International TV    Per Kostinbrod( 1-7  
 15770         0000-0030       USA WRMI R.Slovakia Int.     Slo Okeechobee9 1-7  
 15770         0030-0100       USA WRMI R.Slovakia Int.     Eng Okeechobee9 1-7  
 15770         0100-0400       USA WRMI Supreme Master TV   Eng Okeechobee9 1-7  
@@ -4995,7 +4996,6 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 17595         0600-0900       CHN CNR 1 Voice of China     Chi Shijiazhuan 124-7
 17595         0900-1100       CHN CNR 1 Voice of China     Chi Shijiazhuan 1-7  
 17600         0700-0100       ALG Ifrikya FM               Ara Bechar      1-7  
-17605         0500-0600       OMA BBC                      Eng Al Seela    1-7  
 17605         1030-1127       CHN CHINA RADIO INTERNATIONA Ind Kunming-Ann 1-7  
 17615         0500-0657       TKS CHINA RADIO INTERNATIONA Ger Urumqi Hutu 1-7  
 17615         0600-0757       CHN CHINA RADIO INTERNATIONA Chi Kunming-Ann 1-7  
@@ -5179,7 +5179,17 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 17815         1630-1700       F   PABC Tony Alamo Ministri Amh Issoudun    1    
 17815         0559-0700       OMA BBC DRM 11               Eng Al Seela    1-7  
 17815         1200-1300       F   R.FRANCE INT.            Fre Issoudun    1-7  
-17820         2155-1605       CHN CNR 11                   Tib Dongfang Ha 1-7  
+17820         2155-2200       CHN CNR 11                   Tib Dongfang Ha 1-7  
+17820         2200-2300       CHN CNR 11                   Chi Dongfang Ha 1-7  
+17820         2300-0500       CHN CNR 11                   Tib Dongfang Ha 1-7  
+17820         0500-0700       CHN CNR 11                   Tib Dongfang Ha 124-7
+17820         0700-0800       CHN CNR 11                   Chi Dongfang Ha 124-7
+17820         0800-0900       CHN CNR 13                   Uyg Dongfang Ha 124-7
+17820         0900-1000       CHN CNR 13                   Chi Dongfang Ha 1-7  
+17820         1000-1500       CHN CNR 13                   Uyg Dongfang Ha 1-7  
+17820         1500-1600       CHN CNR 13                   Chi Dongfang Ha 1-7  
+17820         1600-1805       CHN CNR 13                   Uyg Dongfang Ha 1-7  
+17825         0500-0600       OMA BBC                      Eng Al Seela    1-7  
 17825         1200-1300       OMA BBC                      Eng Al Seela    1-7  
 17825         1400-1600       OMA BBC DRM E1C238           Eng Al Seela    1-7  
 17830         1900-2000       F   R.TAIWAN INT.            Fre Issoudun    1    
