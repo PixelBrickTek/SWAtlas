@@ -1,4 +1,4 @@
-A26 Shortwave Frequecy List  May 13  2026,  0801 UTC   Day 1 = Sunday
+A26 Shortwave Frequecy List  May 15  2026,  1300 UTC   Day 1 = Sunday
 kHz           Time(UTC)       ITU Station                Lang. Location    Days 
 +-------------+---------+-----+---+------------------------+---+-----------+----
 
@@ -187,10 +187,9 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 738           0000-2400       CHN Jilin PBS, News and Gene Chi Nanguan, Ch 1-7  
 738           0000-2400       J   Kita Nihon Hoso (KNB)    Jpn ToyamaTakao 1-7  
 738           0000-2400       J   Kita Nihon Hoso (KNB)    Jpn Toyama      1-7  
-738           2300-1800       TKS PBS Xinjiang             Chi Kashi/XJTS6 1-7  
-738           2300-1800       TKS PBS Xinjiang             Chi Urumqi/Hutu 1-7  
 738           0000-2400       E   RNE Radio Nacional       Spa Palau de Pl 1-7  
 738           0000-2400       J   Ryukyu Hoso (RBC)        Jpn Naha-Kakazu 1-7  
+738           2315-1800       TKS PBS Xinjiang             Chi Urumqi/Hutu 1-7  
 740           0000-2400       USA KCBS                     Eng San Francis 1-7  
 747           2100-1800       CHN CNR 12 Voice of Reading  Chi Beijing 582 1-7  
 747           1000-1100       PHL DZJC AWR                 Ilo Laoag City  1    
@@ -1153,11 +1152,6 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 3925          0750-1520       J   RADIO NIKKEI 1           Jpn Nemuro      4    
 3925          2215-2300       J   RADIO NIKKEI 1           Jpn Nemuro      23456
 3940          1900-0400       RUS Music Wave Radio         Rus Kaliningrad 1-7  
-3950          0030-0257       TKS PBS Xinjiang             Chi Urumqi      1-7  
-3950          1230-1800       TKS PBS Xinjiang             Chi Urumqi      1-7  
-3950          2310-2400       TKS PBS Xinjiang             Chi Urumqi      1-7  
-3950          0000-0030       TKS PBS Xinjiang (CNR1)      Chi Urumqi      1-7  
-3950          1205-1230       TKS PBS Xinjiang (CNR1)      Chi Urumqi      1-7  
 3955          0459-0600       G   BBC DRM E1C238           Eng Woofferton  1-7  
 3955          2000-2100       G   KBS WORLD RADIO          Ger Woofferton  1-7  
 3955          2100-2200       G   KBS WORLD RADIO          Fre Woofferton  1-7  
@@ -1186,10 +1180,6 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 3990          2300-2330       CHN PBS Gannan               Tib Hezuo       1-7  
 3990          2330-0100       CHN PBS Gannan               Chi Hezuo       1-7  
 3990          1300-1400       CHN PBS Gannan (CNR11)       Tib Hezuo       1-7  
-3990          1225-1400       TKS PBS Xinjiang             Uyg Urumqi      1-7  
-3990          1430-1800       TKS PBS Xinjiang             Uyg Urumqi      1-7  
-3990          2310-0300       TKS PBS Xinjiang             Uyg Urumqi      1-7  
-3990          1400-1430       TKS PBS Xinjiang (CNR13)     Uyg Urumqi      1-7  
 3995          0000-0300       D   HCJB Deutsch             Ger Weenermoor  1-7  
 3995          0300-0400       D   HCJB Deutsch             Rus Weenermoor  1-7  
 3995          0400-2200       D   HCJB Deutsch             Ger Weenermoor  1-7  
@@ -1213,9 +1203,6 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 4233          0000-2400       J   Slot Machine             QPS Ichihara    1-7  
 4283          0800-1500       CHN Numbers Station 1        Chi             1-7  
 4292          0000-2400       J   Slot Machine             QPS Ichihara    1-7  
-4500          1205-1800       TKS PBS Xinjiang             Mon Urumqi      1-7  
-4500          2340-0330       TKS PBS Xinjiang             Mon Urumqi      1-7  
-4500          0000-0030       TKS PBS Xinjiang (CNR8)      Mon Urumqi      1-7  
 4750          0600-0900       CHN CNR 1 Voice of China     Chi Hailar      124-7
 4750          0900-1730       CHN CNR 1 Voice of China     Chi Hailar      1-7  
 4750          1958-0600       CHN CNR 1 Voice of China     Chi Hailar      1-7  
@@ -1274,10 +1261,6 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 4840          0700-0800       USA WWCR VORW Radio Internat Eng Nashville   7    
 4840          0130-0200       USA WWCR Wave Scan           Eng Nashville   1    
 4840          0800-0900       USA WWCR Worship With Andy C Eng Nashville   1    
-4850          1155-1400       TKS PBS Xinjiang             Kaz Urumqi      1-7  
-4850          1430-1800       TKS PBS Xinjiang             Kaz Urumqi      1-7  
-4850          2345-0328       TKS PBS Xinjiang             Kaz Urumqi      1-7  
-4850          1400-1430       TKS PBS Xinjiang (CNR17)     Kaz Urumqi      1-7  
 4885          0000-2400       B   R.Clube do Para          Por Belem PA    1-7  
 4890          0800-0149       D   Mystery21                Eng             1-7  
 4900          0840-1135       CHN Haixia zhi Sheng(VO Stra Chi Fuzhou      1-7  
@@ -1303,10 +1286,6 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 4940          2300-1200       CLM Estacion 4940            Spa El Amparo   1-7  
 4955          1100-0100       PRU R.Cultural Amauta        Spa Huanta      1-7  
 4965          1600-2100       ZMB Voice of Hope Africa     Eng Lusaka 1    1-7  
-4980          1135-1400       TKS PBS Xinjiang             Uyg Urumqi      1-7  
-4980          1430-1800       TKS PBS Xinjiang             Uyg Urumqi      1-7  
-4980          2310-0245       TKS PBS Xinjiang             Uyg Urumqi      1-7  
-4980          1400-1430       TKS PBS Xinjiang (CNR13)     Uyg Urumqi      1-7  
 4985          0000-2400       B   R.Brasil Central         Por Goiania GO  1-7  
 4990          0900-1700       CHN PBS Hunan                Chi Xiangtan    1-7  
 4990          2030-0100       CHN PBS Hunan                Chi Xiangtan    1-7  
@@ -1352,12 +1331,6 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 5050          0000-0100       USA WRMI E.Bible Fellowship  Eng Okeechobee4 1-7  
 5050          0200-0500       USA WRMI Legends             Eng Okeechobee4 1-7  
 5050          2200-1300       USA WWRB                     Eng Morrison TN 127  
-5060          0030-0257       TKS PBS Xinjiang             Chi Urumqi      1-7  
-5060          1135-1200       TKS PBS Xinjiang             Chi Urumqi      1-7  
-5060          1230-1800       TKS PBS Xinjiang             Chi Urumqi      1-7  
-5060          2310-2400       TKS PBS Xinjiang             Chi Urumqi      1-7  
-5060          0000-0030       TKS PBS Xinjiang (CNR1)      Chi Urumqi      1-7  
-5060          1200-1230       TKS PBS Xinjiang (CNR1)      Chi Urumqi      1-7  
 5085          0000-1400       USA WTWW                     Eng Lebanon TN  1-7  
 5130          0000-0200       KGZ Afghan Christian R.(Sada Pas Bishkek     1-7  
 5130          1500-1800       KGZ Afghan Christian R.(Sada Pas Bishkek     1-7  
@@ -1527,16 +1500,14 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 5955          1100-1600       CHN CHINA RADIO INTERNATIONA Eng Beijing 572 1-7  
 5955          0500-1500       HOL SuperClan Radio          Dut Putten      1-7  
 5960          0000-0200       D   Mighty KBC Radio         Dut Nauen       1    
-5960          0030-0800       TKS PBS Xinjiang             Chi Urumqi      1-7  
-5960          0800-1100       TKS PBS Xinjiang             Chi Urumqi      124-7
-5960          1100-1200       TKS PBS Xinjiang             Chi Urumqi      1-7  
-5960          1230-1800       TKS PBS Xinjiang             Chi Urumqi      1-7  
-5960          2310-2400       TKS PBS Xinjiang             Chi Urumqi      1-7  
-5960          0000-0030       TKS PBS Xinjiang (CNR1)      Chi Urumqi      1-7  
-5960          1200-1230       TKS PBS Xinjiang (CNR1)      Chi Urumqi      1-7  
 5960          1830-2055       TUR VOICE OF TURKEY          Tur Emirler     1-7  
 5960          1900-1950       F   PABC Tony Alamo Ministri Eng Issoudun    17   
 5960          2000-2035       F   PABC Tony Alamo Ministri Eng Issoudun    1    
+5960          2315-2400       TKS PBS Xinjiang             Chi Urumqi      1-7  
+5960          0000-0030       TKS PBS Xinjiang (CNR1)      Chi Urumqi      1-7  
+5960          0030-0257       TKS PBS Xinjiang             Chi Urumqi      1-7  
+5960          1200-1230       TKS PBS Xinjiang (CNR1)      Chi Urumqi      1-7  
+5960          1230-1800       TKS PBS Xinjiang             Chi Urumqi      1-7  
 5965          1400-1457       CHN CHINA RADIO INTERNATIONA Kor Xianyang 59 1-7  
 5965          1500-1600       CHN CHINA RADIO INTERNATIONA Rus Beijing 572 1-7  
 5965          1000-1805       CHN CNR 1 Voice of China     Chi Nanning 954 1-7  
@@ -1616,10 +1587,10 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 6010          1930-2030       BUL Radio Zamaneh            Per Kostinbrod( 1-7  
 6015          0350-0002       KOR KBS Hanminjok Bangsong 1 Kor Hwaseong    1-7  
 6015          0250-0005       KRE North Korean Jamming     Noi Kujang      1-7  
+6015          2307-0348       TKS PBS Xinjiang             Kaz Urumqi      1-7  
 6015          1153-1400       TKS PBS Xinjiang             Kaz Urumqi      1-7  
-6015          1430-1800       TKS PBS Xinjiang             Kaz Urumqi      1-7  
-6015          2345-0348       TKS PBS Xinjiang             Kaz Urumqi      1-7  
-6015          1400-1430       TKS PBS Xinjiang (CNR17)     Kaz Urumqi      1-7  
+6015          1400-1500       TKS PBS Xinjiang (CNR17)     Kaz Urumqi      1-7  
+6015          1500-1800       TKS PBS Xinjiang             Kaz Urumqi      1-7  
 6020          1900-2000       CHN CHINA RADIO INTERNATIONA Alb Shijiazhuan 1-7  
 6020          2000-2100       CHN CHINA RADIO INTERNATIONA Pol Shijiazhuan 1-7  
 6020          0900-0400       B   R.Gaucha                 Por Porto Alegr 1-7  
@@ -1807,10 +1778,10 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 6110          1700-1730       TWN x Furusato no kaze       Jpn Tamsui Dist 1-7  
 6115          0000-0745       J   RADIO NIKKEI 2           Jpn Chiba-Nagar 17   
 6115          2300-1000       J   RADIO NIKKEI 2           Jpn Chiba-Nagar 23456
-6120          1200-1400       TKS PBS Xinjiang             Uyg Urumqi      1-7  
-6120          1430-1800       TKS PBS Xinjiang             Uyg Urumqi      1-7  
-6120          2310-0252       TKS PBS Xinjiang             Uyg Urumqi      1-7  
+6120          2315-0303       TKS PBS Xinjiang             Uyg Urumqi      1-7  
+6120          1203-1400       TKS PBS Xinjiang             Uyg Urumqi      1-7  
 6120          1400-1430       TKS PBS Xinjiang (CNR13)     Uyg Urumqi      1-7  
+6120          1430-1800       TKS PBS Xinjiang             Uyg Urumqi      1-7  
 6125          1000-1805       CHN CNR 1 Voice of China     Chi Beijing 572 1-7  
 6125          1100-1805       CHN CNR 1 Voice of China     Chi Shijiazhuan 1-7  
 6125          2025-2300       CHN CNR 1 Voice of China     Chi Beijing 572 1-7  
@@ -1917,9 +1888,10 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 6185          0700-1400       HOL Radio Piepzender         Dut Zwolle      17   
 6185          2100-1000       MEX XEPPM R.Educacion        Spa Mexico City 1-7  
 6190          2055-2400       CHN CNR 2-China Business Rad Chi Golmud 916  1-7  
-6190          1207-1800       TKS PBS Xinjiang             Mon Urumqi      1-7  
-6190          2340-0330       TKS PBS Xinjiang             Mon Urumqi      1-7  
-6190          0000-0030       TKS PBS Xinjiang (CNR8)      Mon Urumqi      1-7  
+6190          1210-1800       TKS PBS Xinjiang             Mon Urumqi      1-7  
+6190          2315-2330       TKS PBS Xinjiang             Mon Urumqi      1-7  
+6190          2340-0030       TKS PBS Xinjiang (CNR8)      Mon Urumqi      1-7  
+6190          0030-0330       TKS PBS Xinjiang             Mon Urumqi      1-7  
 6195          0030-0100       OMA BBC                      Dar Al Seela    1-7  
 6195          0100-0130       OMA BBC                      Pas Al Seela    1-7  
 6195          0130-0200       OMA BBC                      Dar Al Seela    1-7  
@@ -1959,10 +1931,9 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 7205          1900-2000       CHN CHINA RADIO INTERNATIONA Por Xianyang 59 1-7  
 7205          2000-2100       CHN CHINA RADIO INTERNATIONA Chi Xianyang 59 1-7  
 7205          2100-2157       CHN CHINA RADIO INTERNATIONA Eng Xianyang 59 1-7  
-7205          1227-1400       TKS PBS Xinjiang             Uyg Urumqi      1-7  
-7205          1430-1800       TKS PBS Xinjiang             Uyg Urumqi      1-7  
-7205          2310-0257       TKS PBS Xinjiang             Uyg Urumqi      1-7  
+7205          2315-0200       TKS PBS Xinjiang             Uyg Urumqi      1-7  
 7205          1400-1430       TKS PBS Xinjiang (CNR13)     Uyg Urumqi      1-7  
+7205          1430-1800       TKS PBS Xinjiang             Uyg Urumqi      1-7  
 7210          0000-2359       TWN * SOH Xi Wang Zhi Sheng  Chi Miaoli      1-7  
 7210          1500-1600       TWN * SOH Xi Wang Zhi Sheng  Can Miaoli      1-7  
 7210          1800-1857       TKS CHINA RADIO INTERNATIONA Rus Urumqi Hutu 1-7  
@@ -2019,8 +1990,13 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 7230          0600-0900       CHN CNR 1 Voice of China     Chi Xianyang 59 124-7
 7230          0900-1805       CHN CNR 1 Voice of China     Chi Xianyang 59 1-7  
 7230          2025-0600       CHN CNR 1 Voice of China     Chi Xianyang 59 1-7  
-7230          0500-1030       TKS PBS Xinjiang             Mon Urumqi      1-7  
+7230          2315-2330       TKS PBS Xinjiang             Mon Urumqi      1-7  
+7230          2340-0030       TKS PBS Xinjiang (CNR8)      Mon Urumqi      1-7  
+7230          0030-0330       TKS PBS Xinjiang             Mon Urumqi      1-7  
+7230          0510-0700       TKS PBS Xinjiang             Mon Urumqi      1-7  
 7230          0700-0800       TKS PBS Xinjiang (CNR8)      Mon Urumqi      1-7  
+7230          0800-1030       TKS PBS Xinjiang             Mon Urumqi      1-7  
+7230          1150-1800       TKS PBS Xinjiang             Mon Urumqi      1-7  
 7235          1400-1557       TKS CHINA RADIO INTERNATIONA Chi Kashi-Saiba 1-7  
 7235          1600-1800       TKS CHINA RADIO INTERNATIONA Eng Kashi-Saiba 1-7  
 7235          2100-2157       KRE Voice of Korea           Chi Kujang      1-7  
@@ -2073,10 +2049,14 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 7260          2330-0027       TKS CHINA RADIO INTERNATIONA Sin Kashi-Saiba 1-7  
 7260          0655-1500       MNG Mongolian Radio 2        Mon Ulaanbaatar 1-7  
 7260          2300-0600       MNG Mongolian Radio 2        Mon Ulaanbaatar 1-7  
-7260          0258-0800       TKS PBS Xinjiang             Chi Urumqi      1-7  
-7260          0800-1100       TKS PBS Xinjiang             Chi Urumqi      124-7
-7260          1100-1205       TKS PBS Xinjiang             Chi Urumqi      1-7  
 7260          0050-0155       TUR VOICE OF TURKEY          Spa Emirler     1-7  
+7260          2315-2400       TKS PBS Xinjiang             Chi Urumqi      1-7  
+7260          0000-0030       TKS PBS Xinjiang (CNR1)      Chi Urumqi      1-7  
+7260          0030-0800       TKS PBS Xinjiang             Chi Urumqi      1-7  
+7260          0800-1100       TKS PBS Xinjiang             Chi Urumqi      124-7
+7260          1100-1200       TKS PBS Xinjiang             Chi Urumqi      1-7  
+7260          1200-1230       TKS PBS Xinjiang (CNR1)      Chi Urumqi      1-7  
+7260          1230-1800       TKS PBS Xinjiang             Chi Urumqi      1-7  
 7265          0000-2400       HOL Radio Europe 2           Eng Alphen aan  1-7  
 7265          1400-1457       TKS CHINA RADIO INTERNATIONA Sin Kashi-Saiba 1-7  
 7265          1500-1557       TKS CHINA RADIO INTERNATIONA Hin Kashi-Saiba 1-7  
@@ -2103,13 +2083,15 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 7275          0600-0855       CHN Guizhou PBS              Chi Guiyang     124-7
 7275          0855-1530       CHN Guizhou PBS              Chi Guiyang     1-7  
 7275          1600-1700       KOR KBS WORLD RADIO          Kor Kimjae      1-7  
-7275          0300-0600       TKS PBS Xinjiang             Uyg Urumqi      1-7  
-7275          0630-0800       TKS PBS Xinjiang             Uyg Urumqi      1-7  
-7275          0800-0900       TKS PBS Xinjiang             Chi Urumqi      1-7  
-7275          0900-1100       TKS PBS Xinjiang             Uyg Urumqi      124-7
-7275          1100-1200       TKS PBS Xinjiang             Uyg Urumqi      1-7  
-7275          0600-0630       TKS PBS Xinjiang (CNR13)     Uyg Urumqi      1-7  
 7275          0255-0355       TUR VOICE OF TURKEY          Eng Emirler     1-7  
+7275          2315-0600       TKS PBS Xinjiang             Uyg Urumqi      1-7  
+7275          0600-0700       TKS PBS Xinjiang (CNR13)     Uyg Urumqi      1-7  
+7275          0700-0800       TKS PBS Xinjiang             Uyg Urumqi      1-7  
+7275          0800-0900       TKS PBS Xinjiang             Chi Urumqi      124-7
+7275          0900-1100       TKS PBS Xinjiang             Uyg Urumqi      124-7
+7275          1100-1400       TKS PBS Xinjiang             Uyg Urumqi      1-7  
+7275          1400-1430       TKS PBS Xinjiang (CNR13)     Uyg Urumqi      1-7  
+7275          1430-1800       TKS PBS Xinjiang             Uyg Urumqi      1-7  
 7280          0000-2359       TWN * SOH Xi Wang Zhi Sheng  Chi Miaoli      1-7  
 7280          1500-1600       TWN * SOH Xi Wang Zhi Sheng  Can Miaoli      1-7  
 7285          1300-1400       CHN CHINA RADIO INTERNATIONA Mon Beijing 572 1-7  
@@ -2130,8 +2112,6 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 7290          1815-1845       ROU NEXUS-IBA World of Radio Eng Saftica     6    
 7290          1830-1900       ROU NEXUS-IBA Wave Scan      Eng Saftica     3    
 7295          1900-2100       TKS CHINA RADIO INTERNATIONA Eng Kashi-Saiba 1-7  
-7295          0310-0530       TKS PBS Xinjiang             Kyr Urumqi      1-7  
-7295          1010-1230       TKS PBS Xinjiang             Kyr Urumqi      1-7  
 7300          2200-2257       TKS CHINA RADIO INTERNATIONA Esp Kashi-Saiba 1-7  
 7300          1500-1600       CHN CNR 1 Jamming            Chi Baoji-Sifan 1-7  
 7300          2100-2115       G   HCJB Radio Akhbar Mufrih Ara Woofferton  1-7  
@@ -2146,13 +2126,8 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 7305          0100-0130       CVA VATICAN RADIO            Por Santa Maria 1-7  
 7305          0130-0200       CVA VATICAN RADIO            Spa Santa Maria 1-7  
 7310          1820-1920       IRN VO ISLAMIC REP.IRAN      Alb Sirjan      1-7  
-7310          0030-0305       TKS PBS Xinjiang             Chi Urumqi      1-7  
-7310          1230-1400       TKS PBS Xinjiang             Chi Urumqi      1-7  
-7310          1400-1800       TKS PBS Xinjiang             Chi Urumqi      1-7  
-7310          2310-2400       TKS PBS Xinjiang             Chi Urumqi      1-7  
-7310          0000-0030       TKS PBS Xinjiang (CNR1)      Chi Urumqi      1-7  
-7310          1200-1230       TKS PBS Xinjiang (CNR1)      Chi Urumqi      1-7  
 7310          0000-2359       TWN SOH Xi Wang Zhi Sheng    Chi Miaoli      1-7  
+7310          1400-1800       TKS PBS Xinjiang             Chi Urumqi      1-7  
 7315          1600-1657       CHN CHINA RADIO INTERNATIONA Vie Kunming-Ann 1-7  
 7315          1100-1605       CHN CNR 2-China Business Rad Chi Xianyang 59 1-7  
 7315          2055-0100       CHN CNR 2-China Business Rad Chi Xianyang 59 1-7  
@@ -2183,11 +2158,13 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 7335          1000-1400       USA R.MARTI                  Spa Greenville  1-7  
 7340          1200-1458       TWN National Unity Radio     Kor Tamsui Dist 1-7  
 7340          1800-1857       TKS CHINA RADIO INTERNATIONA Ita Kashi-Saiba 1-7  
-7340          0328-0800       TKS PBS Xinjiang             Kaz Urumqi      1-7  
-7340          0900-1100       TKS PBS Xinjiang             Kaz Urumqi      124-7
-7340          1130-1155       TKS PBS Xinjiang             Kaz Urumqi      1-7  
-7340          0800-0900       TKS PBS Xinjiang (CNR17)     Kaz Urumqi      124-7
-7340          1100-1130       TKS PBS Xinjiang (CNR17)     Kaz Urumqi      23456
+7340          2307-0500       TKS PBS Xinjiang             Kaz Urumqi      1-7  
+7340          0500-0600       TKS PBS Xinjiang             Chi Urumqi      1-7  
+7340          0600-0800       TKS PBS Xinjiang             Kaz Urumqi      1-7  
+7340          0800-1100       TKS PBS Xinjiang             Kaz Urumqi      124-7
+7340          1100-1400       TKS PBS Xinjiang             Kaz Urumqi      1-7  
+7340          1400-1500       TKS PBS Xinjiang             Kaz Urumqi      1-7  
+7340          1500-1800       TKS PBS Xinjiang             Kaz Urumqi      1-7  
 7345          2030-2130       TKS CHINA RADIO INTERNATIONA Ita Kashi-Saiba 1-7  
 7345          1100-1805       CHN CNR 7 Radio The Great Ba Can Huhhot 694  1-7  
 7345          2055-2400       CHN CNR 7 Radio The Great Ba Can Huhhot 694  1-7  
@@ -2627,12 +2604,12 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 9470          1400-1428       TWN New Korean Hope Radio    Kor Tamsui Dist 357  
 9470          1659-1757       CHN CHINA RADIO INTERNATIONA Rus Baoji-Xinji 1-7  
 9470          2300-0100       CHN CHINA RADIO INTERNATIONA Mon Xianyang 59 1-7  
-9470          0348-0800       TKS PBS Xinjiang             Kaz Urumqi      1-7  
-9470          0900-1100       TKS PBS Xinjiang             Kaz Urumqi      124-7
-9470          1130-1152       TKS PBS Xinjiang             Kaz Urumqi      1-7  
-9470          0800-0900       TKS PBS Xinjiang (CNR17)     Kaz Urumqi      124-7
-9470          1100-1130       TKS PBS Xinjiang (CNR17)     Kaz Urumqi      23456
 9470          1800-1900       EGY R.CAIRO                  Ita Abis        1-7  
+9470          0348-0500       TKS PBS Xinjiang             Kaz Urumqi      1-7  
+9470          0500-0600       TKS PBS Xinjiang             Chi Urumqi      1-7  
+9470          0600-0800       TKS PBS Xinjiang             Kaz Urumqi      1-7  
+9470          0800-1100       TKS PBS Xinjiang             Kaz Urumqi      124-7
+9470          1100-1152       TKS PBS Xinjiang             Kaz Urumqi      1-7  
 9475          1400-2400       USA WTWW                     Eng Lebanon TN  1-7  
 9480          1800-1957       CHN CHINA RADIO INTERNATIONA Fre Xianyang 59 1-7  
 9480          1100-1400       CHN CNR 11                   Tib Dongfang Ha 1-7  
@@ -2673,9 +2650,10 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 9510          0830-0900       ROU NEXUS-IBA UNR            Eng Saftica     7    
 9510          1100-1130       ROU NEXUS-IBA Wave Scan      Eng Saftica     1    
 9510          1030-1100       ROU NEXUS-IBA World of Radio Eng Saftica     1    
-9510          0500-1030       TKS PBS Xinjiang             Mon Urumqi      1-7  
-9510          0700-0800       TKS PBS Xinjiang (CNR8)      Mon Urumqi      1-7  
 9510          0430-0457       ROU R.ROMANIA INT.           Rus Tiganesti   1-7  
+9510          0510-0700       TKS PBS Xinjiang             Mon Urumqi      1-7  
+9510          0700-0800       TKS PBS Xinjiang (CNR8)      Mon Urumqi      1-7  
+9510          0800-1030       TKS PBS Xinjiang             Mon Urumqi      1-7  
 9515          1900-1930       CHN CHINA RADIO INTERNATIONA Cze Shijiazhuan 1-7  
 9515          0900-1605       CHN CNR 2-China Business Rad Chi Beijing 491 1-7  
 9515          2055-2400       CHN CNR 2-China Business Rad Chi Beijing 491 1-7  
@@ -2736,12 +2714,12 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 9560          1800-1900       CHN CHINA RADIO INTERNATIONA Rus Beijing 572 1-7  
 9560          1900-1927       TKS CHINA RADIO INTERNATIONA Hun Urumqi Hutu 1-7  
 9560          1400-1420       J   NHK WORLD RADIO JAPAN    Chi Ibaragi-Kog 1-7  
-9560          0252-0600       TKS PBS Xinjiang             Uyg Urumqi      1-7  
-9560          0630-0800       TKS PBS Xinjiang             Uyg Urumqi      124-7
-9560          0800-0900       TKS PBS Xinjiang             Chi Urumqi      1-7  
+9560          0245-0600       TKS PBS Xinjiang             Uyg Urumqi      1-7  
+9560          0600-0700       TKS PBS Xinjiang (CNR13)     Uyg Urumqi      1-7  
+9560          0700-0800       TKS PBS Xinjiang             Uyg Urumqi      1-7  
+9560          0800-0900       TKS PBS Xinjiang             Chi Urumqi      124-7
 9560          0900-1100       TKS PBS Xinjiang             Uyg Urumqi      124-7
-9560          1100-1200       TKS PBS Xinjiang             Uyg Urumqi      1-7  
-9560          0600-0630       TKS PBS Xinjiang (CNR13)     Uyg Urumqi      1-7  
+9560          1100-1203       TKS PBS Xinjiang             Uyg Urumqi      1-7  
 9570          1100-1157       CHN CHINA RADIO INTERNATIONA Can Kunming-Ann 1-7  
 9570          1200-1250       CUB CHINA RADIO INTERNATIONA Can Quivican    1-7  
 9570          1500-1527       TKS CHINA RADIO INTERNATIONA Per Urumqi Hutu 1-7  
@@ -2797,9 +2775,14 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 9600          1500-1527       TKS CHINA RADIO INTERNATIONA Per Kashi-Saiba 1-7  
 9600          1800-1857       CHN CHINA RADIO INTERNATIONA Eng Beijing 572 1-7  
 9600          2000-2200       TKS CHINA RADIO INTERNATIONA Eng Kashi-Saiba 1-7  
-9600          0305-0800       TKS PBS Xinjiang             Chi Urumqi      1-7  
+9600          2315-2400       TKS PBS Xinjiang             Chi Urumqi      1-7  
+9600          0000-0030       TKS PBS Xinjiang (CNR1)      Chi Urumqi      1-7  
+9600          0030-0308       TKS PBS Xinjiang             Chi Urumqi      1-7  
+9600          0308-0800       TKS PBS Xinjiang             Chi Urumqi      1-7  
 9600          0800-1100       TKS PBS Xinjiang             Chi Urumqi      124-7
 9600          1100-1200       TKS PBS Xinjiang             Chi Urumqi      1-7  
+9600          1200-1230       TKS PBS Xinjiang (CNR1)      Chi Urumqi      1-7  
+9600          1230-1400       TKS PBS Xinjiang             Chi Urumqi      1-7  
 9605          1558-1657       CHN CHINA RADIO INTERNATIONA Rus Beijing 572 1-7  
 9605          1657-1757       CHN CHINA RADIO INTERNATIONA Rus Shijiazhuan 1-7  
 9610          0000-0100       CHN CHINA RADIO INTERNATIONA Hak Kunming-Ann 1-7  
@@ -2948,11 +2931,11 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 9700          1651-1958       NZL R.NEW ZEALAND INT.       Eng Rangitaiki  7    
 9705          2000-2030       CVA VATICAN RADIO            Eng Santa Maria 1-7  
 9705          2030-2058       CVA VATICAN RADIO            Fre Santa Maria 1-7  
-9705          0310-0530       TKS PBS Xinjiang             Kyr Urumqi      1-7  
-9705          1010-1230       TKS PBS Xinjiang             Kyr Urumqi      1-7  
 9705          0900-1000       TWN VORW Radio International Eng Paochung    5    
 9705          1330-1357       TWN Furusato no kaze         Jpn Paochung    1-7  
 9705          1430-1458       TWN Furusato no kaze         Jpn Paochung    1-7  
+9705          0305-0530       TKS PBS Xinjiang             Kyr Urumqi      1-7  
+9705          1005-1230       TKS PBS Xinjiang             Kyr Urumqi      1-7  
 9710          2358-0100       TKS CHINA RADIO INTERNATIONA Por Kashi-Saiba 1-7  
 9710          1100-1805       CHN CNR 1 Voice of China     Chi Shijiazhuan 1-7  
 9710          2025-2330       CHN CNR 1 Voice of China     Chi Shijiazhuan 1-7  
@@ -3122,6 +3105,9 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 9830          2215-2330       EGY R.CAIRO                  Por Abis        1-7  
 9835          0000-2400       MLA RTM Sarawak FM           Mal Kajang      1-7  
 9835          1253-1420       IRN VO ISLAMIC REP.IRAN      Urd Sirjan      1-7  
+9835          0257-0800       TKS PBS Xinjiang             Chi Urumqi      1-7  
+9835          0800-1100       TKS PBS Xinjiang             Chi Urumqi      124-7
+9835          1100-1200       TKS PBS Xinjiang             Chi Urumqi      1-7  
 9840          1000-1030       VTN VOICE OF VIETNAM         Eng Hanoi-Sonta 1-7  
 9840          1030-1100       VTN VOICE OF VIETNAM         Ind Hanoi-Sonta 1-7  
 9840          1100-1130       VTN VOICE OF VIETNAM         Jpn Hanoi-Sonta 1-7  
@@ -3196,7 +3182,6 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 9885          2330-0045       EGY R.CAIRO                  Ara Abis        1-7  
 9890          1000-1100       CHN CHINA RADIO INTERNATIONA Chi Xianyang 59 1-7  
 9890          1400-1500       CHN CNR 13                   Uyg Beijing 572 1-7  
-
 9890          1500-1600       CHN CNR 13                   Chi Beijing 572 1-7  
 9890          1600-1805       CHN CNR 13                   Uyg Beijing 572 1-7  
 9890          1900-2000       EGY R.CAIRO                  Rus Abis        1-7  
@@ -3211,6 +3196,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 9898          1309-1332       UZB * VOICE OF TIBET         Tib Tashkent    1-7  
 9900          0045-0200       EGY R.CAIRO                  Spa Abis        1-7  
 9900          1300-1327       TWN                          Kor Paochung    1-7  
+
 9900          1330-1345       TWN RADIO FREE ASIA          Kor Paochung    35   
 9900          1330-1345       TWN RADIO FREE ASIA          Kor Paochung    246  
 9900          1330-1345       TWN RADIO FREE ASIA          Kor Paochung    17   
@@ -3662,9 +3648,13 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 11770         0100-0157       CHN CHINA RADIO INTERNATIONA Chi Nanning 954 1-7  
 11770         0100-0300       TKS CHINA RADIO INTERNATIONA Eng Kashi-Saiba 1-7  
 11770         2000-2200       CHN CHINA RADIO INTERNATIONA Eng Xianyang 59 1-7  
-11770         0250-0800       TKS PBS Xinjiang             Chi Urumqi      1-7  
+11770         2315-2400       TKS PBS Xinjiang             Chi Urumqi      1-7  
+11770         0000-0030       TKS PBS Xinjiang (CNR1)      Chi Urumqi      1-7  
+11770         0030-0800       TKS PBS Xinjiang             Chi Urumqi      1-7  
 11770         0800-1100       TKS PBS Xinjiang             Chi Urumqi      124-7
 11770         1100-1200       TKS PBS Xinjiang             Chi Urumqi      1-7  
+11770         1200-1230       TKS PBS Xinjiang (CNR1)      Chi Urumqi      1-7  
+11770         1230-1800       TKS PBS Xinjiang             Chi Urumqi      1-7  
 11775         2131-1730       TWN * SOH Xi Wang Zhi Sheng  Chi Miaoli      1-7  
 11775         1800-1957       TKS CHINA RADIO INTERNATIONA Ger Kashi-Saiba 1-7  
 11775         1000-1100       CHN CNR 6                    Hak Nanning 954 1-7  
@@ -3805,12 +3795,6 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 11880         1900-2000       CUB R.HABANA CUBA            Eng Bauta       1-7  
 11880         2000-2030       CUB R.HABANA CUBA            Fre Bauta       1-7  
 11880         2200-2300       CUB R.HABANA CUBA            Eng Bauta       1-7  
-11885         0245-0600       TKS PBS Xinjiang             Uyg Urumqi      1-7  
-11885         0600-0630       TKS PBS Xinjiang (CNR13)     Uyg Urumqi      1-7  
-11885         0630-0800       TKS PBS Xinjiang             Uyg Urumqi      1-7  
-11885         0800-0900       TKS PBS Xinjiang             Chi Urumqi      1-7  
-11885         0900-1100       TKS PBS Xinjiang             Uyg Urumqi      124-7
-11885         1100-1210       TKS PBS Xinjiang             Uyg Urumqi      1-7  
 11885         2155-0100       J   NHK WORLD RADIO JAPAN    Jpn Ibaragi-Kog 1-7  
 11885         1000-1200       CHN CNR 1 Jamming            Chi Fujiang     1-7  
 11885         1000-1200       TWN * R.TAIWAN INT.          Chi Paochung    1-7  
@@ -3827,6 +3811,13 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 11885         2030-2100       VTN VOICE OF VIETNAM         Fre Hanoi-Sonta 1-7  
 11885         2100-2130       VTN VOICE OF VIETNAM         Spa Hanoi-Sonta 1-7  
 11885         2130-2200       VTN VOICE OF VIETNAM         Eng Hanoi-Sonta 1-7  
+11885         2315-0600       TKS PBS Xinjiang             Uyg Urumqi      1-7  
+11885         0600-0700       TKS PBS Xinjiang (CNR13)     Uyg Urumqi      1-7  
+11885         0700-0800       TKS PBS Xinjiang             Uyg Urumqi      1-7  
+11885         0800-0900       TKS PBS Xinjiang             Chi Urumqi      124-7
+11885         1100-1400       TKS PBS Xinjiang             Uyg Urumqi      1-7  
+11885         1400-1430       TKS PBS Xinjiang (CNR13)     Uyg Urumqi      1-7  
+11885         1430-1800       TKS PBS Xinjiang             Uyg Urumqi      1-7  
 11895         0500-0900       TKS CHINA RADIO INTERNATIONA Eng Kashi-Saiba 1-7  
 11895         0900-1000       CHN CHINA RADIO INTERNATIONA Chi Nanning 954 1-7  
 11895         0900-1000       CHN CHINA RADIO INTERNATIONA Chi Nanning 954 1-7  
@@ -3935,6 +3926,8 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 11975         1700-1957       ROU R.ROMANIA INT.           Rom Galbeni-Bac 1-7  
 11975         2000-2027       ROU R.ROMANIA INT.           Fre Galbeni-Bac 1-7  
 11975         2030-2057       ROU R.ROMANIA INT.           Eng Galbeni-Bac 1-7  
+11975         0305-0530       TKS PBS Xinjiang             Kyr Urumqi      1-7  
+11975         1005-1230       TKS PBS Xinjiang             Kyr Urumqi      1-7  
 11980         0100-0200       CHN CHINA RADIO INTERNATIONA Amo Kunming-Ann 1-7  
 11980         0900-1057       CHN CHINA RADIO INTERNATIONA Chi Kunming-Ann 1-7  
 11980         1200-1357       CHN CHINA RADIO INTERNATIONA Eng Kunming-Ann 1-7  
@@ -4163,14 +4156,14 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 13670         0500-0600       CHN CNR 6                    Hak Nanning 954 1-7  
 13670         0600-0900       CHN CNR 6                    Hak Nanning 954 5-3  
 13670         0900-1000       CHN CNR 6                    Hak Nanning 954 1-7  
-13670         0257-0600       TKS PBS Xinjiang             Uyg Urumqi      1-7  
-13670         0630-0800       TKS PBS Xinjiang             Uyg Urumqi      1-7  
-13670         0800-0900       TKS PBS Xinjiang             Chi Urumqi      1-7  
-13670         0900-1100       TKS PBS Xinjiang             Uyg Urumqi      124-7
-13670         1100-1227       TKS PBS Xinjiang             Uyg Urumqi      1-7  
-13670         0600-0630       TKS PBS Xinjiang (CNR13)     Uyg Urumqi      1-7  
 13670         1900-2000       MDG World Christian Broadc.  Ara Mahajanga 3 1-7  
 13670         1800-1900       MDG World Christian Broadc.A Eng Mahajanga 3 1-7  
+13670         0200-0600       TKS PBS Xinjiang             Uyg Urumqi      1-7  
+13670         0600-0700       TKS PBS Xinjiang (CNR13)     Uyg Urumqi      1-7  
+13670         0700-0800       TKS PBS Xinjiang             Uyg Urumqi      1-7  
+13670         0800-0900       TKS PBS Xinjiang             Chi Urumqi      124-7
+13670         0900-1100       TKS PBS Xinjiang             Uyg Urumqi      124-7
+13670         1100-1400       TKS PBS Xinjiang             Uyg Urumqi      1-7  
 13680         2130-1300       TWN * SOH Xi Wang Zhi Sheng  Chi Miaoli      1-7  
 13685         1300-1400       MLI CHINA RADIO INTERNATIONA Fre Bamako II   1-7  
 13685         1430-1600       MLI CHINA RADIO INTERNATIONA Eng Bamako II   1-7  
@@ -4470,8 +4463,10 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 15280         1530-1557       ROU R.ROMANIA INT.           Ara Galbeni-Bac 1-7  
 15280         1500-1530       MDG BBC                      Ara Talata-Volo 12345
 15280         0655-0950       J   NHK WORLD RADIO JAPAN    Jpn Ibaragi-Kog 1-7  
+15280         2100-1700       TWN * SOH Xi Wang Zhi Sheng  Chi Miaoli      1-7  
 15295         1200-1400       OMA BBC                      Eng Al Seela    1-7  
 15295         0000-2400       MLA RTM Nasional FM          Mal Kajang      1-7  
+15295         2300-1700       TWN * SOH Xi Wang Zhi Sheng  Chi Miaoli      1-7  
 15300         1430-1500       D   BIBLE VOICE BCN          Nue Nauen       1-7  
 15300         0400-0500       F   R.FRANCE INT.            Fre Issoudun    1-7  
 15300         0500-0600       F   R.FRANCE INT.            Fre Issoudun    1-7  
