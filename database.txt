@@ -2,6 +2,7 @@ A26 Shortwave Frequecy List  May 15  2026,  1300 UTC   Day 1 = Sunday
 kHz           Time(UTC)       ITU Station                Lang. Location    Days 
 +-------------+---------+-----+---+------------------------+---+-----------+----
 
+1             0000-2400       I   v1.7 Update              -               1-7  
 40            0000-2400       J   Time Signal              A1B Otakadoyama 1-7  
 60            0000-2400       J   Time Signal              A1B Haganeyama  1-7  
 60            0000-2400       USA WWVB                     PWM Colorado De 1-7  
