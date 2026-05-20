@@ -1,4 +1,4 @@
-A26 Shortwave Frequecy List  May 15  2026,  1300 UTC   Day 1 = Sunday
+A26 Shortwave Frequecy List  May 20 2026,  1000 UTC   Day 1 = Sunday
 kHz           Time(UTC)       ITU Station                Lang. Location    Days 
 +-------------+---------+-----+---+------------------------+---+-----------+----
 
@@ -1467,11 +1467,11 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 5935          1300-1400       D   Welle 370                Ger Nauen       1    
 5935          2300-0600       USA WWCR NASHVILLE           Eng Nashville   1-7  
 5935          0600-1300       USA WWCR The Overcomer Minis Eng Nashville   1-7  
-5935          1300-1330       J   Shiokaze (Sea-breeze)    Jpn Ibaragi-Kog 267  
-5935          1300-1400       J   Shiokaze (Sea-breeze)    Kor Ibaragi-Kog 35   
-5935          1300-1400       J   Shiokaze (Sea-breeze)    Eng Ibaragi-Kog 4    
-5935          1300-1400       J   Shiokaze (Sea-breeze)    Jpn Ibaragi-Kog 1    
-5935          1330-1400       J   Shiokaze (Sea-breeze)    Kor Ibaragi-Kog 267  
+5935          1600-1630       J   Shiokaze (Sea-breeze)    Jpn Ibaragi-Kog 267  
+5935          1600-1700       J   Shiokaze (Sea-breeze)    Kor Ibaragi-Kog 35   
+5935          1600-1700       J   Shiokaze (Sea-breeze)    Eng Ibaragi-Kog 4    
+5935          1600-1700       J   Shiokaze (Sea-breeze)    Jpn Ibaragi-Kog 1    
+5935          1630-1700       J   Shiokaze (Sea-breeze)    Kor Ibaragi-Kog 267  
 5940          0400-0600       ETH R.Deegaanka Soomaalida   Som Jijiga      1-7  
 5940          1300-1500       ETH R.Deegaanka Soomaalida   Som Jijiga      1-7  
 5940          1800-2000       ETH R.Deegaanka Soomaalida   Som Jijiga      1-7  
@@ -1533,7 +1533,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 5975          1400-1505       CHN CNR 8                    Chi Beijing 491 1-7  
 5980          2100-2200       DNK Radio OZ-Viola           Dan Hilleroed   4    
 5980          1600-2000       FIN Scandinav.Weekend R.     Fin Virrat      7    
-5980          1705-1805       J   Shiokaze (Sea-breeze)    Jpn Ibaragi-Kog 1-7  
+5980          1405-1435       J   Shiokaze (Sea-breeze)    Jpn Ibaragi-Kog 1-7  
 5985          1130-1158       CHN CHINA RADIO INTERNATIONA Fil Beijing 572 1-7  
 5985          1600-1657       CHN CHINA RADIO INTERNATIONA Swa Beijing 572 1-7  
 5985          1700-1757       CHN CHINA RADIO INTERNATIONA Swa Beijing 572 1-7  
@@ -1694,6 +1694,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 6065          1500-1600       MDG Adventist World Radio    Mal Talata-Volo 1-7  
 6065          1200-1605       CHN CNR 2-China Business Rad Chi Beijing 491 1-7  
 6065          2055-2230       CHN CNR 2-China Business Rad Chi Beijing 491 1-7  
+6065          1950-2050       J   Shiokaze (Sea-breeze)    Jpn Ibaragi-Kog 1-7  
 6070          1200-1300       D   Alt Universe Top 40      Eng Rohrbach Wa 7    
 6070          1300-1400       D   Atlantic 2000 Internatio Fre Rohrbach Wa 7    
 6070          0000-2400       CAN CFRX Toronto             Eng Toronto     1-7  
@@ -1843,11 +1844,6 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 6160          0200-2300       USA WBCQ The Overcomer Minis Eng Monticello  23456
 6160          0400-2300       USA WBCQ The Overcomer Minis Eng Monticello  17   
 6160          0300-0330       USA WBCQ World of Radio      Eng Monticello  2    
-6165          1600-1630       J   Shiokaze (Sea-breeze)    Jpn Ibaragi-Kog 267  
-6165          1600-1700       J   Shiokaze (Sea-breeze)    Kor Ibaragi-Kog 35   
-6165          1600-1700       J   Shiokaze (Sea-breeze)    Eng Ibaragi-Kog 4    
-6165          1600-1700       J   Shiokaze (Sea-breeze)    Jpn Ibaragi-Kog 1    
-6165          1630-1700       J   Shiokaze (Sea-breeze)    Kor Ibaragi-Kog 267  
 6165          1600-1657       TKS CHINA RADIO INTERNATIONA Tur Urumqi Hutu 1-7  
 6165          1700-1757       CHN CHINA RADIO INTERNATIONA Eng Beijing 572 1-7  
 6165          0900-1100       CHN CNR 6                    Hak Beijing 491 1-7  
@@ -2111,6 +2107,11 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 7290          1800-1900       ROU NEXUS-IBA Radio Rasant   Eng Saftica     6    
 7290          1815-1845       ROU NEXUS-IBA World of Radio Eng Saftica     6    
 7290          1830-1900       ROU NEXUS-IBA Wave Scan      Eng Saftica     3    
+7295          1300-1330       J   Shiokaze (Sea-breeze)    Jpn Ibaragi-Kog 267  
+7295          1300-1400       J   Shiokaze (Sea-breeze)    Kor Ibaragi-Kog 35   
+7295          1300-1400       J   Shiokaze (Sea-breeze)    Eng Ibaragi-Kog 4    
+7295          1300-1400       J   Shiokaze (Sea-breeze)    Jpn Ibaragi-Kog 1    
+7295          1330-1400       J   Shiokaze (Sea-breeze)    Kor Ibaragi-Kog 267  
 7295          1900-2100       TKS CHINA RADIO INTERNATIONA Eng Kashi-Saiba 1-7  
 7300          2200-2257       TKS CHINA RADIO INTERNATIONA Esp Kashi-Saiba 1-7  
 7300          1500-1600       CHN CNR 1 Jamming            Chi Baoji-Sifan 1-7  
@@ -2133,12 +2134,12 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 7315          2055-0100       CHN CNR 2-China Business Rad Chi Xianyang 59 1-7  
 7315          0330-0400       MDG JRC Radio Dabanga        Dar Talata-Volo 3456 
 7315          0400-0430       CVA JRC Radio Tamazui        Jub Santa Maria 3456 
+7320          1705-1805       J   Shiokaze (Sea-breeze)    Jpn Ibaragi-Kog 1-7  
 7320          0200-0215       UAE FEBA Radio Pakistan      Urd Al-Dhabbiya 1-7  
 7320          0215-0230       UAE FEBA Radio Pakistan      Bal Al-Dhabbiya 234  
 7320          0215-0230       UAE FEBA Radio Pakistan      Sin Al-Dhabbiya 567  
 7320          0215-0230       UAE FEBA Radio Pakistan      Urd Al-Dhabbiya 1    
 7320          0230-0300       UAE FEBA Radio Pakistan      Pas Al-Dhabbiya 6    
-7325          1405-1435       J   Shiokaze (Sea-breeze)    Jpn Ibaragi-Kog 1-7  
 7325          1820-1920       IRN VO ISLAMIC REP.IRAN      Alb Sirjan      1-7  
 7325          1000-1257       CHN CHINA RADIO INTERNATIONA Jpn Jinhua 831  1-7  
 7325          1300-1357       CHN CHINA RADIO INTERNATIONA Jpn Xianyang 59 1-7  
@@ -2236,7 +2237,6 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 7415          1900-1930       TKS CHINA RADIO INTERNATIONA Cze Urumqi Hutu 1-7  
 7415          1930-1957       TKS CHINA RADIO INTERNATIONA Cze Urumqi Hutu 1-7  
 7415          2000-2200       TKS CHINA RADIO INTERNATIONA Eng Kashi-Saiba 1-7  
-7420          1950-2050       J   Shiokaze (Sea-breeze)    Jpn Ibaragi-Kog 1-7  
 7420          1700-1800       CHN CHINA RADIO INTERNATIONA Eng Kunming-Ann 1-7  
 7420          0200-0600       CHN PBS Nei Menggu           Chi Hohhot 839  1-7  
 7420          0200-0600       CHN PBS Nei Menggu           Chi Hohhot 839  1-7  
@@ -3196,7 +3196,6 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 9898          1309-1332       UZB * VOICE OF TIBET         Tib Tashkent    1-7  
 9900          0045-0200       EGY R.CAIRO                  Spa Abis        1-7  
 9900          1300-1327       TWN                          Kor Paochung    1-7  
-
 9900          1330-1345       TWN RADIO FREE ASIA          Kor Paochung    35   
 9900          1330-1345       TWN RADIO FREE ASIA          Kor Paochung    246  
 9900          1330-1345       TWN RADIO FREE ASIA          Kor Paochung    17   
@@ -3972,6 +3971,8 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 12025         1258-1357       CHN CHINA RADIO INTERNATIONA Kor Xianyang 59 1-7  
 12025         1400-1500       TKS CHINA RADIO INTERNATIONA Chi Urumqi Hutu 1-7  
 12030         0000-1200       HOL Radio Delta Internationa Dut Elburg      1-7  
+12040         1430-1700       UAE RADIO FARDA              Per Al-Dhabbiya 1-7  
+12040         1700-2100       G   RADIO FARDA              Per Woofferton  1-7  
 12045         0600-0900       CHN CNR 1 Voice of China     Chi Beijing 572 124-7
 12045         0900-1200       CHN CNR 1 Voice of China     Chi Beijing 572 1-7  
 12045         2300-0600       CHN CNR 1 Voice of China     Chi Beijing 572 1-7  
@@ -3997,8 +3998,6 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 12070         1130-1157       CHN CHINA RADIO INTERNATIONA Fil Nanning 954 1-7  
 12070         2300-0100       PHL FEBC Radio Liangyou 1    Chi Iba         1-7  
 12070         0600-1300       KWT RADIO FARDA              Per Kuwait      1-7  
-12070         1430-1700       UAE RADIO FARDA              Per Al-Dhabbiya 1-7  
-12070         1700-2100       G   RADIO FARDA              Per Woofferton  1-7  
 12075         0700-0900       USA WINB DRM                 Eng Red Lion    23456
 12075         0700-1000       USA WINB DRM                 Eng Red Lion    1    
 12080         0000-0600       CHN CNR 2-China Business Rad Chi Baoji-Sifan 1-7  
