@@ -1,4 +1,4 @@
-A26 Shortwave Frequecy List  May 25 2026,  1400 UTC   Day 1 = Sunday
+A26 Shortwave Frequecy List  May 28 2026, 0600 UTC   Day 1 = Sunday
 kHz           Time(UTC)       ITU Station                Lang. Location    Days 
 +-------------+---------+-----+---+------------------------+---+-----------+----
 
@@ -1369,7 +1369,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 5850          0200-0300       USA WRMI Rosie's Retro Wave  Eng Okeechobee1 1    
 5850          0200-0300       USA WRMI Truth2Ponder with B Eng Okeechobee1 34   
 5850          0200-0300       USA WRMI Encore              Eng Okeechobee1 6    
-5850          0200-0300       USA WRMI VOSR Europe         Eng Okeechobee1 7    
+5850          0200-0300       USA WRMI VOSR International  Eng Okeechobee1 7    
 5850          0230-0300       USA WRMI Radio North. Europe Eng Okeechobee1 5    
 5850          0245-0300       USA WRMI Viva Miami          Spa Okeechobee1 2    
 5850          0300-0330       USA WRMI R.Slovakia Int.     Eng Okeechobee1 2-7  
@@ -2312,7 +2312,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 7490          0100-0200       USA WBCQ Voice of Revival    Eng Monticello  2    
 7490          2100-2130       USA WBCQ World of Radio      Eng Monticello  4    
 7490          1300-1600       USA WWCR NASHVILLE           Eng Nashville   1-7  
-7490          1430-2100       UZB ± RADIO FARDA            Per Tashkent    1-7  
+7490          1430-2100       UZB } RADIO FARDA            Per Tashkent    1-7  
 7505          2200-1600       USA WRNO                     Eng New Orleans 1-7  
 7510          1900-1930       MDA Voice of Spring(Sedoye B Per Grigoriopol 56   
 7520          0000-0300       USA WWCR NASHVILLE           Eng Nashville   1-7  
@@ -2470,7 +2470,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 9360          1400-2400       KWT RADIO FARDA              Per Kuwait      1-7  
 9360          0000-1400       KWT RADIO FARDA              Per Kuwait      1-7  
 9370          1630-1645       KWT VOA Ashna Radio          Dar Kuwait      1-7  
-9370          1645-1700       KWT VOA Ashna Radio          Pas Kuwait      1-7  
+9370          1700-1715       KWT VOA Ashna Radio          Pas Kuwait      1-7  
 9380          1744-1759       SWZ Trans World Radio        Tur Manzini     7    
 9390          1430-1500       TJK BBC                      Kor Dushanbe-Or 23456
 9390          1530-1600       TJK BBC                      Kor Dushanbe-Or 23456
@@ -2548,8 +2548,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 9425          1800-1857       KRE Voice of Korea           Ger Kujang      1-7  
 9425          1900-1957       KRE Voice of Korea           Ger Kujang      1-7  
 9425          2000-2050       KRE Voice of Korea (KCBS)    Kor Kujang      1-7  
-9430          0100-0130       UAE Democratic Voice of Burm Bur Al-Dhabbiya 1-7  
-9430          0030-0100       UAE Mizzima Media            Bur Al-Dhabbiya 1-7  
+9425          2000-0400       BUL Iran International TV    Per Kostinbrod( 1-7  
 9435          1300-1357       KRE Voice of Korea           Eng Kujang      1-7  
 9435          1400-1457       KRE Voice of Korea           Fre Kujang      1-7  
 9435          1500-1557       KRE Voice of Korea           Eng Kujang      1-7  
@@ -2586,7 +2585,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 9455          0100-0200       USA WRMI RAE Argentina to th Spa Okeechobee1 34567
 9455          0200-0300       USA WRMI Christian American  Eng Okeechobee1 34567
 9455          0300-0400       USA WRMI The Mighty KBC      Eng Okeechobee1 1    
-9455          0300-0400       USA WRMI VOSR Int.           Eng Okeechobee1 7    
+9455          0300-0400       USA WRMI VOSR International  Eng Okeechobee1 7    
 9455          0300-0400       USA WRMI WRN                 Eng Okeechobee1 23456
 9455          2300-2330       USA WRMI Shortwave Radiogram Eng Okeechobee1 7    
 9455          2300-2330       USA WRMI Wave Scan           Eng Okeechobee1 1    
@@ -2677,7 +2676,6 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 9525          1800-1900       OMA BBC                      Pas Al Seela    1-7  
 9525          1900-2057       CHN CHINA RADIO INTERNATIONA Rus Beijing 572 1-7  
 9525          1300-1400       TWN R.TAIWAN INT.            Tha Paochung    1-7  
-9525          2000-0400       BUL Iran International TV    Per Kostinbrod( 1-7  
 9530          1000-1600       LUX Radio Nova International Eng Junglinster 1    
 9530          2200-1500       TWN * SOH Xi Wang Zhi Sheng  Chi Miaoli      1-7  
 9535          0100-0157       TKS CHINA RADIO INTERNATIONA Eng Kashi-Saiba 1-7  
@@ -3196,7 +3194,6 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 9893          2305-2330       UZB * VOICE OF TIBET         Tib Tashkent    1-7  
 9893          2339-2400       UZB * VOICE OF TIBET         Tib Tashkent    1-7  
 9895          0230-0300       UAE IBRA MEDIA/R.Sadaye Zind Dar Al-Dhabbiya 1-7  
-
 9895          2000-2100       GUM KSDA-Adventist World R.G Kor Agat        1-7  
 9898          1309-1332       UZB * VOICE OF TIBET         Tib Tashkent    1-7  
 9900          2200-2400       CHN CNR 1 Jamming            Chi Dongfang Ha 1-7  
@@ -4815,6 +4812,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 15740         2144-1530       TWN * SOH Xi Wang Zhi Sheng  Chi Miaoli      1-7  
 15750         0900-1000       USA WINB DRM                 Eng Red Lion    7    
 15750         1500-2000       USA WINB DRM                 Eng Red Lion    23456
+15755         0400-1900       BUL Iran International TV    Per Kostinbrod( 1-7  
 15760         2130-1500       TWN * SOH Xi Wang Zhi Sheng  Chi Miaoli      1-7  
 15760         0002-0100       CHN CNR 1 Jamming            Chi Qiqihar 202 1-7  
 15760         0102-0200       CHN CNR 1 Jamming            Chi Qiqihar 202 1-7  
@@ -4833,17 +4831,19 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 15760         1403-1500       CHN CNR 1 Jamming            Chi Qiqihar 202 1-7  
 15760         2200-2300       CHN CNR 1 Jamming            Chi Qiqihar 202 1-7  
 15760         2303-0000       CHN CNR 1 Jamming            Chi Qiqihar 202 1-7  
-15765         0400-1900       BUL Iran International TV    Per Kostinbrod( 1-7  
 15770         0000-0030       USA WRMI R.Slovakia Int.     Slo Okeechobee9 1-7  
 15770         0030-0100       USA WRMI R.Slovakia Int.     Eng Okeechobee9 1-7  
-15770         0100-0400       USA WRMI Supreme Master TV   Eng Okeechobee9 1-7  
-15770         0400-0500       USA WRMI Radio Liberty       Rus Okeechobee9 2-7  
+15770         0100-0300       USA WRMI Supreme Master TV   Eng Okeechobee9 1-7  
+15770         0400-0430       USA WRMI Voice of Russia     Eng Okeechobee3 1    
+15770         0400-0500       USA WRMI Radio Liberty       Rus Okeechobee9 23456
+15770         0400-0500       USA WRMI VORW International  Eng Okeechobee9 7    
 15770         0430-0500       USA WRMI Wave Scan           Eng Okeechobee9 1    
 15770         0500-0600       USA WRMI Supreme Master TV   Eng Okeechobee9 1-7  
 15770         0600-0615       USA WRMI Radio for Peace Int Rus Okeechobee9 46   
 15770         0600-0630       USA WRMI R.Prague            Eng Okeechobee9 2    
 15770         0630-0700       USA WRMI R.Slovakia Int.     Spa Okeechobee9 1-7  
-15770         0700-1000       USA WRMI WRN                 Eng Okeechobee9 1-7  
+15770         0700-0800       USA WRMI WRN                 Eng Okeechobee9 1-7  
+15770         0800-1000       USA WRMI Supreme Master TV   Eng Okeechobee9 1-7  
 15770         1000-1100       USA WRMI E Bible Fellow Arab Ara Okeechobee9 1    
 15770         1000-1100       USA WRMI WRN                 Eng Okeechobee9 2-7  
 15770         1100-1130       USA WRMI Christian Crusaders Eng Okeechobee9 1    
@@ -4888,23 +4888,29 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 15770         1930-1945       USA WRMI Power of the Word   Eng Okeechobee9 7    
 15770         1930-2000       USA WRMI VOA Flashpoint Ukra Ukr Okeechobee9 23456
 15770         1945-2000       USA WRMI Ledbetter's Bible A Eng Okeechobee9 7    
+15770         2000-2015       USA WRMI New Beginning       Eng Okeechobee9 5    
 15770         2000-2030       USA WRMI Lighthouse Radio Bi Eng Okeechobee9 4    
-15770         2000-2100       USA World Radio Network      Eng Okeechobee9 2    
+15770         2000-2100       USA World E Bible Fellowship Rus Okeechobee9 2    
 15770         2000-2100       USA WRMI Encore              Eng Okeechobee9 6    
 15770         2000-2100       USA WRMI VORW Radio Internat Eng Okeechobee9 3    
-15770         2000-2100       USA WRMI Your Weekend Show   Eng Okeechobee9 1    
+15770         2000-2030       USA WRMI Your Weekend Show   Eng Okeechobee9 1    
 15770         2015-2030       USA WRMI CQ Calling          Spa Okeechobee9 5    
 15770         2030-2045       USA WRMI I Love Italy        Eng Okeechobee9 5    
 15770         2030-2045       USA WRMI Viva Miami          Spa Okeechobee9 7    
-15770         2030-2100       USA WRMI Wave Scan           Eng Okeechobee9 4    
+15770         2030-2100       USA WRMI Alameda Bible Fello Rus Okeechobee9 14   
 15770         2045-2100       USA WRMI I Love Italy        Eng Okeechobee9 7    
-15770         2045-2100       USA WRMI Viva Miami          Spa Okeechobee9 5    
+15770         2045-2100       USA WRMI Voice of Truth-Murd Spa Okeechobee9 5    
 15770         2100-2130       USA WRMI Martin Luther's Eve Eng Okeechobee9 2    
 15770         2100-2200       USA WRMI Christian Missionar Eng Okeechobee9 4    
 15770         2100-2200       USA WRMI La Rosa de Tokio    Spa Okeechobee9 5    
 15770         2100-2200       USA WRMI Underground Sounds  Ger Okeechobee9 1    
 15770         2200-2230       USA R.TAIWAN INT.            Spa Okeechobee9 1-7  
-15770         2230-2300       USA WRMI R.Prague            Eng Okeechobee9 1-7  
+15770         2230-2300       USA WRMI World of Radio      Eng Okeechobee9 7    
+15770         2230-2300       USA WRMI Wave Scan           Eng Okeechobee9 1    
+15770         2230-2300       USA WRMI R.Prague            Eng Okeechobee9 2-7  
+15770         2300-2400       USA World Radio Network      Eng Okeechobee9 235  
+15770         2300-2400       USA WRMI VOSR International  Eng Okeechobee9 7    
+15770         2300-2400       USA WRMI Greg Fishman Music  Eng Okeechobee9 1    
 15770         2300-2400       USA WRMI Classic Redneck Rad Eng Okeechobee9 1-7  
 15775         2130-1600       TWN * SOH Xi Wang Zhi Sheng  Chi Miaoli      1-7  
 15785         0000-2400       D   bit eXpress(DRM)         Ger Erlangen    1-7  
