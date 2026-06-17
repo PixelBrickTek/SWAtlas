@@ -1,4 +1,4 @@
-A26 Shortwave Frequecy List  June 9  2026,  0100 UTC   Day 1 = Sunday
+A26 Shortwave Frequecy List  June 16  2026,  1400 UTC   Day 1 = Sunday
 kHz           Time(UTC)       ITU Station                Lang. Location    Days 
 +-------------+---------+-----+---+------------------------+---+-----------+----
 
@@ -2316,13 +2316,12 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 7490          0100-0200       USA WBCQ Voice of Revival    Eng Monticello  2    
 7490          2100-2130       USA WBCQ World of Radio      Eng Monticello  4    
 7490          1300-1600       USA WWCR NASHVILLE           Eng Nashville   1-7  
-7490          1430-2100       UZB } RADIO FARDA            Per Tashkent    1-7  
 7505          2200-1600       USA WRNO                     Eng New Orleans 1-7  
-7510          1900-1930       MDA Voice of Spring(Sedoye B Per Grigoriopol 56   
+7510          1430-2100       UZB } RADIO FARDA            Per Tashkent    1-7  
 7515          1530-1600       UZB Voice of Martyrs         Kor Tashkent    1-7  
 7515          2100-2130       UZB Voice of Martyrs         Kor Tashkent    1-7  
 7520          0000-0300       USA WWCR NASHVILLE           Eng Nashville   1-7  
-7530          1930-2000       UZB Voice of Martyrs         Kor Tashkent    1-7  
+7540          1930-2000       UZB Voice of Martyrs         Kor Tashkent    1-7  
 7553          0830-0945       CHN Numbers Station 2        Chi             1-7  
 7570          0000-0100       USA WRMI VORW Radio Internat Eng Okeechobee5 7    
 7570          0100-0130       USA WRMI RAE Argentina to th Spa Okeechobee5 12   
@@ -3198,9 +3197,6 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 9900          0045-0200       EGY R.CAIRO                  Spa Abis        1-7  
 9900          1700-1900       EGY R.CAIRO                  Tur Abis        1-7  
 9900          1300-1327       TWN Living Water Ministry    Kor Paochung    1-7  
-9900          1330-1345       TWN RADIO FREE ASIA          Kor Paochung    35   
-9900          1330-1345       TWN RADIO FREE ASIA          Kor Paochung    246  
-9900          1330-1345       TWN RADIO FREE ASIA          Kor Paochung    17   
 9900          1500-1600       TWN Living Water Ministry    Kor Paochung    1-7  
 9900          2200-2400       TWN * R.TAIWAN INT.          Chi Tamsui Dist 1-7  
 9915          0600-0700       ASC BBC                      Eng Ascension   1-7  
@@ -4399,7 +4395,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 15185         0430-0600       IND ALL INDIA RADIO          Pas Bengaluru   1-7  
 15190         1730-2030       PHL R.PILIPINAS              Fil Tinang      1-7  
 15190         0000-2400       B   R.Inconfidencia          Por Belo Horizo 1-7  
-15195         0155-0450       J   NHK WORLD RADIO JAPAN    Jpn Ibaragi-Kog 1-7  
+15195         0200-0450       J   NHK WORLD RADIO JAPAN    Jpn Ibaragi-Kog 1-7  
 15195         0510-0530       J   NHK WORLD RADIO JAPAN    Kor Ibaragi-Kog 1-7  
 15195         0610-0630       J   NHK WORLD RADIO JAPAN    Chi Ibaragi-Kog 1-7  
 15195         0630-0650       J   NHK WORLD RADIO JAPAN    Kor Ibaragi-Kog 1-7  
@@ -4687,6 +4683,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 15520         2200-2230       E   R.EXTERIOR DE ESPANA     Por Noblejas    5    
 15520         2200-2230       E   R.EXTERIOR DE ESPANA     Eng Noblejas    4    
 15520         2230-2300       E   R.EXTERIOR DE ESPANA     Fre Noblejas    3    
+15520         0800-0857       ROU R.ROMANIA INT.           Rom Tiganesti   1    
 15525         0900-1057       TKS CHINA RADIO INTERNATIONA Chi Urumqi Hutu 1-7  
 15530         1130-1200       GUM KSDA-Adventist World R.G Shn Agat        1-7  
 15530         1200-1230       GUM KSDA-Adventist World R.G Amo Agat        12345
@@ -5188,7 +5185,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 17810         0930-1030       OMA BBC                      Pas Al Seela    1-7  
 17810         1030-1100       OMA BBC                      Dar Al Seela    1-7  
 17810         1100-1130       OMA BBC                      Pas Al Seela    1-7  
-17810         0155-0500       J   NHK WORLD RADIO JAPAN    Jpn Ibaragi-Kog 1-7  
+17810         0200-0500       J   NHK WORLD RADIO JAPAN    Jpn Ibaragi-Kog 1-7  
 17810         1530-1630       F   VORW Radio International Eng Issoudun    2    
 17815         1630-1700       F   PABC Tony Alamo Ministri Amh Issoudun    1    
 17815         0559-0700       OMA BBC DRM 11               Eng Al Seela    1-7  
@@ -5273,7 +5270,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 21490         1402-1500       CHN CNR 1 Jamming            Chi Dongfang Ha 1-7  
 21490         1502-1600       CHN CNR 1 Jamming            Chi Dongfang Ha 1-7  
 21490         1526-1500       TWN * SOH Xi Wang Zhi Sheng  Chi Miaoli      1-7  
-21500         0155-0400       J   NHK WORLD RADIO JAPAN    Jpn Ibaragi-Kog 1-7  
+21500         0200-0400       J   NHK WORLD RADIO JAPAN    Jpn Ibaragi-Kog 1-7  
 21500         0500-0520       J   NHK WORLD RADIO JAPAN    Fre Ibaragi-Kog 1-7  
 21500         0655-0900       J   NHK WORLD RADIO JAPAN    Jpn Ibaragi-Kog 1-7  
 21510         1100-1157       ROU R.ROMANIA INT.           Eng Galbeni-Bac 1-7  
