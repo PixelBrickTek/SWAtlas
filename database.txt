@@ -1,4 +1,4 @@
-A26 Shortwave Frequecy List  June 16  2026,  1400 UTC   Day 1 = Sunday
+A26 Shortwave Frequecy List  June 21  2026,  2300 UTC   Day 1 = Sunday
 kHz           Time(UTC)       ITU Station                Lang. Location    Days 
 +-------------+---------+-----+---+------------------------+---+-----------+----
 
@@ -2317,7 +2317,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 7490          2100-2130       USA WBCQ World of Radio      Eng Monticello  4    
 7490          1300-1600       USA WWCR NASHVILLE           Eng Nashville   1-7  
 7505          2200-1600       USA WRNO                     Eng New Orleans 1-7  
-7510          1430-2100       UZB } RADIO FARDA            Per Tashkent    1-7  
+7510          1430-2100       UZB }x RADIO FARDA           Per Tashkent    1-7  
 7515          1530-1600       UZB Voice of Martyrs         Kor Tashkent    1-7  
 7515          2100-2130       UZB Voice of Martyrs         Kor Tashkent    1-7  
 7520          0000-0300       USA WWCR NASHVILLE           Eng Nashville   1-7  
@@ -4113,6 +4113,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 13630         0900-1130       CHN CNR 2-China Business Rad Chi Nanning 954 1-7  
 13630         2110-1300       TWN SOH Xi Wang Zhi Sheng    Chi Miaoli      1-7  
 13635         0600-1255       TUR VOICE OF TURKEY          Tur Emirler     1-7  
+13635         1330-1354       TUR VOICE OF TURKEY          Kaz Emirler     1-7  
 13640         0100-0200       TKS CHINA RADIO INTERNATIONA Eng Kashi-Saiba 1-7  
 13640         0200-0257       TKS CHINA RADIO INTERNATIONA Eng Kashi-Saiba 1-7  
 13640         0400-0457       TKS CHINA RADIO INTERNATIONA Chi Kashi-Saiba 1-7  
@@ -4381,6 +4382,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 15160         1600-1657       ROU R.ROMANIA INT.           Rom Tiganesti   2-7  
 15170         0800-0857       ROU R.ROMANIA INT.           Rom Tiganesti   1    
 15170         2300-2357       ROU R.ROMANIA INT.           Spa Tiganesti   1-7  
+15170         1300-1500       ROU R.ROMANIA INT.           Rom Galbeni-Bac 1-7  
 15180         1100-1200       TKS CHINA RADIO INTERNATIONA Bul Kashi-Saiba 1-7  
 15180         1200-1300       TKS CHINA RADIO INTERNATIONA Ser Kashi-Saiba 1-7  
 15180         1700-1757       ROU R.ROMANIA INT.           Eng Tiganesti   1-7  
@@ -4539,6 +4541,23 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 15360         1630-1700       GUM KSDA-Adventist World R.G Sin Agat        1357 
 15360         1630-1700       GUM KSDA-Adventist World R.G Pas Agat        246  
 15360         1530-1557       ROU R.ROMANIA INT.           Ara Tiganesti   1-7  
+15360         0002-0100       CHN CNR 1 Jamming            Chi Qiqihar 202 1-7  
+15360         0102-0200       CHN CNR 1 Jamming            Chi Qiqihar 202 1-7  
+15360         0203-0300       CHN CNR 1 Jamming            Chi Qiqihar 202 1-7  
+15360         0302-0400       CHN CNR 1 Jamming            Chi Qiqihar 202 1-7  
+15360         0402-0500       CHN CNR 1 Jamming            Chi Qiqihar 202 1-7  
+15360         0502-0600       CHN CNR 1 Jamming            Chi Qiqihar 202 1-7  
+15360         0602-0700       CHN CNR 1 Jamming            Chi Qiqihar 202 1-7  
+15360         0702-0800       CHN CNR 1 Jamming            Chi Qiqihar 202 1-7  
+15360         0802-0900       CHN CNR 1 Jamming            Chi Qiqihar 202 1-7  
+15360         0902-1000       CHN CNR 1 Jamming            Chi Qiqihar 202 1-7  
+15360         1002-1100       CHN CNR 1 Jamming            Chi Qiqihar 202 1-7  
+15360         1102-1200       CHN CNR 1 Jamming            Chi Qiqihar 202 1-7  
+15360         1203-1300       CHN CNR 1 Jamming            Chi Qiqihar 202 1-7  
+15360         1302-1400       CHN CNR 1 Jamming            Chi Qiqihar 202 1-7  
+15360         1403-1500       CHN CNR 1 Jamming            Chi Qiqihar 202 1-7  
+15360         2200-2300       CHN CNR 1 Jamming            Chi Qiqihar 202 1-7  
+15360         2303-0000       CHN CNR 1 Jamming            Chi Qiqihar 202 1-7  
 15370         2330-0600       CHN x CNR 1 Voice of China   Chi Shijiazhuan 1-7  
 15370         0600-0900       CHN x CNR 1 Voice of China   Chi Shijiazhuan 124-7
 15370         0900-1100       CHN x CNR 1 Voice of China   Chi Shijiazhuan 1-7  
@@ -4804,29 +4823,16 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 15720         1000-1400       USA WINB DRM                 Eng Red Lion    23456
 15720         0830-0955       TUR VOICE OF TURKEY          Per Emirler     1-7  
 15730         2144-1530       TWN * SOH Xi Wang Zhi Sheng  Chi Miaoli      1-7  
+15730         0400-1900       BUL Iran International TV    Per Kostinbrod( 1-7  
 15735         1400-1500       USA WINB DRM                 Eng Red Lion    23456
 15740         2144-1530       TWN * SOH Xi Wang Zhi Sheng  Chi Miaoli      1-7  
 15750         0900-1000       USA WINB DRM                 Eng Red Lion    7    
 15750         1500-2000       USA WINB DRM                 Eng Red Lion    23456
-15755         0400-1900       BUL Iran International TV    Per Kostinbrod( 1-7  
 15760         2130-1500       TWN * SOH Xi Wang Zhi Sheng  Chi Miaoli      1-7  
-15760         0002-0100       CHN CNR 1 Jamming            Chi Qiqihar 202 1-7  
-15760         0102-0200       CHN CNR 1 Jamming            Chi Qiqihar 202 1-7  
-15760         0203-0300       CHN CNR 1 Jamming            Chi Qiqihar 202 1-7  
-15760         0302-0400       CHN CNR 1 Jamming            Chi Qiqihar 202 1-7  
-15760         0402-0500       CHN CNR 1 Jamming            Chi Qiqihar 202 1-7  
-15760         0502-0600       CHN CNR 1 Jamming            Chi Qiqihar 202 1-7  
-15760         0602-0700       CHN CNR 1 Jamming            Chi Qiqihar 202 1-7  
-15760         0702-0800       CHN CNR 1 Jamming            Chi Qiqihar 202 1-7  
-15760         0802-0900       CHN CNR 1 Jamming            Chi Qiqihar 202 1-7  
-15760         0902-1000       CHN CNR 1 Jamming            Chi Qiqihar 202 1-7  
-15760         1002-1100       CHN CNR 1 Jamming            Chi Qiqihar 202 1-7  
-15760         1102-1200       CHN CNR 1 Jamming            Chi Qiqihar 202 1-7  
-15760         1203-1300       CHN CNR 1 Jamming            Chi Qiqihar 202 1-7  
-15760         1302-1400       CHN CNR 1 Jamming            Chi Qiqihar 202 1-7  
-15760         1403-1500       CHN CNR 1 Jamming            Chi Qiqihar 202 1-7  
-15760         2200-2300       CHN CNR 1 Jamming            Chi Qiqihar 202 1-7  
-15760         2303-0000       CHN CNR 1 Jamming            Chi Qiqihar 202 1-7  
+15760         2022-0600       CHN CNR 1                    Chi Dongfang Ha 1-7  
+15760         0600-0900       CHN CNR 1                    Chi Dongfang Ha 124-7
+15760         0900-1300       CHN CNR 1                    Chi Dongfang Ha 1-7  
+15760         1300-1805       CHN CNR 1                    Chi Dongfang Ha 1-7  
 15770         0000-0030       USA WRMI R.Slovakia Int.     Slo Okeechobee9 1-7  
 15770         0030-0100       USA WRMI R.Slovakia Int.     Eng Okeechobee9 1-7  
 15770         0100-0300       USA WRMI Supreme Master TV   Eng Okeechobee9 1-7  
@@ -5073,7 +5079,6 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 17680         0530-0557       ROU R.ROMANIA INT. DRM E1001 Eng SNR Tiganes 1-7  
 17690         0000-0157       CHN CHINA RADIO INTERNATIONA Chi Xianyang 59 1-7  
 17690         0800-0857       ROU R.ROMANIA INT.           Rom Tiganesti   1    
-17690         1330-1355       TUR VOICE OF TURKEY          Kaz Emirler     1-7  
 17700         0100-0900       CHN Audio (DRM) 1 xHE AAC    Chi Qiqihar 202 1-7  
 17700         1600-1900       ASC BBC                      Hau Ascension   7    
 17700         1400-1415       MDG Trans World Radio        Bun Talata-Volo 7    
@@ -5146,7 +5151,6 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 17780         1000-1057       ROU R.ROMANIA INT.           Fre Tiganesti   1-7  
 17780         1700-1800       ASC BBC                      Eng Ascension   23456
 17780         1200-1227       ROU R.ROMANIA INT.           Ara Tiganesti   1-7  
-17780         1300-1500       ROU R.ROMANIA INT.           Rom Galbeni-Bac 1-7  
 17780         2300-1400       TWN * SOH Xi Wang Zhi Sheng  Chi Miaoli      1-7  
 17790         0500-0650       J   NHK WORLD RADIO JAPAN    Jpn Ibaragi-Kog 1-7  
 17790         0700-0757       ROU R.ROMANIA INT.           Rom Tiganesti   1    
@@ -6639,6 +6643,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 3325          2200-2300       INS Voice of Indonesia       Jpn             1-7  
 3325          2300-2400       INS Voice of Indonesia       Eng             1-7  
 3330          0000-2400       CAN CHU Ottawa               -TS             1-7  
+3330          0000-1410       CAN CHU Ottawa               -               22Jun
 3364          1410-0600       RUS The Squeaky Wheel        -               1-7  
 3364          1500-0500       RUS The Squeaky Wheel        -               1-7  
 3364          1545-0500       RUS The Squeaky Wheel        -               1-7  
@@ -6676,7 +6681,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 3560          1900-2000       KRE Voice of Korea           Spa             1-7  
 3560          2000-2100       KRE Voice of Korea           Fra             1-7  
 3560          2100-2200       KRE Voice of Korea           Eng             1-7  
-3560          2200-2300       KRE Voice of Korea           Spa             1-7  
+3560          2200-2300       KRE Voice of Korea           -               1-7  
 3585          1200-2400       KOR HLL Seoul Meteo Fax      -               1-7  
 3593.7        0000-2400       RUS Channel Marker D         -CW             1-7  
 3593.8        0000-2400       RUS Channel Marker P         -CW             1-7  
@@ -6685,7 +6690,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 3594.1        0000-2400       RUS Channel Marker A         -CW             1-7  
 3594.2        0000-2400       RUS Channel Marker F         -CW             1-7  
 3594.3        0000-2400       RUS Channel Marker K         -CW             1-7  
-3594.4        0000-2400       RUS Channel Marker M         -CW             1-7  
+3594.4        0000-2400       RUS Channel Marker M         -               1-7  
 3622.5        0000-2400       J   JMH Japan Meteo Fax      -               1-7  
 3673          0333-0343       HOL Netherlands Coastgd Wx   Eng             1-7  
 3673          0733-0743       HOL Netherlands Coastgd Wx   Eng             1-7  
@@ -6701,7 +6706,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 3756          1400-0530       RUS The Pip (Kaplya) Rostov  -TS             1-7  
 3756          1600-0430       RUS The Pip (Kaplya) Rostov  -TS             1-7  
 3756          1630-0430       RUS The Pip (Kaplya) Rostov  -TS             1-7  
-3756          1730-0300       RUS The Pip (Kaplya) Rostov  -TS             1-7  
+3756          1730-0300       RUS The Pip (Kaplya) Rostov  -               1-7  
 3850          1400-0530       RUS Baron Channel Marker     -               1-7  
 3850          1600-0430       RUS Baron Channel Marker     -               1-7  
 3850          1630-0430       RUS Baron Channel Marker     -               1-7  
@@ -6794,7 +6799,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 4212.5        0000-2400       CHN XSV Tianjin Radio        -TY             1-7  
 4215.5        0000-2400       CHN XSG Shanghai Radio       -TY             1-7  
 4216          0000-2400       TUR TAH Turk Radio Istanbul  -CW             1-7  
-4219          0000-2400       CHN XSQ Guangzhou Radio      -TY             1-7  
+4219          0000-2400       CHN XSQ Guangzhou Radio      -               1-7  
 4228          1115-1200       CHL CBV Valparaiso Met Fax   -               1-7  
 4228          1630-1715       CHL CBV Valparaiso Met Fax   -               1-7  
 4228          1915-2100       CHL CBV Valparaiso Met Fax   -               1-7  
@@ -6802,7 +6807,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 4235          0230-0505       USA NMF Fax Boston MA        -               1-7  
 4235          0745-1040       USA NMF Fax Boston MA        -               1-7  
 4259          0000-2400       CHN XSG Shanghai Radio       Cmn             1-7  
-4271          2200-1000       CAN CFH Halifax Radio        -TY             1-7  
+4271          2200-1000       CAN CFH Halifax Radio        -               1-7  
 4274          0700-0715       J   JFX Kagoshima Fish.Fax   -               3,6  
 4274          0730-0745       J   JFX Kagoshima Fish.Fax   -               3,6  
 4274          1100-1115       J   JFX Kagoshima Fish.Fax   -               1-7  
@@ -6821,12 +6826,12 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 4316          1530-1605       USA NMG USCG New Orleans     Eng             1-7  
 4316          1715-1750       USA NMG USCG New Orleans     Eng             1-7  
 4316          2130-2245       USA NMG USCG New Orleans     Eng             1-7  
-4316          2315-2350       USA NMG USCG New Orleans     Eng             1-7  
+4316          2315-2350       USA NMG USCG New Orleans     -               1-7  
 4317.9        0000-0305       USA NMG Fax New Orleans      -               1-7  
 4317.9        0600-0855       USA NMG Fax New Orleans      -               1-7  
 4317.9        1200-1505       USA NMG Fax New Orleans      -               1-7  
 4317.9        1800-2105       USA NMG Fax New Orleans      -               1-7  
-4331          0000-2400       ISR 4XZ Israeli Navy Haifa   -CW             1-7  
+4331          0000-2400       ISR 4XZ Israeli Navy Haifa   -               1-7  
 4346          0140-0415       USA NMC Fax Pt Reyes CA      -               1-7  
 4346          0655-1015       USA NMC Fax Pt Reyes CA      -               1-7  
 4346          1120-1235       USA NMC Fax Pt Reyes CA      -               1-7  
@@ -6865,7 +6870,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 4405          1700-1730       TUR TAH Turk Radio Istanbul  Tur             1-7  
 4405          1755-1820       TUR TAH Turk Radio Istanbul  Tur             1-7  
 4405          1820-1840       TUR TAH Turk Radio Istanbul  Eng             1-7  
-4414          0000-2400       TUR TAH Turk Radio Istanbul  Eng             1-7  
+4414          0000-2400       TUR TAH Turk Radio Istanbul  -               1-7  
 4416          2200-2240       CAN VCO Sydney Meteo Fax     -               1-7  
 4416          2331-2400       CAN VCO Sydney Meteo Fax     -               1-7  
 4417          0000-2400       I   Romaradio IAR            Ita             1-7  
@@ -6874,7 +6879,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 4426          1030-1105       USA NMC USCG Point Reyes     Eng             1-7  
 4426          0330-0430       USA NMN USCG Chesapeake      Eng             1-7  
 4426          0515-0615       USA NMN USCG Chesapeake      Eng             1-7  
-4426          0930-1030       USA NMN USCG Chesapeake      Eng             1-7  
+4426          0930-1030       USA NMN USCG Chesapeake      -               1-7  
 4481.3        0845-1100       GRC SWA18 Athens Meteo Fax   -               1-7  
 4500          1210-1800       CHN PBS Xinjiang             Mo              1-7  
 4500          2315-0330       CHN PBS Xinjiang             Mo              1-7  
@@ -6893,7 +6898,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 4558.4        0000-2400       RUS Channel Marker M         -CW             1-7  
 4560          0000-2400       TUR TAH Turk Radio Istanbul  -TY             1-7  
 4583          0000-2400       D   DWD 1 Pinneberg RTTY     Eng             1-7  
-4603          0000-2400       RUS Channel Marker D         -CW             1-7  
+4603          0000-2400       RUS Channel Marker D         -               1-7  
 4610          0500-0600       G   GYA Northwood Meteo Fax  -               1-7  
 4610          0600-2000       G   GYA Northwood Meteo Fax  -               1-7  
 4610          2000-2200       G   GYA Northwood Meteo Fax  -               1-7  
@@ -6918,8 +6923,8 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 4750          0900-1730       CHN China National Radio 1   Cmn             1-7  
 4750          1955-2023       CHN China National Radio 1   Cmn             1-7  
 4750          2023-0600       CHN China National Radio 1   Cmn             1-7  
-4753          1047-1330       PRU Radio Huanta 2000        Que             1-7  
-4753          2200-0133       PRU Radio Huanta 2000        Que             1-7  
+4752          1047-1330       PRU Radio Huanta 2000        Que             1-7  
+4752          2200-0133       PRU Radio Huanta 2000        Que             1-7  
 4755          1000-1100       INS Voice of Indonesia       Eng             1-7  
 4755          1100-1200       INS Voice of Indonesia       Cmn             1-7  
 4755          1200-1300       INS Voice of Indonesia       Jpn             1-7  
@@ -6933,7 +6938,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 4755          2000-2100       INS Voice of Indonesia       Fra             1-7  
 4755          2100-2200       INS Voice of Indonesia       Eng             1-7  
 4755          2200-2300       INS Voice of Indonesia       Jpn             1-7  
-4765          0030-0400       CUB Radio Progreso           Spa             1-7  
+4765          0030-0400       CUB Radio Progreso           -               1-7  
 4770          0000-2400       RUS Alarm Channel Marker     -               1-7  
 4775          0000-0220       PRU Radio Tarma              Spa             3-1  
 4775          0950-1050       PRU Radio Tarma              Spa             2-7  
@@ -6945,7 +6950,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 4800          0600-0900       CHN China National Radio 1   Cmn             4-2  
 4800          0900-1805       CHN China National Radio 1   Cmn             1-7  
 4800          2023-0600       CHN China National Radio 1   Cmn             1-7  
-4810          0815-1500       PRU Radio Logos              Spa             1-7  
+4810          0755-1500       PRU Radio Logos              Spa             1-7  
 4810          2100-0300       PRU Radio Logos              Spa             1-7  
 4820          0300-0600       CHN Xizang RTV               Cmn             1-7  
 4820          0600-0900       CHN Xizang RTV               Cmn             4-2  
@@ -6953,13 +6958,13 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 4820          1000-1800       CHN Xizang RTV               Cmn             1-7  
 4820          2000-2100       CHN Xizang RTV               Cmn             4-2  
 4820          2100-0300       CHN Xizang RTV               Cmn             1-7  
-4820          0855-1300       PRU Radio Senda Cristiana    Spa             1-7  
+4820          0755-1300       PRU Radio Senda Cristiana    Spa             1-7  
 4820          2100-0302       PRU Radio Senda Cristiana    Spa             1-7  
 4835          0000-2400       AUS Shortwave Australia      Eng             1-7  
 4840          0000-1200       USA WWCR 3 Nashville, TN     Eng             1-7  
 4850          0000-0330       CHN PBS Xinjiang             Kaz             1-7  
 4850          1155-1800       CHN PBS Xinjiang             Kaz             1-7  
-4900          0840-1130       CHN Voice of Strait          Cmn             1-7  
+4900          0840-1132       CHN Voice of Strait          Cmn             1-7  
 4905          0200-0700       CHN Xizang RTV               Bod             1-7  
 4905          0700-0800       CHN Xizang RTV               Eng             4-2  
 4905          0800-1000       CHN Xizang RTV               Bod             4-2  
@@ -6978,7 +6983,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 4920          1700-1805       CHN Xizang RTV               Bod             1-7  
 4920          2050-0200       CHN Xizang RTV               Bod             1-7  
 4930          1200-1400       USA Voice of America         Eng             3,6  
-4940          2300-1200       CLM Estación 4940            Spa             irr  
+4940          2300-1200       CLM Estación 4940            -               irr  
 4940          0400-1730       RUS Baron Channel Marker     -               1-7  
 4940          0430-1600       RUS Baron Channel Marker     -               1-7  
 4940          0430-1630       RUS Baron Channel Marker     -               1-7  
@@ -7036,15 +7041,18 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 5050          1545-1603       CHN Beibu Bay Radio          Cmn             1-7  
 5050          2243-0005       CHN Beibu Bay Radio          Cmn             1-7  
 5050          1100-1200       CHN China Radio Int.         Vie             1-7  
+5050          0000-0030       USA America250 DueDiligence  Eng             1    
+5050          0000-0100       USA America250 DueDiligence  Eng             1    
 5050          0000-0400       USA WRMI Radio Miami Int.    Eng             1-7  
+5055          0000-2400       AUS 4DX Radio                Eng             Tests
 5060          1135-1200       CHN PBS Xinjiang             Cmn             1-7  
 5060          1200-1800       CHN PBS Xinjiang             Cmn             1-7  
 5060          2310-0300       CHN PBS Xinjiang             Cmn             1-7  
 5082          1530-1540       POL E11 Polish Spy Numbers   Eng             7-1  
-5082          1715-1725       POL E11 Polish Spy Numbers   Eng             4,6  
-5082          2000-2010       POL E11 Polish Spy Numbers   Eng             5,1  
-5085          0100-0300       USA WTWW Lebanon, TN         Eng             1-7  
-5085          0300-0330       USA WTWW Lebanon, TN         Eng             7    
+5082          1715-1725       POL E11 Polish Spy Numbers   -               4,6  
+5082          2000-2010       POL E11 Polish Spy Numbers   -               5,1  
+5085          0100-0300       USA WTWW Lebanon, TN         -               1-7  
+5085          0300-0330       USA WTWW Lebanon, TN         -               7    
 5100          0015-0215       AUS VMC Charleville Met Fax  -               1-7  
 5100          0245-0330       AUS VMC Charleville Met Fax  -               1-7  
 5100          0400-0500       AUS VMC Charleville Met Fax  -               1-7  
@@ -7070,10 +7078,10 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 5154.4        0000-2400       RUS Channel Marker M         -CW             1-7  
 5156.8        0000-2400       RUS Channel Marker L         -CW             1-7  
 5170          0000-2400       TWN Central Weather Bureau   Cmn             1-7  
-5176          1605-1615       POL E11 Polish Spy Numbers   Eng             3,1  
-5176          1605-1615       POL E11 Polish Spy Numbers   Eng             3,1  
-5231          1605-1615       POL E11 Polish Spy Numbers   Eng             3,1  
-5340          0000-2400       PTR NAU US Navy              -TY             1-7  
+5176          1605-1615       POL E11 Polish Spy Numbers   -               3,1  
+5176          1605-1615       POL E11 Polish Spy Numbers   -               3,1  
+5231          1605-1615       POL E11 Polish Spy Numbers   -               3,1  
+5340          0000-2400       PTR NAU US Navy              -               1-7  
 5367          0430-1830       RUS The Squeaky Wheel        -               1-7  
 5367          0500-1545       RUS The Squeaky Wheel        -               1-7  
 5367          0500-1500       RUS The Squeaky Wheel        -               1-7  
@@ -7102,7 +7110,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 5499          0000-2400       MDG Antanan.Volmet x25,x50   Eng             1-7  
 5502          0000-2400       KOR Seoul Muan HFDL (ID10)   -HF             1-7  
 5505          0000-2400       IRL Shannon Volmet           Eng             1-7  
-5508          0000-2400       USA San Francisco HFDL(ID1)  -HF             1-7  
+5508          0000-2400       USA San Francisco HFDL(ID1)  -               1-7  
 5514          0000-2400       HWA Moloka'i HFDL (ID2)      -HF             1-7  
 5517          0000-2400       SOM Mogadishu Radio          Eng             1-7  
 5520          0000-2400       USA New York Radio           Eng             1-7  
@@ -7151,9 +7159,9 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 5702          0000-2400       F   FUO French Navy USB/FSK  Fra             1-7  
 5714          0000-2400       F   FUE French Navy USB/FSK  Fra             1-7  
 5716          0000-2400       PTR NAU US Navy              -TY             1-7  
-5720          0000-2400       ISL Reykjavik HFDL (ID3)     -HF             1-7  
-5737          1300-1310       POL E11 Polish Spy Numbers   Eng             2,5  
-5737          2000-2010       POL E11 Polish Spy Numbers   Eng             5,1  
+5720          0000-2400       ISL Reykjavik HFDL (ID3)     -               1-7  
+5737          1300-1310       POL E11 Polish Spy Numbers   -               2,5  
+5737          2000-2010       POL E11 Polish Spy Numbers   -               5,1  
 5737          2000-2010       POL E11 Polish Spy Numbers   Eng             5,1  
 5755          1100-1730       AUS VMW Wiluna Met Fax       -               1-7  
 5755          1800-1845       AUS VMW Wiluna Met Fax       -               1-7  
@@ -7170,6 +7178,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 5815          1730-1800       CLA Nippon no Kaze           Kor             1-7  
 5825          2200-0100       CHL R.Triunfal Evangélica    Spa             1-7  
 5835          0000-2400       UKR Radio Europa             -MX             1-7  
+5842          1652-2050       HOL Free Radio Sce Holland   Eng             31May
 5850          2300-2330       CZE Radio Prague             Fra             1-7  
 5850          2330-2400       CZE Radio Prague             Eng             1-7  
 5850          0700-0800       POL Polish Radio             Eng             1-7  
@@ -7185,7 +7194,6 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 5871          1900-0400       CLA Iran International TV    Pes             spur 
 5875          2200-2300       CHN CNR1 Jammer/Firedrake    Cmn             1-7  
 5875          0500-0600       G   BBC DIGITAL              Eng             1-7  
-5875          1652-2050       HOL Free Radio Sce Holland   Eng             31May
 5875          2200-2300       USA Voice of America         Cmn             1-7  
 5885          1300-1500       CHN CNR1 Jammer/Firedrake    Cmn             1-7  
 5885          1300-1500       USA Voice of America         Cmn             1-7  
@@ -7195,7 +7203,9 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 5900          0000-2400       B   Rádio Casa AM            Por             1-7  
 5900          1930-2000       CAN Bible Voice              Arb             1-7  
 5900          1200-1400       CHN CNR1 Jammer/Firedrake    Cmn             1-7  
+5900          1900-0400       CLA Iran International TV    Pes             1-7  
 5900          0700-1700       HOL Radio Horizon            Nld             1-7  
+5900          1700-1800       KOR New Korea Hope Bcing     Kor             135  
 5900          2000-2058       KOR Unification Media Group  Kor             1-7  
 5900          1900-1930       TWN Radio Taiwan Int.        Deu             1-7  
 5900          1800-1900       USA Brother Stair            Eng             1-7  
@@ -7216,11 +7226,16 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 5915          0230-0530       MYA Myanma Radio             Mya             1-7  
 5915          0630-1400       MYA Myanma Radio             Mya             1-7  
 5915          2315-0230       MYA Myanma Radio             Mya             1-7  
-5920          0000-0300       EQA HCJB Voice of Andes      Deu             1-7  
+5920          0000-0100       EQA HCJB Voice of Andes      Spa             1-7  
+5920          0000-0100       EQA HCJB Voice of Andes      Deu             1-7  
 5920          0000-0400       EQA HCJB Voice of Andes      Deu             1-7  
+5920          0100-0300       EQA HCJB Voice of Andes      Deu             1-7  
 5920          0300-0400       EQA HCJB Voice of Andes      Rus             1-7  
 5920          0400-2200       EQA HCJB Voice of Andes      Deu             1-7  
-5920          2200-2400       EQA HCJB Voice of Andes      Rus             1-7  
+5920          1800-1830       EQA HCJB Voice of Andes      Pdc             1-7  
+5920          2200-2300       EQA HCJB Voice of Andes      Rus             1-7  
+5920          2300-2400       EQA HCJB Voice of Andes      Rus             1-7  
+5920          2300-2400       EQA HCJB Voice of Andes      Spa             1-7  
 5920          2300-0100       EQA HCJB Voice of Andes      Rus             1-7  
 5920          1600-1630       J   Shiokaze                 Jpn             267  
 5920          1600-1700       J   Shiokaze                 Eng             4    
@@ -7244,6 +7259,11 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 5935          1300-1400       J   Shiokaze                 Jpn             1    
 5935          1300-1400       J   Shiokaze                 Kor             3,5  
 5935          1330-1400       J   Shiokaze                 Kor             267  
+5935          1600-1630       J   Shiokaze                 Jpn             267  
+5935          1600-1700       J   Shiokaze                 -               4    
+5935          1600-1700       J   Shiokaze                 Jpn             1    
+5935          1600-1700       J   Shiokaze                 Kor             3,5  
+5935          1630-1700       J   Shiokaze                 Kor             267  
 5935          0000-1200       USA WWCR 2 Nashville, TN     Eng             1-7  
 5935          2300-1300       USA WWCR 2 Nashville, TN     Eng             1-7  
 5940          0000-2400       B   Rádio Voz Missionária    Por             1-7  
@@ -7256,7 +7276,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 5945          1300-1805       CHN China National Radio 1   Cmn             1-7  
 5945          2023-2300       CHN China National Radio 1   Cmn             1-7  
 5945          2023-0100       CHN China National Radio 1   Cmn             1-7  
-5950          0000-2400       FIN RealMix Radio            -               alt  
+5950          0000-2400       FIN RealMix Radio            Eng             1-7  
 5950          0000-0500       USA WRMI Radio Miami Int.    Eng             1-7  
 5950          2300-0400       USA WRMI Radio Miami Int.    Eng             1-7  
 5955          1100-1300       CHN China Radio Int.         Eng             1-7  
@@ -7296,11 +7316,12 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 5975          0900-1400       CHN China National Radio 8   Kor             1-7  
 5975          1400-1505       CHN China National Radio 8   Cmn             1-7  
 5975          2200-2300       CHN China Radio Int.         Cmn             1-7  
+5980          1405-1435       J   Shiokaze                 Jpn             1-7  
 5980          1705-1805       J   Shiokaze                 Jpn             1-7  
 5985          2025-2400       CHN China National Radio 1   Cmn             1-7  
 5985          1130-1200       CHN China Radio Int.         Tgl             1-7  
 5985          1600-1700       CHN China Radio Int.         Swa             1-7  
-5985          1700-1800       CHN China Radio Int.         Swa             1-7  
+5985          1700-1800       CHN China Radio Int.         -               1-7  
 5985          1900-2000       CHN China Radio Int.         Por             1-7  
 5985          2000-2100       CHN China Radio Int.         Eng             1-7  
 5985          1115-1530       MYA Myanma Radio             Mya             1-7  
@@ -7319,9 +7340,10 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 5990          2250-0600       CHN PBS Qinghai              Bod             1-7  
 5990          1000-1600       D   Studio 52                -               irr  
 5990          1820-1920       IRN IRIB Voice of I.R.Iran   Sqi             1-7  
+5990          1115-1530       MYA Myanma Radio             Mya             1-7  
 5995          1600-1700       CHN China Radio Int.         Rus             1-7  
-5995          2055-2400       CHN CNR 2 China Business R.  Cmn             1-7  
-5995          0555-0800       MLI Radio Mali               Bam             1-7  
+5995          2055-2400       CHN CNR 2 China Business R.  -               1-7  
+5995          0550-0800       MLI Radio Mali               Bam             1-7  
 5995          0630-0645       MLI Radio Mali               Fra             1-7  
 5995          1800-0001       MLI Radio Mali               Bam             1-7  
 5995          1850-1905       MLI Radio Mali               Eng             7    
@@ -7337,7 +7359,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 6000          1300-1400       CUB Radio Habana Cuba        Spa             1-7  
 6000          1400-1600       CUB Radio Habana Cuba        Spa             1-7  
 6000          2300-2400       CUB Radio Habana Cuba        Spa             2-6  
-6000          0050-0220       IRN IRIB Voice of I.R.Iran   Tgk             1-7  
+6000          0050-0220       IRN IRIB Voice of I.R.Iran   -               1-7  
 6005          0000-2400       FIN RealMix Radio            -               1-7  
 6005          0000-2400       HOL Radio Europe             Nld             1-7  
 6005          0000-1700       HOL Radio Europe             Nld             1-7  
@@ -7374,9 +7396,9 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 6030          1100-1605       CHN CNR 2 China Business R.  Cmn             1-7  
 6030          0253-2015       ETH Radio Oromiya            Orm             1-7  
 6030          0100-0600       USA Radio Marti              Spa             1-7  
-6030          0600-1200       USA Radio Marti              Spa             1-7  
+6030          0600-1200       USA Radio Marti              -               1-7  
 6035          0946-1000       CHN Yunnan Radio Int.        -MX             1-7  
-6035          1000-1030       CHN Yunnan Radio Int.        Vie             1-7  
+6035          1000-1030       CHN Yunnan Radio Int.        -               1-7  
 6035          1030-1200       CHN Yunnan Radio Int.        Cmn             1-7  
 6035          1200-1300       CHN Yunnan Radio Int.        Cmn             1-7  
 6035          1300-1330       CHN Yunnan Radio Int.        Vie             1-7  
@@ -7438,6 +7460,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 6065          1200-1605       CHN CNR 2 China Business R.  Cmn             1-7  
 6065          2055-2230       CHN CNR 2 China Business R.  Cmn             1-7  
 6065          2055-2330       CHN CNR 2 China Business R.  Cmn             1-7  
+6065          1950-2050       J   Shiokaze                 Jpn             1-7  
 6065          0300-0400       USA Adventist World Radio    Mlg             1-7  
 6065          1500-1600       USA Adventist World Radio    Mlg             1-7  
 6070          0000-2400       CAN CFRX Toronto, CFRB 1010  Eng             1-7  
@@ -7447,7 +7470,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 6070          0900-1300       KRE Voice of Korea           Jpn             1-7  
 6075          1400-1700       CHN China National Radio 1   Cmn             1-7  
 6075          2200-2400       CHN China National Radio 1   Cmn             1-7  
-6075          0000-0600       CHN China National Radio 11  Bod             1-7  
+6075          0000-0600       CHN China National Radio 11  -               1-7  
 6075          0600-0700       CHN China National Radio 11  Bod             5-3  
 6075          0700-0800       CHN China National Radio 11  Cmn             5-3  
 6075          0800-0900       CHN China National Radio 11  Bod             5-3  
@@ -7480,6 +7503,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 6090          2055-0100       CHN CNR 2 China Business R.  Cmn             1-7  
 6090          0252-2100       ETH Amhara State Radio       Amh             1-7  
 6090          2000-2100       KOR KBS World Radio          Arb             1-7  
+6090          0630-0700       USA Voice of America         Eng             3,5  
 6095          0800-0900       D   Radio SE-TA2             Deu             1-7  
 6095          1100-1200       D   SM Radio Dessau          Deu             2.1  
 6095          1200-1300       D   SM Radio Dessau          Deu             10Oct
@@ -7725,16 +7749,16 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 6230          2100-2130       TWN Sound of Hope            Cmn             1-7  
 6230          2130-2200       TWN Sound of Hope            Cmn             1-7  
 6230          2200-2300       TWN Sound of Hope            Cmn             1-7  
-6230          2300-2400       TWN Sound of Hope            Cmn             1-7  
+6230          2300-2400       TWN Sound of Hope            -               1-7  
 6252          0915-0925       POL S11a Polish Spy Numbers  Rus             2,6  
 6265          0000-2400       B   Rádio Tury               Por             irr  
 6268          0000-2400       CAN VFF Iqaluit Radio        -TY             1-7  
 6280          0000-2400       CHN CNR1 Jammer/Firedrake    Cmn             1-7  
-6280          0000-0100       TWN Sound of Hope            Cmn             1-7  
-6280          0100-0200       TWN Sound of Hope            Cmn             1-7  
-6280          0200-1200       TWN Sound of Hope            Cmn             1-7  
-6280          1200-1300       TWN Sound of Hope            Cmn             1-7  
-6280          1300-1400       TWN Sound of Hope            Cmn             1-7  
+6280          0000-0100       TWN Sound of Hope            -               1-7  
+6280          0100-0200       TWN Sound of Hope            -               1-7  
+6280          0200-1200       TWN Sound of Hope            -               1-7  
+6280          1200-1300       TWN Sound of Hope            -               1-7  
+6280          1300-1400       TWN Sound of Hope            -               1-7  
 6280          1400-1500       TWN Sound of Hope            Cmn             1-7  
 6280          1500-1600       TWN Sound of Hope            Cmn             1-7  
 6280          1600-1700       TWN Sound of Hope            Cmn             1-7  
@@ -7747,9 +7771,9 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 6312          0000-2400       CAN VFF Iqaluit Radio        -TY             1-7  
 6314          0140-0150       USA NMF NAVTEX Boston MA     -               1-7  
 6315.5        0000-2400       CHN XSV Tianjin Radio        -TY             1-7  
-6316.5        0000-2400       CHN XSV Tianjin Radio        -TY             1-7  
-6321.5        0000-2400       GRC SVO Olimpia Radio        -CW             1-7  
-6326          0000-2400       CHN XSG Shanghai Radio       -TY             1-7  
+6316.5        0000-2400       CHN XSV Tianjin Radio        -               1-7  
+6321.5        0000-2400       GRC SVO Olimpia Radio        -               1-7  
+6326          0000-2400       CHN XSG Shanghai Radio       -               1-7  
 6328.5        0330-0355       RUS RBW Murmansk Meteo Fax   -               1-7  
 6328.5        1030-1055       RUS RBW Murmansk Meteo Fax   -               1-7  
 6328.5        1330-1355       RUS RBW Murmansk Meteo Fax   -               1-7  
@@ -7923,6 +7947,20 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 6850          2200-2300       TWN Sound of Hope            Cmn             1-7  
 6850          2300-2400       TWN Sound of Hope            Cmn             1-7  
 6850          0000-2400       USA Various pirates          Eng             irr  
+6865          0000-0100       TWN Sound of Hope            -               1-7  
+6865          0100-0200       TWN Sound of Hope            -               1-7  
+6865          0200-1200       TWN Sound of Hope            Cmn             1-7  
+6865          1200-1300       TWN Sound of Hope            Cmn             1-7  
+6865          1300-1400       TWN Sound of Hope            Cmn             1-7  
+6865          1400-1500       TWN Sound of Hope            Cmn             1-7  
+6865          1500-1600       TWN Sound of Hope            Zom             1-7  
+6865          1600-1700       TWN Sound of Hope            Cmn             1-7  
+6865          1700-2000       TWN Sound of Hope            Cmn             1-7  
+6865          2000-2100       TWN Sound of Hope            Cmn             1-7  
+6865          2100-2130       TWN Sound of Hope            Cmn             1-7  
+6865          2130-2200       TWN Sound of Hope            Cmn             1-7  
+6865          2200-2300       TWN Sound of Hope            Cmn             1-7  
+6865          2300-2400       TWN Sound of Hope            -               1-7  
 6870          0000-2400       USA Various pirates          Eng             irr  
 6880          0000-2400       USA Various pirates          Eng             irr  
 6900          0000-2400       CHN CNR1 Jammer/Firedrake    Cmn             1-7  
@@ -7954,7 +7992,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 6925          0000-2400       USA Various pirates          Eng             irr  
 6930          0000-2400       USA Various pirates          Eng             irr  
 6931          0000-2400       E   Indy Radio               Spa             irr  
-6935          2200-2400       ARG AD149 AM (Pirate)        Spa             irr  
+6935          2200-0200       ARG AD149 AM (Pirate)        Spa             irr  
 6935          0000-2400       USA Various pirates          Eng             irr  
 6938          0000-2400       USA WO2XPY HF Trading        -               1-7  
 6940          0930-0940       POL E11 Polish Spy Numbers   Eng             4,5  
@@ -8102,6 +8140,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 7240          1000-1800       CHN Xizang RTV               Cmn             1-7  
 7240          2000-2100       CHN Xizang RTV               Cmn             4-2  
 7240          2100-0300       CHN Xizang RTV               Cmn             1-7  
+7245          1228-1258       AUS ABC Wantok               Tpi             2-6  
 7245          1600-1700       CHN China Radio Int.         Swa             1-7  
 7245          1900-2000       CHN China Radio Int.         Rus             1-7  
 7245          2000-2100       CHN China Radio Int.         Rus             1-7  
@@ -8110,6 +8149,10 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 7245          2055-2300       CHN CNR 2 China Business R.  Cmn             1-7  
 7245          2055-0100       CHN CNR 2 China Business R.  Cmn             1-7  
 7245          1800-1830       G   BBC                      Pes             1-7  
+7245          1059-1358       NZL RNZ Pacific              Eng             2-6  
+7245          1059-1358       NZL RNZ Pacific              Eng             7-1  
+7245          1128-1135       NZL RNZ Pacific              Pis             2-6  
+7245          1330-1340       NZL RNZ Pacific              Pis             4    
 7250          1400-1500       CHN China Radio Int.         Npi             1-7  
 7250          1500-1600       CHN China Radio Int.         Npi             1-7  
 7250          0710-0820       CVA Radio Vaticana           Ron             1    
@@ -8202,12 +8245,18 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 7290          1800-1900       I   IRRS Milano              Eng             1-7  
 7290          0600-0955       INS RRI Nabire               Ind             1-7  
 7290          0955-1300       INS RRI Nabire               Ind             irr  
+7290          2100-2300       INS RRI Nabire               Ind             1-7  
 7295          1900-2000       CHN China Radio Int.         Eng             1-7  
 7295          2000-2100       CHN China Radio Int.         Eng             1-7  
 7295          0305-0530       CHN PBS Xinjiang             Kir             1-7  
 7295          1005-1230       CHN PBS Xinjiang             Kir             1-7  
 7295          1330-1357       CLA Furusato no Kaze         Jpn             1-7  
 7295          1300-1330       CLA Nippon no Kaze           Kor             1-7  
+7295          1300-1330       J   Shiokaze                 Jpn             267  
+7295          1300-1400       J   Shiokaze                 Eng             4    
+7295          1300-1400       J   Shiokaze                 Jpn             1    
+7295          1300-1400       J   Shiokaze                 Kor             3,5  
+7295          1330-1400       J   Shiokaze                 Kor             267  
 7295          1405-1435       J   Shiokaze                 Jpn             1-7  
 7300          2100-2115       AUS HCJB R.Akhbar Mufriha    Shi             1-7  
 7300          2115-2145       AUS HCJB R.Akhbar Mufriha    Arb             1    
@@ -8257,6 +8306,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 7315          2000-2030       USA Follow the Bible Min.    Arb             1    
 7317          1900-1910       POL E11 Polish Spy Numbers   Eng             2,5  
 7317          1900-1910       POL E11 Polish Spy Numbers   Eng             2,5  
+7320          1705-1805       J   Shiokaze                 Jpn             1-7  
 7325          1000-1100       CHN China Radio Int.         Jpn             1-7  
 7325          1100-1200       CHN China Radio Int.         Jpn             1-7  
 7325          1200-1300       CHN China Radio Int.         Jpn             1-7  
@@ -8317,38 +8367,38 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 7360          1430-1530       CHN China Radio Int.         Lao             1-7  
 7360          2055-2400       CHN CNR 2 China Business R.  Cmn             1-7  
 7360          0500-0520       CVA Radio Vaticana           Rus             1-7  
-7360          0520-0540       CVA Radio Vaticana           Ukr             1-7  
-7360          1600-1620       CVA Radio Vaticana           Hye             1-7  
-7360          1620-1640       CVA Radio Vaticana           Rus             1-7  
-7360          1740-1800       CVA Radio Vaticana           Ukr             1-7  
-7360          0000-0200       TUR Voice of Turkey          Tur             1-7  
-7360          1730-1830       TUR Voice of Turkey          Fra             1-7  
-7365          1000-1805       CHN China National Radio 1   Cmn             1-7  
-7365          1200-1805       CHN China National Radio 1   Cmn             1-7  
-7365          0800-2000       EQA HCJB Voice of Andes      Rus             1-7  
-7365          0100-0500       USA Radio Marti              Spa             1-7  
-7365          0100-0600       USA Radio Marti              Spa             1-7  
-7365          1200-1400       USA Radio Marti              Spa             1-7  
-7370          1100-1200       CHN China Radio Int.         Zom             1-7  
-7370          1100-1300       CHN CNR 2 China Business R.  Cmn             1-7  
-7370          1300-1605       CHN CNR 2 China Business R.  Cmn             1-7  
-7370          2055-2300       CHN CNR 2 China Business R.  Cmn             1-7  
-7370          2055-2400       CHN CNR 2 China Business R.  Cmn             1-7  
-7370          0730-1000       I   Marconi Radio Int.       Ita             5Apr 
-7375          1030-1200       CHN CNR 2 China Business R.  Cmn             1-7  
-7375          1200-1605       CHN CNR 2 China Business R.  Cmn             1-7  
-7375          1700-1900       J   NHK Radio Japan          Jpn             1-7  
-7375          1600-1630       J   Shiokaze                 Jpn             267  
-7375          1600-1700       J   Shiokaze                 Eng             4    
-7375          1600-1700       J   Shiokaze                 Jpn             1    
-7375          1600-1700       J   Shiokaze                 Kor             3,5  
+7360          0520-0540       CVA Radio Vaticana           -               1-7  
+7360          1600-1620       CVA Radio Vaticana           -               1-7  
+7360          1620-1640       CVA Radio Vaticana           -               1-7  
+7360          1740-1800       CVA Radio Vaticana           -               1-7  
+7360          0000-0200       TUR Voice of Turkey          -               1-7  
+7360          1730-1830       TUR Voice of Turkey          -               1-7  
+7365          1000-1805       CHN China National Radio 1   -               1-7  
+7365          1200-1805       CHN China National Radio 1   -               1-7  
+7365          0800-2000       EQA HCJB Voice of Andes      -               1-7  
+7365          0100-0500       USA Radio Marti              -               1-7  
+7365          0100-0600       USA Radio Marti              -               1-7  
+7365          1200-1400       USA Radio Marti              -               1-7  
+7370          1100-1200       CHN China Radio Int.         -               1-7  
+7370          1100-1300       CHN CNR 2 China Business R.  -               1-7  
+7370          1300-1605       CHN CNR 2 China Business R.  -               1-7  
+7370          2055-2300       CHN CNR 2 China Business R.  -               1-7  
+7370          2055-2400       CHN CNR 2 China Business R.  -               1-7  
+7370          0730-1000       I   Marconi Radio Int.       -               5Apr 
+7375          1030-1200       CHN CNR 2 China Business R.  -               1-7  
+7375          1200-1605       CHN CNR 2 China Business R.  -               1-7  
+7375          1700-1900       J   NHK Radio Japan          -               1-7  
+7375          1600-1630       J   Shiokaze                 -               267  
+7375          1600-1700       J   Shiokaze                 -               4    
+7375          1600-1700       J   Shiokaze                 -               1    
+7375          1600-1700       J   Shiokaze                 -               3,5  
 7375          1630-1700       J   Shiokaze                 Kor             267  
 7375          1900-2000       USA Adventist World Radio    Kor             1-7  
 7377          0700-0710       POL E11 Polish Spy Numbers   Eng             7-1  
 7377          1000-1010       RUS E06 Russian Spy Numbers  Eng             1    
 7377          1300-1310       RUS E06 Russian Spy Numbers  Eng             7    
+7380          0900-1000       D   Radio DARC               Deu             1    
 7380          2000-2030       USA Follow the Bible Min.    Arb             1    
-7380          0900-1000       XUU Unknown Station          Deu             1    
 7385          1900-2000       CHN China Radio Int.         Sqi             1-7  
 7385          0900-1000       CHN CNR5 Cross-Strait Radio  Cmn             1-7  
 7385          1000-1705       CHN CNR5 Cross-Strait Radio  Cmn             1-7  
@@ -8363,6 +8413,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 7390          1100-1200       CHN China Radio Int.         Mo              1-7  
 7390          2000-2030       CHN China Radio Int.         Srp             1-7  
 7390          2030-2100       CHN China Radio Int.         Hun             1-7  
+7390          0630-0700       USA Voice of America         Eng             3,5  
 7396.8        0000-0005       THA HSW64 Bangkok Meteo Fax  -               1-7  
 7396.8        0020-0025       THA HSW64 Bangkok Meteo Fax  -               1-7  
 7396.8        0050-0605       THA HSW64 Bangkok Meteo Fax  -               1-7  
@@ -8418,6 +8469,9 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 7425          1300-1605       CHN CNR 2 China Business R.  Cmn             1-7  
 7425          1651-1758       NZL RNZ Pacific DIGITAL      Eng             1-6  
 7425          1710-1720       NZL RNZ Pacific DIGITAL      Rar             2-6  
+7425          1759-1858       NZL RNZ Pacific DIGITAL      Eng             1-6  
+7425          1840-1850       NZL RNZ Pacific DIGITAL      Smo             1-5  
+7425          1852-1858       NZL RNZ Pacific DIGITAL      Niu             2-6  
 7430          0000-0100       CHN China Radio Int.         Rus             1-7  
 7430          0900-1000       CHN China Radio Int.         Cmn             1-7  
 7430          2200-2300       CHN China Radio Int.         Cmn             1-7  
@@ -8444,6 +8498,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 7440          1200-1400       CHN China Radio Int.         Cmn             1-7  
 7440          1259-1650       NZL RNZ Pacific              Eng             1-7  
 7440          1330-1340       NZL RNZ Pacific              Pis             4    
+7440          1359-1650       NZL RNZ Pacific              Eng             1-7  
 7445          1500-1600       CHN China Radio Int.         Eng             1-7  
 7445          2100-2130       CHN China Radio Int.         Srp             1-7  
 7445          2130-2200       CHN China Radio Int.         Hun             1-7  
@@ -8462,18 +8517,19 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 7460          0100-0200       TWN Sound of Hope            Cmn             1-7  
 7460          0200-1200       TWN Sound of Hope            Cmn             1-7  
 7460          1200-1300       TWN Sound of Hope            Cmn             1-7  
-7460          1300-1400       TWN Sound of Hope            Cmn             1-7  
-7460          1400-1500       TWN Sound of Hope            Cmn             1-7  
-7460          1500-1600       TWN Sound of Hope            Cmn             1-7  
-7460          1600-1700       TWN Sound of Hope            Cmn             1-7  
-7460          1700-2000       TWN Sound of Hope            Cmn             1-7  
-7460          2130-2200       TWN Sound of Hope            Cmn             1-7  
-7460          2200-2300       TWN Sound of Hope            Cmn             1-7  
-7460          2300-2400       TWN Sound of Hope            Cmn             1-7  
+7460          1300-1400       TWN Sound of Hope            -               1-7  
+7460          1400-1500       TWN Sound of Hope            -               1-7  
+7460          1500-1600       TWN Sound of Hope            -               1-7  
+7460          1600-1700       TWN Sound of Hope            -               1-7  
+7460          1700-2000       TWN Sound of Hope            -               1-7  
+7460          2130-2200       TWN Sound of Hope            -               1-7  
+7460          2200-2300       TWN Sound of Hope            -               1-7  
+7460          2300-2400       TWN Sound of Hope            -               1-7  
 7460          0000-2400       USA Radio Farda              Pes             1-7  
 7469          0450-0500       POL E11 Polish Spy Numbers   Eng             2    
 7469          0930-0940       POL E11 Polish Spy Numbers   Eng             4,5  
 7470          1100-1300       CHN CNR1 Jammer/Firedrake    Cmn             1-7  
+7470          2000-2100       USA Radio Farda              Pes             1-7  
 7470          1100-1300       USA Voice of America         Cmn             1-7  
 7473          2335-2400       CLA Voice of Tibet           Bod             1-7  
 7475          2300-2335       CHN CNR1 Jammer/Firedrake    Cmn             1-7  
@@ -8491,6 +8547,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 7493          2300-2335       CLA Voice of Tibet           Bod             1-7  
 7495          2300-2335       CHN CNR1 Jammer/Firedrake    Cmn             1-7  
 7495          2100-2110       RUS S06 Russian Spy Numbers  Rus             6    
+7495          1430-2100       USA Radio Farda              Pes             1-7  
 7495          0030-0100       USA VoA Radio Ashna          Pbt             1-7  
 7495          1630-1700       USA VoA Radio Ashna          Pbt             1-7  
 7495          1700-1730       USA VoA Radio Ashna          Prs             1-7  
@@ -8559,15 +8616,14 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 7600.2        2130-2200       TWN Sound of Hope            Cmn             1-7  
 7600.2        2200-2300       TWN Sound of Hope            Cmn             1-7  
 7600.2        2300-2400       TWN Sound of Hope            Cmn             1-7  
-7610          2000-2100       CLA Free North Korea Radio   Kor             1-7  
-7620          2000-2100       CLA Free North Korea Radio   Kor             1-7  
+7615          2000-2100       CLA Free North Korea Radio   Kor             1-7  
 7645          0000-0100       TWN Sound of Hope            Cmn             1-7  
 7645          0200-1200       TWN Sound of Hope            Cmn             1-7  
 7645          1200-1300       TWN Sound of Hope            Cmn             1-7  
 7645          1300-1400       TWN Sound of Hope            Cmn             1-7  
 7645          1400-1500       TWN Sound of Hope            Cmn             1-7  
 7645          1500-1600       TWN Sound of Hope            Cmn             1-7  
-7645          1600-1700       TWN Sound of Hope            Cmn             1-7  
+7645          1600-1700       TWN Sound of Hope            -               1-7  
 7645          1700-2000       TWN Sound of Hope            Cmn             1-7  
 7645          2000-2100       TWN Sound of Hope            Cmn             1-7  
 7645          2100-2130       TWN Sound of Hope            Cmn             1-7  
@@ -8579,7 +8635,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 7650          2100-2130       CLA Voice of Martyrs         Cmn             1-7  
 7665          1140-1150       RUS E07 Russian Spy Numbers  Eng             3,6  
 7685          0000-2400       B   Rádio Cidade Oldies      Por             irr  
-7700          1652-2050       HOL Free Radio Sce Holland   Eng             31May
+7700.1        1652-2050       HOL Free Radio Sce Holland   Eng             31May
 7730          0000-2400       CHN CNR1 Jammer/Firedrake    Cmn             1-7  
 7730          0000-0100       TWN Sound of Hope            Cmn             1-7  
 7730          0100-0200       TWN Sound of Hope            Cmn             1-7  
@@ -8591,12 +8647,12 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 7730          1600-1700       TWN Sound of Hope            Cmn             1-7  
 7730          1700-2000       TWN Sound of Hope            Cmn             1-7  
 7730          2000-2100       TWN Sound of Hope            Cmn             1-7  
-7730          2100-2130       TWN Sound of Hope            Cmn             1-7  
-7730          2130-2200       TWN Sound of Hope            Cmn             1-7  
-7730          2200-2300       TWN Sound of Hope            Cmn             1-7  
-7730          2300-2400       TWN Sound of Hope            Cmn             1-7  
-7730          0000-2400       USA WRMI Radio Miami Int.    Eng             1-7  
-7750          0300-0600       SOM Warsan Radio USB         Som             irr  
+7730          2100-2130       TWN Sound of Hope            -               1-7  
+7730          2130-2200       TWN Sound of Hope            -               1-7  
+7730          2200-2300       TWN Sound of Hope            -               1-7  
+7730          2300-2400       TWN Sound of Hope            -               1-7  
+7730          0000-2400       USA WRMI Radio Miami Int.    -               1-7  
+7750          0300-0600       SOM Warsan Radio USB         -               irr  
 7750          0900-1945       SOM Warsan Radio USB         Som             irr  
 7750.2        0000-0100       TWN Sound of Hope            Cmn             1-7  
 7750.2        0100-0200       TWN Sound of Hope            Cmn             1-7  
@@ -8639,6 +8695,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 7842          0200-0330       CLA V32 Iranian Spy Numbers  Pes             1-7  
 7842          1800-1930       CLA V32 Iranian Spy Numbers  Pes             1-7  
 7850          0000-2400       CAN CHU Ottawa               -TS             1-7  
+7850          0000-1410       CAN CHU Ottawa               -TS             22Jun
 7850          0600-0610       POL E11 Polish Spy Numbers   Eng             6,1  
 7863          1715-1725       POL E11 Polish Spy Numbers   Eng             4,6  
 7864          1730-1740       POL E11 Polish Spy Numbers   Eng             5    
@@ -8703,21 +8760,21 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 7906          1020-1030       VTN Kien Giang Radio         Vie             1-7  
 7906          1420-1430       VTN Kien Giang Radio         Vie             1-7  
 7906          1820-1830       VTN Kien Giang Radio         Vie             1-7  
-7906          2220-2230       VTN Kien Giang Radio         Vie             1-7  
-7906          0120-0130       VTN Mong Cai Radio XVM       Vie             1-7  
-7906          0520-0530       VTN Mong Cai Radio XVM       Vie             1-7  
-7906          0920-0930       VTN Mong Cai Radio XVM       Vie             1-7  
+7906          2220-2230       VTN Kien Giang Radio         -               1-7  
+7906          0120-0130       VTN Mong Cai Radio XVM       -               1-7  
+7906          0520-0530       VTN Mong Cai Radio XVM       -               1-7  
+7906          0920-0930       VTN Mong Cai Radio XVM       -               1-7  
 7906          1320-1330       VTN Mong Cai Radio XVM       Vie             1-7  
 7906          1720-1730       VTN Mong Cai Radio XVM       Vie             1-7  
 7906          2120-2130       VTN Mong Cai Radio XVM       Vie             1-7  
 7906          0350-0400       VTN Nha Trang Radio XVN      Vie             1-7  
 7906          0750-0800       VTN Nha Trang Radio XVN      Vie             1-7  
-7906          1150-1200       VTN Nha Trang Radio XVN      Vie             1-7  
+7906          1150-1200       VTN Nha Trang Radio XVN      -               1-7  
 7906          1550-1600       VTN Nha Trang Radio XVN      Vie             1-7  
 7906          1950-2000       VTN Nha Trang Radio XVN      Vie             1-7  
 7906          2350-2400       VTN Nha Trang Radio XVN      Vie             1-7  
 7906          0135-0145       VTN Phan Rang Radio          Vie             1-7  
-7906          0535-0545       VTN Phan Rang Radio          Vie             1-7  
+7906          0535-0545       VTN Phan Rang Radio          -               1-7  
 7906          0935-0945       VTN Phan Rang Radio          Vie             1-7  
 7906          1335-1345       VTN Phan Rang Radio          Vie             1-7  
 7906          1735-1745       VTN Phan Rang Radio          Vie             1-7  
@@ -8780,16 +8837,16 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 8169          0300-0400       TWN Star-Star Bc.Station     Cmn             1-7  
 8176          0800-2100       AUS VMC Charleville QL       Eng             1-7  
 8176          2100-0800       AUS VMC Charleville QL       Eng             1-7  
-8180          0700-0710       POL E11 Polish Spy Numbers   Eng             3,6  
-8180          0700-0710       POL E11 Polish Spy Numbers   Eng             3,6  
-8291          0000-2400       CAN VFF Iqaluit Radio        Eng             1-7  
-8291          1400-1410       CYM Cayman Isl.Coastguard    Eng             1-7  
-8294          0035-0045       VTN Da Nang Radio XVT        Vie             1-7  
+8180          0700-0710       POL E11 Polish Spy Numbers   -               3,6  
+8180          0700-0710       POL E11 Polish Spy Numbers   -               3,6  
+8291          0000-2400       CAN VFF Iqaluit Radio        -               1-7  
+8291          1400-1410       CYM Cayman Isl.Coastguard    -               1-7  
+8294          0035-0045       VTN Da Nang Radio XVT        -               1-7  
 8294          0435-0445       VTN Da Nang Radio XVT        Vie             1-7  
-8294          0835-0845       VTN Da Nang Radio XVT        Vie             1-7  
-8294          1235-1245       VTN Da Nang Radio XVT        Vie             1-7  
-8294          1635-1645       VTN Da Nang Radio XVT        Vie             1-7  
-8294          2035-2045       VTN Da Nang Radio XVT        Vie             1-7  
+8294          0835-0845       VTN Da Nang Radio XVT        -               1-7  
+8294          1235-1245       VTN Da Nang Radio XVT        -               1-7  
+8294          1635-1645       VTN Da Nang Radio XVT        -               1-7  
+8294          2035-2045       VTN Da Nang Radio XVT        -               1-7  
 8294          0005-0015       VTN Hai Phong Radio XVG      Vie             1-7  
 8294          0405-0415       VTN Hai Phong Radio XVG      Vie             1-7  
 8294          0805-0815       VTN Hai Phong Radio XVG      Vie             1-7  
@@ -8809,10 +8866,10 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 8300          0000-0100       TWN Star-Star Bc.Station     Cmn             1-7  
 8300          0100-0200       TWN Star-Star Bc.Station     Cmn             1-7  
 8300          0200-0300       TWN Star-Star Bc.Station     Cmn             1-7  
-8300          1500-1600       TWN Star-Star Bc.Station     Cmn             1-7  
-8302          0000-0155       CHN XSG Shanghai Radio Fax   Cmn             1-7  
-8302          0230-0655       CHN XSG Shanghai Radio Fax   Cmn             1-7  
-8302          0730-1030       CHN XSG Shanghai Radio Fax   Cmn             1-7  
+8300          1500-1600       TWN Star-Star Bc.Station     -               1-7  
+8302          0000-0155       CHN XSG Shanghai Radio Fax   -               1-7  
+8302          0230-0655       CHN XSG Shanghai Radio Fax   -               1-7  
+8302          0730-1030       CHN XSG Shanghai Radio Fax   -               1-7  
 8302          1425-1450       CHN XSG Shanghai Radio Fax   Cmn             1-7  
 8302          2025-2050       CHN XSG Shanghai Radio Fax   Cmn             1-7  
 8310.5        0000-0540       CHN XSQ Guangzhou Meteo Fax  Eng             1-7  
@@ -8820,31 +8877,31 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 8310.5        1225-1715       CHN XSQ Guangzhou Meteo Fax  Eng             1-7  
 8310.5        2015-2040       CHN XSQ Guangzhou Meteo Fax  Eng             irr  
 8376.5        0000-2400       CAN VFF Iqaluit Radio        -TY             1-7  
-8416.5        0330-0340       CAN VFF Iqaluit Meteo        -TY             1-7  
-8416.5        1530-1540       CAN VFF Iqaluit Meteo        -TY             1-7  
-8417.5        0000-2400       CHN XSV Tianjin Radio        -TY             1-7  
-8418.5        0000-2400       CHN XSV Tianjin Radio        -TY             1-7  
-8421          0000-2400       CHN XSQ Guangzhou Meteo Fax  -TY             1-7  
-8421          0000-2400       CHN XSV Tianjin Radio        -TY             1-7  
-8424          0000-2400       GRC SVO Olimpia Radio        -CW             1-7  
-8425.5        0000-2400       CHN XSG Shanghai Radio       -TY             1-7  
-8431          0000-2400       CHN XSQ Guangzhou Radio      -TY             1-7  
-8431          0000-2400       TUR TAH Turk Radio Istanbul  -CW             1-7  
-8433          0000-2400       CHN XSG Shanghai Radio       -TY             1-7  
-8434          0000-2400       TUR TAH Turk Radio Istanbul  -CW             1-7  
-8435          0000-2400       CHN XSQ Guangzhou Radio      -TY             1-7  
+8416.5        0330-0340       CAN VFF Iqaluit Meteo        -               1-7  
+8416.5        1530-1540       CAN VFF Iqaluit Meteo        -               1-7  
+8417.5        0000-2400       CHN XSV Tianjin Radio        -               1-7  
+8418.5        0000-2400       CHN XSV Tianjin Radio        -               1-7  
+8421          0000-2400       CHN XSQ Guangzhou Meteo Fax  -               1-7  
+8421          0000-2400       CHN XSV Tianjin Radio        -               1-7  
+8424          0000-2400       GRC SVO Olimpia Radio        -               1-7  
+8425.5        0000-2400       CHN XSG Shanghai Radio       -               1-7  
+8431          0000-2400       CHN XSQ Guangzhou Radio      -               1-7  
+8431          0000-2400       TUR TAH Turk Radio Istanbul  -               1-7  
+8433          0000-2400       CHN XSG Shanghai Radio       -               1-7  
+8434          0000-2400       TUR TAH Turk Radio Istanbul  -               1-7  
+8435          0000-2400       CHN XSQ Guangzhou Radio      -               1-7  
 8444          0330-0355       RUS RBW Murmansk Meteo Fax   -               1-7  
 8444          1030-1055       RUS RBW Murmansk Meteo Fax   -               1-7  
 8444          1330-1355       RUS RBW Murmansk Meteo Fax   -               1-7  
 8444          1445-1510       RUS RBW Murmansk Meteo Fax   -               1-7  
 8444          2000-2025       RUS RBW Murmansk Meteo Fax   -               1-7  
-8456          0315-0325       POL E11 Polish Spy Numbers   Eng             2,4  
+8456          0315-0325       POL E11 Polish Spy Numbers   -               2,4  
 8459          0340-0610       ALS NOJ Fax Kodiak           -               1-7  
 8459          0950-1210       ALS NOJ Fax Kodiak           -               1-7  
 8459          1540-1820       ALS NOJ Fax Kodiak           -               1-7  
 8459          2150-0030       ALS NOJ Fax Kodiak           -               1-7  
-8484          0900-2400       KOR HLG Seoul Radio          -CW             1-7  
-8484.5        0000-2400       RUS Channel Marker P         -CW             1-7  
+8484          0900-2400       KOR HLG Seoul Radio          -               1-7  
+8484.5        0000-2400       RUS Channel Marker P         -               1-7  
 8494.7        0000-2400       RUS Channel Marker D         -CW             1-7  
 8494.8        0000-2400       RUS Channel Marker P         -CW             1-7  
 8494.9        0000-2400       RUS Channel Marker S         -CW             1-7  
@@ -8976,10 +9033,10 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 8867          0000-2400       NZL Auckland Radio           Eng             1-7  
 8867          0000-2400       USA San Francisco Radio SP   Eng             1-7  
 8870          0000-2400       USA San Francisco Radio CWP  Eng             1-7  
-8879          0000-2400       CAN Gander Radio C           Eng             1-7  
-8879          0000-2400       IND Mumbai Radio             Eng             1-7  
-8879          0900-2100       IRL Shannon Aeradio C        Eng             1-7  
-8879          0000-2400       ISL Iceland Radio C          Eng             1-7  
+8879          0000-2400       CAN Gander Radio C           -               1-7  
+8879          0000-2400       IND Mumbai Radio             -               1-7  
+8879          0900-2100       IRL Shannon Aeradio C        -               1-7  
+8879          0000-2400       ISL Iceland Radio C          -               1-7  
 8885          0000-2400       BHR Al Muharraq HFDL (ID15)  -HF             1-7  
 8888          0000-2400       RUS Novosibir Volmet x07,37  Rus             1-7  
 8888          0000-2400       RUS Samara Volmet x15,45     Rus             1-7  
@@ -9011,8 +9068,8 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 8939          0000-2400       KOR Seoul Muan HFDL (ID10)   -HF             1-7  
 8939          0000-2400       RUS Rostov Volmet x25,55     Rus             1-7  
 8939          0000-2400       RUS StPeterbg Volmet x05,35  Rus             1-7  
-8942          0000-2400       IRL Shannon HFDL (ID7)       -HF             1-7  
-8948          0000-2400       CNR Canarias HFDL (ID17)     -HF             1-7  
+8942          0000-2400       IRL Shannon HFDL (ID7)       -               1-7  
+8948          0000-2400       CNR Canarias HFDL (ID17)     -               1-7  
 8948          0000-2400       IND Mumbai Radio             Eng             1-7  
 8951          0000-2400       USA San Francisco Radio NP   Eng             1-7  
 8954          0000-2400       IRL Shannon Aeradio J        Eng             1-7  
@@ -9170,6 +9227,8 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 9300          2130-2200       TWN Sound of Hope            Cmn             1-7  
 9300          2200-2300       TWN Sound of Hope            Cmn             1-7  
 9300          2300-2400       TWN Sound of Hope            Cmn             1-7  
+9300          1400-2400       USA Radio Farda              Pes             1-7  
+9310          1130-1500       USA Voice of America         Kor             17Jun
 9310          1530-1600       USA Voice of America         Kor             2-6  
 9310          1530-1830       USA Voice of America         Kor             2-6  
 9310          1830-2030       USA Voice of America         Kor             2-6  
@@ -9184,6 +9243,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 9320          1400-1500       TWN Sound of Hope            Cmn             1-7  
 9320          1500-1600       TWN Sound of Hope            Cmn             1-7  
 9320          1600-1700       TWN Sound of Hope            Cmn             1-7  
+9320          1400-2400       USA Radio Farda              Pes             1-7  
 9320          0100-0130       USA Radio Free Asia          Bod             2-6  
 9320          1900-2000       USA Trans World Radio        Kor             1-7  
 9320          0000-0030       USA Voice of America         Bod             7-1  
@@ -9214,7 +9274,9 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 9345          1600-1700       USA Voice of America         Bod             1-7  
 9349          0210-0220       RUS E06 Russian Spy Numbers  Eng             2    
 9350          0000-0100       CHN CNR1 Jammer/Firedrake    Cmn             1-7  
+9350          1400-2400       USA Radio Farda              Pes             1-7  
 9350          0000-0100       USA Voice of America         Cmn             1-7  
+9350          1130-1500       USA Voice of America         Cmn             17Jun
 9350          2000-2400       USA WWCR 2 Nashville, TN     Eng             1-7  
 9350          2100-2300       USA WWCR 2 Nashville, TN     Eng             1-7  
 9353          1120-1130       RUS E07 Russian Spy Numbers  Eng             3,6  
@@ -9225,6 +9287,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 9370          0100-0130       CHN CNR1 Jammer/Firedrake    Cmn             2-6  
 9370          0300-1230       USA Radio Farda              Pes             1-7  
 9370          1630-2000       USA Radio Farda              Pes             1-7  
+9370          1400-2400       USA Radio Farda              Pes             1-7  
 9370          0100-0130       USA Radio Free Asia          Bod             2-6  
 9370          1500-1530       USA VoA Radio Ashna          Prs             1-7  
 9370          1530-1600       USA VoA Radio Ashna          Pbt             1-7  
@@ -9232,10 +9295,12 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 9370          1630-1700       USA VoA Radio Ashna          Pbt             1-7  
 9370          1700-1730       USA VoA Radio Ashna          Prs             1-7  
 9370          1730-1800       USA VoA Radio Ashna          Pbt             1-7  
+9370          1800-2000       USA VoA Radio Ashna          Prs             1-7  
 9370          0000-0030       USA Voice of America         Bod             7-1  
 9380          1800-1830       CAN Bible Voice              Rus             1    
 9380          1830-1900       CAN Bible Voice              Udm             1    
 9380          1744-1759       SWZ Trans World Radio        Tuv             7    
+9380          1400-2400       USA Radio Farda              Pes             1-7  
 9382          0210-0220       RUS E06 Russian Spy Numbers  Eng             2    
 9385          1200-1230       CLA Voice of Martyrs         Kor             1-7  
 9385          1330-1400       CLA Voice of Martyrs         Kor             1-7  
@@ -9244,6 +9309,9 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 9390          1630-1700       G   BBC                      Kor             2-6  
 9390          1730-1800       G   BBC                      Kor             2-6  
 9395          1130-1200       SVK Radio Slovakia Int.      Eng             1-7  
+9395          0000-0100       USA America250 DueDiligence  Eng             1    
+9395          0400-0500       USA America250 DueDiligence  Eng             1-7  
+9395          2300-2400       USA America250 DueDiligence  Eng             1-7  
 9395          0000-2400       USA WRMI Radio Miami Int.    Eng             1-7  
 9395          1100-1130       USA WRMI Radio Miami Int.    Cmn             1-7  
 9399          1205-1215       POL E11 Polish Spy Numbers   Eng             3,4  
@@ -9265,6 +9333,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 9410          0200-0230       G   BBC                      Pbt             1-7  
 9410          0230-0300       G   BBC                      Prs             1-7  
 9410          0500-0600       G   BBC                      Eng             1-7  
+9410          0500-0600       G   BBC                      Eng             1-7  
 9410          0500-0700       G   BBC                      Eng             1-7  
 9410          0600-0700       G   BBC                      Eng             1-7  
 9410          0600-1100       TWN Fu Hsing Bc.Sta.         Cmn             2-6  
@@ -9280,6 +9349,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 9420          1400-1500       CHN China National Radio 13  Uig             1-7  
 9420          1500-1600       CHN China National Radio 13  Cmn             1-7  
 9420          1600-1805       CHN China National Radio 13  Uig             1-7  
+9425          2000-0400       CLA Iran International TV    Pes             1-7  
 9425          1300-1400       KRE Voice of Korea           Kor             1-7  
 9425          1400-1600       KRE Voice of Korea           Rus             1-7  
 9425          1600-1700       KRE Voice of Korea           Deu             1-7  
@@ -9287,6 +9357,8 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 9425          1800-1900       KRE Voice of Korea           Deu             1-7  
 9425          1900-2000       KRE Voice of Korea           Deu             1-7  
 9425          2000-2050       KRE Voice of Korea KCBS      Kor             1-7  
+9425          0000-0400       USA Brother Stair            Eng             1-7  
+9425          2200-2400       USA Brother Stair            Eng             1-7  
 9435          1000-1100       KRE Voice of Korea           Eng             1-7  
 9435          1100-1200       KRE Voice of Korea           Fra             1-7  
 9435          1200-1250       KRE Voice of Korea KCBS      Kor             1-7  
@@ -9471,6 +9543,8 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 9540          2300-2400       TWN Sound of Hope            Cmn             1-7  
 9545          0900-1000       ALS KNLS New Life Station    Rus             1-7  
 9545          2200-0550       SLM Solomon Islands B.C.     Eng             1-7  
+9545          1745-1755       TWN Radio Taiwan Int.        Deu             20Jun
+9545          1745-1755       TWN Radio Taiwan Int.        Fra             21Jun
 9550          0000-0100       CHN China Radio Int.         Hak             1-7  
 9550          0100-0200       CHN China Radio Int.         Nan             1-7  
 9550          1100-1200       CHN China Radio Int.         Vie             1-7  
@@ -9478,7 +9552,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 9550          1300-1400       CHN China Radio Int.         Vie             1-7  
 9550          1400-1500       CHN China Radio Int.         Vie             1-7  
 9550          1500-1600       CHN China Radio Int.         Vie             1-7  
-9550          1600-1700       CHN China Radio Int.         Vie             1-7  
+9550          1600-1700       CHN China Radio Int.         -               1-7  
 9550          0330-0430       G   BBC                      Pes             1-7  
 9550          0100-0200       ROU Radio Romania Int.       Fra             1-7  
 9550          1800-1900       USA Adventist World Radio    Kor             1-7  
@@ -9508,7 +9582,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 9570          0900-1000       CHN CNR 2 China Business R.  Cmn             1-7  
 9570          1000-1100       CHN CNR 2 China Business R.  Cmn             1-7  
 9570          0800-0900       KOR KBS World Radio          Kor             1-7  
-9570          0900-1000       KOR KBS World Radio          Kor             1-7  
+9570          0900-1000       KOR KBS World Radio          -               1-7  
 9570          1000-1100       KOR KBS World Radio          Eng             1-7  
 9570          1200-1300       KOR KBS World Radio          Ind             1-7  
 9570          1300-1400       KOR KBS World Radio          Eng             1-7  
@@ -9732,8 +9806,12 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 9695          1100-1200       TWN Radio Taiwan Int.        Vie             1-7  
 9700          2200-0700       ALG Ifrikya FM               Arb             1-7  
 9700          1500-1600       ALS KNLS New Life Station    Cmn             1-7  
+9700          0800-0830       AUS ABC Wantok               Tpi             2-6  
 9700          1228-1258       AUS ABC Wantok               Tpi             2-6  
 9700          0000-0100       CHN China Radio Int.         Eng             1-7  
+9700          0659-1058       NZL RNZ Pacific              Eng             1-7  
+9700          0725-0735       NZL RNZ Pacific              Pis             2-6  
+9700          0830-0840       NZL RNZ Pacific              Fra             5    
 9700          1059-1258       NZL RNZ Pacific              Eng             2-6  
 9700          1128-1135       NZL RNZ Pacific              Pis             2-6  
 9700          1059-1258       NZL RNZ Pacific              Eng             7-1  
@@ -9763,7 +9841,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 9710          0100-0200       CUB Radio Habana Cuba        Fra             1-7  
 9710          0200-0300       CUB Radio Habana Cuba        Eng             1-7  
 9710          0200-0300       CUB Radio Habana Cuba        Por             1-7  
-9710          0330-0400       CUB Radio Habana Cuba        Hat             1-7  
+9710          0300-0400       CUB Radio Habana Cuba        Eng             1-7  
 9710          0400-0430       CUB Radio Habana Cuba        Hat             1-7  
 9710          0430-0500       CUB Radio Habana Cuba        Por             1-7  
 9710          0500-0700       CUB Radio Habana Cuba        Spa             1-7  
@@ -9815,7 +9893,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 9730          0400-0500       KRE Voice of Korea           Eng             1-7  
 9730          0500-0600       KRE Voice of Korea           Cmn             1-7  
 9730          0600-0700       KRE Voice of Korea           Eng             1-7  
-9730          0130-1230       MYA Myanma Radio             Mya             1-7  
+9730          0130-1145       MYA Myanma Radio             Mya             1-7  
 9730          0100-0200       ROU Radio Romania Int.       Ron             1-7  
 9730          0000-0100       TWN Sound of Hope            Cmn             1-7  
 9730          0100-0200       TWN Sound of Hope            Cmn             1-7  
@@ -9854,6 +9932,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 9740          2030-2100       ROU Radio Romania Int.       Eng             1-7  
 9740          2200-2300       ROU Radio Romania Int.       Eng             1-7  
 9740          1100-1200       TWN Radio Taiwan Int.        Jpn             1-7  
+9740          0900-1000       USA VoRW                     Eng             5    
 9745          1930-2030       CHN China Radio Int.         Epo             1-7  
 9745          0000-0100       CHN CNR 7 Greater Bay Area   Zom             1-7  
 9745          2055-2400       CHN CNR 7 Greater Bay Area   Zom             1-7  
@@ -9909,6 +9988,8 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 9780          1759-1858       NZL RNZ Pacific DIGITAL      Eng             1-6  
 9780          1840-1850       NZL RNZ Pacific DIGITAL      Smo             1-5  
 9780          1852-1858       NZL RNZ Pacific DIGITAL      Niu             2-6  
+9780          1859-1958       NZL RNZ Pacific DIGITAL      Eng             1-6  
+9780          1940-1950       NZL RNZ Pacific DIGITAL      Ton             1-5  
 9785          0600-0800       CHN China National Radio 8   Kor             5-3  
 9785          0800-0900       CHN China National Radio 8   Cmn             5-3  
 9785          0900-1400       CHN China National Radio 8   Kor             1-7  
@@ -10144,7 +10225,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 9900          1330-1345       USA Radio Free Asia          Kor             1-7  
 9910          1400-1500       CHN CNR1 Jammer/Firedrake    Cmn             1-7  
 9910          1600-1700       CHN CNR1 Jammer/Firedrake    Cmn             1-7  
-9910          1130-1145       USA Trans World Radio        Eng             1    
+9910          1130-1145       USA Trans World Radio        -               1    
 9910          1145-1245       USA Trans World Radio        Cmn             1    
 9910          1230-1245       USA Trans World Radio        Yun             2-6  
 9910          1245-1300       USA Trans World Radio        Czh             1-7  
@@ -10163,9 +10244,14 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 9920          1730-2030       PHL Radyo Pilipinas          Tgl             1-7  
 9926          0000-2400       B   Free Radio Minas Gerais  Por             irr  
 9930          1330-1400       CLA Voice of Martyrs         Kor             1-7  
-9930          0835-0905       USA Hope Radio 3             Eng             2    
-9930          0850-1300       USA Hope Radio 3             Eng             3-6  
-9930          1130-1200       USA Hope Radio 3             Cmn             6    
+9930          0510-0605       USA Hope Radio 3             Eng             7    
+9930          0955-1305       USA Hope Radio 3             Eng             2-6  
+9930          1000-1030       USA Hope Radio 3             Jpn             5    
+9930          1030-1100       USA Hope Radio 3             Cmn             5    
+9930          1115-1130       USA Hope Radio 3             Jpn             3    
+9930          1145-1200       USA Hope Radio 3             Cmn             2-6  
+9930          1200-1230       USA Hope Radio 3             Cmn             3    
+9930          1215-1230       USA Hope Radio 3             Cmn             2    
 9930          1300-0130       USA WTWW Lebanon, TN         Eng             1-7  
 9940          0000-0030       CHN CNR1 Jammer/Firedrake    Cmn             7-1  
 9940          0100-0130       CHN CNR1 Jammer/Firedrake    Cmn             2-6  
@@ -10175,6 +10261,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 9940          0100-0130       USA Radio Free Asia          Bod             2-6  
 9940          0000-0030       USA Voice of America         Bod             7-1  
 9940          1530-2130       USA Voice of America         Kor             1-7  
+9940          1530-2330       USA Voice of America         Kor             1-7  
 9946          0930-0940       RUS E06 Russian Spy Numbers  Eng             1    
 9950          1445-1500       USA Trans World Radio        Kaz             1-7  
 9950          1500-1530       USA VoA Radio Ashna          Prs             1-7  
@@ -10182,7 +10269,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 9950          1600-1630       USA VoA Radio Ashna          Prs             1-7  
 9950          1630-1700       USA VoA Radio Ashna          Pbt             1-7  
 9950          1700-1730       USA VoA Radio Ashna          Prs             1-7  
-9950          1730-1800       USA VoA Radio Ashna          Pbt             1-7  
+9950          1730-1800       USA VoA Radio Ashna          -               1-7  
 9951          1000-1010       POL E11 Polish Spy Numbers   Eng             3,6  
 9951          1000-1010       POL E11 Polish Spy Numbers   Eng             3,6  
 9955          0200-0230       CZE Radio Prague             Spa             1-7  
@@ -10195,11 +10282,16 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 9960          2000-0158       VUT Radio Vanuatu            Bis             1-7  
 9960          2000-0557       VUT Radio Vanuatu            Bis             1-7  
 9963          0000-2400       ISR 4XZ Israeli Navy Haifa   -CW             1-7  
-9965          0800-0905       USA Hope Radio 5             Eng             2-6  
-9965          0800-1150       USA Hope Radio 5             Eng             1    
+9965          0807-0835       USA Hope Radio 5             Eng             5    
+9965          0807-0850       USA Hope Radio 5             Eng             4    
+9965          0807-0905       USA Hope Radio 5             Eng             2,6  
+9965          0807-0950       USA Hope Radio 5             Eng             3    
+9965          0810-1150       USA Hope Radio 5             Eng             1    
 9965          0830-0845       USA Hope Radio 5             Cmn             6    
-9965          0900-1000       USA Hope Radio 5             Jpn             3    
-9965          0840-1050       USA Hope Radio 5             Eng             7    
+9965          0845-0945       USA Hope Radio 5             Jpn             3    
+9965          0840-1015       USA Hope Radio 5             Eng             7    
+9965          1015-1100       USA Hope Radio 5             Kor             7    
+9965          1100-1105       USA Hope Radio 5             Eng             7    
 9968          0445-0455       POL S11a Polish Spy Numbers  Rus             3,5  
 9970          0000-2400       B   Rádio Casa AM            Por             1-7  
 9970          2130-1700       CHN CNR1 Jammer/Firedrake    Cmn             1-7  
@@ -10218,14 +10310,14 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 9975          1300-1325       USA Trans World Radio        Cmn             1    
 9975          1300-1340       USA Trans World Radio        Cmn             2-7  
 9975          1345-1430       USA Trans World Radio        Mya             1    
-9975          1430-1445       USA Trans World Radio        Kor             1    
-9975          1445-1500       USA Trans World R. DIGITAL   Eng             1    
-9975          1500-1505       USA Trans World R. DIGITAL   Eng             1    
+9975          1430-1445       USA Trans World Radio        -               1    
+9975          1445-1500       USA Trans World R. DIGITAL   -               1    
+9975          1500-1505       USA Trans World R. DIGITAL   -               1    
 9982.5        0519-1600       HWA KVM70 Fax Honolulu       -               1-7  
-9985          2130-1800       CHN CNR1 Jammer/Firedrake    Cmn             1-7  
-9985          0000-0100       TWN Sound of Hope            Cmn             1-7  
-9985          0100-0200       TWN Sound of Hope            Cmn             1-7  
-9985          0200-1200       TWN Sound of Hope            Cmn             1-7  
+9985          0000-2400       CHN CNR1 Jammer/Firedrake    -               1-7  
+9985          0000-0100       TWN Sound of Hope            -               1-7  
+9985          0100-0200       TWN Sound of Hope            -               1-7  
+9985          0200-1200       TWN Sound of Hope            -               1-7  
 9985          1200-1300       TWN Sound of Hope            Cmn             1-7  
 9985          1300-1400       TWN Sound of Hope            Cmn             1-7  
 9985          1400-1500       TWN Sound of Hope            Cmn             1-7  
@@ -10301,11 +10393,11 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 10387         1140-1150       RUS E07 Russian Spy Numbers  Eng             3,6  
 10423         0930-0940       RUS E06 Russian Spy Numbers  Eng             1    
 10429         0715-0725       POL E11 Polish Spy Numbers   Eng             3,6  
-10448         1400-1410       POL S11a Polish Spy Numbers  Rus             3,6  
-10463         1030-1040       RUS E06 Russian Spy Numbers  Eng             4    
-10487         1910-1920       POL E11 Polish Spy Numbers   Eng             6,1  
-10536         1000-2200       CAN CFH Halifax Radio        -TY             1-7  
-10536         2200-1000       CAN CFH Halifax Radio        -TY             1-7  
+10448         1400-1410       POL S11a Polish Spy Numbers  -               3,6  
+10463         1030-1040       RUS E06 Russian Spy Numbers  -               4    
+10487         1910-1920       POL E11 Polish Spy Numbers   -               6,1  
+10536         1000-2200       CAN CFH Halifax Radio        -               1-7  
+10536         2200-1000       CAN CFH Halifax Radio        -               1-7  
 10555         0015-0215       AUS VMW Wiluna Met Fax       -               1-7  
 10555         0245-0330       AUS VMW Wiluna Met Fax       -               1-7  
 10555         0400-0945       AUS VMW Wiluna Met Fax       -               1-7  
@@ -10315,9 +10407,9 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 10555         1915-2045       AUS VMW Wiluna Met Fax       -               1-7  
 10555         2215-2400       AUS VMW Wiluna Met Fax       -               1-7  
 10628         0210-0220       RUS E06 Russian Spy Numbers  Eng             2    
-10653         1100-1110       RUS E07 Russian Spy Numbers  Eng             3,6  
-10673         0210-0220       RUS E06 Russian Spy Numbers  Eng             2    
-10728         0445-0455       POL S11a Polish Spy Numbers  Rus             3,5  
+10653         1100-1110       RUS E07 Russian Spy Numbers  -               3,6  
+10673         0210-0220       RUS E06 Russian Spy Numbers  -               2    
+10728         0445-0455       POL S11a Polish Spy Numbers  -               3,5  
 10728         0445-0455       POL S11a Polish Spy Numbers  Rus             3,5  
 10737         1140-1150       RUS E07 Russian Spy Numbers  Eng             3,6  
 10755         0930-0940       RUS E06 Russian Spy Numbers  Eng             4    
@@ -10459,6 +10551,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 11285         0000-2400       CLN Colombo Radio            Eng             1-7  
 11285         0000-2400       IND Chennai Radio            Eng             1-7  
 11297         0300-1500       RUS Rostov Volmet x25,55     Rus             1-7  
+11300         0000-2400       SEY Seychelles Control       Eng             1-7  
 11300         0000-0100       TWN Sound of Hope            Cmn             1-7  
 11300         0100-0200       TWN Sound of Hope            Cmn             1-7  
 11300         0200-1200       TWN Sound of Hope            Cmn             1-7  
@@ -10580,7 +10673,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 11520         0000-0100       TWN Sound of Hope            Cmn             1-7  
 11520         0100-0200       TWN Sound of Hope            Cmn             1-7  
 11520         0200-1200       TWN Sound of Hope            Cmn             1-7  
-11520         1200-1300       TWN Sound of Hope            Cmn             1-7  
+11520         1200-1300       TWN Sound of Hope            -               1-7  
 11520         1300-1400       TWN Sound of Hope            Cmn             1-7  
 11520         1400-1500       TWN Sound of Hope            Cmn             1-7  
 11520         1500-1600       TWN Sound of Hope            Cmn             1-7  
@@ -10609,7 +10702,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 11540         1400-1430       USA VoA Radio Ashna          Prs             1-7  
 11540         1430-1500       USA VoA Radio Ashna          Pbt             1-7  
 11540         1500-1530       USA VoA Radio Ashna          Prs             1-7  
-11540         1530-1600       USA VoA Radio Ashna          Pbt             1-7  
+11540         1530-1600       USA VoA Radio Ashna          -               1-7  
 11540         1600-1630       USA VoA Radio Ashna          Prs             1-7  
 11540         1630-1700       USA VoA Radio Ashna          Pbt             1-7  
 11540         1700-1730       USA VoA Radio Ashna          Prs             1-7  
@@ -10633,12 +10726,14 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 11560         1530-1700       USA Trans World Radio        Kor             1-7  
 11567         0210-0220       RUS E06 Russian Spy Numbers  Eng             2    
 11574         1410-1420       RUS E07 Russian Spy Numbers  Eng             5,7  
+11575         1130-1400       USA Radio Farda              Pes             17Jun
+11575         0600-0630       USA Voice of America         Eng             3,5  
 11575         1400-1430       USA VoA Radio Ashna          Prs             1-7  
 11575         1430-1500       USA VoA Radio Ashna          Pbt             1-7  
 11575         1500-1530       USA VoA Radio Ashna          Prs             1-7  
 11575         1530-1600       USA VoA Radio Ashna          Pbt             1-7  
 11575         1600-1630       USA VoA Radio Ashna          Prs             1-7  
-11575         1630-1700       USA VoA Radio Ashna          Pbt             1-7  
+11575         1630-1700       USA VoA Radio Ashna          -               1-7  
 11575         1700-1730       USA VoA Radio Ashna          Prs             1-7  
 11575         1730-1800       USA VoA Radio Ashna          Pbt             1-7  
 11580         2100-1600       CHN CNR1 Jammer/Firedrake    Cmn             1-7  
@@ -10659,6 +10754,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 11590         2100-2400       CHN CNR1 Jammer/Firedrake    Cmn             1-7  
 11590         2200-2230       CHN CNR1 Jammer/Firedrake    Cmn             1-7  
 11590         2200-2400       CHN CNR1 Jammer/Firedrake    Cmn             1-7  
+11590         1130-1500       USA Voice of America         Cmn             17Jun
 11590         2100-2400       USA Voice of America         Cmn             1-7  
 11590         2200-2230       USA Voice of America         Cmn             1-7  
 11590         2200-2400       USA Voice of America         Cmn             1-7  
@@ -10669,7 +10765,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 11600         0600-0900       CHN CNR 2 China Business R.  Cmn             5-3  
 11600         0900-1100       CHN CNR 2 China Business R.  Cmn             1-7  
 11600         2100-1600       CHN CNR1 Jammer/Firedrake    Cmn             1-7  
-11600         1300-1400       PHL FEBC Manila              -               1-7  
+11600         1300-1400       PHL FEBC Manila              Cmn             1-7  
 11600         1400-1600       PHL FEBC Manila              Cmn             1-7  
 11600.1       0000-0100       TWN Sound of Hope            Cmn             1-7  
 11600.1       0100-0200       TWN Sound of Hope            Cmn             1-7  
@@ -10697,6 +10793,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 11610         2300-0600       CHN CNR 2 China Business R.  Cmn             1-7  
 11610         2100-2200       MDG MWV The Light of Life    Cmn             1-7  
 11610         2200-2300       MDG MWV Radio Feda           Arb             1-7  
+11610         1900-2000       USA Follow the Bible Min.    Fra             1    
 11610         1600-1700       USA Voice of America         Bod             1-7  
 11615         2000-2100       D   Music 4 Joy DIGITAL      -               3,5  
 11616         0400-0410       RUS S06 Russian Spy Numbers  Rus             2-6  
@@ -10745,6 +10842,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 11640         0430-0500       HOL Radio Dabanga            Apd             1-7  
 11640         1700-1800       HOL Radio Dabanga            Apd             1-7  
 11640         0330-0400       HOL Radio Tamazuj            Apd             1-7  
+11640         0400-0430       HOL Radio Tamazuj            Apd             3-6  
 11640         1420-1520       IRN IRIB Voice of I.R.Iran   Hin             1-7  
 11640         1520-1620       IRN IRIB Voice of I.R.Iran   Eng             1-7  
 11640         1620-1650       IRN IRIB Voice of I.R.Iran   Ben             1-7  
@@ -10753,7 +10851,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 11645         1500-1600       KRE Voice of Korea           Arb             1-7  
 11645         1600-1700       KRE Voice of Korea           Eng             1-7  
 11645         1700-1800       KRE Voice of Korea           Arb             1-7  
-11650         1030-1045       AUS Reach Beyond Australia   Kor             3-5  
+11650         1030-1045       AUS Reach Beyond Australia   -               3-5  
 11650         1030-1100       AUS Reach Beyond Australia   Kor             6-2  
 11650         1045-1100       AUS Reach Beyond Australia   Eng             3-5  
 11650         0100-0200       CHN China Radio Int.         Cmn             1-7  
@@ -10829,6 +10927,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 11690         2100-2400       FIN Scandinavian Weekend R.  Fin             1.6  
 11690         2200-2400       FIN Scandinavian Weekend R.  Fin             1.6  
 11690         2300-2400       FIN Scandinavian Weekend R.  Fin             24Dec
+11690         0340-0415       NZL RNZ Pacific DIGITAL      Eng             Test 
 11690         1859-1958       NZL RNZ Pacific DIGITAL      Eng             1-6  
 11690         1940-1950       NZL RNZ Pacific DIGITAL      Ton             1-5  
 11695         1800-2000       CHN China Radio Int.         Fra             1-7  
@@ -10892,6 +10991,8 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 11725         0659-1058       NZL RNZ Pacific              Eng             1-7  
 11725         0725-0735       NZL RNZ Pacific              Pis             2-6  
 11725         0830-0840       NZL RNZ Pacific              Fra             5    
+11725         1859-1958       NZL RNZ Pacific              Eng             1-7  
+11725         1940-1950       NZL RNZ Pacific              Ton             1-5  
 11730         0230-0330       CHN China Radio Int.         Npi             1-7  
 11730         1100-1200       CHN CNR1 Jammer/Firedrake    Cmn             1-7  
 11730         0000-0200       G   BBC                      Eng             1-7  
@@ -10948,6 +11049,8 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 11760         2200-2300       CHN China Radio Int.         Por             1-7  
 11760         0000-0100       CUB Radio Habana Cuba        Eng             1-7  
 11760         0100-0200       CUB Radio Habana Cuba        Hat             1-7  
+11760         0232-0332       CUB Radio Habana Cuba        Eng             1-7  
+11760         0332-0400       CUB Radio Habana Cuba        Hat             1-7  
 11760         0400-0430       CUB Radio Habana Cuba        Hat             1-7  
 11760         0430-0500       CUB Radio Habana Cuba        Por             1-7  
 11760         0500-0700       CUB Radio Habana Cuba        Spa             1-7  
@@ -11117,6 +11220,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 11870         2000-2030       CVA Radio Vaticana           Eng             1-7  
 11870         2030-2100       CVA Radio Vaticana           Fra             1-7  
 11870         2100-2130       CVA Radio Vaticana           Por             1-7  
+11870         0400-0500       F   TDF DIGITAL              Fra             irr  
 11870         1400-1500       USA Voice of America         Cmn             1-7  
 11875         0800-0900       ALS KNLS New Life Station    Cmn             1-7  
 11875         0900-1000       ALS KNLS New Life Station    Cmn             1-7  
@@ -11129,8 +11233,13 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 11875         1800-1830       G   BBC                      Fra             1-7  
 11875         1800-1830       G   BBC                      Fra             1-7  
 11875         1800-1830       G   BBC                      Fra             1-7  
+11875         1800-1830       G   BBC                      Fra             1-7  
 11880         0200-0300       CHN China Radio Int.         Cmn             1-7  
 11880         1600-1700       CHN China Radio Int.         Hak             1-7  
+11880         0100-0130       CUB Radio Habana Cuba        Hat             1-7  
+11880         0200-0300       CUB Radio Habana Cuba        Eng             1-7  
+11880         0500-0600       CUB Radio Habana Cuba        Eng             1-7  
+11880         0600-1000       CUB Radio Habana Cuba        Spa             1-7  
 11880         1500-1530       CUB Radio Habana Cuba        Epo             1    
 11880         1500-1800       CUB Radio Habana Cuba        Spa             1-7  
 11880         1800-1830       CUB Radio Habana Cuba        Fra             2-7  
@@ -11353,6 +11462,10 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 11995         2100-2200       F   Radio France Int.        Fra             1-7  
 11995         1400-1500       G   BBC                      Prs             1-7  
 11995         1500-1600       G   BBC                      Pbt             1-7  
+11995         1715-1725       TWN Radio Taiwan Int.        Deu             20Jun
+11995         1715-1725       TWN Radio Taiwan Int.        Fra             21Jun
+11995         1730-1740       TWN Radio Taiwan Int.        Deu             20Jun
+11995         1730-1740       TWN Radio Taiwan Int.        Fra             21Jun
 12000         0300-0400       CHN China Radio Int.         Eng             1-7  
 12005         0900-1000       CHN China Radio Int.         Cmn             1-7  
 12005         1000-1100       CHN China Radio Int.         Zom             1-7  
@@ -11438,6 +11551,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 12055         2330-2345       PHL FEBC Manila              Pce             1-7  
 12055         2345-0015       PHL FEBC Manila              Khb             1-7  
 12060         1600-1700       D   SM Radio Dessau          Deu             1-7  
+12060         1700-1800       D   SM Radio Dessau          Deu             14Jun
 12060         1700-1900       J   NHK Radio Japan          Jpn             1-7  
 12060         1900-2100       J   NHK Radio Japan          Jpn             1-7  
 12060         2100-2120       J   NHK Radio Japan          Fra             1-7  
@@ -11551,10 +11665,10 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 12160         2200-2300       TWN Sound of Hope            Cmn             1-7  
 12160         2300-2400       TWN Sound of Hope            Cmn             1-7  
 12160         0900-0930       USA Trans World Radio        Cmn             2-6  
-12160         0930-0945       USA Trans World Radio        Cmn             1-7  
-12160         0945-1000       USA Trans World Radio        Cmn             2-6  
-12160         1500-2000       USA WWCR 2 Nashville, TN     Eng             1-7  
-12168         1430-1440       RUS E07 Russian Spy Numbers  Eng             5,7  
+12160         0930-0945       USA Trans World Radio        -               1-7  
+12160         0945-1000       USA Trans World Radio        -               2-6  
+12160         1500-2000       USA WWCR 2 Nashville, TN     -               1-7  
+12168         1430-1440       RUS E07 Russian Spy Numbers  -               5,7  
 12169         0740-0750       RUS V07 Russian Spy Numbers  Spa             1    
 12175         1520-1530       RUS E07 Russian Spy Numbers  Eng             3,6  
 12177         0400-0410       RUS E06 Russian Spy Numbers  Eng             5    
@@ -11597,8 +11711,8 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 12230         1200-1300       TWN Sound of Hope            Cmn             1-7  
 12230         1300-1400       TWN Sound of Hope            Cmn             1-7  
 12230         1400-1500       TWN Sound of Hope            Cmn             1-7  
-12230         1500-1600       TWN Sound of Hope            Cmn             1-7  
-12230         1600-1700       TWN Sound of Hope            Cmn             1-7  
+12230         1500-1600       TWN Sound of Hope            -               1-7  
+12230         1600-1700       TWN Sound of Hope            -               1-7  
 12230         2130-2200       TWN Sound of Hope            Cmn             1-7  
 12230         2200-2300       TWN Sound of Hope            Cmn             1-7  
 12230         2300-2400       TWN Sound of Hope            Cmn             1-7  
@@ -11607,13 +11721,13 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 12280         0200-1200       TWN Sound of Hope            Cmn             1-7  
 12280         1200-1300       TWN Sound of Hope            Cmn             1-7  
 12280         1300-1400       TWN Sound of Hope            Cmn             1-7  
-12280         1400-1500       TWN Sound of Hope            Cmn             1-7  
-12280         2130-2200       TWN Sound of Hope            Cmn             1-7  
-12280         2200-2300       TWN Sound of Hope            Cmn             1-7  
-12280         2300-2400       TWN Sound of Hope            Cmn             1-7  
-12290         0000-2400       CAN VFF Iqaluit Radio        Eng             1-7  
-12345         0000-0100       TWN Sound of Hope            Cmn             1-7  
-12345         0100-0200       TWN Sound of Hope            Cmn             1-7  
+12280         1400-1500       TWN Sound of Hope            -               1-7  
+12280         2130-2200       TWN Sound of Hope            -               1-7  
+12280         2200-2300       TWN Sound of Hope            -               1-7  
+12280         2300-2400       TWN Sound of Hope            -               1-7  
+12290         0000-2400       CAN VFF Iqaluit Radio        -               1-7  
+12345         0000-0100       TWN Sound of Hope            -               1-7  
+12345         0100-0200       TWN Sound of Hope            -               1-7  
 12345         0200-1200       TWN Sound of Hope            Cmn             1-7  
 12345         1200-1300       TWN Sound of Hope            Cmn             1-7  
 12345         1300-1400       TWN Sound of Hope            Cmn             1-7  
@@ -11622,10 +11736,10 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 12345         2200-2300       TWN Sound of Hope            Cmn             1-7  
 12345         2300-2400       TWN Sound of Hope            Cmn             1-7  
 12356         0303-0340       NZL ZLM Taupo Maritime R.    Eng             1-7  
-12356         0903-0940       NZL ZLM Taupo Maritime R.    Eng             1-7  
-12356         1503-1540       NZL ZLM Taupo Maritime R.    Eng             1-7  
-12356         2103-2145       NZL ZLM Taupo Maritime R.    Eng             1-7  
-12359         0803-0813       VTN Da Nang Radio XVT        Vie             1-7  
+12356         0903-0940       NZL ZLM Taupo Maritime R.    -               1-7  
+12356         1503-1540       NZL ZLM Taupo Maritime R.    -               1-7  
+12356         2103-2145       NZL ZLM Taupo Maritime R.    -               1-7  
+12359         0803-0813       VTN Da Nang Radio XVT        -               1-7  
 12359         1803-1813       VTN Da Nang Radio XVT        Vie             1-7  
 12359         0133-0143       VTN Hai Phong Radio XVG      Vie             1-7  
 12359         0733-0743       VTN Hai Phong Radio XVG      Vie             1-7  
@@ -11742,15 +11856,15 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 12795         0200-1200       TWN Sound of Hope            Cmn             1-7  
 12795         1200-1300       TWN Sound of Hope            Cmn             1-7  
 12795         1300-1400       TWN Sound of Hope            Cmn             1-7  
-12795         1400-1500       TWN Sound of Hope            Cmn             1-7  
-12795         1500-1600       TWN Sound of Hope            Cmn             1-7  
-12795         2130-2200       TWN Sound of Hope            Cmn             1-7  
-12795         2200-2300       TWN Sound of Hope            Cmn             1-7  
-12795         2300-2400       TWN Sound of Hope            Cmn             1-7  
-12815         0845-0855       POL E11 Polish Spy Numbers   Eng             2,4  
-12820         2130-1600       CHN CNR1 Jammer/Firedrake    Cmn             1-7  
-12820         0000-0100       TWN Sound of Hope            Cmn             1-7  
-12820         0100-0200       TWN Sound of Hope            Cmn             1-7  
+12795         1400-1500       TWN Sound of Hope            -               1-7  
+12795         1500-1600       TWN Sound of Hope            -               1-7  
+12795         2130-2200       TWN Sound of Hope            -               1-7  
+12795         2200-2300       TWN Sound of Hope            -               1-7  
+12795         2300-2400       TWN Sound of Hope            -               1-7  
+12815         0845-0855       POL E11 Polish Spy Numbers   -               2,4  
+12820         2130-1600       CHN CNR1 Jammer/Firedrake    -               1-7  
+12820         0000-0100       TWN Sound of Hope            -               1-7  
+12820         0100-0200       TWN Sound of Hope            -               1-7  
 12820         0200-1200       TWN Sound of Hope            Cmn             1-7  
 12820         1200-1300       TWN Sound of Hope            Cmn             1-7  
 12820         1300-1400       TWN Sound of Hope            Cmn             1-7  
@@ -11942,10 +12056,10 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 13306         0000-2400       AUS Brisbane Radio           Eng             1-7  
 13306         1000-2100       AZR Santa Maria Radio A      Eng             1-7  
 13306         0000-2400       CAN Gander Radio A           Eng             1-7  
-13306         0000-2400       IRL Shannon Aeradio A        Eng             1-7  
+13306         0000-2400       IRL Shannon Aeradio A        -               1-7  
 13306         0000-2400       IRL Shannon Aeradio C        Eng             1-7  
 13306         0000-2400       ISL Iceland Radio C          Eng             1-7  
-13306         0000-2400       USA New York Radio           Eng             1-7  
+13306         0000-2400       USA New York Radio           -               1-7  
 13312         0000-2400       BHR Al Muharraq HFDL (ID15)  -HF             1-7  
 13312         0000-2400       GUM Agana Guam HFDL (ID16)   -HF             1-7  
 13312         0000-2400       HWA Moloka'i HFDL (ID2)      -HF             1-7  
@@ -12135,7 +12249,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 13640         1200-1300       TWN Sound of Hope            Cmn             1-7  
 13640         1300-1400       TWN Sound of Hope            Cmn             1-7  
 13640         1400-1500       TWN Sound of Hope            Cmn             1-7  
-13640         1500-1600       TWN Sound of Hope            Cmn             1-7  
+13640         1500-1600       TWN Sound of Hope            -               1-7  
 13640         2200-2300       TWN Sound of Hope            Cmn             1-7  
 13640         2300-2400       TWN Sound of Hope            Cmn             1-7  
 13645         0600-0700       CHN China Radio Int.         Eng             1-7  
@@ -12280,17 +12394,17 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 13760         0600-0700       KRE Voice of Korea           Fra             1-7  
 13760         0700-0900       KRE Voice of Korea           Rus             1-7  
 13760         0900-1000       KRE Voice of Korea           Kor             1-7  
-13760         1300-1400       KRE Voice of Korea           Eng             1-7  
-13760         1400-1500       KRE Voice of Korea           Fra             1-7  
-13760         1500-1600       KRE Voice of Korea           Eng             1-7  
-13760         1600-1700       KRE Voice of Korea           Fra             1-7  
-13760         1700-1750       KRE Voice of Korea KCBS      Kor             1-7  
-13760         1800-1900       KRE Voice of Korea           Eng             1-7  
-13760         1900-2000       KRE Voice of Korea           Spa             1-7  
-13760         2000-2100       KRE Voice of Korea           Fra             1-7  
-13760         2100-2200       KRE Voice of Korea           Eng             1-7  
-13760         2200-2300       KRE Voice of Korea           Spa             1-7  
-13760         2300-2350       KRE Voice of Korea KCBS      Kor             1-7  
+13760.4       1300-1400       KRE Voice of Korea           Eng             1-7  
+13760.4       1400-1500       KRE Voice of Korea           Fra             1-7  
+13760.4       1500-1600       KRE Voice of Korea           Eng             1-7  
+13760.4       1600-1700       KRE Voice of Korea           Fra             1-7  
+13760.4       1700-1750       KRE Voice of Korea KCBS      -               1-7  
+13760.4       1800-1900       KRE Voice of Korea           -               1-7  
+13760.4       1900-2000       KRE Voice of Korea           -               1-7  
+13760.4       2000-2100       KRE Voice of Korea           -               1-7  
+13760.4       2100-2200       KRE Voice of Korea           -               1-7  
+13760.4       2200-2300       KRE Voice of Korea           -               1-7  
+13760.4       2300-2350       KRE Voice of Korea KCBS      Kor             1-7  
 13760         0200-0400       MDG MWV New Life Station     Eng             1-7  
 13770         0000-0100       CHN China Radio Int.         Vie             1-7  
 13770         2300-2400       CHN China Radio Int.         Vie             1-7  
@@ -12303,15 +12417,15 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 13775         1300-1400       TWN Sound of Hope            Cmn             1-7  
 13775         1400-1500       TWN Sound of Hope            Cmn             1-7  
 13775         2130-2200       TWN Sound of Hope            Cmn             1-7  
-13775         2200-2300       TWN Sound of Hope            Cmn             1-7  
-13775         2300-2400       TWN Sound of Hope            Cmn             1-7  
-13780         0130-0230       CHN China Radio Int.         Npi             1-7  
-13780         0230-0330       CHN China Radio Int.         Npi             1-7  
-13790         1600-1800       CHN China Radio Int.         Arb             1-7  
-13790         0000-1000       CHN CNR1 DIGITAL             Cmn             1-7  
-13790         1400-1500       CHN CNR1 Jammer/Firedrake    Cmn             1-7  
-13790         2130-1600       CHN CNR1 Jammer/Firedrake    Cmn             1-7  
-13790         0400-0430       G   BBC                      Som             2-6  
+13775         2200-2300       TWN Sound of Hope            -               1-7  
+13775         2300-2400       TWN Sound of Hope            -               1-7  
+13780         0130-0230       CHN China Radio Int.         -               1-7  
+13780         0230-0330       CHN China Radio Int.         -               1-7  
+13790         1600-1800       CHN China Radio Int.         -               1-7  
+13790         0000-1000       CHN CNR1 DIGITAL             -               1-7  
+13790         1400-1500       CHN CNR1 Jammer/Firedrake    -               1-7  
+13790         2130-1600       CHN CNR1 Jammer/Firedrake    -               1-7  
+13790         0400-0430       G   BBC                      -               2-6  
 13790         1800-1830       G   BBC                      Fra             1-7  
 13790         0000-0100       TWN Sound of Hope            Cmn             1-7  
 13790         0100-0200       TWN Sound of Hope            Cmn             1-7  
@@ -12332,6 +12446,16 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 13800         1935-2005       SWZ Trans World Radio        Lin             2-6  
 13800         1000-1200       USA Brother Stair            Eng             1-7  
 13803         0310-0320       RUS E06 Russian Spy Numbers  Eng             2    
+13805         2130-1500       CHN CNR1 Jammer/Firedrake    Cmn             1-7  
+13805         0000-0100       TWN Sound of Hope            Cmn             1-7  
+13805         0100-0200       TWN Sound of Hope            Cmn             1-7  
+13805         0200-1200       TWN Sound of Hope            Cmn             1-7  
+13805         1200-1300       TWN Sound of Hope            Cmn             1-7  
+13805         1300-1400       TWN Sound of Hope            Cmn             1-7  
+13805         1400-1500       TWN Sound of Hope            Cmn             1-7  
+13805         2130-2200       TWN Sound of Hope            Cmn             1-7  
+13805         2200-2300       TWN Sound of Hope            Cmn             1-7  
+13805         2300-2400       TWN Sound of Hope            Cmn             1-7  
 13810         1200-1400       CHN China Radio Int.         Cmn             1-7  
 13810         1800-2000       CHN China Radio Int.         Deu             1-7  
 13810         0400-1100       CHN CNR1 DIGITAL             Cmn             1-7  
@@ -12341,11 +12465,11 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 13825         1000-1030       CHN CNR1 Jammer/Firedrake    Cmn             1-7  
 13825         1200-1300       CLA Mizzima Radio            Mya             1-7  
 13825         2200-2400       G   BBC                      Eng             1-7  
-13825         0500-0510       RUS E06 Russian Spy Numbers  Eng             5    
+13825         0500-0510       RUS E06 Russian Spy Numbers  -               5    
 13825         1000-1030       TWN Radio Taiwan Int.        Zom             1-7  
 13825         1030-1100       TWN Radio Taiwan Int.        Hak             1-7  
 13827         0310-0320       RUS E06 Russian Spy Numbers  Eng             2    
-13830         1530-1600       CVA Radio Vaticana           Amh             1-7  
+13830         1530-1600       CVA Radio Vaticana           -               1-7  
 13830         1600-1615       CVA Radio Vaticana           Swa             7    
 13830         1600-1630       CVA Radio Vaticana           Swa             1-2  
 13830         1615-1630       CVA Radio Vaticana           Som             7    
@@ -12371,8 +12495,10 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 13850         0900-1100       CHN China Radio Int.         Cmn             1-7  
 13850         0300-0330       G   BBC                      Pbt             1-7  
 13855         1900-0100       ALG Ifrikya FM               Arb             1-7  
+13855         2145-2155       ALG Ifrikya FM               Eng             1-7  
 13860         1100-1200       CHN China Radio Int.         Rus             1-7  
 13860         1500-1600       CHN China Radio Int.         Rus             1-7  
+13860         2100-1100       CHN CNR1 DIGITAL             Cmn             1-7  
 13860         1400-1500       CHN CNR1 Jammer/Firedrake    Cmn             1-7  
 13860         1200-1300       J   NHK Radio Japan          Jpn             1-7  
 13860         1400-1500       USA Voice of America         Bod             1-7  
@@ -12541,6 +12667,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 14648         0300-0310       RUS E06 Russian Spy Numbers  Eng             5    
 14654         0300-0310       RUS E06 Russian Spy Numbers  Eng             5    
 14670         0000-2400       CAN CHU Ottawa               -TS             1-7  
+14670         0000-1410       CAN CHU Ottawa               -TS             22Jun
 14690         2200-1500       CHN CNR1 Jammer/Firedrake    Cmn             1-7  
 14690         0000-0100       TWN Sound of Hope            Cmn             1-7  
 14690         0100-0200       TWN Sound of Hope            Cmn             1-7  
@@ -12724,6 +12851,9 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 15145         0625-2130       B   Rádio Nacional Amazônia  Por             1-7  
 15145         0600-0700       CHN China Radio Int.         Eng             1-7  
 15145         0700-0800       CHN China Radio Int.         Nan             1-7  
+15145         0400-0500       F   TDF DIGITAL              Fra             irr  
+15145         1700-1710       TWN Radio Taiwan Int.        Deu             20Jun
+15145         1700-1710       TWN Radio Taiwan Int.        Fra             21Jun
 15150         0150-0155       B   Rádio Nacional Amazônia  Eng             3-7  
 15150         0155-0200       B   Rádio Nacional Amazônia  Spa             3-7  
 15150         0625-0207       B   Rádio Nacional Amazônia  Por             1-7  
@@ -12772,6 +12902,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 15200         0630-0700       ROU Radio Romania Int.       Arb             1-7  
 15200         0800-0900       ROU Radio Romania Int.       Ron             1    
 15200         1700-1800       ROU Radio Romania Int.       Ron             1-7  
+15205         0100-0200       USA Voice of America         Eng             3,5  
 15205         0230-0530       USA VoA Radio Ashna          Prs             1-7  
 15210         1300-1400       ROU Radio Romania Int.       Rus             1-7  
 15215         1700-1800       CLA Voice of Fano            Amh             4,7  
@@ -12854,6 +12985,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 15280         2130-2200       TWN Sound of Hope            Cmn             1-7  
 15280         2200-2300       TWN Sound of Hope            Cmn             1-7  
 15280         2300-2400       TWN Sound of Hope            Cmn             1-7  
+15280         0200-0300       USA Voice of America         Eng             3,5  
 15290         1500-1900       USA Brother Stair            Eng             1-7  
 15295         1200-1400       G   BBC                      Eng             1-7  
 15295         0000-2400       MLA RTM Nasional FM          Ml              1-7  
@@ -12914,7 +13046,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 15335         0900-1000       CHN China Radio Int.         Rus             1-7  
 15335         1200-1300       CHN China Radio Int.         Rus             1-7  
 15340         0000-0100       CHN CNR1 Jammer/Firedrake    Cmn             1-7  
-15340         0000-2400       CHN CNR1 Jammer/Firedrake    Cmn             1-7  
+15340         0000-2400       CHN CNR1 Jammer/Firedrake    -               1-7  
 15340         0420-0550       IRN IRIB Voice of I.R.Iran   Tur             1-7  
 15340         0550-0650       IRN IRIB Voice of I.R.Iran   Hau             1-7  
 15340         1300-1500       ROU Radio Romania Int.       Ron             1-7  
@@ -12941,7 +13073,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 15360         0000-0100       TWN Sound of Hope            Cmn             1-7  
 15360         0100-0200       TWN Sound of Hope            Cmn             1-7  
 15360         0200-1200       TWN Sound of Hope            Cmn             1-7  
-15360         1200-1300       TWN Sound of Hope            Cmn             1-7  
+15360         1200-1300       TWN Sound of Hope            -               1-7  
 15360         1300-1400       TWN Sound of Hope            Cmn             1-7  
 15360         1400-1500       TWN Sound of Hope            Cmn             1-7  
 15360         2100-2130       TWN Sound of Hope            Cmn             1-7  
@@ -12955,6 +13087,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 15370         0600-0900       CHN China National Radio 1   Cmn             4-2  
 15370         0900-1100       CHN China National Radio 1   Cmn             1-7  
 15370         2330-0100       CHN China National Radio 1   Cmn             1-7  
+15370         1130-1500       USA VoA Radio Ashna          Prs             17Jun
 15375         0600-1100       TWN Fu Hsing Bc.Sta.         Cmn             2-6  
 15380         0030-0600       CHN China National Radio 1   Cmn             1-7  
 15380         0600-0900       CHN China National Radio 1   Cmn             4-2  
@@ -12962,7 +13095,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 15380         2300-0600       CHN China National Radio 1   Cmn             1-7  
 15380         1130-1430       IRN IRIB Voice of I.R.Iran   Arb             1-7  
 15388         1200-1300       TWN Star-Star Bc.Station     Cmn             1-7  
-15388         1300-1400       TWN Star-Star Bc.Station     Cmn             1-7  
+15388         1300-1400       TWN Star-Star Bc.Station     -               1-7  
 15390         0100-0200       CHN China National Radio 13  Uig             1-7  
 15390         0200-0600       CHN China National Radio 13  Uig             1-7  
 15390         0600-0800       CHN China National Radio 13  Uig             4-2  
@@ -13122,19 +13255,20 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 15500         2200-2300       E   Radio Exterior España    Eng             4    
 15500         2200-2300       E   Radio Exterior España    Fra             3    
 15500         2200-2300       E   Radio Exterior España    Por             5    
-15500         2230-2300       E   Radio Exterior España    Spa             6-2  
-15500         2300-2400       E   Radio Exterior España    Spa             2-6  
-15500         0830-0930       F   Radio for Peace Int.     Pes             1-7  
-15500         1100-1130       USA Adventist World Radio    Ind             1-7  
-15500         1130-1200       USA Adventist World Radio    Jav             246  
-15500         1130-1200       USA Adventist World Radio    Sun             1357 
-15505         0900-0930       F   TDF DIGITAL              Fra             irr  
+15500         2230-2300       E   Radio Exterior España    -               6-2  
+15500         2300-2400       E   Radio Exterior España    -               2-6  
+15500         0830-0930       F   Radio for Peace Int.     -               1-7  
+15500         0830-0930       F   Radio for Peace Int.     -               1-7  
+15500         1100-1130       USA Adventist World Radio    -               1-7  
+15500         1130-1200       USA Adventist World Radio    -               246  
+15500         1130-1200       USA Adventist World Radio    -               1357 
+15505         0900-0930       F   TDF DIGITAL              -               irr  
 15505         0600-0700       TCD Radio Ndarason Int.      Kau             1-7  
 15505         1200-1230       USA Adventist World Radio    Rki             1-7  
 15505         1230-1300       USA Adventist World Radio    K-w             1-7  
 15505         1330-1400       USA Adventist World Radio    Lis             1-7  
 15505         1400-1430       USA Adventist World Radio    Chi             1-7  
-15505         1430-1500       USA Adventist World Radio    Mya             1-7  
+15505         1430-1500       USA Adventist World Radio    -               1-7  
 15510         1730-1800       G   FEBA Radio Sama          Tig             1-7  
 15510         1800-1830       G   FEBA Radio Sama          Fvr             1-7  
 15510         1830-1900       G   FEBA Radio Sama          Arb             1-7  
@@ -13259,6 +13393,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 15615         1800-1845       AUS VMW Wiluna Met Fax       -               1-7  
 15615         1915-2045       AUS VMW Wiluna Met Fax       -               1-7  
 15615         2215-2400       AUS VMW Wiluna Met Fax       -               1-7  
+15615         1700-2100       CLA Radio Payam              Pes             1-7  
 15615         0600-0610       RUS E06 Russian Spy Numbers  Eng             5    
 15620         0920-1250       IRN IRIB Voice of I.R.Iran   Prs             1-7  
 15620         1400-1430       PHL FEBC Manila              Jav             1-7  
@@ -13269,6 +13404,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 15630         1200-1230       USA Adventist World Radio    Mnw             1-7  
 15630         1300-1330       USA Adventist World Radio    Nij             1-7  
 15630         1100-1200       USA Trans World Radio        Kor             1-6  
+15635         1430-1700       USA Radio Farda              Pes             1-7  
 15640         0400-0500       CHN CRI DIGITAL              Cmn             1-7  
 15640         0500-0530       F   Radio for Peace Int.     Pes             1-7  
 15640         0000-0100       J   NHK Radio Japan          Jpn             1-7  
@@ -13287,8 +13423,10 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 15680         0700-0800       ROU Radio Romania Int.       Ron             1    
 15680         1530-1600       USA Adventist World Radio    Kan             1-7  
 15680         1600-1630       USA Adventist World Radio    Tel             1-7  
-15680         0110-0305       USA Hope Radio 4             Eng             7    
+15680         0110-0230       USA Hope Radio 4             Eng             7    
 15680         0110-0350       USA Hope Radio 4             Eng             1    
+15680         0230-0300       USA Hope Radio 4             Cmn             7    
+15680         0300-0320       USA Hope Radio 4             Eng             7    
 15683         0300-0310       RUS E06 Russian Spy Numbers  Eng             5    
 15710         0100-0200       CHN China National Radio 6   Nan             1-7  
 15710         0200-0500       CHN China National Radio 6   Nan             1-7  
@@ -13302,8 +13440,8 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 15720         0715-0725       POL E11 Polish Spy Numbers   Eng             3,6  
 15720         0715-0725       POL E11 Polish Spy Numbers   Eng             3,6  
 15720         0745-0755       POL E11 Polish Spy Numbers   Eng             4,6  
-15720         0830-1000       TUR Voice of Turkey          Pes             1-7  
-15726         0300-0310       RUS E06 Russian Spy Numbers  Eng             5    
+15720         0830-1000       TUR Voice of Turkey          -               1-7  
+15726         0300-0310       RUS E06 Russian Spy Numbers  -               5    
 15730         0000-1200       CHN China National Radio     Cmn             1-7  
 15730         0500-0600       CHN CRI DIGITAL              Cmn             1-7  
 15730         0400-1900       CLA Iran International TV    Pes             1-7  
@@ -13322,7 +13460,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 15740         0000-0100       TWN Sound of Hope            Cmn             1-7  
 15740         0100-0200       TWN Sound of Hope            Cmn             1-7  
 15740         0200-1200       TWN Sound of Hope            Cmn             1-7  
-15740         1200-1300       TWN Sound of Hope            Cmn             1-7  
+15740         1200-1300       TWN Sound of Hope            -               1-7  
 15740         1300-1400       TWN Sound of Hope            Cmn             1-7  
 15740         1400-1500       TWN Sound of Hope            Cmn             1-7  
 15740         1500-1600       TWN Sound of Hope            Cmn             1-7  
@@ -13330,6 +13468,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 15740         2200-2300       TWN Sound of Hope            Cmn             1-7  
 15740         2300-2400       TWN Sound of Hope            Cmn             1-7  
 15745         0000-1200       CHN China National Radio     Cmn             1-7  
+15745         0400-1900       CLA Iran International TV    Pes             1-7  
 15750.3       0400-1900       CLA Iran International TV    Pes             1-7  
 15760         2100-1700       CHN CNR1 DIGITAL             Cmn             1-7  
 15760         0000-2400       CHN CNR1 Jammer/Firedrake    Cmn             1-7  
@@ -13389,6 +13528,13 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 15830         0600-0610       RUS E06 Russian Spy Numbers  Eng             5    
 15831         1430-1440       RUS E07 Russian Spy Numbers  Eng             5,7  
 15836         1410-1420       RUS E07 Russian Spy Numbers  Eng             5,7  
+15840         0000-0100       TWN Sound of Hope            Cmn             1-7  
+15840         0100-0200       TWN Sound of Hope            Cmn             1-7  
+15840         0200-1200       TWN Sound of Hope            Cmn             1-7  
+15840         1200-1300       TWN Sound of Hope            Cmn             1-7  
+15840         1300-1400       TWN Sound of Hope            Cmn             1-7  
+15840         2200-2300       TWN Sound of Hope            Cmn             1-7  
+15840         2300-2400       TWN Sound of Hope            Cmn             1-7  
 15849         1410-1420       RUS E07 Russian Spy Numbers  Eng             5,7  
 15851         1520-1530       RUS E07 Russian Spy Numbers  Eng             3,6  
 15858         1500-1510       RUS E07 Russian Spy Numbers  Eng             3,6  
@@ -13430,22 +13576,34 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 15940         0000-0100       TWN Sound of Hope            Cmn             1-7  
 15940         0100-0200       TWN Sound of Hope            Cmn             1-7  
 15940         0200-1200       TWN Sound of Hope            Cmn             1-7  
-15940         1200-1300       TWN Sound of Hope            Cmn             1-7  
-15940         1300-1400       TWN Sound of Hope            Cmn             1-7  
-15940         2200-2300       TWN Sound of Hope            Cmn             1-7  
-15940         2300-2400       TWN Sound of Hope            Cmn             1-7  
-15949         0220-0230       RUS V07 Russian Spy Numbers  Spa             1    
-15959         0000-2400       USA NSS US Navy              -TY             1-7  
+15940         1200-1300       TWN Sound of Hope            -               1-7  
+15940         1300-1400       TWN Sound of Hope            -               1-7  
+15940         2200-2300       TWN Sound of Hope            -               1-7  
+15940         2300-2400       TWN Sound of Hope            -               1-7  
+15949         0220-0230       RUS V07 Russian Spy Numbers  -               1    
+15959         0000-2400       USA NSS US Navy              -               1-7  
+15970         2100-1600       CHN CNR1 Jammer/Firedrake    Cmn             1-7  
+15970         0000-0100       TWN Sound of Hope            Cmn             1-7  
+15970         0100-0200       TWN Sound of Hope            Cmn             1-7  
+15970         0200-1200       TWN Sound of Hope            Cmn             1-7  
+15970         1200-1300       TWN Sound of Hope            Cmn             1-7  
+15970         1300-1400       TWN Sound of Hope            Cmn             1-7  
+15970         1400-1500       TWN Sound of Hope            Cmn             1-7  
+15970         1500-1600       TWN Sound of Hope            Cmn             1-7  
+15970         2100-2130       TWN Sound of Hope            Cmn             1-7  
+15970         2130-2200       TWN Sound of Hope            Cmn             1-7  
+15970         2200-2300       TWN Sound of Hope            Cmn             1-7  
+15970         2300-2400       TWN Sound of Hope            Cmn             1-7  
 15988         0000-2400       D   DWD Polarstern Fax/RTTY  -               irr  
 16024         0000-2400       CHN BAF Beijing Meteo Fax    -               1-7  
 16100         2130-1700       CHN CNR1 Jammer/Firedrake    Cmn             1-7  
-16100         0000-0100       TWN Sound of Hope            Cmn             1-7  
-16100         0100-0200       TWN Sound of Hope            Cmn             1-7  
-16100         0200-1200       TWN Sound of Hope            Cmn             1-7  
-16100         1200-1300       TWN Sound of Hope            Cmn             1-7  
-16100         1300-1400       TWN Sound of Hope            Cmn             1-7  
-16100         1400-1500       TWN Sound of Hope            Cmn             1-7  
-16100         2100-2130       TWN Sound of Hope            Cmn             1-7  
+16100         0000-0100       TWN Sound of Hope            -               1-7  
+16100         0100-0200       TWN Sound of Hope            -               1-7  
+16100         0200-1200       TWN Sound of Hope            -               1-7  
+16100         1200-1300       TWN Sound of Hope            -               1-7  
+16100         1300-1400       TWN Sound of Hope            -               1-7  
+16100         1400-1500       TWN Sound of Hope            -               1-7  
+16100         2100-2130       TWN Sound of Hope            -               1-7  
 16100         2130-2200       TWN Sound of Hope            Cmn             1-7  
 16100         2200-2300       TWN Sound of Hope            Cmn             1-7  
 16100         2300-2400       TWN Sound of Hope            Cmn             1-7  
@@ -13457,13 +13615,13 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 16131         0220-0230       RUS V07 Russian Spy Numbers  Spa             1    
 16132         1500-1510       RUS E07 Russian Spy Numbers  Eng             3,6  
 16135         1719-0400       HWA KVM70 Fax Honolulu       -               1-7  
-16145         1520-1530       RUS E07 Russian Spy Numbers  Eng             3,6  
-16159         1100-1110       RUS E07 Russian Spy Numbers  Eng             3,6  
-16160         2130-1500       CHN CNR1 Jammer/Firedrake    Cmn             1-7  
-16160         0000-0100       TWN Sound of Hope            Cmn             1-7  
-16160         0100-0200       TWN Sound of Hope            Cmn             1-7  
-16160         0200-1200       TWN Sound of Hope            Cmn             1-7  
-16160         1200-1300       TWN Sound of Hope            Cmn             1-7  
+16145         1520-1530       RUS E07 Russian Spy Numbers  -               3,6  
+16159         1100-1110       RUS E07 Russian Spy Numbers  -               3,6  
+16160         2130-1500       CHN CNR1 Jammer/Firedrake    -               1-7  
+16160         0000-0100       TWN Sound of Hope            -               1-7  
+16160         0100-0200       TWN Sound of Hope            -               1-7  
+16160         0200-1200       TWN Sound of Hope            -               1-7  
+16160         1200-1300       TWN Sound of Hope            -               1-7  
 16160         1300-1400       TWN Sound of Hope            Cmn             1-7  
 16160         1400-1500       TWN Sound of Hope            Cmn             1-7  
 16160         2130-2200       TWN Sound of Hope            Cmn             1-7  
@@ -13534,14 +13692,14 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 16562.5       0815-0840       CHN XSQ Guangzhou Meteo Fax  Eng             irr  
 16562.5       1225-1715       CHN XSQ Guangzhou Meteo Fax  Eng             1-7  
 16562.5       2015-2040       CHN XSQ Guangzhou Meteo Fax  Eng             irr  
-16600.1       0000-0100       TWN Sound of Hope            Cmn             1-7  
-16600.1       0100-0200       TWN Sound of Hope            Cmn             1-7  
-16600.1       0200-1200       TWN Sound of Hope            Cmn             1-7  
-16600.1       1200-1300       TWN Sound of Hope            Cmn             1-7  
-16600.1       1300-1400       TWN Sound of Hope            Cmn             1-7  
-16600.1       1400-1500       TWN Sound of Hope            Cmn             1-7  
-16600.1       2200-2300       TWN Sound of Hope            Cmn             1-7  
-16600.1       2300-2400       TWN Sound of Hope            Cmn             1-7  
+16600         0000-0100       TWN Sound of Hope            Cmn             1-7  
+16600         0100-0200       TWN Sound of Hope            Cmn             1-7  
+16600         0200-1200       TWN Sound of Hope            Cmn             1-7  
+16600         1200-1300       TWN Sound of Hope            Cmn             1-7  
+16600         1300-1400       TWN Sound of Hope            Cmn             1-7  
+16600         1400-1500       TWN Sound of Hope            Cmn             1-7  
+16600         2200-2300       TWN Sound of Hope            Cmn             1-7  
+16600         2300-2400       TWN Sound of Hope            Cmn             1-7  
 16680.3       0000-0100       TWN Sound of Hope            Cmn             1-7  
 16680.3       0100-0200       TWN Sound of Hope            Cmn             1-7  
 16680.3       0200-1200       TWN Sound of Hope            Cmn             1-7  
@@ -13558,16 +13716,16 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 16790         0100-0200       TWN Sound of Hope            Cmn             1-7  
 16790         0200-1200       TWN Sound of Hope            Cmn             1-7  
 16790         1200-1300       TWN Sound of Hope            Cmn             1-7  
-16790         1300-1400       TWN Sound of Hope            Cmn             1-7  
-16790         1400-1500       TWN Sound of Hope            Cmn             1-7  
-16790         2100-2130       TWN Sound of Hope            Cmn             1-7  
-16790         2130-2200       TWN Sound of Hope            Cmn             1-7  
-16790         2200-2300       TWN Sound of Hope            Cmn             1-7  
-16790         2300-2400       TWN Sound of Hope            Cmn             1-7  
-16804.5       0000-2400       CAN VFF Iqaluit Radio        -TY             1-7  
-16808         0000-2400       CHN XSV Tianjin Radio        -TY             1-7  
-16808.5       0000-2400       CHN XSV Tianjin Radio        -TY             1-7  
-16830.5       0000-2400       GRC SVO Olimpia Radio        -CW             1-7  
+16790         1300-1400       TWN Sound of Hope            -               1-7  
+16790         1400-1500       TWN Sound of Hope            -               1-7  
+16790         2100-2130       TWN Sound of Hope            -               1-7  
+16790         2130-2200       TWN Sound of Hope            -               1-7  
+16790         2200-2300       TWN Sound of Hope            -               1-7  
+16790         2300-2400       TWN Sound of Hope            -               1-7  
+16804.5       0000-2400       CAN VFF Iqaluit Radio        -               1-7  
+16808         0000-2400       CHN XSV Tianjin Radio        -               1-7  
+16808.5       0000-2400       CHN XSV Tianjin Radio        -               1-7  
+16830.5       0000-2400       GRC SVO Olimpia Radio        -               1-7  
 16851         0000-2400       CHN XSQ Guangzhou Radio      -TY             1-7  
 16880         0000-2400       CHN XSQ Guangzhou Radio      -TY             1-7  
 16886         0000-2400       TUR TAH Turk Radio Istanbul  -CW             1-7  
@@ -13579,7 +13737,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 16907.5       0800-0815       J   JFX Kagoshima Fish.Fax   -               1-7  
 16907.5       1030-1055       J   JFX Kagoshima Fish.Fax   -               1-7  
 16910         0000-0900       KOR HLJ Seoul Radio          -CW             1-7  
-16980         2130-1600       CHN CNR1 Jammer/Firedrake    Cmn             1-7  
+16980         2100-1600       CHN CNR1 Jammer/Firedrake    Cmn             1-7  
 16980         0000-0100       TWN Sound of Hope            Cmn             1-7  
 16980         0100-0200       TWN Sound of Hope            Cmn             1-7  
 16980         0200-1200       TWN Sound of Hope            Cmn             1-7  
@@ -13587,10 +13745,21 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 16980         1300-1400       TWN Sound of Hope            Cmn             1-7  
 16980         1400-1500       TWN Sound of Hope            Cmn             1-7  
 16980         1500-1600       TWN Sound of Hope            Cmn             1-7  
-16980         2130-2200       TWN Sound of Hope            Cmn             1-7  
+16980         2100-2200       TWN Sound of Hope            Cmn             1-7  
 16980         2200-2300       TWN Sound of Hope            Cmn             1-7  
 16980         2300-2400       TWN Sound of Hope            Cmn             1-7  
 16990         0000-0900       KOR HLO Seoul Radio          -CW             1-7  
+17000         2100-1600       CHN CNR1 Jammer/Firedrake    Cmn             1-7  
+17000         0000-0100       TWN Sound of Hope            Cmn             1-7  
+17000         0100-0200       TWN Sound of Hope            Cmn             1-7  
+17000         0200-1200       TWN Sound of Hope            Cmn             1-7  
+17000         1200-1300       TWN Sound of Hope            Cmn             1-7  
+17000         1300-1400       TWN Sound of Hope            Cmn             1-7  
+17000         1400-1500       TWN Sound of Hope            Cmn             1-7  
+17000         1500-1600       TWN Sound of Hope            Cmn             1-7  
+17000         2100-2200       TWN Sound of Hope            Cmn             1-7  
+17000         2200-2300       TWN Sound of Hope            Cmn             1-7  
+17000         2300-2400       TWN Sound of Hope            Cmn             1-7  
 17130         0000-0900       KOR HLW Seoul Radio          -CW             1-7  
 17132         0000-2400       CHN XSV Tianjin Radio        -TY             1-7  
 17146.4       1115-1200       CHL CBV Valparaiso Met Fax   -               1-7  
@@ -13680,7 +13849,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 17470         0600-0610       RUS E06 Russian Spy Numbers  Eng             5    
 17472         0220-0230       RUS V07 Russian Spy Numbers  Spa             1    
 17485         0500-0700       CHN China Radio Int.         Arb             1-7  
-17490         0000-0100       CHN China Radio Int.         Zom             1-7  
+17490         0000-0100       CHN China Radio Int.         -               1-7  
 17490         0100-0200       CHN China Radio Int.         Nan             1-7  
 17490         0200-0300       CHN China Radio Int.         Nan             1-7  
 17490         0300-0400       CHN CRI DIGITAL              Cmn             1-7  
@@ -13723,6 +13892,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 17520         1720-1740       THA HSW64 Bangkok Meteo Fax  -               1-7  
 17520         2300-2340       THA HSW64 Bangkok Meteo Fax  -               1-7  
 17525         0700-1000       CVA Radio Vaticana           Fra             irr  
+17525         1020-1200       CVA Radio Vaticana           Fra             1-7  
 17525         1500-1800       CVA Radio Vaticana           Fra             irr  
 17525         0000-2400       HOL Radio Piepzender         Nld             1-7  
 17525         1730-2230       USA WMLK Bethel, PA          Eng             1-6  
@@ -13742,6 +13912,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 17540         0700-1000       CVA Radio Vaticana           Eng             irr  
 17540         0805-0940       CVA Radio Vaticana           Eng             5Apr 
 17540         0950-1030       CVA Radio Vaticana           Eng             5Apr 
+17540         1020-1200       CVA Radio Vaticana           Eng             1-7  
 17540         1500-1800       CVA Radio Vaticana           Eng             irr  
 17540         1520-1700       CVA Radio Vaticana           Eng             2Apr 
 17545         1500-1600       F   Mini Atlantique Weather  Fra             1-7  
@@ -13782,6 +13953,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 17595         0900-1100       CHN China National Radio 1   Cmn             1-7  
 17595         2300-0600       CHN China National Radio 1   Cmn             1-7  
 17600         0700-0100       ALG Ifrikya FM               Arb             1-7  
+17600         1115-1130       ALG Ifrikya FM               Swa             1-7  
 17605         0200-0300       CHN CRI DIGITAL              Cmn             1-7  
 17605         1030-1130       CHN China Radio Int.         Ind             1-7  
 17615         0500-0700       CHN China Radio Int.         Deu             1-7  
@@ -13863,6 +14035,8 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 17690         0000-0100       CHN China Radio Int.         Cmn             1-7  
 17690         0100-0200       CHN China Radio Int.         Cmn             1-7  
 17690         0600-1400       USA Voice of America         Eng             3,6  
+17700         0000-0900       CHN CRI DIGITAL              Cmn             1-7  
+17700         0100-0900       CHN CRI DIGITAL              Cmn             1-7  
 17700         0800-0900       CHN CRI DIGITAL              Cmn             1-7  
 17700         1600-1900       G   BBC                      Hau             7    
 17700         1400-1415       USA Trans World Radio        Bfw             3    
@@ -13956,11 +14130,11 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 17750         0700-0800       CHN China Radio Int.         Nan             1-7  
 17750         0900-1000       CHN China Radio Int.         Eng             1-7  
 17750         1000-1100       CHN China Radio Int.         Eng             1-7  
-17750         0500-0600       G   BBC                      Knk             7    
-17750         0529-0600       G   BBC                      Knk             1    
-17750         0200-0330       PHL Radyo Pilipinas          Eng             1-7  
-17755         1500-2300       E   Radio Exterior España    Spa             7-1  
-17755         1600-1900       E   Radio Exterior España    Spa             2-6  
+17750         0500-0600       G   BBC                      -               7    
+17750         0529-0600       G   BBC                      -               1    
+17750         0200-0330       PHL Radyo Pilipinas          -               1-7  
+17755         1500-2300       E   Radio Exterior España    -               7-1  
+17755         1600-1900       E   Radio Exterior España    -               2-6  
 17755         1900-2100       E   Radio Exterior España    Spa             2-6  
 17755         2100-2130       E   Radio Exterior España    Spa             3-5  
 17755         2100-2130       E   Radio Exterior España    Lad             2    
@@ -13977,7 +14151,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 17760         0500-0600       CHN CRI DIGITAL              Cmn             1-7  
 17760         0600-0700       CHN CRI DIGITAL              Cmn             1-7  
 17760         0400-0430       ROU Radio Romania Int.       Cmn             1-7  
-17760         0530-0600       ROU Radio Romania Int.       Eng             1-7  
+17760         0530-0600       ROU Radio Romania Int.       -               1-7  
 17760         1230-1300       ROU Radio Romania DIGITAL    Cmn             1-7  
 17760         0000-0100       TWN Sound of Hope            Cmn             1-7  
 17760         0100-0200       TWN Sound of Hope            Cmn             1-7  
@@ -13998,6 +14172,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 17780.3       1200-1300       TWN Sound of Hope            Cmn             1-7  
 17780.3       1300-1400       TWN Sound of Hope            Cmn             1-7  
 17780.3       2300-2400       TWN Sound of Hope            Cmn             1-7  
+17780         0300-0400       USA Voice of America         Eng             3,5  
 17790         0830-0950       CVA Radio Vaticana           Lto             1    
 17790         0830-0950       CVA Radio Vaticana           Gez             1.1  
 17790         1130-1200       CVA Radio Vaticana           Eng             6    
@@ -14047,12 +14222,12 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 17825         1400-1600       G   BBC DIGITAL              Eng             1-7  
 17830         0100-0800       CHN CNR1 DIGITAL             Cmn             1-7  
 17830         1900-2000       TWN Radio Taiwan Int.        Fra             1    
-17830         1700-1730       G   BBC                      Eng             2-6  
-17830         1730-1900       G   BBC                      Eng             2-6  
-17840         0200-0300       CHN China Radio Int.         Cmn             1-7  
-17840         0300-0400       CHN China Radio Int.         Eng             1-7  
-17840         0400-0500       CHN China Radio Int.         Eng             1-7  
-17840         0500-0600       CHN China Radio Int.         Cmn             1-7  
+17830         1700-1730       G   BBC                      -               2-6  
+17830         1730-1900       G   BBC                      -               2-6  
+17840         0200-0300       CHN China Radio Int.         -               1-7  
+17840         0300-0400       CHN China Radio Int.         -               1-7  
+17840         0400-0500       CHN China Radio Int.         -               1-7  
+17840         0500-0600       CHN China Radio Int.         -               1-7  
 17840         0600-0700       CHN China Radio Int.         Cmn             1-7  
 17840         0700-0800       CHN China Radio Int.         Cmn             1-7  
 17840         0800-0900       CHN China Radio Int.         Cmn             1-7  
@@ -14077,6 +14252,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 17880         1600-1700       CHN China Radio Int.         Arb             1-7  
 17880         2200-2300       CHN China Radio Int.         Spa             1-7  
 17880         2300-2400       CHN China Radio Int.         Por             1-7  
+17880         0400-0500       USA Voice of America         Eng             3,5  
 17890         0000-0600       CHN China National Radio 1   Cmn             1-7  
 17890         0100-0600       CHN China National Radio 1   Cmn             1-7  
 17890         0600-0900       CHN China National Radio 1   Cmn             4-2  
@@ -14189,9 +14365,9 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 19253         1540-1550       RUS E07 Russian Spy Numbers  Eng             3,6  
 19325         0700-0710       RUS E06 Russian Spy Numbers  Eng             5    
 19432         1540-1550       RUS E07 Russian Spy Numbers  Eng             3,6  
-19515         0600-0610       POL E11 Polish Spy Numbers   Eng             2,4  
-19515         0600-0610       POL E11 Polish Spy Numbers   Eng             2,4  
-19515         0715-0725       POL E11 Polish Spy Numbers   Eng             2,4  
+19515         0600-0610       POL E11 Polish Spy Numbers   -               2,4  
+19515         0600-0610       POL E11 Polish Spy Numbers   -               2,4  
+19515         0715-0725       POL E11 Polish Spy Numbers   -               2,4  
 19515         0715-0725       POL E11 Polish Spy Numbers   Eng             2,4  
 19770         0000-2400       CHN XSQ Guangzhou Radio      Cmn             1-7  
 19770         0000-2400       I   Romaradio IAR            Ita             1-7  
@@ -14252,6 +14428,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 21500         2000-2400       USA Radio YHWH               Eng             irr  
 21510         1100-1200       ROU Radio Romania Int.       Eng             1-7  
 21520         1200-1230       G   BBC                      Fra             1-7  
+21520         1200-1230       G   BBC                      Fra             1-7  
 21530         2300-1300       CHN CNR1 Jammer/Firedrake    Cmn             1-7  
 21530         0000-0100       TWN Sound of Hope            Cmn             1-7  
 21530         0100-0200       TWN Sound of Hope            Cmn             1-7  
@@ -14270,6 +14447,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 21550         2130-2200       TWN Sound of Hope            Cmn             1-7  
 21550         2200-2300       TWN Sound of Hope            Cmn             1-7  
 21550         2300-2400       TWN Sound of Hope            Cmn             1-7  
+21550         0500-0600       USA Voice of America         Eng             3,5  
 21565         1200-1400       G   BBC                      Eng             1-7  
 21580         0700-0800       F   Radio France Int.        Fra             1-7  
 21580         0800-0900       F   Radio France Int.        Fra             1-7  
@@ -14313,6 +14491,8 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 21680         1800-1900       F   Radio France Int.        Fra             1-7  
 21695         0900-1100       CHN CNR1 Jammer/Firedrake    Cmn             1-7  
 21695         0900-1100       USA Voice of America         Cmn             1-7  
+21700         1300-1334       D   Radio DARC               Deu             1-7  
+21700         1334-1400       SUI C.M.Obrecht              Eng             1-7  
 21720         0200-0330       PHL Radyo Pilipinas          Eng             1-7  
 21730         1130-1145       CVA Radio Vaticana           Spa             1-7  
 21745         1100-1145       CVA Radio Vaticana           Cmn             7    
