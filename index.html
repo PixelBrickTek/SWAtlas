@@ -3,332 +3,554 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>SWAtlas — Shortwave Radio Directory</title>
-  <meta name="description" content="SWAtlas is a refined shortwave radio directory app for searching frequencies, stations, languages, broadcast schedules, and live activity with clarity and speed.">
-      <link rel="icon" type="image/png" href="ico.png">
-      <link rel="preconnect" href="https://fonts.googleapis.com">
+  <meta name="theme-color" content="#f3f0e8">
+  <title>SWAtlas — Shortwave, beautifully decoded</title>
+  <meta name="description" content="Explore shortwave frequencies, live broadcasts, languages, countries, schedules, and ITU codes with SWAtlas.">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="SWAtlas — Shortwave, beautifully decoded">
+  <meta property="og:description" content="Find the signal. Understand the schedule. Explore a world of shortwave with clarity.">
+  <meta property="og:image" content="og.png">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="SWAtlas — Shortwave, beautifully decoded">
+  <meta name="twitter:description" content="Find the signal. Understand the schedule. Explore a world of shortwave with clarity.">
+  <meta name="twitter:image" content="og.png">
+  <link rel="icon" type="image/png" href="ico.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&amp;family=Manrope:wght@400;500;600;700;800&amp;display=swap" rel="stylesheet">
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
   <div class="scroll-progress" aria-hidden="true"></div>
+  <div class="grain" aria-hidden="true"></div>
+  <div class="signal-field" aria-hidden="true">
+    <i></i><i></i><i></i><i></i><i></i><i></i>
+  </div>
+
   <div class="page-shell">
-    <div class="top-anchor-bar">
+    <nav class="top-anchor-bar" aria-label="Primary navigation">
       <div class="top-anchor-inner">
-          <a href="#" class="top-brand">
-            <img src="ico.png" alt="SWAtlas logo" class="top-brand-logo">
-            <span>SWAtlas</span>
-          </a>
+        <a href="#top" class="top-brand" aria-label="SWAtlas home">
+          <span class="brand-mark"><img src="ico.png" alt=""></span>
+          <span>SWAtlas</span>
+        </a>
         <button class="top-anchor-menu-button" type="button" aria-label="Open menu" aria-expanded="false" aria-controls="top-anchor-nav">
-          <span></span>
-          <span></span>
-          <span></span>
+          <span></span><span></span><span></span>
         </button>
         <div class="top-anchor-nav" id="top-anchor-nav">
           <a href="#database" class="top-anchor-link">Database</a>
-		  <a href="#live-tools" class="top-anchor-link">Live Alerts</a>
-		  <a href="#experience" class="top-anchor-link">ScreenShot</a>
-		  <a href="#features" class="top-anchor-link top-anchor-link-primary">Features</a>
-		  <a href="https://apps.apple.com/app/swatlas-shortwave-explorer/id6761421523" class="top-anchor-link top-anchor-link-primary" target="_blank" rel="noopener noreferrer">Download</a>
+          <a href="#code-intelligence" class="top-anchor-link">Code Intelligence</a>
+          <a href="#live-tools" class="top-anchor-link">Live Alerts</a>
+          <a href="#experience" class="top-anchor-link">Inside the App</a>
+          <a href="https://apps.apple.com/app/swatlas-shortwave-explorer/id6761421523" class="download-link" target="_blank" rel="noopener noreferrer">App Store <span aria-hidden="true">↗</span></a>
         </div>
       </div>
-    </div>
-    <div class="ambient ambient-1"></div>
-    <div class="ambient ambient-2"></div>
-    <div class="ambient ambient-3"></div>
+    </nav>
 
-    <header class="hero">
-      <div class="hero-grid reveal-scope">
-        <div class="hero-copy">
-          <div class="eyebrow">Premium Shortwave Discovery - SW Atlas</div>
-          <h1>Search shortwave frequencies with a cleaner, more modern interface.</h1>
+    <header class="hero" id="top">
+      <div class="hero-orbit orbit-one" aria-hidden="true"></div>
+      <div class="hero-orbit orbit-two" aria-hidden="true"></div>
+      <div class="hero-grid">
+        <div class="hero-copy reveal" data-parallax="0.045">
+          <div class="eyebrow"><span class="live-dot"></span> The world is broadcasting</div>
+          <h1>Shortwave,<br><em>beautifully decoded.</em></h1>
           <p class="hero-text">
-            SWAtlas helps you search frequencies, discover stations, check broadcast schedules,
-            and instantly spot what is live right now — all through a polished experience built
-            for radio listeners, DX enthusiasts, and curious explorers.
+            Find the signal. Understand the schedule. SWAtlas turns a vast world of frequencies, stations, languages, and UTC times into one calm, precise listening companion.
           </p>
-
-
-          <div class="hero-stats">
-            <div class="stat-card">
-              <span class="stat-value">Live</span>
-              <span class="stat-label">Broadcast Highlights</span>
-            </div>
-            <div class="stat-card">
-              <span class="stat-value">Offline</span>
-              <span class="stat-label">Download the database and use it offline</span>
-            </div>
-            <div class="stat-card">
-              <span class="stat-value">DX</span>
-              <span class="stat-label">Built for Enthusiasts</span>
-            </div>
+          <div class="hero-actions">
+            <a class="primary-button" href="https://apps.apple.com/app/swatlas-shortwave-explorer/id6761421523" target="_blank" rel="noopener noreferrer">
+              Download on the App Store <span aria-hidden="true">↗</span>
+            </a>
+            <a class="text-button" href="#code-intelligence">See how codes become clear <span aria-hidden="true">↓</span></a>
+          </div>
+          <div class="hero-proof" aria-label="Product highlights">
+            <span><b>01</b> Aoki + EiBi</span>
+            <span><b>02</b> Live-aware</span>
+            <span><b>03</b> Offline-ready</span>
           </div>
         </div>
 
-        <div class="hero-visual">
-          <img src="main.jpg" alt="SWAtlas screen preview" class="hero-screenshot">
+        <div class="hero-stage reveal" data-parallax="-0.065">
+          <div class="frequency-halo" aria-hidden="true">
+            <span>3</span><span>6</span><span>9</span><span>12</span><span>15</span><span>18</span><span>21</span>
+          </div>
+          <div class="phone-frame" data-tilt>
+            <div class="phone-sheen" aria-hidden="true"></div>
+            <img src="main.jpg" alt="SWAtlas frequency search screen showing live stations" class="hero-screenshot">
+          </div>
+          <div class="floating-card floating-live" aria-hidden="true">
+            <span class="pulse-ring"></span>
+            <div><small>ON AIR NOW</small><strong>NHK Radio Japan</strong></div>
+          </div>
+          <div class="floating-card floating-frequency" aria-hidden="true">
+            <small>FREQUENCY</small><strong>13,645 <span>kHz</span></strong>
+          </div>
+          <div class="scroll-cue" aria-hidden="true"><span></span> Scroll to tune</div>
         </div>
       </div>
     </header>
 
+    <div class="signal-marquee" aria-hidden="true">
+      <div class="signal-track">
+        <span>VOICE OF AMERICA <b>9,760 kHz</b></span><i></i>
+        <span>NHK RADIO JAPAN <b>13,645 kHz</b></span><i></i>
+        <span>BBC WORLD SERVICE <b>12,095 kHz</b></span><i></i>
+        <span>RADIO NEW ZEALAND <b>11,725 kHz</b></span><i></i>
+        <span>VOICE OF AMERICA <b>9,760 kHz</b></span><i></i>
+        <span>NHK RADIO JAPAN <b>13,645 kHz</b></span><i></i>
+        <span>BBC WORLD SERVICE <b>12,095 kHz</b></span><i></i>
+        <span>RADIO NEW ZEALAND <b>11,725 kHz</b></span><i></i>
+      </div>
+    </div>
+
     <main>
       <section class="section database-section" id="database">
-        <div class="database-shell glass-card reveal-scope">
-          <div class="section-heading database-heading">
-            <span class="section-tag">Database Foundation</span>
-            <h2>Built on Aoki + Eibi shortwave data, along with additional listening databases, for fast local discovery.</h2>
-            <p>
-              SWAtlas runs on a large database built from Aoki data and Eibi data, giving listeners a broader foundation for searching shortwave broadcasts with speed and clarity.
-            </p>
+        <div class="section-index reveal"><span>01</span><i></i><b>THE FOUNDATION</b></div>
+        <div class="section-heading split-heading">
+          <div class="reveal">
+            <span class="section-tag">A deeper directory</span>
+            <h2>Thousands of broadcasts.<br><em>One intelligent atlas.</em></h2>
+          </div>
+          <p class="reveal">Built on the respected Aoki and EiBi datasets, enhanced with additional listening references, and arranged for fast local discovery—even when your connection disappears.</p>
+        </div>
+
+        <div class="database-panel reveal" data-parallax="0.02">
+          <div class="database-visual" aria-hidden="true">
+            <div class="map-grid"></div>
+            <div class="map-glow map-glow-1"></div>
+            <div class="map-glow map-glow-2"></div>
+            <div class="map-glow map-glow-3"></div>
+            <span class="station-pin pin-1"><i></i> London</span>
+            <span class="station-pin pin-2"><i></i> Tokyo</span>
+            <span class="station-pin pin-3"><i></i> Wellington</span>
+            <div class="range-ring ring-1"></div>
+            <div class="range-ring ring-2"></div>
+            <div class="database-counter"><small>DATABASE SOURCES</small><strong>Aoki + EiBi</strong><span>plus additional listening data</span></div>
+          </div>
+          <div class="database-list">
+            <article class="database-row">
+              <span class="row-number">01</span>
+              <div><h3>One search, full depth</h3><p>Search frequency, station, language, country, or code across the complete on-device directory.</p></div>
+              <span class="row-arrow" aria-hidden="true">↗</span>
+            </article>
+            <article class="database-row">
+              <span class="row-number">02</span>
+              <div><h3>Always within reach</h3><p>Download the database once and keep exploring schedules wherever listening takes you.</p></div>
+              <span class="row-arrow" aria-hidden="true">↗</span>
+            </article>
+            <article class="database-row">
+              <span class="row-number">03</span>
+              <div><h3>Distance in context</h3><p>When location data is available, see an approximate distance between you and the transmitter.</p></div>
+              <span class="row-arrow" aria-hidden="true">↗</span>
+            </article>
+          </div>
+        </div>
+      </section>
+
+      <section class="section code-section" id="code-intelligence">
+        <div class="section-index light reveal"><span>02</span><i></i><b>CODE INTELLIGENCE</b></div>
+        <div class="code-shell">
+          <div class="code-copy reveal">
+            <span class="section-tag light">Codes, made human</span>
+            <h2>Language codes,<br><em>written in full.</em></h2>
+            <p>Shortwave databases use compact language codes. SWAtlas turns a code such as JPN into Japanese, so you can understand the broadcast language immediately while the original code remains available for searching and filtering.</p>
+            <ul class="code-benefits">
+              <li><span>01</span><div><strong>JPN becomes Japanese</strong><small>The database language code is displayed as the full, readable language name.</small></div></li>
+              <li><span>02</span><div><strong>The original code still works</strong><small>Search for JPN directly or select it in the ITU code filter.</small></div></li>
+              <li><span>03</span><div><strong>Country fields are decoded separately</strong><small>Compact country codes are also expanded into clear country names.</small></div></li>
+            </ul>
           </div>
 
-          <div class="database-grid">
-            <article class="database-card">
-              <div class="database-card-icon">Database</div>
-              <h3>Search the full included database with a single query.</h3>
-              <p>With a single search, users can quickly browse entries stored in the local database without waiting on a live network lookup.</p>
-            </article>
-
-            <article class="database-card">
-              <div class="database-card-icon">ITU</div>
-              <h3>Readable Country Names</h3>
-              <p>ITU country codes are translated into easy-to-understand country names, making each result much easier to read at a glance.</p>
-            </article>
-
-            <article class="database-card">
-              <div class="database-card-icon">Distance</div>
-              <h3>Approximate Distance Insight</h3>
-              <p>When country and station location details are available, SWAtlas can estimate the approximate distance from the user’s current position.</p>
-            </article>
-
-            <article class="database-card">
-              <div class="database-card-icon">LIVE</div>
-              <h3>Live Progress Gauge</h3>
-              <p>For live entries, playback progress and remaining time can be understood through a clean, approximate gauge-style view.</p>
-            </article>
+          <div class="code-demo reveal" data-parallax="-0.025">
+            <div class="demo-toolbar">
+              <div class="demo-dots" aria-hidden="true"><i></i><i></i><i></i></div>
+              <span>CODE RESOLVER</span>
+              <small>SWAtlas Intelligence</small>
+            </div>
+            <div class="code-search-wrap">
+              <label for="code-search">Search by language code</label>
+              <div class="code-search">
+                <span aria-hidden="true"></span>
+                <input id="code-search" type="text" value="JPN" maxlength="3" autocomplete="off" spellcheck="false" aria-describedby="code-help">
+                <button id="code-filter" type="button" aria-pressed="true">ITU Filter <i></i></button>
+              </div>
+              <small id="code-help">Try JPN, ENG, or FRA</small>
+            </div>
+            <div class="resolver-flow" aria-live="polite">
+              <div class="source-code">
+                <small>DATABASE LANGUAGE CODE</small>
+                <strong id="source-code">JPN</strong>
+              </div>
+              <div class="resolver-wave" aria-hidden="true"><i></i><i></i><i></i><i></i><i></i><i></i><i></i></div>
+              <div class="resolved-values">
+                <article class="resolved-primary"><span>DISPLAYED IN SWATLAS</span><strong id="resolved-language">Japanese</strong><small>Full language name</small></article>
+                <article><span>ORIGINAL CODE</span><strong id="resolved-code">JPN</strong><small>Still searchable and filterable</small></article>
+              </div>
+            </div>
+            <div class="demo-chips" aria-label="Example codes">
+              <button type="button" class="is-active" data-code="JPN">JPN</button>
+              <button type="button" data-code="ENG">ENG</button>
+              <button type="button" data-code="FRA">FRA</button>
+              <span><i></i> Original code filter active</span>
+            </div>
           </div>
         </div>
       </section>
 
       <section class="section live-tools-section" id="live-tools">
-        <div class="section-heading live-tools-heading">
-          <span class="section-tag">Live Reminder Tools</span>
-          <h2>Set Live alerts and see UTC times as local time.</h2>
-          <p>
-            SWAtlas converts UTC broadcast times using the listener's device time zone.
-          </p>
+        <div class="section-index reveal"><span>03</span><i></i><b>LIVE AWARENESS</b></div>
+        <div class="section-heading centered reveal">
+          <span class="section-tag">Right time, right signal</span>
+          <h2>Never miss the <em>moment.</em></h2>
+          <p>Broadcast schedules should feel immediate, wherever you are. SWAtlas translates UTC, shows live progress, and brings you back at exactly the right time.</p>
         </div>
 
-        <div class="live-tools-grid reveal-scope">
-          <article class="live-tool-card live-tool-primary">
-            <div class="live-tool-kicker">Live Alert</div>
-            <h3>Set a reminder for a broadcast’s Live time.</h3>
-            <p>Register an alert from a broadcast schedule so the station returns to your attention when it is time to listen.</p>
+        <div class="live-bento">
+          <article class="live-card live-card-alert reveal" data-parallax="0.018">
+            <div class="card-kicker"><span class="live-dot"></span> Broadcast alert</div>
+            <h3>A quiet reminder,<br>right on cue.</h3>
+            <p>Set an alert from any broadcast detail and return when the station comes on air.</p>
+            <div class="notification-preview">
+              <div class="notification-icon"><img src="ico.png" alt=""></div>
+              <div><small>SWAtlas · now</small><strong>NHK Radio Japan is live</strong><span>13,645 kHz · Japanese</span></div>
+              <i aria-hidden="true">›</i>
+            </div>
+          </article>
 
-            <div class="reminder-preview" aria-label="Live reminder preview">
-              <div class="reminder-preview-header">
-                <span>LIVE</span>
-                <strong>Voice of Example</strong>
+          <article class="live-card live-card-time reveal" data-parallax="-0.014">
+            <div class="card-kicker">UTC → Local</div>
+            <h3>Time that speaks<br>your language.</h3>
+            <div class="time-dial">
+              <div class="time-column">
+                <small>UTC</small>
+                <label for="utc-time-input" class="sr-only">UTC time</label>
+                <input id="utc-time-input" type="text" inputmode="numeric" maxlength="5" value="13:00" aria-label="UTC time in 24-hour format">
+                <span>Broadcast time</span>
               </div>
-              <div class="reminder-timeline">
-                <span></span>
-              </div>
-              <div class="reminder-preview-footer">
-                <span>13:00 UTC</span>
-                <span>Set Reminder</span>
+              <div class="time-arrow" aria-hidden="true">→</div>
+              <div class="time-column local">
+                <small>YOUR TIME</small>
+                <strong id="local-time-output">--:--</strong>
+                <span id="local-time-zone">Local device time</span>
               </div>
             </div>
           </article>
 
-          <article class="live-tool-card">
-            <div class="live-tool-kicker">Local Time</div>
-            <h3>Show UTC broadcast times in local time.</h3>
-            <p>Enter a UTC time and see the matching time on the device, without manual conversion.</p>
-
-            <div class="time-converter" aria-label="UTC to local time preview">
-              <label class="converter-field" for="utc-time-input">
-                <span>UTC Time</span>
-                <input id="utc-time-input" type="text" inputmode="numeric" pattern="[0-9]{2}:[0-9]{2}" maxlength="5" value="13:00" placeholder="13:00" aria-label="UTC time in 24-hour format">
-              </label>
-              <div class="converter-output">
-                <span>Local Time</span>
-                <strong id="local-time-output">--:--</strong>
-                <small id="local-time-zone">Uses device time zone</small>
+          <article class="live-card live-card-progress reveal" style="--live-progress: 68%">
+            <div class="live-progress-header">
+              <div>
+                <span class="live-progress-label"><i></i> LIVE PROGRESS</span>
+                <h3>BBC World Service</h3>
+                <small>12,095 kHz · English</small>
               </div>
+              <strong id="progress-percent">68% <small>complete</small></strong>
+            </div>
+            <div class="broadcast-progress" aria-label="Broadcast is 68 percent complete" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="68">
+              <div class="progress-time"><span>13:00 UTC</span><span>LIVE NOW</span><span>14:00 UTC</span></div>
+              <div class="progress-track"><span></span><i aria-hidden="true"></i></div>
+              <div class="progress-status"><span>41 minutes elapsed</span><strong>19 minutes remaining</strong></div>
             </div>
           </article>
         </div>
       </section>
 
-      <section class="section intro-section" id="experience">
-        <div class="section-heading">
-          <span class="section-tag">Luxury Simplicity</span>
-          <h2>ScreenShot</h2>
+      <section class="section experience-section" id="experience">
+        <div class="section-index reveal"><span>04</span><i></i><b>INSIDE THE APP</b></div>
+        <div class="section-heading split-heading">
+          <div class="reveal"><span class="section-tag">Designed for focus</span><h2>Dense data,<br><em>remarkably calm.</em></h2></div>
+          <p class="reveal">Every screen is built to shorten the distance between curiosity and listening—from the first search to the station map.</p>
         </div>
 
-        <div class="intro-gallery-shell glass-card reveal-scope">
-          <div class="intro-gallery">
-            <article class="intro-shot-card"><img src="f1.jpg" alt="SWAtlas screenshot 1" class="intro-shot"></article>
-            <article class="intro-shot-card"><img src="f2.jpg" alt="SWAtlas screenshot 2" class="intro-shot"></article>
-            <article class="intro-shot-card"><img src="f3.jpg" alt="SWAtlas screenshot 3" class="intro-shot"></article>
-            <article class="intro-shot-card"><img src="f4.jpg" alt="SWAtlas screenshot 4" class="intro-shot"></article>
-            <article class="intro-shot-card"><img src="f5.jpg" alt="SWAtlas screenshot 5" class="intro-shot"></article>
-            <article class="intro-shot-card"><img src="f6.jpg" alt="SWAtlas screenshot 6" class="intro-shot"></article>
-            <article class="intro-shot-card"><img src="f7.jpg" alt="SWAtlas screenshot 7" class="intro-shot"></article>
-            <article class="intro-shot-card"><img src="f8.jpg" alt="SWAtlas screenshot 8" class="intro-shot"></article>
+        <div class="gallery-instruction reveal"><span aria-hidden="true">↔</span> Drag to explore · Click any screen to enlarge</div>
+        <div class="screen-showcase reveal" data-gallery-scroll>
+          <div class="screen-rail">
+            <figure class="screen-card" role="button" tabindex="0" data-index="0" aria-label="Enlarge Broadcast details screenshot"><img src="f1.jpg" alt="SWAtlas broadcast detail screen" draggable="false"><figcaption><span>01</span> Broadcast details</figcaption></figure>
+            <figure class="screen-card screen-card-raised" role="button" tabindex="0" data-index="1" aria-label="Enlarge Live progress screenshot"><img src="f2.jpg" alt="SWAtlas live broadcast view" draggable="false"><figcaption><span>02</span> Live progress</figcaption></figure>
+            <figure class="screen-card" role="button" tabindex="0" data-index="2" aria-label="Enlarge Station search screenshot"><img src="f3.jpg" alt="SWAtlas station search results" draggable="false"><figcaption><span>03</span> Station search</figcaption></figure>
+            <figure class="screen-card screen-card-raised" role="button" tabindex="0" data-index="3" aria-label="Enlarge Precise filters screenshot"><img src="f4.jpg" alt="SWAtlas filter interface" draggable="false"><figcaption><span>04</span> Precise filters</figcaption></figure>
+            <figure class="screen-card" role="button" tabindex="0" data-index="4" aria-label="Enlarge Station map screenshot"><img src="f5.jpg" alt="SWAtlas map interface" draggable="false"><figcaption><span>05</span> Station map</figcaption></figure>
+            <figure class="screen-card screen-card-raised" role="button" tabindex="0" data-index="5" aria-label="Enlarge Schedules screenshot"><img src="f6.jpg" alt="SWAtlas schedule interface" draggable="false"><figcaption><span>06</span> Schedules</figcaption></figure>
+            <figure class="screen-card" role="button" tabindex="0" data-index="6" aria-label="Enlarge Saved listening screenshot"><img src="f7.jpg" alt="SWAtlas saved broadcast view" draggable="false"><figcaption><span>07</span> Saved listening</figcaption></figure>
+            <figure class="screen-card screen-card-raised" role="button" tabindex="0" data-index="7" aria-label="Enlarge Fine control screenshot"><img src="f8.jpg" alt="SWAtlas settings screen" draggable="false"><figcaption><span>08</span> Fine control</figcaption></figure>
           </div>
         </div>
       </section>
 
-      <section class="section features-section" id="features">
-        <div class="section-heading">
-          <span class="section-tag">Core Features</span>
-          <h2>Everything SW-listeners need</h2>
+      <section class="section feature-section" id="features">
+        <div class="section-index reveal"><span>05</span><i></i><b>THE COMPLETE TOOLKIT</b></div>
+        <div class="feature-intro">
+          <div class="reveal"><span class="section-tag">Built for listeners</span><h2>Everything essential.<br><em>Nothing in the way.</em></h2></div>
+          <a class="text-button reveal" href="https://apps.apple.com/app/swatlas-shortwave-explorer/id6761421523" target="_blank" rel="noopener noreferrer">Explore SWAtlas on the App Store <span aria-hidden="true">↗</span></a>
         </div>
+        <div class="feature-grid">
+          <article class="feature-card reveal"><span>01</span><h3>Frequency search</h3><p>Enter a frequency in kHz and find matching broadcasts in seconds.</p></article>
+          <article class="feature-card reveal"><span>02</span><h3>Station discovery</h3><p>Search by station name and move through clear, focused results.</p></article>
+          <article class="feature-card reveal"><span>03</span><h3>Live highlighting</h3><p>See what is active now with unmistakable on-air treatment.</p></article>
+          <article class="feature-card reveal"><span>04</span><h3>Smart filters</h3><p>Narrow results by language, country, schedule, status, or ITU code.</p></article>
+          <article class="feature-card reveal"><span>05</span><h3>Local schedules</h3><p>Read UTC broadcasts in the time zone set on your device.</p></article>
+          <article class="feature-card reveal"><span>06</span><h3>Offline directory</h3><p>Keep your downloaded reference data ready beyond the network.</p></article>
+        </div>
+      </section>
 
-        <div class="feature-grid reveal-scope">
-          <article class="feature-card">
-            <div class="card-number">01</div>
-            <h3>Fast Frequency Search</h3>
-            <p>Enter a frequency in kHz and instantly review matching entries in a clean, highly readable layout.</p>
-          </article>
-
-          <article class="feature-card">
-            <div class="card-number">02</div>
-            <h3>Station &amp; Language Discovery</h3>
-            <p>Explore stations, language information, and regional broadcast details without clutter.</p>
-          </article>
-
-          <article class="feature-card">
-            <div class="card-number">03</div>
-            <h3>Live Broadcast Highlighting</h3>
-            <p>Visually emphasize currently active entries so you can focus on what is on air right now.</p>
-          </article>
-
-          <article class="feature-card">
-            <div class="card-number">04</div>
-            <h3>Broadcast Schedule Browsing</h3>
-            <p>Review time windows and day patterns with a layout designed for fast interpretation.</p>
-          </article>
-
-          <article class="feature-card">
-            <div class="card-number">05</div>
-            <h3>Offline-Ready Data Access</h3>
-            <p>Keep browsing previously saved schedule data even when you do not have a reliable connection.</p>
-          </article>
-
-          <article class="feature-card">
-            <div class="card-number">06</div>
-            <h3>Built for DX Enthusiasts</h3>
-            <p>Whether you are monitoring, logging, or exploring, SWAtlas stays focused on useful radio data.</p>
-          </article>
-
-          <article class="feature-card">
-            <div class="card-number">07</div>
-            <h3>Quick Station Lookup</h3>
-            <p>Search station names directly and move through matching results with a layout that stays clean and immediate.</p>
-          </article>
-
-          <article class="feature-card">
-            <div class="card-number">08</div>
-            <h3>Clear Time &amp; Day Matching</h3>
-            <p>Check broadcast windows and day patterns at a glance with a structure designed for faster reading.</p>
-          </article>
-
-          <article class="feature-card">
-            <div class="card-number">09</div>
-            <h3>Distance-Aware Listening</h3>
-            <p>View station location context and estimate distance when location access is allowed on your device.</p>
-          </article>
+      <section class="closing-section">
+        <div class="closing-orbit" aria-hidden="true"></div>
+        <div class="closing-content reveal">
+          <span class="section-tag light">Your next signal is waiting</span>
+          <h2>Listen beyond<br><em>the horizon.</em></h2>
+          <p>One beautifully focused atlas for a world of radio.</p>
+          <a class="primary-button light-button" href="https://apps.apple.com/app/swatlas-shortwave-explorer/id6761421523" target="_blank" rel="noopener noreferrer">Download on the App Store <span aria-hidden="true">↗</span></a>
         </div>
       </section>
     </main>
 
     <footer class="site-footer">
-      <div class="site-footer-inner">
-        <p>© 2026 PixelBrick. All rights reserved.</p>
-        <a href="privacy-policy.html" class="footer-link">Privacy Policy</a>
-      </div>
+      <a href="#top" class="top-brand"><span class="brand-mark"><img src="ico.png" alt=""></span><span>SWAtlas</span></a>
+      <p>Shortwave, beautifully decoded.<br>© 2026 PixelBrick. All rights reserved.</p>
+      <div><a href="privacy-policy.html">Privacy Policy</a><a href="#top">Back to top ↑</a></div>
     </footer>
   </div>
 
+  <div class="gallery-lightbox" id="gallery-lightbox" role="dialog" aria-modal="true" aria-hidden="true" aria-label="Screenshot viewer">
+    <button class="lightbox-close" type="button" aria-label="Close screenshot viewer">×</button>
+    <button class="lightbox-nav lightbox-prev" type="button" aria-label="Previous screenshot">‹</button>
+    <div class="lightbox-stage">
+      <img src="f1.jpg" alt="" id="lightbox-image">
+      <div class="lightbox-caption"><span id="lightbox-count">01 / 08</span><strong id="lightbox-title">Broadcast details</strong><small>Click the image to zoom</small></div>
+    </div>
+    <button class="lightbox-nav lightbox-next" type="button" aria-label="Next screenshot">›</button>
+  </div>
+
   <script>
-    const topAnchorMenuButton = document.querySelector('.top-anchor-menu-button');
-    const topAnchorNav = document.querySelector('.top-anchor-nav');
+    const root = document.documentElement;
+    const menuButton = document.querySelector('.top-anchor-menu-button');
+    const nav = document.querySelector('.top-anchor-nav');
+    const reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
 
-    if (topAnchorMenuButton && topAnchorNav) {
-      topAnchorMenuButton.addEventListener('click', () => {
-        const isOpen = topAnchorNav.classList.toggle('is-open');
-        topAnchorMenuButton.classList.toggle('is-open', isOpen);
-        topAnchorMenuButton.setAttribute('aria-expanded', String(isOpen));
-      });
+    menuButton?.addEventListener('click', () => {
+      const isOpen = nav.classList.toggle('is-open');
+      menuButton.classList.toggle('is-open', isOpen);
+      menuButton.setAttribute('aria-expanded', String(isOpen));
+    });
 
-      topAnchorNav.querySelectorAll('.top-anchor-link').forEach((link) => {
-        link.addEventListener('click', () => {
-          topAnchorNav.classList.remove('is-open');
-          topAnchorMenuButton.classList.remove('is-open');
-          topAnchorMenuButton.setAttribute('aria-expanded', 'false');
-        });
-      });
-    }
+    nav?.querySelectorAll('a').forEach(link => link.addEventListener('click', () => {
+      nav.classList.remove('is-open');
+      menuButton?.classList.remove('is-open');
+      menuButton?.setAttribute('aria-expanded', 'false');
+    }));
 
-    const revealItems = document.querySelectorAll('.hero-copy, .hero-visual, .stat-card, .database-card, .live-tool-card, .intro-shot-card, .feature-card, .section-heading');
+    const revealItems = document.querySelectorAll('.reveal');
     const revealObserver = new IntersectionObserver((entries) => {
-      entries.forEach((entry) => {
+      entries.forEach(entry => {
         if (entry.isIntersecting) {
           entry.target.classList.add('is-visible');
           revealObserver.unobserve(entry.target);
         }
       });
-    }, { threshold: 0.16, rootMargin: '0px 0px -8% 0px' });
+    }, { threshold: 0.12, rootMargin: '0px 0px -7% 0px' });
+    revealItems.forEach(item => revealObserver.observe(item));
 
-    revealItems.forEach((item) => revealObserver.observe(item));
+    const sections = [...document.querySelectorAll('main section[id]')];
+    const navLinks = [...document.querySelectorAll('.top-anchor-link')];
+    const sectionObserver = new IntersectionObserver((entries) => {
+      entries.forEach(entry => {
+        if (!entry.isIntersecting) return;
+        navLinks.forEach(link => link.classList.toggle('is-active', link.getAttribute('href') === `#${entry.target.id}`));
+      });
+    }, { rootMargin: '-35% 0px -55% 0px' });
+    sections.forEach(section => sectionObserver.observe(section));
 
-    const updateScrollProgress = () => {
-      const height = document.documentElement.scrollHeight - window.innerHeight;
-      const progress = height > 0 ? window.scrollY / height : 0;
-      document.documentElement.style.setProperty('--scroll-progress', progress);
-    };
+    let ticking = false;
+    const updateScroll = () => {
+      const scrollY = window.scrollY;
+      const max = document.documentElement.scrollHeight - window.innerHeight;
+      root.style.setProperty('--scroll-progress', max > 0 ? scrollY / max : 0);
+      root.style.setProperty('--scroll-y', `${scrollY}px`);
 
-    updateScrollProgress();
-    window.addEventListener('scroll', updateScrollProgress, { passive: true });
-    window.addEventListener('resize', updateScrollProgress);
-
-    const utcTimeInput = document.querySelector('#utc-time-input');
-    const localTimeOutput = document.querySelector('#local-time-output');
-    const localTimeZone = document.querySelector('#local-time-zone');
-
-    const updateLocalTimePreview = () => {
-      if (!utcTimeInput || !localTimeOutput || !localTimeZone) return;
-
-      const sanitizedValue = utcTimeInput.value.replace(/[^\d:]/g, '').slice(0, 5);
-      if (utcTimeInput.value !== sanitizedValue) {
-        utcTimeInput.value = sanitizedValue;
+      if (!reduceMotion) {
+        document.querySelectorAll('[data-parallax]').forEach(element => {
+          const rect = element.getBoundingClientRect();
+          const offset = (rect.top + rect.height / 2 - window.innerHeight / 2) * Number(element.dataset.parallax);
+          element.style.setProperty('--parallax', `${offset}px`);
+        });
+        const showcase = document.querySelector('[data-gallery-scroll]');
+        if (showcase && !showcase.dataset.interacted) {
+          const rect = showcase.getBoundingClientRect();
+          const progress = Math.max(0, Math.min(1, (window.innerHeight - rect.top) / (window.innerHeight + rect.height)));
+          const overflow = Math.max(0, showcase.scrollWidth - showcase.clientWidth);
+          showcase.scrollLeft = overflow * progress * .72;
+        }
       }
+      ticking = false;
+    };
+    const requestScrollUpdate = () => {
+      if (!ticking) requestAnimationFrame(updateScroll);
+      ticking = true;
+    };
+    updateScroll();
+    addEventListener('scroll', requestScrollUpdate, { passive: true });
+    addEventListener('resize', requestScrollUpdate);
 
-      const [hours, minutes] = utcTimeInput.value.split(':').map(Number);
-      if (!Number.isFinite(hours) || !Number.isFinite(minutes) || hours > 23 || minutes > 59) {
-        localTimeOutput.textContent = '--:--';
-        localTimeZone.textContent = 'Use 24-hour UTC time';
+    const codeData = {
+      JPN: { language: 'Japanese' },
+      ENG: { language: 'English' },
+      FRA: { language: 'French' }
+    };
+    const codeInput = document.querySelector('#code-search');
+    const sourceCode = document.querySelector('#source-code');
+    const resolvedLanguage = document.querySelector('#resolved-language');
+    const resolvedCode = document.querySelector('#resolved-code');
+    const codeDemo = document.querySelector('.code-demo');
+
+    const resolveCode = value => {
+      const code = value.toUpperCase().replace(/[^A-Z]/g, '').slice(0, 3);
+      if (codeInput && codeInput.value !== code) codeInput.value = code;
+      if (sourceCode) sourceCode.textContent = code || '—';
+      const result = codeData[code];
+      resolvedLanguage.textContent = result?.language || 'Code searchable';
+      resolvedCode.textContent = code || '—';
+      document.querySelectorAll('.demo-chips button').forEach(button => button.classList.toggle('is-active', button.dataset.code === code));
+      codeDemo?.classList.remove('is-resolving');
+      requestAnimationFrame(() => codeDemo?.classList.add('is-resolving'));
+    };
+    codeInput?.addEventListener('input', event => resolveCode(event.target.value));
+    document.querySelectorAll('.demo-chips button').forEach(button => button.addEventListener('click', () => resolveCode(button.dataset.code)));
+    document.querySelector('#code-filter')?.addEventListener('click', event => {
+      const pressed = event.currentTarget.getAttribute('aria-pressed') !== 'true';
+      event.currentTarget.setAttribute('aria-pressed', String(pressed));
+      event.currentTarget.classList.toggle('is-off', !pressed);
+      document.querySelector('.demo-chips span')?.classList.toggle('is-off', !pressed);
+    });
+
+    const utcInput = document.querySelector('#utc-time-input');
+    const localOutput = document.querySelector('#local-time-output');
+    const localZone = document.querySelector('#local-time-zone');
+    const updateLocalTime = () => {
+      const value = utcInput.value.replace(/[^\d:]/g, '').slice(0, 5);
+      utcInput.value = value;
+      const parts = value.split(':').map(Number);
+      if (parts.length !== 2 || parts[0] > 23 || parts[1] > 59 || parts.some(Number.isNaN)) {
+        localOutput.textContent = '--:--';
+        localZone.textContent = 'Enter 24-hour UTC';
         return;
       }
-
       const now = new Date();
-      const utcDate = new Date(Date.UTC(now.getFullYear(), now.getMonth(), now.getDate(), hours || 0, minutes || 0));
-      const timeFormatter = new Intl.DateTimeFormat(undefined, {
-        hour: '2-digit',
-        minute: '2-digit',
-        hour12: false
-      });
+      const date = new Date(Date.UTC(now.getUTCFullYear(), now.getUTCMonth(), now.getUTCDate(), parts[0], parts[1]));
+      localOutput.textContent = new Intl.DateTimeFormat(undefined, { hour: '2-digit', minute: '2-digit', hour12: false }).format(date);
+      localZone.textContent = 'Local device time';
+    };
+    utcInput?.addEventListener('input', updateLocalTime);
+    updateLocalTime();
 
-      localTimeOutput.textContent = timeFormatter.format(utcDate);
-      localTimeZone.textContent = 'Uses device time zone';
+    const gallery = document.querySelector('[data-gallery-scroll]');
+    const screenCards = [...document.querySelectorAll('.screen-card')];
+    const lightbox = document.querySelector('#gallery-lightbox');
+    const lightboxImage = document.querySelector('#lightbox-image');
+    const lightboxCount = document.querySelector('#lightbox-count');
+    const lightboxTitle = document.querySelector('#lightbox-title');
+    const lightboxClose = document.querySelector('.lightbox-close');
+    const galleryItems = screenCards.map(card => ({
+      src: card.querySelector('img').getAttribute('src'),
+      alt: card.querySelector('img').getAttribute('alt'),
+      title: card.querySelector('figcaption').textContent.replace(/^\d+\s*/, '').trim()
+    }));
+    let activeImage = 0;
+    let pointerStart = 0;
+    let scrollStart = 0;
+    let isDragging = false;
+    let didDrag = false;
+    let pressedCard = null;
+    const finePointer = matchMedia('(pointer: fine)').matches;
+
+    const showImage = index => {
+      activeImage = (index + galleryItems.length) % galleryItems.length;
+      const item = galleryItems[activeImage];
+      lightboxImage.src = item.src;
+      lightboxImage.alt = item.alt;
+      lightboxImage.classList.remove('is-zoomed');
+      lightboxCount.textContent = `${String(activeImage + 1).padStart(2, '0')} / ${String(galleryItems.length).padStart(2, '0')}`;
+      lightboxTitle.textContent = item.title;
+    };
+    const openLightbox = index => {
+      showImage(index);
+      lightbox.classList.add('is-open');
+      lightbox.setAttribute('aria-hidden', 'false');
+      document.body.classList.add('lightbox-open');
+      lightboxClose.focus();
+    };
+    const closeLightbox = () => {
+      lightbox.classList.remove('is-open');
+      lightbox.setAttribute('aria-hidden', 'true');
+      document.body.classList.remove('lightbox-open');
+      screenCards[activeImage]?.focus();
     };
 
-    updateLocalTimePreview();
-    utcTimeInput?.addEventListener('input', updateLocalTimePreview);
-  </script>
+    if (gallery && finePointer) {
+      gallery.addEventListener('pointerdown', event => {
+        if (event.button !== 0) return;
+        gallery.dataset.interacted = 'true';
+        isDragging = true;
+        didDrag = false;
+        pointerStart = event.clientX;
+        scrollStart = gallery.scrollLeft;
+        pressedCard = event.target.closest('.screen-card');
+        gallery.classList.add('is-dragging');
+        gallery.setPointerCapture(event.pointerId);
+      });
+      gallery.addEventListener('pointermove', event => {
+        if (!isDragging) return;
+        const distance = event.clientX - pointerStart;
+        if (Math.abs(distance) > 5) didDrag = true;
+        gallery.scrollLeft = scrollStart - distance;
+      });
+      const finishDrag = event => {
+        if (!isDragging) return;
+        isDragging = false;
+        gallery.classList.remove('is-dragging');
+        if (gallery.hasPointerCapture(event.pointerId)) gallery.releasePointerCapture(event.pointerId);
+        if (event.type === 'pointerup' && !didDrag && pressedCard) openLightbox(Number(pressedCard.dataset.index));
+        pressedCard = null;
+      };
+      gallery.addEventListener('pointerup', finishDrag);
+      gallery.addEventListener('pointercancel', finishDrag);
+    }
+    gallery?.addEventListener('wheel', () => { gallery.dataset.interacted = 'true'; }, { passive: true });
+    gallery?.addEventListener('touchstart', () => { gallery.dataset.interacted = 'true'; }, { passive: true });
+    screenCards.forEach((card, index) => {
+      card.addEventListener('click', () => { if (!finePointer) openLightbox(index); });
+      card.addEventListener('keydown', event => {
+        if (event.key === 'Enter' || event.key === ' ') {
+          event.preventDefault();
+          openLightbox(index);
+        }
+      });
+    });
+    lightboxImage?.addEventListener('click', () => lightboxImage.classList.toggle('is-zoomed'));
+    lightboxClose?.addEventListener('click', closeLightbox);
+    document.querySelector('.lightbox-prev')?.addEventListener('click', () => showImage(activeImage - 1));
+    document.querySelector('.lightbox-next')?.addEventListener('click', () => showImage(activeImage + 1));
+    lightbox?.addEventListener('click', event => { if (event.target === lightbox) closeLightbox(); });
+    document.addEventListener('keydown', event => {
+      if (!lightbox?.classList.contains('is-open')) return;
+      if (event.key === 'Escape') closeLightbox();
+      if (event.key === 'ArrowLeft') showImage(activeImage - 1);
+      if (event.key === 'ArrowRight') showImage(activeImage + 1);
+    });
 
+    if (!reduceMotion && matchMedia('(pointer: fine)').matches) {
+      document.querySelectorAll('[data-tilt]').forEach(card => {
+        card.addEventListener('pointermove', event => {
+          const rect = card.getBoundingClientRect();
+          const x = (event.clientX - rect.left) / rect.width - .5;
+          const y = (event.clientY - rect.top) / rect.height - .5;
+          card.style.setProperty('--tilt-x', `${y * -5}deg`);
+          card.style.setProperty('--tilt-y', `${x * 7}deg`);
+        });
+        card.addEventListener('pointerleave', () => {
+          card.style.setProperty('--tilt-x', '0deg');
+          card.style.setProperty('--tilt-y', '0deg');
+        });
+      });
+    }
+  </script>
 </body>
 </html>
