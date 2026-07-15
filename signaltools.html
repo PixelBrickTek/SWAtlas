@@ -1,0 +1,302 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#f3f0e8">
+  <title>Signal Tools Guide — SWAtlas</title>
+  <meta name="description" content="A beginner-friendly guide to the Radiofax, Morse code, and RTTY decoders in SWAtlas.">
+  <link rel="icon" type="image/png" href="ico.png">
+  <link rel="preload" as="image" href="signal1.webp" type="image/webp">
+  <link rel="preload" as="image" href="signal2.webp" type="image/webp">
+  <link rel="preload" as="image" href="signal3.webp" type="image/webp">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&amp;family=Manrope:wght@400;500;600;700;800&amp;display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body class="signal-help-page">
+  <a class="help-skip-link" href="#main-content">Skip to the guide</a>
+  <div class="grain" aria-hidden="true"></div>
+
+  <header class="help-topbar">
+    <div class="help-topbar-inner">
+      <a href="index.html" class="top-brand" aria-label="SWAtlas home">
+        <span class="brand-mark"><img src="ico.png" alt=""></span>
+        <span>SWAtlas</span>
+      </a>
+      <nav class="help-nav" aria-label="Signal tools guide">
+        <a href="#radiofax">Radiofax</a>
+        <a href="#morse">Morse</a>
+        <a href="#rtty">RTTY</a>
+        <a href="#troubleshooting">Troubleshooting</a>
+      </nav>
+      <a class="help-home-link" href="index.html#signal-tools"><span aria-hidden="true">←</span> Main site</a>
+    </div>
+  </header>
+
+  <main class="help-main" id="main-content">
+    <section class="help-hero" aria-labelledby="guide-title">
+      <div class="help-hero-copy">
+        <div class="help-eyebrow">Beginner’s signal guide</div>
+        <h1 id="guide-title">Turn radio sounds into something you can <em>see and read.</em></h1>
+        <p>You do not need to know radio jargon to begin. Put your phone near the radio speaker, choose the tool that matches the sound, and let SWAtlas listen. This guide explains what each tool does and what the numbers on its screen mean.</p>
+        <div class="help-jump-links" aria-label="Jump to a tool">
+          <a href="#radiofax">Explore Radiofax</a>
+          <a href="#morse">Explore Morse</a>
+          <a href="#rtty">Explore RTTY</a>
+        </div>
+      </div>
+      <aside class="help-quick-start" aria-label="Quick start">
+        <span>The simple setup</span>
+        <h2>Radio → speaker → SWAtlas</h2>
+        <ol class="help-quick-list">
+          <li>Tune your radio until the wanted signal sounds as clear and steady as possible.</li>
+          <li>Place the phone near the speaker in a quiet space. Avoid very high volume or distortion.</li>
+          <li>Open the matching decoder and tap its start button. Give automatic tuning a few seconds to settle.</li>
+        </ol>
+      </aside>
+    </section>
+
+    <section class="help-section-intro" aria-labelledby="choose-tool-title">
+      <div>
+        <span>Choose by sound</span>
+        <h2 id="choose-tool-title">Three signals, three different jobs.</h2>
+      </div>
+      <p>Radiofax builds a picture line by line. Morse turns short and long beeps into letters. RTTY reads text carried by two alternating tones. If you are unsure which one you found, listen to the rhythm and compare it with these descriptions.</p>
+    </section>
+
+    <article class="help-tool" id="radiofax" aria-labelledby="radiofax-title">
+      <figure class="help-tool-media help-tool-media--fax">
+        <img src="signal1.webp" alt="Radiofax decoder receiving a black-and-white test chart" width="1179" height="2556" decoding="async">
+        <figcaption><span>HF FAX</span><strong>Radiofax Decoder</strong></figcaption>
+      </figure>
+      <div class="help-tool-content">
+        <div class="help-tool-label"><span>01</span> Radiofax</div>
+        <h2 id="radiofax-title">Receive weather charts as pictures.</h2>
+        <p class="help-lead">Radiofax—often called weather fax or WEFAX—is a way for a station to send a black-and-white image over radio. Maritime stations use it for weather maps, pressure charts, forecasts, and other information useful at sea.</p>
+
+        <div class="help-simple-explanation">
+          <strong>Think of it like this</strong>
+          The station reads a picture one thin horizontal line at a time. SWAtlas hears those changing tones and rebuilds the same lines on your screen until the full chart appears.
+        </div>
+
+        <section class="help-test-card" aria-labelledby="radiofax-test-title">
+          <div class="help-test-heading">
+            <div><span>Try it yourself</span><h3 id="radiofax-test-title">Test Radiofax with a sample video</h3></div>
+            <a class="help-video-button" href="https://www.youtube.com/watch?v=aZU3Wp9451M" target="_blank" rel="noopener noreferrer" aria-label="Open the Radiofax test video on YouTube">Play test video <span aria-hidden="true">▶</span></a>
+          </div>
+          <p>Use a second phone, tablet, or computer to play the video. Keep SWAtlas open on your main device so its microphone can listen to the sample just as it would listen to a real radio.</p>
+          <ol class="help-test-steps">
+            <li><strong>Play the YouTube video on the other device.</strong> Use a clear, moderate volume and place it near the SWAtlas device.</li>
+            <li><strong>Open Radiofax and tap Start Reception.</strong> Keep both devices still while SWAtlas listens.</li>
+            <li><strong>Wait through the short automatic learning period.</strong> SWAtlas studies the incoming tones and timing, recognizes the fax signal, and attempts to synchronize with it.</li>
+            <li><strong>Watch the result build.</strong> Once the signal is identified, the received image begins to appear line by line.</li>
+          </ol>
+          <div class="help-learning-note"><strong>No manual setup is needed for this first test.</strong> Automatic detection needs a little clean audio before it can identify and decode the sample.</div>
+        </section>
+
+        <section class="help-copy-block" aria-labelledby="radiofax-sound">
+          <h3 id="radiofax-sound">What does it sound like?</h3>
+          <p>A radiofax signal has a steady mechanical sweep or warble. A transmission may begin with a distinct start pattern, followed by a long stream of rapidly changing tones while the image is sent. It does not sound like speech.</p>
+        </section>
+
+        <section class="help-copy-block" aria-labelledby="radiofax-steps">
+          <h3 id="radiofax-steps">How to receive your first image</h3>
+          <ol class="help-step-list">
+            <li><strong>Tune the signal carefully.</strong> A clear, stable tone produces straighter lines and a cleaner picture.</li>
+            <li><strong>Open Radiofax and tap Start Reception.</strong> Keep the phone close enough to hear the speaker without covering the microphone.</li>
+            <li><strong>Leave automatic sync enabled at first.</strong> SWAtlas will look for the line rate and align the incoming image.</li>
+            <li><strong>Let the transmission continue.</strong> The chart grows from top to bottom; a complete weather map can take several minutes.</li>
+          </ol>
+        </section>
+
+        <section class="help-copy-block" aria-labelledby="radiofax-readouts">
+          <h3 id="radiofax-readouts">What the screen is telling you</h3>
+          <dl class="help-readout-grid">
+            <div><dt>SYNC</dt><dd>The decoder is looking for the timing pattern that keeps each image line aligned.</dd></div>
+            <div><dt>LPM</dt><dd>Lines per minute—the speed at which horizontal lines are being transmitted.</dd></div>
+            <div><dt>IOC</dt><dd>A standard image format setting that determines the expected picture width.</dd></div>
+            <div><dt>Following</dt><dd>Keeps the newest part of the growing image visible while reception continues.</dd></div>
+          </dl>
+        </section>
+
+        <div class="help-tip"><strong>Beginner tip:</strong> A slanted picture usually means timing or tuning needs to settle. Give Smart Sync a moment, and keep the radio and phone still during reception.</div>
+      </div>
+    </article>
+
+    <article class="help-tool help-tool--reverse" id="morse" aria-labelledby="morse-title">
+      <figure class="help-tool-media help-tool-media--morse">
+        <img src="signal2.webp" alt="Morse code decoder showing live decoded text and automatic tone controls" width="1179" height="2556" loading="lazy" decoding="async">
+        <figcaption><span>CW</span><strong>Morse Code Decoder</strong></figcaption>
+      </figure>
+      <div class="help-tool-content">
+        <div class="help-tool-label"><span>02</span> Morse code</div>
+        <h2 id="morse-title">Read dots and dashes as live text.</h2>
+        <p class="help-lead">Morse code sends letters using short sounds (dots), long sounds (dashes), and the quiet gaps between them. Radio operators often call this kind of transmission CW, short for continuous wave.</p>
+
+        <div class="help-simple-explanation">
+          <strong>Think of it like this</strong>
+          A dot and a dash are simply a short beep and a long beep. SWAtlas measures the length of each tone and gap, groups the pattern, and places the matching letter in the Live Text area.
+        </div>
+
+        <section class="help-test-card" aria-labelledby="morse-test-title">
+          <div class="help-test-heading">
+            <div><span>Try it yourself</span><h3 id="morse-test-title">Test Morse with a sample video</h3></div>
+            <a class="help-video-button" href="https://www.youtube.com/watch?v=adQnv8LRb00&amp;t=62s" target="_blank" rel="noopener noreferrer" aria-label="Open the Morse code test video on YouTube at one minute and two seconds">Play from 1:02 <span aria-hidden="true">▶</span></a>
+          </div>
+          <p>Play the sample on a separate phone, tablet, or computer. SWAtlas must remain open on the decoding device with microphone access enabled.</p>
+          <ol class="help-test-steps">
+            <li><strong>Start the video at 1:02 on the other device.</strong> Set the volume so the beeps are clear but not harsh or distorted.</li>
+            <li><strong>Open Morse Decoder and tap Start Listening.</strong> Leave Automatic Tone and Automatic Speed enabled.</li>
+            <li><strong>Allow a short learning period.</strong> SWAtlas finds the strongest CW tone, studies the dot, dash, and gap timing, and estimates the sending speed.</li>
+            <li><strong>Watch Live Text.</strong> After the tone and rhythm are identified, decoded letters begin to appear automatically.</li>
+          </ol>
+          <div class="help-learning-note"><strong>A brief delay is normal.</strong> The decoder needs to hear enough of the pattern to learn its tone and speed before the text becomes reliable.</div>
+        </section>
+
+        <section class="help-copy-block" aria-labelledby="morse-sound">
+          <h3 id="morse-sound">What does it sound like?</h3>
+          <p>Listen for one clear musical pitch switching on and off in a deliberate rhythm: beep-beep, beeeep, then a pause. Faster operators leave shorter gaps; slower operators make every element easier to separate.</p>
+        </section>
+
+        <section class="help-copy-block" aria-labelledby="morse-steps">
+          <h3 id="morse-steps">How to decode a Morse signal</h3>
+          <ol class="help-step-list">
+            <li><strong>Tune for a clean single tone.</strong> Try to reduce nearby voices, whistles, and other Morse stations.</li>
+            <li><strong>Open Morse Decoder and tap Start Listening.</strong> Live Text fills as recognizable characters arrive.</li>
+            <li><strong>Keep Automatic Tone on.</strong> It follows the strongest CW pitch in the supported range.</li>
+            <li><strong>Keep Automatic Speed on while learning.</strong> SWAtlas estimates the operator’s words-per-minute speed and adapts to the rhythm.</li>
+          </ol>
+        </section>
+
+        <section class="help-copy-block" aria-labelledby="morse-readouts">
+          <h3 id="morse-readouts">What the screen is telling you</h3>
+          <dl class="help-readout-grid">
+            <div><dt>Hz</dt><dd>The audio pitch SWAtlas is following. This is the tone you hear, not the radio’s tuned frequency.</dd></div>
+            <div><dt>WPM</dt><dd>Words per minute—a common way to describe how quickly Morse is being sent.</dd></div>
+            <div><dt>Automatic Tone</dt><dd>Tracks the clearest CW tone so small tuning changes are easier to handle.</dd></div>
+            <div><dt>Automatic Speed</dt><dd>Learns the dot, dash, and gap timing from the live signal.</dd></div>
+          </dl>
+        </section>
+
+        <div class="help-tip"><strong>Beginner tip:</strong> A few wrong letters are normal when a signal fades. Better tuning, moderate speaker volume, and less background noise usually help more than changing advanced settings.</div>
+      </div>
+    </article>
+
+    <article class="help-tool" id="rtty" aria-labelledby="rtty-title">
+      <figure class="help-tool-media help-tool-media--rtty">
+        <img src="signal3.webp" alt="RTTY decoder waiting for a signal and showing smart tuning readouts" width="1179" height="2556" loading="lazy" decoding="async">
+        <figcaption><span>FSK</span><strong>RTTY Decoder</strong></figcaption>
+      </figure>
+      <div class="help-tool-content">
+        <div class="help-tool-label"><span>03</span> RTTY</div>
+        <h2 id="rtty-title">Turn two alternating tones into typed text.</h2>
+        <p class="help-lead">RTTY means radio teletype. Instead of using one tone with short and long beeps, it switches quickly between two pitches. Those two states carry letters, numbers, and punctuation for the decoder to reconstruct.</p>
+
+        <div class="help-simple-explanation">
+          <strong>Think of it like this</strong>
+          Imagine an old typing machine using a high tone for one signal state and a low tone for the other. The exact pattern of those changes tells SWAtlas which character was sent.
+        </div>
+
+        <section class="help-test-card" aria-labelledby="rtty-test-title">
+          <div class="help-test-heading">
+            <div><span>Try it yourself</span><h3 id="rtty-test-title">Test RTTY with a sample video</h3></div>
+            <a class="help-video-button" href="https://www.youtube.com/watch?v=MaPh4nhfh8w" target="_blank" rel="noopener noreferrer" aria-label="Open the RTTY test video on YouTube">Play test video <span aria-hidden="true">▶</span></a>
+          </div>
+          <p>Use a second device to play the RTTY sample while SWAtlas listens through the microphone on your main device. A quiet room makes the first test easier.</p>
+          <ol class="help-test-steps">
+            <li><strong>Play the YouTube video on the other device.</strong> Place its speaker near the SWAtlas microphone at a comfortable volume.</li>
+            <li><strong>Open RTTY Decoder and tap Start Listening.</strong> Keep the sample playing continuously.</li>
+            <li><strong>Wait while SWAtlas learns the signal.</strong> Smart Tuning searches for the two tones, measures mark, space, and shift, and determines whether the pattern is usable RTTY.</li>
+            <li><strong>Watch confidence and Live Text.</strong> Once the signal is identified and the settings settle, SWAtlas begins turning the tone changes into characters.</li>
+          </ol>
+          <div class="help-learning-note"><strong>Give Smart Tuning a few seconds.</strong> The values may move at first while the decoder learns the sample and locks onto the signal.</div>
+        </section>
+
+        <section class="help-copy-block" aria-labelledby="rtty-sound">
+          <h3 id="rtty-sound">What does it sound like?</h3>
+          <p>RTTY has a fast, busy, two-note sound—often described as a repeated “diddle-diddle.” Unlike Morse, it usually runs continuously while text is being sent, with rapid switching between the two pitches.</p>
+        </section>
+
+        <section class="help-copy-block" aria-labelledby="rtty-steps">
+          <h3 id="rtty-steps">How to decode an RTTY signal</h3>
+          <ol class="help-step-list">
+            <li><strong>Tune until both tones are clear.</strong> The signal should sound balanced rather than muffled or distorted.</li>
+            <li><strong>Open RTTY Decoder and tap Start Listening.</strong> Keep the microphone near the speaker while the tool searches.</li>
+            <li><strong>Give Smart Tuning a few seconds.</strong> It measures the mark and space pitches and the distance between them.</li>
+            <li><strong>Watch confidence and Live Text.</strong> As the tuning becomes stable, confidence should improve and readable characters can begin to appear.</li>
+          </ol>
+        </section>
+
+        <section class="help-copy-block" aria-labelledby="rtty-readouts">
+          <h3 id="rtty-readouts">What the screen is telling you</h3>
+          <dl class="help-readout-grid">
+            <div><dt>Mark / Space</dt><dd>The two audio pitches that RTTY alternates between to carry digital information.</dd></div>
+            <div><dt>Shift</dt><dd>The frequency distance between the mark and space tones.</dd></div>
+            <div><dt>Baud</dt><dd>The signaling speed. 45.45 baud is a common amateur RTTY setting.</dd></div>
+            <div><dt>Polarity</dt><dd>Shows which tone is treated as mark and which as space. Reversed polarity can produce unreadable text.</dd></div>
+            <div><dt>Confidence</dt><dd>An estimate of how clearly the decoder recognizes a usable RTTY signal.</dd></div>
+            <div><dt>Live Text</dt><dd>The characters reconstructed from the incoming two-tone pattern.</dd></div>
+          </dl>
+        </section>
+
+        <div class="help-tip"><strong>Beginner tip:</strong> If confidence stays near zero, check that you are hearing RTTY rather than another digital mode. Then tune slowly until both tones are strong and distinct.</div>
+      </div>
+    </article>
+
+    <section class="help-compare" aria-labelledby="compare-title">
+      <span>A quick way to remember</span>
+      <h2 id="compare-title">Match the tool to what the signal is carrying.</h2>
+      <p>All three tools listen through the microphone, but each is designed for a different signal pattern and a different kind of result.</p>
+      <div class="help-compare-grid">
+        <article class="help-compare-card">
+          <span>01 · RADIOFAX</span>
+          <h3>Changing sweep → image</h3>
+          <p>Use it when a station is sending weather maps, charts, or other black-and-white pictures.</p>
+        </article>
+        <article class="help-compare-card">
+          <span>02 · MORSE</span>
+          <h3>Short and long beeps → text</h3>
+          <p>Use it for a single tone that switches on and off in dot-and-dash rhythms.</p>
+        </article>
+        <article class="help-compare-card">
+          <span>03 · RTTY</span>
+          <h3>Two alternating tones → text</h3>
+          <p>Use it for the fast, continuous two-pitch sound of radio teletype.</p>
+        </article>
+      </div>
+    </section>
+
+    <section class="help-troubleshooting" id="troubleshooting" aria-labelledby="troubleshooting-title">
+      <div>
+        <span>Before changing settings</span>
+        <h2 id="troubleshooting-title">Most problems begin with the audio.</h2>
+      </div>
+      <div class="help-faq">
+        <details open>
+          <summary>The decoder starts, but nothing appears.</summary>
+          <p>Confirm that microphone access is allowed, raise the radio volume a little, and move the phone closer to the speaker. Also make sure the selected tool matches the type of signal you can hear.</p>
+        </details>
+        <details>
+          <summary>Text appears, but it is mostly random characters.</summary>
+          <p>Tune more precisely and reduce background noise. Fading, interference, overdriven speaker audio, or the wrong RTTY polarity can all turn a real signal into incorrect characters.</p>
+        </details>
+        <details>
+          <summary>The Radiofax picture is slanted or broken.</summary>
+          <p>Keep automatic sync enabled, wait for the station’s start sequence when possible, and avoid changing tuning or moving the phone while the image is being received.</p>
+        </details>
+        <details>
+          <summary>Automatic detection keeps changing.</summary>
+          <p>The tool may be hearing several signals at once. Narrow the radio filter if available, tune so the wanted signal is strongest, and lower the volume if the speaker sounds harsh or clipped.</p>
+        </details>
+      </div>
+    </section>
+  </main>
+
+  <footer class="help-footer">
+    <a href="index.html" class="top-brand"><span class="brand-mark"><img src="ico.png" alt=""></span><span>SWAtlas</span></a>
+    <p>Signal Tools Guide<br>Radiofax · Morse code · RTTY</p>
+  </footer>
+</body>
+</html>
