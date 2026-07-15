@@ -15,6 +15,9 @@
   <meta name="twitter:description" content="Find the signal. Understand the schedule. Explore a world of shortwave with clarity.">
   <meta name="twitter:image" content="og.png">
   <link rel="icon" type="image/png" href="ico.png">
+  <link rel="preload" as="image" href="signal1.webp" type="image/webp" fetchpriority="low">
+  <link rel="preload" as="image" href="signal2.webp" type="image/webp" fetchpriority="low">
+  <link rel="preload" as="image" href="signal3.webp" type="image/webp" fetchpriority="low">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&amp;family=Manrope:wght@400;500;600;700;800&amp;display=swap" rel="stylesheet">
@@ -41,6 +44,7 @@
           <a href="#database" class="top-anchor-link">Database</a>
           <a href="#code-intelligence" class="top-anchor-link">Code Intelligence</a>
           <a href="#live-tools" class="top-anchor-link">Live Alerts</a>
+          <a href="#signal-tools" class="top-anchor-link">Signal Tools</a>
           <a href="#experience" class="top-anchor-link">Inside the App</a>
           <a href="https://apps.apple.com/app/swatlas-shortwave-explorer/id6761421523" class="download-link" target="_blank" rel="noopener noreferrer">App Store <span aria-hidden="true">↗</span></a>
         </div>
@@ -254,8 +258,72 @@
         </div>
       </section>
 
+      <section class="section signal-tools-section" id="signal-tools">
+        <div class="section-index reveal"><span>04</span><i></i><b>SIGNAL TOOLS</b></div>
+        <div class="section-heading split-heading signal-tools-heading">
+          <div class="reveal">
+            <span class="section-tag">Decode the hidden layer</span>
+            <h2>From raw tones<br><em>to readable signals.</em></h2>
+          </div>
+          <p class="reveal">The Rig button on the main screen opens focused tools for decoding radiofax images, Morse code, and RTTY text, so listening can move naturally from signal discovery to signal interpretation.</p>
+        </div>
+
+        <div class="signal-tools-grid">
+          <article class="signal-tool-card signal-tool-fax reveal" data-parallax="0.014">
+            <div class="signal-tool-copy">
+              <div class="card-kicker">Radiofax</div>
+              <h3>Weather charts, received as images.</h3>
+              <p>Radiofax helps turn HF fax audio into readable image output, making it easier to capture weather maps, marine charts, and visual shortwave broadcasts directly from your radio setup. Smart sync automatically detects the incoming LPM and keeps the image aligned as it is received.</p>
+              <ul class="signal-tool-points">
+                <li><span>01</span><strong>Automatically detects LPM and syncs the fax signal</strong></li>
+                <li><span>02</span><strong>Decode fax tones into image output</strong></li>
+                <li><span>03</span><strong>Available from the main screen Rig button</strong></li>
+              </ul>
+            </div>
+            <figure class="signal-tool-visual signal-tool-visual-fax">
+              <img src="signal1.webp" alt="SWAtlas radiofax decoding feature" width="1179" height="2556" loading="eager" decoding="async" fetchpriority="low" onerror="this.closest('.signal-tool-visual').classList.add('is-missing'); this.remove();">
+              <figcaption><span>HF FAX</span><strong>Radiofax Decoder</strong></figcaption>
+            </figure>
+          </article>
+
+          <article class="signal-tool-card signal-tool-morse reveal" data-parallax="-0.012">
+            <figure class="signal-tool-visual signal-tool-visual-morse">
+              <img src="signal2.webp" alt="SWAtlas Morse code decoder feature" width="1179" height="2556" loading="eager" decoding="async" fetchpriority="low" onerror="this.closest('.signal-tool-visual').classList.add('is-missing'); this.remove();">
+              <figcaption><span>CW</span><strong>Morse Code Decoder</strong></figcaption>
+            </figure>
+            <div class="signal-tool-copy">
+              <div class="card-kicker">Morse code</div>
+              <h3>Dots and dashes, translated clearly.</h3>
+              <p>The Morse decoder listens for CW tone patterns and translates them into readable text, helping operators follow call signs, numbers, symbols, and familiar shortwave exchanges with less friction. It automatically recognizes WPM, learns the rhythm of the signal, and applies the speed as it decodes.</p>
+              <ul class="signal-tool-points">
+                <li><span>01</span><strong>Automatically learns WPM and adapts while decoding</strong></li>
+                <li><span>02</span><strong>Decode Morse audio into readable text</strong></li>
+                <li><span>03</span><strong>Available from the main screen Rig button</strong></li>
+              </ul>
+            </div>
+          </article>
+
+          <article class="signal-tool-card signal-tool-rtty reveal" data-parallax="0.01">
+            <div class="signal-tool-copy">
+              <div class="card-kicker">RTTY</div>
+              <h3>Two tones, turned into live text.</h3>
+              <p>The RTTY decoder listens for the alternating mark and space tones used by radio teletype signals and converts them into readable characters as they arrive. Smart tuning helps identify the two tones and their shift, while live baud rate, polarity, and confidence readouts make it easier to understand the signal before decoding.</p>
+              <ul class="signal-tool-points">
+                <li><span>01</span><strong>Smart tuning tracks mark, space, and frequency shift</strong></li>
+                <li><span>02</span><strong>Decode RTTY audio into readable live text</strong></li>
+                <li><span>03</span><strong>Monitor baud rate, polarity, and decode confidence</strong></li>
+              </ul>
+            </div>
+            <figure class="signal-tool-visual signal-tool-visual-rtty">
+              <img src="signal3.webp" alt="SWAtlas RTTY decoder feature" width="1179" height="2556" loading="lazy" decoding="async" onerror="this.closest('.signal-tool-visual').classList.add('is-missing'); this.remove();">
+              <figcaption><span>FSK</span><strong>RTTY Decoder</strong></figcaption>
+            </figure>
+          </article>
+        </div>
+      </section>
+
       <section class="section experience-section" id="experience">
-        <div class="section-index reveal"><span>04</span><i></i><b>INSIDE THE APP</b></div>
+        <div class="section-index reveal"><span>05</span><i></i><b>INSIDE THE APP</b></div>
         <div class="section-heading split-heading">
           <div class="reveal"><span class="section-tag">Designed for focus</span><h2>Dense data,<br><em>remarkably calm.</em></h2></div>
           <p class="reveal">Every screen is built to shorten the distance between curiosity and listening—from the first search to the station map.</p>
@@ -277,7 +345,7 @@
       </section>
 
       <section class="section feature-section" id="features">
-        <div class="section-index reveal"><span>05</span><i></i><b>THE COMPLETE TOOLKIT</b></div>
+        <div class="section-index reveal"><span>06</span><i></i><b>THE COMPLETE TOOLKIT</b></div>
         <div class="feature-intro">
           <div class="reveal"><span class="section-tag">Built for listeners</span><h2>Everything essential.<br><em>Nothing in the way.</em></h2></div>
           <a class="text-button reveal" href="https://apps.apple.com/app/swatlas-shortwave-explorer/id6761421523" target="_blank" rel="noopener noreferrer">Explore SWAtlas on the App Store <span aria-hidden="true">↗</span></a>
