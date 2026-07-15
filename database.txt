@@ -1,4 +1,4 @@
-A26 Shortwave Frequecy List  July 9  2026,  1200 UTC   Day 1 = Sunday
+A26 Shortwave Frequecy List  July 14  2026,  1500 UTC   Day 1 = Sunday
 kHz           Time(UTC)       ITU Station                Lang. Location    Days 
 +-------------+---------+-----+---+------------------------+---+-----------+----
 
@@ -1193,11 +1193,6 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 4010          1420-1500       KGZ KYRGYZ RADIO 1Birinchi R Uyg Bishkek     2    
 4010          1535-1550       KGZ KYRGYZ RADIO 1Birinchi R Kor Bishkek     4    
 4026          0000-2400       IRL Laser Hot Hits           Eng             1-7  
-4055          0300-0400       GTM x Radio Verdad           Eng Chiquimula  1-7  
-4055          0400-0500       GTM x Radio Verdad           Spa Chiquimula  13-7 
-4055          0500-0620       GTM x Radio Verdad           Eng Chiquimula  13-7 
-4055          1020-1130       GTM x Radio Verdad           Spa Chiquimula  2-7  
-4055          1130-0300       GTM x Radio Verdad           Spa Chiquimula  1-7  
 4154          0000-2400       J   Slot Machine             QPS Ichihara    1-7  
 4233          0000-2400       J   Slot Machine             QPS Ichihara    1-7  
 4283          0800-1500       CHN Numbers Station 1        Chi             1-7  
@@ -2323,6 +2318,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 7515          1530-1600       UZB Voice of Martyrs         Kor Tashkent    1-7  
 7520          0000-0300       USA WWCR NASHVILLE           Eng Nashville   1-7  
 7530          2100-2130       UZB Voice of Martyrs         Kor Tashkent    1-7  
+7530          2300-2315       TJK RADIO FREE ASIA          Tib Dushanbe-Or 1-7  
 7540          1930-2000       UZB Voice of Martyrs         Kor Tashkent    1-7  
 7553          0830-0945       CHN Numbers Station 2        Chi             1-7  
 7570          0000-0100       USA WRMI VORW Radio Internat Eng Okeechobee5 7    
@@ -2339,7 +2335,6 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 7580          0100-0115       TJK RADIO FREE ASIA          Uyg Dushanbe-Or 1-7  
 7600          0200-0100       TWN * SOH Xi Wang Zhi Sheng  Chi Miaoli      1-7  
 7620          2000-2100       UZB Radio Free North Korea   Kor Tashkent    1-7  
-7620          2300-2315       TJK RADIO FREE ASIA          Tib Dushanbe-Or 1-7  
 7645          0200-0100       TWN * SOH Xi Wang Zhi Sheng  Chi Miaoli      1-7  
 7650          1500-1530       UZB TVOM Voice of Martyrs    Chi Tashkent    1-7  
 7650          2100-2130       UZB TVOM Voice of Martyrs    Chi Tashkent    1-7  
@@ -2523,7 +2518,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 9400          0500-0800       BUL The Overcomer Ministry   Eng Kostinbrod( 1-7  
 9400          1700-2000       BUL The Overcomer Ministry   Eng Kostinbrod( 1-7  
 9405          2230-0030       PHL FEBC Radio Liangyou 3    Chi Bocaue      1-7  
-9405          1400-1415       TWN RADIO FREE ASIA          Kor Paochung    1-7  
+9405          1400-1430       TWN RADIO FREE ASIA          Kor Paochung    1-7  
 9405          1600-1700       TWN R.TAIWAN INT.            Eng Tamsui Dist 1-7  
 9410          0200-0230       OMA BBC                      Pas Al Seela    1-7  
 9410          0230-0300       OMA BBC                      Dar Al Seela    1-7  
@@ -3250,8 +3245,8 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 9930          1000-1015       PLW Hope Radio Truth Talks   Eng Palau Medor 6    
 9930          1115-1130       PLW Hope Radio Truth Talks   Eng Palau Medor 2    
 9930          1300-0130       USA WTWW                     Eng Lebanon TN  1-7  
-9940          1530-2030       PHL VOICE OF AMERICA         Kor Tinang      23456
 9940          1300-1328       TWN Nippon no Kaze"il bon ue Kor Paochung    1-7  
+9950          1530-2130       PHL VOICE OF AMERICA         Kor Tinang      23456
 9950          1445-1500       UZB Trans World Radio Do You Kaz Tashkent    1-7  
 9955          0000-0015       USA WRMI Maravillosas Palabr Spa Okeechobee3 2    
 9955          0000-0015       USA WRMI Todays Word Is      Eng Okeechobee3 6    
@@ -4039,7 +4034,6 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 12120         1300-1330       PHL FEBC Radio Liangyou      Lis Bocaue      1-7  
 12120         1730-2030       PHL R.PILIPINAS              Fil Tinang      1-7  
 12120         0030-0102       PHL Trans World Radio        Eng Bocaue      23456
-12130         2030-0130       PHL VOICE OF AMERICA         Kor Tinang      23456
 12140         0930-1530       PHL VOICE OF AMERICA         Kor Tinang      23456
 12140         2130-0330       PHL VOICE OF AMERICA         Kor Tinang      23456
 12150         2130-1700       TWN * SOH Xi Wang Zhi Sheng  Chi Miaoli      1-7  
