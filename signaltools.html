@@ -13,7 +13,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&amp;family=Manrope:wght@400;500;600;700;800&amp;display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="style.css?v=20260715-menu">
 </head>
 <body class="signal-help-page">
   <a class="help-skip-link" href="#main-content">Skip to the guide</a>
@@ -25,13 +25,18 @@
         <span class="brand-mark"><img src="ico.png" alt=""></span>
         <span>SWAtlas</span>
       </a>
-      <nav class="help-nav" aria-label="Signal tools guide">
-        <a href="#radiofax">Radiofax</a>
-        <a href="#morse">Morse</a>
-        <a href="#rtty">RTTY</a>
-        <a href="#troubleshooting">Troubleshooting</a>
-      </nav>
-      <a class="help-home-link" href="index.html#signal-tools"><span aria-hidden="true">←</span> Main site</a>
+      <button class="help-menu-button" type="button" aria-label="Open menu" aria-expanded="false" aria-controls="help-menu-panel">
+        <span></span><span></span><span></span>
+      </button>
+      <div class="help-menu-panel" id="help-menu-panel">
+        <nav class="help-nav" aria-label="Signal tools guide">
+          <a href="#radiofax">Radiofax</a>
+          <a href="#morse">Morse</a>
+          <a href="#rtty">RTTY</a>
+          <a href="#troubleshooting">Troubleshooting</a>
+        </nav>
+        <a class="help-home-link" href="index.html#signal-tools"><span aria-hidden="true">←</span> Main site</a>
+      </div>
     </div>
   </header>
 
@@ -298,5 +303,35 @@
     <a href="index.html" class="top-brand"><span class="brand-mark"><img src="ico.png" alt=""></span><span>SWAtlas</span></a>
     <p>Signal Tools Guide<br>Radiofax · Morse code · RTTY</p>
   </footer>
+
+  <script>
+    const helpMenuButton = document.querySelector('.help-menu-button');
+    const helpMenuPanel = document.querySelector('.help-menu-panel');
+
+    const closeHelpMenu = () => {
+      helpMenuPanel?.classList.remove('is-open');
+      helpMenuButton?.classList.remove('is-open');
+      helpMenuButton?.setAttribute('aria-expanded', 'false');
+      helpMenuButton?.setAttribute('aria-label', 'Open menu');
+    };
+
+    helpMenuButton?.addEventListener('click', () => {
+      const isOpen = helpMenuPanel.classList.toggle('is-open');
+      helpMenuButton.classList.toggle('is-open', isOpen);
+      helpMenuButton.setAttribute('aria-expanded', String(isOpen));
+      helpMenuButton.setAttribute('aria-label', isOpen ? 'Close menu' : 'Open menu');
+    });
+
+    helpMenuPanel?.querySelectorAll('a').forEach(link => link.addEventListener('click', closeHelpMenu));
+    document.addEventListener('click', event => {
+      if (helpMenuPanel?.classList.contains('is-open') && !event.target.closest('.help-topbar-inner')) closeHelpMenu();
+    });
+    document.addEventListener('keydown', event => {
+      if (event.key === 'Escape' && helpMenuPanel?.classList.contains('is-open')) {
+        closeHelpMenu();
+        helpMenuButton?.focus();
+      }
+    });
+  </script>
 </body>
 </html>
