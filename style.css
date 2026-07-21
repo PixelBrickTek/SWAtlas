@@ -161,6 +161,10 @@ h1, h2, h3 { font-family: "Manrope", sans-serif; }
 .signal-tool-visual-rtty figcaption span{color:#fb7185}
 .signal-tool-rtty .card-kicker{color:#e11d48}
 .signal-tool-rtty .card-kicker::before{content:"";width:7px;height:7px;border-radius:50%;background:#f43f5e;box-shadow:0 0 18px currentColor}
+.signal-tool-visual-whisper{background:linear-gradient(145deg,#eee7ff,#e9e8f1)}
+.signal-tool-visual-whisper figcaption span{color:#c4a7ff}
+.signal-tool-whisper .card-kicker{color:#7c3aed}
+.signal-tool-whisper .card-kicker::before{content:"";width:7px;height:7px;border-radius:50%;background:#8b5cf6;box-shadow:0 0 18px currentColor}
 
 .experience-section{max-width:none;padding-left:0;padding-right:0;overflow:hidden}.experience-section>.section-index,.experience-section>.section-heading,.gallery-instruction{max-width:var(--max);margin-left:auto;margin-right:auto;padding-left:24px;padding-right:24px}.gallery-instruction{display:flex;align-items:center;gap:10px;margin-top:46px;margin-bottom:-42px;color:#667a72;font-size:.69rem;font-weight:700;letter-spacing:.05em}.gallery-instruction span{display:grid;place-items:center;width:27px;height:27px;border:1px solid var(--line);border-radius:50%;color:var(--mint-deep)}.screen-showcase{position:relative;margin-top:70px;padding:40px 0 85px;overflow-x:auto;overflow-y:hidden;scroll-behavior:smooth;scroll-snap-type:x proximity;scrollbar-width:none;cursor:grab;background:linear-gradient(180deg,rgba(213,225,217,.4),rgba(235,235,226,.2));touch-action:pan-x pan-y}.screen-showcase::-webkit-scrollbar{display:none}.screen-showcase.is-dragging{cursor:grabbing;scroll-behavior:auto;user-select:none}.screen-showcase::before{content:"";position:sticky;z-index:2;display:block;left:0;right:0;top:0;height:1px;background:linear-gradient(90deg,transparent,var(--line),transparent)}.screen-rail{width:max-content;display:flex;gap:22px;padding-left:max(24px,calc((100vw - var(--max))/2 + 24px));padding-right:max(24px,calc((100vw - var(--max))/2 + 24px))}.screen-card{width:260px;margin:0;padding:10px 10px 16px;border:1px solid rgba(16,60,44,.12);border-radius:23px;background:#fbfaf6;box-shadow:0 25px 50px rgba(21,57,43,.13);scroll-snap-align:center;cursor:zoom-in;user-select:none;transition:transform .35s ease,box-shadow .35s ease}.screen-card:hover{transform:translateY(-12px) rotate(-1deg);box-shadow:0 32px 62px rgba(21,57,43,.18)}.screen-card-raised{transform:translateY(35px)}.screen-card-raised:hover{transform:translateY(23px) rotate(1deg)}.screen-card img{width:100%;aspect-ratio:1179/2556;object-fit:cover;object-position:top;border-radius:17px;pointer-events:none}.screen-card figcaption{display:flex;align-items:center;gap:10px;padding:13px 4px 0;color:#52665e;font-size:.69rem;font-weight:700}.screen-card figcaption span{color:var(--gold);font-size:.6rem}
 
@@ -178,7 +182,7 @@ h1, h2, h3 { font-family: "Manrope", sans-serif; }
 .privacy-policy-page{background:linear-gradient(145deg,#faf8f1,#eef1eb);color:var(--ink)}.privacy-policy-page .page-shell{min-height:100vh}.privacy-policy-page .hero{min-height:auto;padding:90px 24px 20px;background:none}.privacy-policy-page .hero::before{display:none}.privacy-policy-page .hero-grid{display:block}.privacy-policy-page .hero-copy{opacity:1!important;transform:none!important}.privacy-policy-page .hero h1{font-size:clamp(2.8rem,6vw,5.5rem)!important;color:var(--emerald);background:none}.privacy-policy-page .hero-text{max-width:850px!important}.privacy-policy-page .section{padding-top:30px!important}.privacy-policy-page .privacy-policy-card{max-width:980px!important;padding:48px!important;border:1px solid var(--line);border-radius:20px;background:rgba(255,255,255,.74);box-shadow:0 28px 80px rgba(24,58,46,.1)}.privacy-policy-page .privacy-policy-card p{color:#53675f;line-height:1.8}.privacy-policy-page .mini-tag{display:block;margin-top:30px;color:var(--mint-deep);font:800 .72rem "Manrope",sans-serif;letter-spacing:.1em;text-transform:uppercase}
 .privacy-back{position:relative;z-index:2;display:inline-flex;max-width:900px;margin:0 auto 28px;padding-bottom:7px;border-bottom:1px solid rgba(11,61,47,.25);color:var(--emerald);font-size:.76rem;font-weight:700}
 
-/* Standalone beginner guide for the three in-app signal tools. */
+/* Standalone beginner guide for the four in-app signal tools. */
 .signal-help-page{background:linear-gradient(160deg,#f8f5ed 0,#eef2ec 48%,#f3f0e8 100%)}
 .signal-help-page .grain{opacity:.025}
 .help-skip-link{position:fixed;z-index:200;top:10px;left:10px;padding:10px 14px;border-radius:9px;color:#fff;background:var(--emerald);transform:translateY(-150%);transition:transform .2s ease}
@@ -228,6 +232,8 @@ h1, h2, h3 { font-family: "Manrope", sans-serif; }
 .help-tool-media--morse figcaption span{color:#fbbf24}
 .help-tool-media--rtty{background:linear-gradient(150deg,#fae7ea,#ebe9e6)}
 .help-tool-media--rtty figcaption span{color:#fb7185}
+.help-tool-media--whisper{background:linear-gradient(150deg,#eee7ff,#e8e8f0)}
+.help-tool-media--whisper figcaption span{color:#c4a7ff}
 .help-tool-content{min-width:0;padding:12px 0}
 .help-tool-label{display:flex;align-items:center;gap:10px;color:var(--mint-deep);font:800 .67rem "Manrope",sans-serif;letter-spacing:.13em;text-transform:uppercase}
 .help-tool-label span{display:grid;place-items:center;width:32px;height:32px;border:1px solid currentColor;border-radius:50%;font-size:.58rem}
@@ -242,6 +248,10 @@ h1, h2, h3 { font-family: "Manrope", sans-serif; }
 .help-video-button{display:inline-flex;flex:0 0 auto;align-items:center;justify-content:center;gap:10px;min-height:44px;padding:11px 15px;border-radius:11px;color:#fff;background:#e11d48;font-size:.74rem;font-weight:800;box-shadow:0 10px 22px rgba(190,24,72,.18);transition:transform .2s ease,background .2s ease}
 .help-video-button:hover{transform:translateY(-2px);background:#be123c}
 .help-video-button>span{display:grid;place-items:center;width:23px;height:23px;border-radius:50%;color:#e11d48;background:#fff;font-size:.56rem}
+.help-schedule-guide-button{display:flex;align-items:center;justify-content:space-between;gap:24px;min-height:76px;margin:32px 0;padding:19px 23px 19px 27px;border:1px solid rgba(255,255,255,.42);border-radius:17px;color:#fff;background:linear-gradient(135deg,#247ee4 0%,#4aa7f2 100%);font:800 clamp(.94rem,1.6vw,1.08rem) "Manrope",sans-serif;letter-spacing:-.015em;box-shadow:0 18px 38px rgba(36,126,228,.25),inset 0 1px 0 rgba(255,255,255,.24);transition:transform .22s ease,box-shadow .22s ease,filter .22s ease}
+.help-schedule-guide-button:hover{transform:translateY(-3px);filter:saturate(1.08);box-shadow:0 24px 46px rgba(36,126,228,.32),inset 0 1px 0 rgba(255,255,255,.28)}
+.help-schedule-guide-button>span{display:grid;place-items:center;flex:0 0 auto;width:40px;height:40px;border:1px solid rgba(255,255,255,.25);border-radius:12px;background:rgba(255,255,255,.14);font-size:1.15rem;transition:transform .22s ease,background .22s ease}
+.help-schedule-guide-button:hover>span{transform:translateX(3px);background:rgba(255,255,255,.2)}
 .help-test-card>p{margin:0;color:#586c63;font-size:.86rem;line-height:1.7}
 .help-test-steps{list-style:none;margin:22px 0 0;padding:0;counter-reset:test-step}
 .help-test-steps li{position:relative;padding:0 0 17px 41px;color:#5b6e65;font-size:.82rem;line-height:1.65;counter-increment:test-step}
@@ -268,7 +278,7 @@ h1, h2, h3 { font-family: "Manrope", sans-serif; }
 .help-compare>span{color:var(--mint);font:800 .66rem "Manrope",sans-serif;letter-spacing:.13em;text-transform:uppercase}
 .help-compare h2{max-width:760px;margin:15px 0 13px;font:500 clamp(2.3rem,5vw,4.5rem)/.98 "Manrope",sans-serif;letter-spacing:-.06em}
 .help-compare>p{max-width:720px;color:rgba(230,243,235,.65);line-height:1.75}
-.help-compare-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;margin-top:34px}
+.help-compare-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px;margin-top:34px}
 .help-compare-card{padding:23px;border:1px solid rgba(255,255,255,.12);border-radius:16px;background:rgba(255,255,255,.055)}
 .help-compare-card span{color:var(--mint);font:.64rem "Manrope",sans-serif;letter-spacing:.1em}
 .help-compare-card h3{margin:28px 0 9px;font-size:1.07rem}
@@ -299,7 +309,7 @@ h1, h2, h3 { font-family: "Manrope", sans-serif; }
   .hero{padding:118px 18px 80px}.hero-grid{grid-template-columns:1fr;gap:60px}.hero-copy{text-align:center}.hero-text{margin:auto}.hero-actions,.hero-proof{justify-content:center}.hero-stage{min-height:620px}.phone-frame{width:min(340px,70vw)}.frequency-halo{width:510px;height:510px}.floating-live{left:4%;top:23%}.floating-frequency{right:2%}.scroll-cue{display:none}
   .section{padding:110px 18px 10px}.section-index{margin-bottom:40px}.split-heading{grid-template-columns:1fr;gap:22px}.database-panel{grid-template-columns:1fr}.database-visual{min-height:460px}.database-list{padding:10px 28px}
   .code-section{margin-top:100px;padding:80px 18px}.resolver-flow{grid-template-columns:1fr}.resolver-wave{height:54px;transform:rotate(90deg)}.source-code{min-height:130px}.resolved-values{min-height:150px}.demo-chips>span{display:none}
-  .live-bento{grid-template-columns:1fr}.live-card-progress{grid-column:auto}.signal-tool-card{grid-template-columns:1fr;min-height:auto}.signal-tool-morse .signal-tool-copy{order:-1}.signal-tool-copy{padding:34px 28px}.signal-tool-visual{min-height:390px;padding-top:24px}.signal-tool-visual img{width:min(70%,320px)}.feature-intro{align-items:flex-start;flex-direction:column}.site-footer{grid-template-columns:1fr;text-align:center}.site-footer>.top-brand,.site-footer>div{justify-content:center}
+  .live-bento{grid-template-columns:1fr}.live-card-progress{grid-column:auto}.signal-tool-card{grid-template-columns:1fr;min-height:auto}.signal-tool-morse .signal-tool-copy,.signal-tool-whisper .signal-tool-copy{order:-1}.signal-tool-copy{padding:34px 28px}.signal-tool-visual{min-height:390px;padding-top:24px}.signal-tool-visual img{width:min(70%,320px)}.feature-intro{align-items:flex-start;flex-direction:column}.site-footer{grid-template-columns:1fr;text-align:center}.site-footer>.top-brand,.site-footer>div{justify-content:center}
 }
 
 @media (max-width:520px){
@@ -311,8 +321,76 @@ h1, h2, h3 { font-family: "Manrope", sans-serif; }
   .screen-card{width:220px}.feature-grid{grid-template-columns:1fr}.feature-card{min-height:210px}.closing-section{min-height:570px}.closing-content h2{font-size:4rem}.closing-orbit{width:470px;height:470px}
   .gallery-lightbox{grid-template-columns:48px minmax(0,1fr) 48px;padding:16px 8px}.lightbox-nav{width:42px;height:58px}.lightbox-close{top:13px;right:13px}.lightbox-stage{height:88vh}.lightbox-stage>img{max-width:78vw;border-radius:15px}.lightbox-caption>small{display:none}
   .privacy-policy-page .privacy-policy-card{padding:28px 22px!important;border-radius:15px}
+  .help-schedule-guide-button{min-height:68px;margin:26px 0;padding:15px 15px 15px 18px;border-radius:14px}
+  .help-schedule-guide-button>span{width:36px;height:36px;border-radius:10px}
 }
 
 @media (prefers-reduced-motion:reduce){
   html{scroll-behavior:auto}*,*::before,*::after{animation-duration:.01ms!important;animation-iteration-count:1!important;transition-duration:.01ms!important}.reveal{opacity:1;transform:none}[data-parallax],.phone-frame,.closing-orbit{transform:none!important}
+}
+
+/* Radiofax schedule guide. */
+.schedule-guide-page{--schedule-blue:#247ee4;--schedule-blue-soft:#e8f2ff;--schedule-navy:#0a2d56;--emerald:#0d4f9f;--emerald-2:#082b55;--mint:#68b8ff;--mint-deep:#247ee4;--line:rgba(28,81,139,.14);--ink:#102e50;--ink-soft:#4a6179;background:radial-gradient(circle at 8% 7%,rgba(69,153,235,.16),transparent 22rem),radial-gradient(circle at 92% 42%,rgba(120,191,255,.13),transparent 24rem),linear-gradient(160deg,#f7faff 0%,#edf4fb 54%,#f5f8fc 100%)}
+.schedule-guide-page .help-topbar{background:rgba(244,248,253,.86)}
+.schedule-guide-page .help-topbar-inner{max-width:1160px}
+.schedule-guide-back{display:inline-flex;align-items:center;gap:9px;min-height:42px;padding:0 15px;border:1px solid rgba(36,126,228,.16);border-radius:999px;color:var(--schedule-blue);background:rgba(255,255,255,.72);font-size:.76rem;font-weight:800;box-shadow:0 8px 22px rgba(28,84,145,.08);transition:transform .2s ease,border-color .2s ease,background .2s ease}
+.schedule-guide-back:hover{transform:translateY(-2px);border-color:rgba(61,143,232,.35);background:#fff}
+.schedule-main{position:relative;z-index:2;max-width:1160px;margin:0 auto;padding:34px 22px 120px}
+.schedule-guide-hero{position:relative;isolation:isolate;overflow:hidden;padding:clamp(50px,8vw,94px);border-radius:32px;color:#fff;background:radial-gradient(circle at 88% 12%,rgba(109,190,255,.36),transparent 31%),radial-gradient(circle at 12% 110%,rgba(36,126,228,.3),transparent 37%),linear-gradient(135deg,#124f9b 0%,#0a376d 60%,#07264b 100%);box-shadow:0 38px 90px rgba(9,55,108,.24)}
+.schedule-guide-hero::before,.schedule-guide-hero::after{content:"";position:absolute;z-index:-1;border:1px solid rgba(141,220,255,.13);border-radius:50%;pointer-events:none}
+.schedule-guide-hero::before{width:520px;height:520px;right:-270px;top:-300px}
+.schedule-guide-hero::after{width:330px;height:330px;right:-110px;top:-180px}
+.schedule-guide-hero .help-eyebrow{color:#8fd4ff}
+.schedule-guide-hero .help-eyebrow::before{background:#69b8ff;box-shadow:0 0 18px rgba(105,184,255,.85)}
+.schedule-guide-hero h1{max-width:900px;margin:23px 0 22px;font:500 clamp(3.1rem,6.7vw,6.75rem)/.91 "Manrope",sans-serif;letter-spacing:-.075em}
+.schedule-guide-hero h1 em{color:#79c0ff;font-family:Georgia,serif;font-weight:400}
+.schedule-guide-hero>p{max-width:650px;margin:0;color:rgba(235,246,255,.76);font-size:clamp(.98rem,1.6vw,1.14rem);line-height:1.75}
+.schedule-time-note{display:inline-flex;align-items:center;gap:10px;margin-top:32px;padding:11px 15px;border:1px solid rgba(255,255,255,.14);border-radius:999px;color:#eef7ff;background:rgba(255,255,255,.07);font-size:.74rem;font-weight:700;backdrop-filter:blur(10px)}
+.schedule-time-note::before{content:"";width:7px;height:7px;border-radius:50%;background:#78bfff;box-shadow:0 0 0 5px rgba(120,191,255,.12)}
+.schedule-steps{position:relative;display:grid;gap:26px;margin-top:34px}
+.schedule-steps::before{content:"";position:absolute;left:50%;top:0;bottom:0;width:1px;background:linear-gradient(transparent,rgba(61,143,232,.18) 10%,rgba(61,143,232,.18) 90%,transparent);pointer-events:none}
+.schedule-step{position:relative;display:grid;grid-template-columns:minmax(320px,.86fr) minmax(0,1.14fr);gap:clamp(38px,7vw,92px);align-items:center;min-height:600px;padding:clamp(28px,5vw,60px);overflow:hidden;border:1px solid rgba(36,126,228,.11);border-radius:28px;background:rgba(250,253,255,.86);box-shadow:0 26px 70px rgba(27,80,137,.1);backdrop-filter:blur(12px)}
+.schedule-step:nth-child(even){grid-template-columns:minmax(0,1.14fr) minmax(320px,.86fr)}
+.schedule-step:nth-child(even) .schedule-step-media{order:2}
+.schedule-step::after{content:"";position:absolute;width:250px;height:250px;border-radius:50%;right:-150px;bottom:-170px;background:rgba(61,143,232,.06);pointer-events:none}
+.schedule-step:nth-child(even)::after{right:auto;left:-150px}
+.schedule-step-media{position:relative;display:grid;place-items:center;min-width:0;margin:0;padding:30px 24px 0;align-self:stretch;overflow:hidden;border:1px solid rgba(61,143,232,.14);border-radius:22px;background:linear-gradient(150deg,#e8f3ff,#edf2f9);box-shadow:inset 0 1px 0 rgba(255,255,255,.65)}
+.schedule-step-media::after{content:"";position:absolute;inset:auto 0 0;height:22%;background:linear-gradient(transparent,rgba(21,77,137,.13));pointer-events:none}
+.schedule-step-media img{position:relative;z-index:1;display:block;width:min(100%,380px);height:auto;border:1px solid rgba(31,66,94,.12);border-radius:26px 26px 0 0;background:#f2f4f7;box-shadow:0 25px 55px rgba(23,66,95,.18)}
+.schedule-step-number{position:absolute;z-index:3;top:18px;left:18px;display:grid;place-items:center;width:46px;height:46px;border:1px solid rgba(255,255,255,.7);border-radius:15px;color:#fff;background:var(--schedule-blue);font:800 .78rem "Manrope",sans-serif;box-shadow:0 12px 28px rgba(61,143,232,.28)}
+.schedule-step-copy{position:relative;z-index:2;max-width:520px}
+.schedule-step-label{display:inline-flex;align-items:center;gap:10px;color:var(--schedule-blue);font:800 .68rem "Manrope",sans-serif;letter-spacing:.14em;text-transform:uppercase}
+.schedule-step-label::after{content:"";width:48px;height:1px;background:rgba(61,143,232,.35)}
+.schedule-step-copy h2{margin:20px 0 18px;color:var(--schedule-navy);font:550 clamp(2.45rem,4.8vw,4.8rem)/.96 "Manrope",sans-serif;letter-spacing:-.065em}
+.schedule-step-copy p{margin:0;color:#536b84;font-size:clamp(.95rem,1.35vw,1.04rem);line-height:1.82}
+.schedule-step-copy strong{color:#163f6d;font-weight:800}
+.schedule-guide-page .help-footer{max-width:1160px}
+
+@media (max-width:800px){
+  .schedule-guide-page .help-menu-panel{display:flex;position:static;margin-left:auto;padding:0;border:0;border-radius:0;background:transparent;box-shadow:none}
+  .schedule-main{padding:18px 12px 82px}
+  .schedule-guide-hero{padding:52px 28px;border-radius:23px}
+  .schedule-guide-hero h1{font-size:clamp(3.2rem,13vw,5rem)}
+  .schedule-steps{gap:18px;margin-top:18px}
+  .schedule-steps::before{display:none}
+  .schedule-step,.schedule-step:nth-child(even){grid-template-columns:1fr;gap:34px;min-height:0;padding:24px;border-radius:22px}
+  .schedule-step:nth-child(even) .schedule-step-media{order:0}
+  .schedule-step-media{min-height:520px;padding:28px 18px 0}
+  .schedule-step-copy{max-width:620px;padding:7px 6px 12px}
+}
+
+@media (max-width:520px){
+  .schedule-guide-page .help-topbar{padding:10px 12px}
+  .schedule-guide-page .brand-mark{width:32px;height:32px;border-radius:9px}
+  .schedule-guide-page .brand-mark img{width:38px;height:38px}
+  .schedule-guide-back{min-height:38px;padding:0 12px;font-size:.69rem}
+  .schedule-guide-hero{padding:42px 22px}
+  .schedule-guide-hero h1{font-size:3.25rem}
+  .schedule-time-note{align-items:flex-start;border-radius:15px;line-height:1.5}
+  .schedule-step{padding:15px}
+  .schedule-step-media{min-height:390px;padding:20px 12px 0;border-radius:17px}
+  .schedule-step-media img{width:min(100%,300px);border-radius:21px 21px 0 0}
+  .schedule-step-number{top:12px;left:12px;width:40px;height:40px;border-radius:12px}
+  .schedule-step-copy{padding:9px 7px 15px}
+  .schedule-step-copy h2{font-size:2.55rem}
 }

@@ -5,23 +5,24 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="theme-color" content="#f3f0e8">
   <title>SWAtlas — Shortwave, beautifully decoded</title>
-  <meta name="description" content="Explore shortwave frequencies, live broadcasts, languages, countries, schedules, and ITU codes with SWAtlas.">
+  <meta name="description" content="Explore shortwave broadcasts and decode, transcribe, translate, and archive what you hear with offline-ready tools in SWAtlas.">
   <meta property="og:type" content="website">
   <meta property="og:title" content="SWAtlas — Shortwave, beautifully decoded">
-  <meta property="og:description" content="Find the signal. Understand the schedule. Explore a world of shortwave with clarity.">
+  <meta property="og:description" content="Find the signal, decode its hidden layers, and understand foreign-language broadcasts with offline transcription and translation.">
   <meta property="og:image" content="og.png">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="SWAtlas — Shortwave, beautifully decoded">
-  <meta name="twitter:description" content="Find the signal. Understand the schedule. Explore a world of shortwave with clarity.">
+  <meta name="twitter:description" content="Find the signal, decode its hidden layers, and understand foreign-language broadcasts with offline transcription and translation.">
   <meta name="twitter:image" content="og.png">
   <link rel="icon" type="image/png" href="ico.png">
   <link rel="preload" as="image" href="signal1.webp" type="image/webp" fetchpriority="low">
   <link rel="preload" as="image" href="signal2.webp" type="image/webp" fetchpriority="low">
   <link rel="preload" as="image" href="signal3.webp" type="image/webp" fetchpriority="low">
+  <link rel="preload" as="image" href="signal4.webp" type="image/webp" fetchpriority="low">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&amp;family=Manrope:wght@400;500;600;700;800&amp;display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="style.css?v=20260716-whisper">
 </head>
 <body>
   <div class="scroll-progress" aria-hidden="true"></div>
@@ -59,7 +60,7 @@
           <div class="eyebrow"><span class="live-dot"></span> The world is broadcasting</div>
           <h1>Shortwave,<br><em>beautifully decoded.</em></h1>
           <p class="hero-text">
-            Find the signal. Understand the schedule. SWAtlas turns a vast world of frequencies, stations, languages, and UTC times into one calm, precise listening companion.
+            Find the signal. Understand the schedule. Transcribe the broadcast, then translate it into the language you choose. SWAtlas turns a vast world of frequencies, stations, languages, and UTC times into one calm, precise listening companion.
           </p>
           <div class="hero-actions">
             <a class="primary-button" href="https://apps.apple.com/app/swatlas-shortwave-explorer/id6761421523" target="_blank" rel="noopener noreferrer">
@@ -265,7 +266,7 @@
             <span class="section-tag">Decode the hidden layer</span>
             <h2>From raw tones<br><em>to readable signals.</em></h2>
           </div>
-          <p class="reveal">The Rig button on the main screen opens focused tools for decoding radiofax images, Morse code, and RTTY text, so listening can move naturally from signal discovery to signal interpretation.</p>
+          <p class="reveal">The Rig button opens focused tools for decoding Radiofax, Morse, and RTTY, plus offline Whisper transcription and translation that helps you understand spoken broadcasts in other languages.</p>
         </div>
 
         <div class="signal-tools-grid">
@@ -318,6 +319,23 @@
               <img src="signal3.webp" alt="SWAtlas RTTY decoder feature" width="1179" height="2556" loading="lazy" decoding="async" onerror="this.closest('.signal-tool-visual').classList.add('is-missing'); this.remove();">
               <figcaption><span>FSK</span><strong>RTTY Decoder</strong></figcaption>
             </figure>
+          </article>
+
+          <article class="signal-tool-card signal-tool-whisper reveal" data-parallax="-0.012">
+            <figure class="signal-tool-visual signal-tool-visual-whisper">
+              <img src="signal4.webp" alt="SWAtlas Whisper Transcriber ready for offline transcription and translation" width="1179" height="2556" loading="lazy" decoding="async" onerror="this.closest('.signal-tool-visual').classList.add('is-missing'); this.remove();">
+              <figcaption><span>AI SPEECH</span><strong>Whisper Transcriber</strong></figcaption>
+            </figure>
+            <div class="signal-tool-copy">
+              <div class="card-kicker">Whisper transcription</div>
+              <h3>Foreign broadcasts, understood in your language.</h3>
+              <p>While the other Signal Tools decode specialist radio modes, Whisper helps you explore spoken shortwave broadcasts. Download the transcription and translation models once, turn speech into text, translate it into a language you choose, and archive both versions—all offline.</p>
+              <ul class="signal-tool-points">
+                <li><span>01</span><strong>Transcribe international voice broadcasts with an on-device Whisper model</strong></li>
+                <li><span>02</span><strong>Translate transcripts into your selected target language</strong></li>
+                <li><span>03</span><strong>Archive original and translated text for offline reading</strong></li>
+              </ul>
+            </div>
           </article>
         </div>
       </section>
