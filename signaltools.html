@@ -5,16 +5,18 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="theme-color" content="#f3f0e8">
   <title>Signal Tools Guide — SWAtlas</title>
-  <meta name="description" content="A beginner-friendly guide to Radiofax, Morse code, RTTY, and offline Whisper transcription and translation in SWAtlas.">
+  <meta name="description" content="A beginner-friendly guide to SWAtlas Signal Tools: radio recording, space weather, Radiofax, Morse, RTTY, and offline Whisper transcription.">
   <link rel="icon" type="image/png" href="ico.png">
   <link rel="preload" as="image" href="signal1.webp" type="image/webp">
   <link rel="preload" as="image" href="signal2.webp" type="image/webp">
   <link rel="preload" as="image" href="signal3.webp" type="image/webp">
   <link rel="preload" as="image" href="signal4.webp" type="image/webp">
+  <link rel="preload" as="image" href="signal5.webp" type="image/webp">
+  <link rel="preload" as="image" href="signal6.webp" type="image/webp">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&amp;family=Manrope:wght@400;500;600;700;800&amp;display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="style.css?v=20260717-radiofax-schedule-link">
+  <link rel="stylesheet" href="style.css?v=20260721-signal-tools-6">
 </head>
 <body class="signal-help-page">
   <a class="help-skip-link" href="#main-content">Skip to the guide</a>
@@ -35,6 +37,8 @@
           <a href="#morse">Morse</a>
           <a href="#rtty">RTTY</a>
           <a href="#whisper">Whisper</a>
+          <a href="#smart-recorder">Smart Recorder</a>
+          <a href="#space-weather">Space Weather</a>
           <a href="#troubleshooting">Troubleshooting</a>
         </nav>
         <a class="help-home-link" href="index.html#signal-tools"><span aria-hidden="true">←</span> Main site</a>
@@ -43,36 +47,12 @@
   </header>
 
   <main class="help-main" id="main-content">
-    <section class="help-hero" aria-labelledby="guide-title">
-      <div class="help-hero-copy">
-        <div class="help-eyebrow">Beginner’s signal guide</div>
-        <h1 id="guide-title">Turn radio sounds into something you can <em>see and read.</em></h1>
-        <p>You do not need to know radio jargon to begin. Put your phone near the radio speaker, choose the tool that matches the sound, and let SWAtlas listen. This guide explains what each tool does and what the numbers on its screen mean.</p>
-        <div class="help-jump-links" aria-label="Jump to a tool">
-          <a href="#radiofax">Explore Radiofax</a>
-          <a href="#morse">Explore Morse</a>
-          <a href="#rtty">Explore RTTY</a>
-          <a href="#whisper">Explore Whisper</a>
-        </div>
-      </div>
-      <aside class="help-quick-start" aria-label="Quick start">
-        <span>The simple setup</span>
-        <h2>Radio → speaker → SWAtlas</h2>
-        <ol class="help-quick-list">
-          <li>Tune your radio until the wanted signal sounds as clear and steady as possible.</li>
-          <li>Place the phone near the speaker in a quiet space. Avoid very high volume or distortion.</li>
-          <li>Open the matching decoder and tap its start button. Give automatic tuning a few seconds to settle.</li>
-          <li>For Whisper, download both the transcription and translation models before your first offline session.</li>
-        </ol>
-      </aside>
-    </section>
-
     <section class="help-section-intro" aria-labelledby="choose-tool-title">
       <div>
         <span>Choose by sound</span>
-        <h2 id="choose-tool-title">Four tools, four different jobs.</h2>
+        <h2 id="choose-tool-title">Six tools, each built for a different signal.</h2>
       </div>
-      <p>Radiofax builds a picture line by line. Morse turns short and long beeps into letters. RTTY reads text carried by two alternating tones. Whisper listens to spoken broadcasts, writes them down, and translates them into a language you choose.</p>
+      <p>Clean up noisy radio recordings, see how space weather may affect reception, receive Radiofax charts, decode Morse and RTTY, and turn spoken broadcasts into searchable, translated text with Whisper.</p>
     </section>
 
     <article class="help-tool" id="radiofax" aria-labelledby="radiofax-title">
@@ -316,10 +296,44 @@
       </div>
     </article>
 
+    <article class="help-tool" id="smart-recorder" aria-labelledby="smart-recorder-title">
+      <figure class="help-tool-media help-tool-media--recorder">
+        <img src="signal5.webp" alt="Smart Radio Recorder detecting a voice signal while recording" width="1179" height="2556" loading="lazy" decoding="async">
+        <figcaption><span>CLEAN AUDIO</span><strong>Smart Radio Recorder</strong></figcaption>
+      </figure>
+      <div class="help-tool-content">
+        <div class="help-tool-label"><span>05</span> Smart Radio Recorder</div>
+        <h2 id="smart-recorder-title">Keep the voice. Reduce the radio noise.</h2>
+        <p class="help-lead">Record a radio broadcast while SWAtlas identifies the useful voice and reduces the familiar hiss and static around it. The original recording is archived too, so you always keep an untouched copy.</p>
+
+        <div class="help-simple-explanation">
+          <strong>From audio to readable text</strong>
+          When the enhanced voice recording is ready, send it directly to Whisper Transcriber to create a text transcript and continue with translation when needed.
+        </div>
+      </div>
+    </article>
+
+    <article class="help-tool help-tool--reverse" id="space-weather" aria-labelledby="space-weather-title">
+      <figure class="help-tool-media help-tool-media--space-weather">
+        <img src="signal6.webp" alt="Space Weather dashboard showing NOAA scales, radio effects, and the D-RAP world map" width="1179" height="2556" loading="lazy" decoding="async">
+        <figcaption><span>NOAA DATA</span><strong>Space Weather</strong></figcaption>
+      </figure>
+      <div class="help-tool-content">
+        <div class="help-tool-label"><span>06</span> Space Weather</div>
+        <h2 id="space-weather-title">See radio conditions at a glance.</h2>
+        <p class="help-lead">SWAtlas turns NOAA space-weather data into a quick view of conditions that may affect shortwave and radio reception. The information updates automatically; when you are offline, the app keeps showing the most recently downloaded report.</p>
+
+        <div class="help-simple-explanation">
+          <strong>Know when reception may suffer</strong>
+          Use the current NOAA scales and radio-impact summary to judge whether conditions look favorable or disruptive. The D-RAP image also gives you an approximate world view of day and night regions and radio absorption.
+        </div>
+      </div>
+    </article>
+
     <section class="help-compare" aria-labelledby="compare-title">
       <span>A quick way to remember</span>
       <h2 id="compare-title">Match the tool to what the signal is carrying.</h2>
-      <p>All four tools listen through the microphone, but each is designed for a different kind of broadcast and a different result.</p>
+      <p>Each tool is designed for a different part of listening, decoding, recording, or understanding radio conditions.</p>
       <div class="help-compare-grid">
         <article class="help-compare-card">
           <span>01 · RADIOFAX</span>
@@ -340,6 +354,16 @@
           <span>04 · WHISPER</span>
           <h3>Spoken broadcast &rarr; transcript + translation</h3>
           <p>Use it to understand voice broadcasts in another language and keep both versions in your archive.</p>
+        </article>
+        <article class="help-compare-card">
+          <span>05 · SMART RECORDER</span>
+          <h3>Radio audio &rarr; cleaner voice</h3>
+          <p>Record a broadcast, reduce radio noise, and keep both the enhanced and original audio.</p>
+        </article>
+        <article class="help-compare-card">
+          <span>06 · SPACE WEATHER</span>
+          <h3>NOAA data &rarr; radio outlook</h3>
+          <p>Check current radio impacts, review the D-RAP map, and retain the latest report offline.</p>
         </article>
       </div>
     </section>
@@ -380,7 +404,7 @@
 
   <footer class="help-footer">
     <a href="index.html" class="top-brand"><span class="brand-mark"><img src="ico.png" alt=""></span><span>SWAtlas</span></a>
-    <p>Signal Tools Guide<br>Radiofax · Morse code · RTTY · Whisper</p>
+    <p>Signal Tools Guide<br>Radiofax · Morse · RTTY · Whisper · Smart Recorder · Space Weather</p>
   </footer>
 
   <script>
