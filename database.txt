@@ -1,4 +1,4 @@
-A26 Shortwave Frequecy List  July 14  2026,  1500 UTC   Day 1 = Sunday
+A26 Shortwave Frequecy List  July 22  2026,  1200 UTC   Day 1 = Sunday
 kHz           Time(UTC)       ITU Station                Lang. Location    Days 
 +-------------+---------+-----+---+------------------------+---+-----------+----
 
@@ -1535,7 +1535,6 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 5985          0930-1530       MMR Myanmar Radio            Bur Yangon      1-7  
 5985          1600-1700       MMR Myanmar Radio            Eng Yangon      1-7  
 5985          2300-0130       MMR Myanmar Radio            Bur Yangon      1-7  
-5985          1540-1600       MMR Myanmar Radio (NHK)      Eng Yangon      56   
 5985          1530-1600       MMR Myanmar Radio (VOA)      Eng Yangon      4    
 5990          1820-1920       IRN VO ISLAMIC REP.IRAN      Alb Sirjan      1-7  
 5990          0000-0100       CUB CHINA RADIO INTERNATIONA Spa Quivican    1-7  
