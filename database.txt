@@ -1,4 +1,4 @@
-A26 Shortwave Frequecy List  July 22  2026,  1200 UTC   Day 1 = Sunday
+A26 Shortwave Frequecy List  July 28  2026,  0100 UTC   Day 1 = Sunday
 kHz           Time(UTC)       ITU Station                Lang. Location    Days 
 +-------------+---------+-----+---+------------------------+---+-----------+----
 
@@ -3245,7 +3245,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 9930          1115-1130       PLW Hope Radio Truth Talks   Eng Palau Medor 2    
 9930          1300-0130       USA WTWW                     Eng Lebanon TN  1-7  
 9940          1300-1328       TWN Nippon no Kaze"il bon ue Kor Paochung    1-7  
-9950          1530-2130       PHL VOICE OF AMERICA         Kor Tinang      23456
+9950          1500-2200       PHL VOICE OF AMERICA         Kor Tinang      23456
 9950          1445-1500       UZB Trans World Radio Do You Kaz Tashkent    1-7  
 9955          0000-0015       USA WRMI Maravillosas Palabr Spa Okeechobee3 2    
 9955          0000-0015       USA WRMI Todays Word Is      Eng Okeechobee3 6    
@@ -4033,8 +4033,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 12120         1300-1330       PHL FEBC Radio Liangyou      Lis Bocaue      1-7  
 12120         1730-2030       PHL R.PILIPINAS              Fil Tinang      1-7  
 12120         0030-0102       PHL Trans World Radio        Eng Bocaue      23456
-12140         0930-1530       PHL VOICE OF AMERICA         Kor Tinang      23456
-12140         2130-0330       PHL VOICE OF AMERICA         Kor Tinang      23456
+12140         0500-1500       PHL VOICE OF AMERICA         Kor Tinang      23456
 12150         2130-1700       TWN * SOH Xi Wang Zhi Sheng  Chi Miaoli      1-7  
 12160         2050-1600       TWN * SOH Xi Wang Zhi Sheng  Chi Miaoli      1-7  
 12160         0900-0930       PHL Trans World Radio Do You Hak Bocaue      23456
@@ -4333,7 +4332,6 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 15110         0400-0600       TKS CHINA RADIO INTERNATIONA Chi Kashi-Saiba 1-7  
 15110         1100-1157       TKS CHINA RADIO INTERNATIONA Esp Urumqi Hutu 1-7  
 15110         1200-1257       TKS CHINA RADIO INTERNATIONA Chi Urumqi Hutu 1-7  
-15120         0330-0930       PHL VOICE OF AMERICA         Kor Tinang      23456
 15120         1900-1957       ROU R.ROMANIA INT.           Spa Tiganesti   1-7  
 15120         1030-1045       UZB Trans World Radio Do You Mon Tashkent    2-7  
 15120         1045-1100       UZB Trans World Radio Do You Mon Tashkent    1-7  
@@ -4350,6 +4348,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 15135         0830-0927       CHN CHINA RADIO INTERNATIONA Ind Kunming-Ann 1-7  
 15135         0930-1027       CHN CHINA RADIO INTERNATIONA Mal Kunming-Ann 1-7  
 15135         1030-1127       CHN CHINA RADIO INTERNATIONA Ind Kunming-Ann 1-7  
+15140         2200-0500       PHL VOICE OF AMERICA         Kor Tinang      23456
 15140         0700-1900       ALG Ifrikya FM               Ara Ourgla      1-7  
 15140         1300-1500       CUB R.HABANA CUBA            Spa Bauta       1-7  
 15140         1500-1530       CUB R.HABANA CUBA            Esp Bauta       1    
