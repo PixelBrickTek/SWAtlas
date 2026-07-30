@@ -1,4 +1,4 @@
-A26 Shortwave Frequecy List  July 28  2026,  0100 UTC   Day 1 = Sunday
+A26 Shortwave Frequecy List  July 30  2026,  1000 UTC   Day 1 = Sunday
 kHz           Time(UTC)       ITU Station                Lang. Location    Days 
 +-------------+---------+-----+---+------------------------+---+-----------+----
 
@@ -1780,9 +1780,9 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 6120          1430-1800       TKS PBS Xinjiang             Uyg Urumqi      1-7  
 6120          0000-2400       F   R.FRANCE INT. DRM 1000   Fre Issoudun    1-7  
 6125          1000-1805       CHN CNR 1 Voice of China     Chi Beijing 572 1-7  
-6125          1100-1805       CHN x CNR 1 Voice of China   Chi Shijiazhuan 1-7  
+6125          1100-1805       CHN CNR 1 Voice of China     Chi Shijiazhuan 1-7  
 6125          2025-2300       CHN CNR 1 Voice of China     Chi Beijing 572 1-7  
-6125          2025-2300       CHN x CNR 1 Voice of China   Chi Shijiazhuan 1-7  
+6125          2025-2300       CHN CNR 1 Voice of China     Chi Shijiazhuan 1-7  
 6130          2050-2300       TIB PBS Xizang               Tib Lhasa-Baidi 124-7
 6130          2100-2300       TIB PBS Xizang               Tib Lhasa-Baidi 3    
 6130          2300-2400       TIB PBS Xizang               Tib Lhasa-Baidi 1-7  
@@ -1957,7 +1957,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 7215          1300-1357       CHN CHINA RADIO INTERNATIONA Chi Xianyang 59 1-7  
 7215          1700-1757       CHN CHINA RADIO INTERNATIONA Swa Xianyang 59 1-7  
 7215          2200-2257       CHN CHINA RADIO INTERNATIONA Chi Kunming-Ann 1-7  
-7215          2025-2400       CHN x CNR 1 Voice of China   Chi Shijiazhuan 1-7  
+7215          2025-2400       CHN CNR 1 Voice of China     Chi Shijiazhuan 1-7  
 7215          2300-2400       KOR KBS WORLD RADIO          Chi Kimjae      1-7  
 7220          0000-0600       CHN CNR 2-China Business Rad Chi Golmud 916  1-7  
 7220          0600-0900       CHN CNR 2-China Business Rad Chi Golmud 916  5-3  
@@ -2128,8 +2128,8 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 7305          0529-0600       ASC BBC                      Hau Ascension   1-7  
 7305          0600-0629       ASC BBC                      Fre Ascension   1-7  
 7305          2000-2057       TKS CHINA RADIO INTERNATIONA Pol Urumqi Hutu 1-7  
-7305          1000-1805       CHN x CNR 1 Voice of China   Chi Shijiazhuan 1-7  
-7305          2025-2200       CHN x CNR 1 Voice of China   Chi Shijiazhuan 1-7  
+7305          1000-1805       CHN CNR 1 Voice of China     Chi Shijiazhuan 1-7  
+7305          2025-2200       CHN CNR 1 Voice of China     Chi Shijiazhuan 1-7  
 7305          0100-0130       CVA VATICAN RADIO            Por Santa Maria 1-7  
 7305          0130-0200       CVA VATICAN RADIO            Spa Santa Maria 1-7  
 7310          1820-1920       IRN VO ISLAMIC REP.IRAN      Alb Sirjan      1-7  
@@ -2199,7 +2199,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 7360          2055-2400       CHN CNR 2-China Business Rad Chi Xianyang 59 1-7  
 7360          0000-0155       TUR VOICE OF TURKEY          Tur Emirler     1-7  
 7360          1730-1825       TUR VOICE OF TURKEY          Fre Emirler     1-7  
-7365          1200-1805       CHN x CNR 1 Voice of China   Chi Shijiazhuan 1-7  
+7365          1200-1805       CHN CNR 1 Voice of China     Chi Shijiazhuan 1-7  
 7365          0300-0530       D   HCJB Deutsch             Rus Weenermoor  1-7  
 7365          0530-0300       D   HCJB Deutsch             Ger Weenermoor  1-7  
 7365          0100-0500       USA R.MARTI                  Spa Greenville  1-7  
@@ -2634,9 +2634,9 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 9490          1100-1158       TWN R.TAIWAN INT.            Rus Tamsui Dist 1-7  
 9490          0100-0300       F   Radio Republica          Spa Issoudun    1-7  
 9500          1100-1400       TKS CHINA RADIO INTERNATIONA Eng Kashi-Saiba 1-7  
-9500          2025-0600       CHN x CNR 1 Voice of China   Chi Shijiazhuan 1-7  
-9500          0600-0900       CHN x CNR 1 Voice of China   Chi Shijiazhuan 124-7
-9500          0900-1805       CHN x CNR 1 Voice of China   Chi Shijiazhuan 1-7  
+9500          2025-0600       CHN CNR 1 Voice of China     Chi Shijiazhuan 1-7  
+9500          0600-0900       CHN CNR 1 Voice of China     Chi Shijiazhuan 124-7
+9500          0900-1805       CHN CNR 1 Voice of China     Chi Shijiazhuan 1-7  
 9500          0300-0700       ALG Ifrikya FM               Ara Bechar      1-7  
 9500          1800-1957       ROU R.ROMANIA INT.           Rom Galbeni-Bac 1-7  
 9500          1630-1645       SWZ Trans World Radio        kam Manzini     17   
@@ -2926,14 +2926,13 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 9700          0659-1058       NZL R.NEW ZEALAND INT.       Eng Rangitaiki  1-7  
 9705          2000-2030       CVA VATICAN RADIO            Eng Santa Maria 1-7  
 9705          2030-2058       CVA VATICAN RADIO            Fre Santa Maria 1-7  
-9705          0900-1000       TWN VORW Radio International Eng Paochung    5    
 9705          1330-1357       TWN Furusato no kaze         Jpn Paochung    1-7  
 9705          1430-1458       TWN Furusato no kaze         Jpn Paochung    1-7  
 9705          0305-0530       TKS PBS Xinjiang             Kyr Urumqi      1-7  
 9705          1005-1230       TKS PBS Xinjiang             Kyr Urumqi      1-7  
 9710          2358-0100       TKS CHINA RADIO INTERNATIONA Por Kashi-Saiba 1-7  
-9710          1100-1805       CHN x CNR 1 Voice of China   Chi Shijiazhuan 1-7  
-9710          2025-2330       CHN x CNR 1 Voice of China   Chi Shijiazhuan 1-7  
+9710          1100-1805       CHN CNR 1 Voice of China     Chi Shijiazhuan 1-7  
+9710          2025-2330       CHN CNR 1 Voice of China     Chi Shijiazhuan 1-7  
 9710          1100-1500       CUB R.HABANA CUBA            Spa Bejucal     1-7  
 9710          0100-0200       CUB R.HABANA CUBA            Cre Bejucal     1-7  
 9710          0200-0300       CUB R.HABANA CUBA            Eng Bejucal     1-7  
@@ -2951,7 +2950,6 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 9715          1030-1058       TWN R.TAIWAN INT.            Kor Paochung    1-7  
 9720          1500-1545       UAE IBRA MEDIA/R.Sadaye Zind Pas Al-Dhabbiya 1-7  
 9720          1800-1830       UZB Furusato no kaze         Jpn Tashkent    1-7  
-9720          1730-1800       UZB x Nippon no Kaze"il bon  Kor Tashkent    1-7  
 9720          1630-1700       OMA BBC                      Per Al Seela    1-7  
 9720          1830-1900       D   BIBLE VOICE BCN          Spa Nauen       1    
 9720          2030-2100       TKS CHINA RADIO INTERNATIONA Bul Urumqi Hutu 1-7  
@@ -2993,14 +2991,15 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 9735          1200-1230       TWN * R.TAIWAN INT.          Can Paochung    1-7  
 9735          1230-1300       TWN R.TAIWAN INT.            Hak Paochung    1-7  
 9740          1400-1457       CHN CHINA RADIO INTERNATIONA Sin Jinhua 831  1-7  
-9740          1600-1700       KOR KBS WORLD RADIO          Kor Kimjae      1-7  
-9740          1700-1800       KOR KBS WORLD RADIO          Spa Kimjae      1-7  
-9740          2030-2057       ROU R.ROMANIA INT.           Eng Galbeni-Bac 1-7  
-9740          2200-2257       ROU R.ROMANIA INT.           Eng Galbeni-Bac 1-7  
-9740          1100-1158       TWN R.TAIWAN INT.            Jpn Paochung    1-7  
 9740          0300-0430       IND ALL INDIA RADIO          Bal Delhi (King 1-7  
 9740          0430-0600       IND ALL INDIA RADIO          Pas Delhi (King 1-7  
+9740          1600-1700       KOR KBS WORLD RADIO          Kor Kimjae      1-7  
+9740          1700-1800       KOR KBS WORLD RADIO          Spa Kimjae      1-7  
 9740          0357-0457       ROU R.ROMANIA INT.           Rom Galbeni-Bac 1-7  
+9740          2030-2057       ROU R.ROMANIA INT.           Eng Galbeni-Bac 1-7  
+9740          2200-2257       ROU R.ROMANIA INT.           Eng Galbeni-Bac 1-7  
+9740          0900-1000       TWN VORW Radio International Eng Paochung    5    
+9740          1100-1158       TWN R.TAIWAN INT.            Jpn Paochung    1-7  
 9745          1930-2027       TKS CHINA RADIO INTERNATIONA Esp Urumqi Hutu 1-7  
 9745          2055-0100       TKS CNR 7 Radio The Great Ba Can Kashi-Saiba 1-7  
 9750          1730-1800       UAE IBRA MEDIA/Radio Ibrahim xst Al-Dhabbiya 1-7  
@@ -3607,9 +3606,9 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 11750         1620-1650       IRN VO ISLAMIC REP.IRAN      Ben Sirjan      1-7  
 11750         1100-1200       CHN CHINA RADIO INTERNATIONA Chi Beijing 572 1-7  
 11750         1900-1957       CHN CHINA RADIO INTERNATIONA Por Jinhua 831  1-7  
-11750         2200-0600       CHN x CNR 1 Voice of China   Chi Shijiazhuan 1-7  
-11750         0600-0900       CHN x CNR 1 Voice of China   Chi Shijiazhuan 124-7
-11750         0900-1000       CHN x CNR 1 Voice of China   Chi Shijiazhuan 1-7  
+11750         2200-0600       CHN CNR 1 Voice of China     Chi Shijiazhuan 1-7  
+11750         0600-0900       CHN CNR 1 Voice of China     Chi Shijiazhuan 124-7
+11750         0900-1000       CHN CNR 1 Voice of China     Chi Shijiazhuan 1-7  
 11750         0000-0600       CHN CNR 2-China Business Rad Chi Nanning 954 1-7  
 11750         0600-0900       CHN CNR 2-China Business Rad Chi Nanning 954 5-3  
 11750         0900-1100       CHN CNR 2-China Business Rad Chi Nanning 954 1-7  
@@ -3623,9 +3622,9 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 11760         0500-0800       CUB R.HABANA CUBA            Spa Bauta       1-7  
 11760         1200-1400       CHN CHINA RADIO INTERNATIONA Eng Kunming-Ann 1-7  
 11760         2200-2257       CHN CHINA RADIO INTERNATIONA Por Xianyang 59 1-7  
-11760         0000-0600       CHN x CNR 1 Voice of China   Chi Shijiazhuan 1-7  
-11760         0600-0900       CHN x CNR 1 Voice of China   Chi Shijiazhuan 124-7
-11760         0900-1200       CHN x CNR 1 Voice of China   Chi Shijiazhuan 1-7  
+11760         0000-0600       CHN CNR 1 Voice of China     Chi Shijiazhuan 1-7  
+11760         0600-0900       CHN CNR 1 Voice of China     Chi Shijiazhuan 124-7
+11760         0900-1200       CHN CNR 1 Voice of China     Chi Shijiazhuan 1-7  
 11760         0300-0500       CUB R.HABANA CUBA            Spa Bauta       1-7  
 11760         0500-0700       CUB R.HABANA CUBA            Eng Bauta       1-7  
 11760         1100-1800       CUB R.HABANA CUBA            Spa Bauta       1-7  
@@ -4560,9 +4559,9 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 15360         1403-1500       CHN CNR 1 Jamming            Chi Qiqihar 202 1-7  
 15360         2200-2300       CHN CNR 1 Jamming            Chi Qiqihar 202 1-7  
 15360         2303-0000       CHN CNR 1 Jamming            Chi Qiqihar 202 1-7  
-15370         2330-0600       CHN x CNR 1 Voice of China   Chi Shijiazhuan 1-7  
-15370         0600-0900       CHN x CNR 1 Voice of China   Chi Shijiazhuan 124-7
-15370         0900-1100       CHN x CNR 1 Voice of China   Chi Shijiazhuan 1-7  
+15370         2330-0600       CHN CNR 1 Voice of China     Chi Shijiazhuan 1-7  
+15370         0600-0900       CHN CNR 1 Voice of China     Chi Shijiazhuan 124-7
+15370         0900-1100       CHN CNR 1 Voice of China     Chi Shijiazhuan 1-7  
 15375         0600-1100       TWN Fu Hsing BS              Chi Kuanyin     23456
 15380         0600-0900       CHN CNR 1 Voice of China     Chi Beijing 572 124-7
 15380         0900-1100       CHN CNR 1 Voice of China     Chi Beijing 572 1-7  
@@ -5003,9 +5002,9 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 17580         2330-0600       CHN CNR 1 Voice of China     Chi Lingshi 725 1-7  
 17580         2100-2157       ROU R.ROMANIA INT. DRM xHE E Spa SNR Tiganes 1-7  
 17580         1200-1255       TUR VOICE OF TURKEY          Urd Emirler     1-7  
-17595         2300-0600       CHN x CNR 1 Voice of China   Chi Shijiazhuan 1-7  
-17595         0600-0900       CHN x CNR 1 Voice of China   Chi Shijiazhuan 124-7
-17595         0900-1100       CHN x CNR 1 Voice of China   Chi Shijiazhuan 1-7  
+17595         2300-0600       CHN CNR 1 Voice of China     Chi Shijiazhuan 1-7  
+17595         0600-0900       CHN CNR 1 Voice of China     Chi Shijiazhuan 124-7
+17595         0900-1100       CHN CNR 1 Voice of China     Chi Shijiazhuan 1-7  
 17600         0700-0100       ALG Ifrikya FM               Ara Bechar      1-7  
 17605         1030-1127       CHN CHINA RADIO INTERNATIONA Ind Kunming-Ann 1-7  
 17615         0500-0657       TKS CHINA RADIO INTERNATIONA Ger Urumqi Hutu 1-7  
