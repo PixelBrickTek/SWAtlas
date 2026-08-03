@@ -1,4 +1,4 @@
-A26 Shortwave Frequecy List  July 30  2026,  1000 UTC   Day 1 = Sunday
+A26 Shortwave Frequecy List  August 2  2026,  0300 UTC   Day 1 = Sunday
 kHz           Time(UTC)       ITU Station                Lang. Location    Days 
 +-------------+---------+-----+---+------------------------+---+-----------+----
 
@@ -1445,6 +1445,11 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 5920          2300-0100       D   HCJB Deutsch             Rus Weenermoor  1-7  
 5920          1730-1800       TWN New Korean Hope Radio    Kor Tamsui Dist 135  
 5920          0000-1400       USA WTWW                     Eng Lebanon TN  1-7  
+5920          1600-1630       J   Shiokaze (Sea-breeze)    Jpn Ibaragi-Kog 267  
+5920          1600-1700       J   Shiokaze (Sea-breeze)    Kor Ibaragi-Kog 35   
+5920          1600-1700       J   Shiokaze (Sea-breeze)    Eng Ibaragi-Kog 4    
+5920          1600-1700       J   Shiokaze (Sea-breeze)    Jpn Ibaragi-Kog 1    
+5920          1630-1700       J   Shiokaze (Sea-breeze)    Kor Ibaragi-Kog 267  
 5925          1000-1705       CHN CNR 5                    Chi Beijing 491 1-7  
 5925          2055-2400       CHN CNR 5                    Chi Beijing 491 1-7  
 5925          0300-0600       VTN Voice of Vietnam 2       Vie Hanoi-Xuan  1-7  
@@ -1464,6 +1469,11 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 5935          1300-1400       D   Welle 370                Ger Nauen       1    
 5935          2300-0600       USA WWCR NASHVILLE           Eng Nashville   1-7  
 5935          0600-1300       USA WWCR The Overcomer Minis Eng Nashville   1-7  
+5935          1300-1330       J   Shiokaze (Sea-breeze)    Jpn Ibaragi-Kog 267  
+5935          1300-1400       J   Shiokaze (Sea-breeze)    Kor Ibaragi-Kog 35   
+5935          1300-1400       J   Shiokaze (Sea-breeze)    Eng Ibaragi-Kog 4    
+5935          1300-1400       J   Shiokaze (Sea-breeze)    Jpn Ibaragi-Kog 1    
+5935          1330-1400       J   Shiokaze (Sea-breeze)    Kor Ibaragi-Kog 267  
 5940          0400-0600       ETH R.Deegaanka Soomaalida   Som Jijiga      1-7  
 5940          1300-1500       ETH R.Deegaanka Soomaalida   Som Jijiga      1-7  
 5940          1800-2000       ETH R.Deegaanka Soomaalida   Som Jijiga      1-7  
@@ -1491,6 +1501,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 5952          1000-0100       BOL Emisoras Pio XII         Spa Siglo Veint 1-7  
 5955          1100-1600       CHN CHINA RADIO INTERNATIONA Eng Beijing 572 1-7  
 5955          0500-1500       HOL SuperClan Radio          Dut Putten      1-7  
+5955          1705-1805       J   Shiokaze (Sea-breeze)    Jpn Ibaragi-Kog 1-7  
 5960          0000-0200       D   Mighty KBC Radio         Dut Nauen       1    
 5960          1830-2055       TUR VOICE OF TURKEY          Tur Emirler     1-7  
 5960          1900-1950       F   PABC Tony Alamo Ministri Eng Issoudun    17   
@@ -1525,7 +1536,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 5975          1400-1505       CHN CNR 8                    Chi Beijing 491 1-7  
 5980          2100-2200       DNK Radio OZ-Viola           Dan Hilleroed   4    
 5980          1600-2000       FIN Scandinav.Weekend R.     Fin Virrat      7    
-5980          1705-1805       J   Shiokaze (Sea-breeze)    Jpn Ibaragi-Kog 1-7  
+5980          1405-1435       J   Shiokaze (Sea-breeze)    Jpn Ibaragi-Kog 1-7  
 5985          1130-1158       CHN CHINA RADIO INTERNATIONA Fil Beijing 572 1-7  
 5985          1600-1657       CHN CHINA RADIO INTERNATIONA Swa Beijing 572 1-7  
 5985          1700-1757       CHN CHINA RADIO INTERNATIONA Swa Beijing 572 1-7  
@@ -1622,11 +1633,6 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 6040          0800-1600       HOL Radio Delta Internationa Dut Elburg      1-7  
 6040          1653-1720       IRN VO ISLAMIC REP.IRAN      Pas Zahedan     1-7  
 6040          0400-0555       TUR VOICE OF TURKEY          Tur Emirler     1-7  
-6040          1300-1330       J   Shiokaze (Sea-breeze)    Jpn Ibaragi-Kog 267  
-6040          1300-1400       J   Shiokaze (Sea-breeze)    Kor Ibaragi-Kog 35   
-6040          1300-1400       J   Shiokaze (Sea-breeze)    Eng Ibaragi-Kog 4    
-6040          1300-1400       J   Shiokaze (Sea-breeze)    Jpn Ibaragi-Kog 1    
-6040          1330-1400       J   Shiokaze (Sea-breeze)    Kor Ibaragi-Kog 267  
 6045          1100-1400       D   Radio 60!                Eng Nauen       1-7  
 6048          0250-0005       KRE North Korean Jamming     Noi Kujang      1-7  
 6050          1200-1300       CHN CHINA RADIO INTERNATIONA Mon Hohhot 694  1-7  
@@ -1689,6 +1695,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 6065          1500-1600       MDG Adventist World Radio    Mal Talata-Volo 1-7  
 6065          1200-1605       CHN CNR 2-China Business Rad Chi Beijing 491 1-7  
 6065          2055-2230       CHN CNR 2-China Business Rad Chi Beijing 491 1-7  
+6065          1950-2050       J   Shiokaze (Sea-breeze)    Jpn Ibaragi-Kog 1-7  
 6070          1200-1300       D   Alt Universe Top 40      Eng Rohrbach Wa 7    
 6070          1300-1400       D   Atlantic 2000 Internatio Fre Rohrbach Wa 7    
 6070          0000-2400       CAN CFRX Toronto             Eng Toronto     1-7  
@@ -1699,6 +1706,11 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 6070          1200-1250       KRE Voice of Korea           Jpn Kanggye     1-7  
 6070          0800-0900       D   VORW Radio International Eng Rohrbach Wa 4    
 6070          1700-1800       D   VORW Radio International Eng Rohrbach Wa 3    
+6070          1300-1330       J   Shiokaze (Sea-breeze)    Jpn Ibaragi-Kog 267  
+6070          1300-1400       J   Shiokaze (Sea-breeze)    Kor Ibaragi-Kog 35   
+6070          1300-1400       J   Shiokaze (Sea-breeze)    Eng Ibaragi-Kog 4    
+6070          1300-1400       J   Shiokaze (Sea-breeze)    Jpn Ibaragi-Kog 1    
+6070          1330-1400       J   Shiokaze (Sea-breeze)    Kor Ibaragi-Kog 267  
 6075          0000-0057       TKS CHINA RADIO INTERNATIONA Eng Kashi-Saiba 1-7  
 6075          1400-1700       CHN CNR 1 Jamming            Chi Qiqihar 202 1-7  
 6075          2200-2400       CHN CNR 1 Jamming            Chi Xianyang 59 1-7  
@@ -1716,7 +1728,6 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 6080          0000-2400       B   Radio Marumby            Por Curitiba PR 1-7  
 6085          1500-1600       CHN CHINA RADIO INTERNATIONA Rus Hohhot 694  1-7  
 6085          0700-1700       D   Radio Mi Amigo Internati Ger Kall-Krekel 1-7  
-6090          1405-1435       J   Shiokaze (Sea-breeze)    Jpn Ibaragi-Kog 1-7  
 6090          1900-2000       TKS CHINA RADIO INTERNATIONA Rom Urumqi Hutu 1-7  
 6090          1100-1605       CHN CNR 2-China Business Rad Chi Golmud 916  1-7  
 6090          2055-0100       CHN CNR 2-China Business Rad Chi Golmud 916  1-7  
@@ -1841,11 +1852,6 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 6160          0200-2300       USA WBCQ The Overcomer Minis Eng Monticello  23456
 6160          0400-2300       USA WBCQ The Overcomer Minis Eng Monticello  17   
 6160          0300-0330       USA WBCQ World of Radio      Eng Monticello  2    
-6165          1300-1330       J   Shiokaze (Sea-breeze)    Jpn Ibaragi-Kog 267  
-6165          1300-1400       J   Shiokaze (Sea-breeze)    Kor Ibaragi-Kog 35   
-6165          1300-1400       J   Shiokaze (Sea-breeze)    Eng Ibaragi-Kog 4    
-6165          1300-1400       J   Shiokaze (Sea-breeze)    Jpn Ibaragi-Kog 1    
-6165          1330-1400       J   Shiokaze (Sea-breeze)    Kor Ibaragi-Kog 267  
 6165          1600-1657       TKS CHINA RADIO INTERNATIONA Tur Urumqi Hutu 1-7  
 6165          1700-1757       CHN CHINA RADIO INTERNATIONA Eng Beijing 572 1-7  
 6165          0900-1100       CHN CNR 6                    Hak Beijing 491 1-7  
@@ -1864,10 +1870,14 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 6165          2150-2230       VTN Voice of Vietnam 4       Hmo Hanoi-Xuan  1-7  
 6165          2230-2300       VTN Voice of Vietnam 4       Dao Hanoi-Xuan  1-7  
 6165          0300-0355       TUR VOICE OF TURKEY          Eng Emirler     1-7  
+6165          1600-1630       J   Shiokaze (Sea-breeze)    Jpn Ibaragi-Kog 267  
+6165          1600-1700       J   Shiokaze (Sea-breeze)    Kor Ibaragi-Kog 35   
+6165          1600-1700       J   Shiokaze (Sea-breeze)    Eng Ibaragi-Kog 4    
+6165          1600-1700       J   Shiokaze (Sea-breeze)    Jpn Ibaragi-Kog 1    
+6165          1630-1700       J   Shiokaze (Sea-breeze)    Kor Ibaragi-Kog 267  
 6170          0000-1200       FIN Scandinav.Weekend R.     Fin Virrat      7    
 6170          1200-1600       FIN Scandinav.Weekend R.     Fin Virrat      7    
 6170          2000-2400       FIN Scandinav.Weekend R.     Fin Virrat      6    
-6175          1950-2050       J   Shiokaze (Sea-breeze)    Jpn Ibaragi-Kog 1-7  
 6175          1600-1800       CHN CHINA RADIO INTERNATIONA Eng Nanning 954 1-7  
 6175          1420-1435       SWZ Trans World Radio        Tso Manzini     1    
 6175          1435-1450       SWZ Trans World Radio        Por Manzini     1    
@@ -1949,11 +1959,6 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 7210          1900-1957       KRE Voice of Korea           Eng Kujang      1-7  
 7210          2000-2050       KRE Voice of Korea (KCBS)    Kor Kujang      1-7  
 7210          1100-1125       TUR VOICE OF TURKEY          Bul Emirler     1-7  
-7215          1600-1630       J   Shiokaze (Sea-breeze)    Jpn Ibaragi-Kog 267  
-7215          1600-1700       J   Shiokaze (Sea-breeze)    Kor Ibaragi-Kog 35   
-7215          1600-1700       J   Shiokaze (Sea-breeze)    Eng Ibaragi-Kog 4    
-7215          1600-1700       J   Shiokaze (Sea-breeze)    Jpn Ibaragi-Kog 1    
-7215          1630-1700       J   Shiokaze (Sea-breeze)    Kor Ibaragi-Kog 267  
 7215          1300-1357       CHN CHINA RADIO INTERNATIONA Chi Xianyang 59 1-7  
 7215          1700-1757       CHN CHINA RADIO INTERNATIONA Swa Xianyang 59 1-7  
 7215          2200-2257       CHN CHINA RADIO INTERNATIONA Chi Kunming-Ann 1-7  
@@ -2117,7 +2122,6 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 7290          1800-1900       ROU NEXUS-IBA Radio Rasant   Eng Saftica     6    
 7290          1815-1845       ROU NEXUS-IBA World of Radio Eng Saftica     6    
 7290          1830-1900       ROU NEXUS-IBA Wave Scan      Eng Saftica     3    
-7295          1405-1435       J   Shiokaze (Sea-breeze)    Jpn Ibaragi-Kog 1-7  
 7295          1900-2100       TKS CHINA RADIO INTERNATIONA Eng Kashi-Saiba 1-7  
 7300          2200-2257       TKS CHINA RADIO INTERNATIONA Esp Kashi-Saiba 1-7  
 7300          1500-1600       CHN CNR 1 Jamming            Chi Baoji-Sifan 1-7  
@@ -2144,6 +2148,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 7320          0215-0230       UAE FEBA Radio Pakistan      Sin Al-Dhabbiya 567  
 7320          0215-0230       UAE FEBA Radio Pakistan      Urd Al-Dhabbiya 1    
 7320          0230-0300       UAE FEBA Radio Pakistan      Pas Al-Dhabbiya 6    
+7325          1405-1435       J   Shiokaze (Sea-breeze)    Jpn Ibaragi-Kog 1-7  
 7325          1820-1920       IRN VO ISLAMIC REP.IRAN      Alb Sirjan      1-7  
 7325          1000-1257       CHN CHINA RADIO INTERNATIONA Jpn Jinhua 831  1-7  
 7325          1300-1357       CHN CHINA RADIO INTERNATIONA Jpn Xianyang 59 1-7  
@@ -2241,6 +2246,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 7415          1900-1930       TKS CHINA RADIO INTERNATIONA Cze Urumqi Hutu 1-7  
 7415          1930-1957       TKS CHINA RADIO INTERNATIONA Cze Urumqi Hutu 1-7  
 7415          2000-2200       TKS CHINA RADIO INTERNATIONA Eng Kashi-Saiba 1-7  
+7420          1950-2050       J   Shiokaze (Sea-breeze)    Jpn Ibaragi-Kog 1-7  
 7420          1700-1800       CHN CHINA RADIO INTERNATIONA Eng Kunming-Ann 1-7  
 7420          2150-2400       CHN PBS Nei Menggu           Chi Hohhot 839  1-7  
 7420          2150-2400       CHN PBS Nei Menggu           Chi Hohhot 839  1-7  
@@ -2326,7 +2332,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 7570          0100-0200       USA WRMI WRN                 Eng Okeechobee5 34567
 7570          0200-0300       USA WRMI The IQ40            Eng Okeechobee5 1    
 7570          0200-0300       USA WRMI Christian America M Eng Okeechobee5 34567
-7570          0200-0300       USA WRMI The Mighty KBC      Eng Okeechobee4 2    
+7570          0200-0300       USA WRMI The Mighty KBC      Eng Okeechobee5 2    
 7570          0300-0400       USA WRMI Truth2Ponder with B Eng Okeechobee5 2356 
 7570          0400-0600       USA WRMI Legends             Eng Okeechobee5 1-7  
 7570          0600-0800       USA WRMI WRN                 Eng Okeechobee5 23456
@@ -2339,40 +2345,40 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 7650          2100-2130       UZB TVOM Voice of Martyrs    Chi Tashkent    1-7  
 7730          1500-1600       TWN * SOH Xi Wang Zhi Sheng  Can Miaoli      1-7  
 7730          1600-1500       TWN * SOH Xi Wang Zhi Sheng  Chi Miaoli      1-7  
-7730          0100-0200       USA WRMI Pop Shop Radio      Eng Okeechobee9 2    
-7730          0100-0200       USA WRMI The Hal Turner Show Eng Okeechobee9 34567
-7730          0100-0200       USA WRMI The Mighty KBC      Spa Okeechobee9 1    
-7730          0200-0300       USA WRMI Encore              Eng Okeechobee9 2    
-7730          0200-0300       USA WRMI The Hal Turner Show Eng Okeechobee9 5    
-7730          0200-0300       USA WRMI Truth2Ponder with B Eng Okeechobee9 3467 
-7730          0200-0300       USA WRNI Alt Universe Top 40 Eng Okeechobee9 1    
-7730          0330-0400       USA WRMI Alameda Bible Felow Spa Okeechobee9 26   
-7730          0330-0400       USA WRMI Frecuencia al Dia   Spa Okeechobee9 5    
-7730          0330-0400       USA WRMI Walking in Power    Eng Okeechobee9 47   
-7730          0330-0400       USA WRMI Wave Scan           Eng Okeechobee9 3    
-7730          0330-0400       USA WRMI Your Story Hour     Eng Okeechobee9 1    
-7730          0400-0500       USA WRMI Supreme Master TV   Eng Okeechobee9 1-7  
-7730          0500-0900       USA WRMI WRN                 Eng Okeechobee9 1-7  
-7730          0900-1000       USA WRMI Supreme Master TV   Eng Okeechobee9 1-7  
-7730          1000-1100       USA WRMI WRN                 Eng Okeechobee9 1-7  
-7730          1100-1400       USA WRMI Supreme Master TV   Eng Okeechobee9 1-7  
-7730          1400-1500       USA WRMI WRN                 Eng Okeechobee9 1-7  
-7730          1500-1600       USA WRMI Supreme Master TV   Fre Okeechobee3 23456
-7730          1600-1800       USA WRMI WRN                 Eng Okeechobee9 1-7  
-7730          1800-2000       USA WRMI Supreme Master TV   Eng Okeechobee9 1-7  
-7730          2000-2030       USA WRMI Walking in Power    Eng Okeechobee9 36   
-7730          2000-2030       USA WRMI Radiopanorama       Rus Okeechobee9 2    
-7730          2000-2100       USA World Radio for Peace In Eng Okeechobee9 5    
-7730          2000-2030       USA WRMI CMRE-1              Eng Okeechobee9 4    
-7730          2000-2015       USA WRMI His Prayer for You  Eng Okeechobee9 17   
-7730          2030-2100       USA WRMI CMRE-2              Spa Okeechobee9 4    
-7730          2030-2100       USA WRMI Alameda Bible Felow Eng Okeechobee9 26   
-7730          2030-2045       USA WRMI Viva Miami          Spa Okeechobee9 1    
-7730          2015-2045       USA WRMI Wave Scan           Eng Okeechobee9 1    
-7730          2030-2100       USA WRMI Wave Scan           Eng Okeechobee9 3    
-7730          2045-2100       USA WRMI I Love Italy        Eng Okeechobee9 7    
-7730          2045-2100       USA WRMI British Israel      Spa Okeechobee9 1    
-7730          2100-0100       USA WRMI Supreme Master TV   Eng Okeechobee9 1-7  
+7730          0100-0200       USA WRMI Pop Shop Radio      Eng Okeechobee2 2    
+7730          0100-0200       USA WRMI The Hal Turner Show Eng Okeechobee2 34567
+7730          0100-0200       USA WRMI The Mighty KBC      Spa Okeechobee2 1    
+7730          0200-0300       USA WRMI Encore              Eng Okeechobee2 2    
+7730          0200-0300       USA WRMI The Hal Turner Show Eng Okeechobee2 5    
+7730          0200-0300       USA WRMI Truth2Ponder with B Eng Okeechobee2 3467 
+7730          0200-0300       USA WRNI Alt Universe Top 40 Eng Okeechobee2 1    
+7730          0330-0400       USA WRMI Alameda Bible Felow Spa Okeechobee2 26   
+7730          0330-0400       USA WRMI Frecuencia al Dia   Spa Okeechobee2 5    
+7730          0330-0400       USA WRMI Walking in Power    Eng Okeechobee2 47   
+7730          0330-0400       USA WRMI Wave Scan           Eng Okeechobee2 3    
+7730          0330-0400       USA WRMI Your Story Hour     Eng Okeechobee2 1    
+7730          0400-0500       USA WRMI Supreme Master TV   Eng Okeechobee2 1-7  
+7730          0500-0900       USA WRMI WRN                 Eng Okeechobee2 1-7  
+7730          0900-1000       USA WRMI Supreme Master TV   Eng Okeechobee2 1-7  
+7730          1000-1100       USA WRMI WRN                 Eng Okeechobee2 1-7  
+7730          1100-1400       USA WRMI Supreme Master TV   Eng Okeechobee2 1-7  
+7730          1400-1500       USA WRMI WRN                 Eng Okeechobee2 1-7  
+7730          1500-1600       USA WRMI Supreme Master TV   Fre Okeechobee2 23456
+7730          1600-1800       USA WRMI WRN                 Eng Okeechobee2 1-7  
+7730          1800-2000       USA WRMI Supreme Master TV   Eng Okeechobee2 1-7  
+7730          2000-2030       USA WRMI Walking in Power    Eng Okeechobee2 36   
+7730          2000-2030       USA WRMI Radiopanorama       Rus Okeechobee2 2    
+7730          2000-2100       USA World Radio for Peace In Eng Okeechobee2 5    
+7730          2000-2030       USA WRMI CMRE-1              Eng Okeechobee2 4    
+7730          2000-2015       USA WRMI His Prayer for You  Eng Okeechobee2 17   
+7730          2030-2100       USA WRMI CMRE-2              Spa Okeechobee2 4    
+7730          2030-2100       USA WRMI Alameda Bible Felow Eng Okeechobee2 26   
+7730          2030-2045       USA WRMI Viva Miami          Spa Okeechobee2 1    
+7730          2015-2045       USA WRMI Wave Scan           Eng Okeechobee2 1    
+7730          2030-2100       USA WRMI Wave Scan           Eng Okeechobee2 3    
+7730          2045-2100       USA WRMI I Love Italy        Eng Okeechobee2 7    
+7730          2045-2100       USA WRMI British Israel      Spa Okeechobee2 1    
+7730          2100-0100       USA WRMI Supreme Master TV   Eng Okeechobee2 1-7  
 7750          0000-2400       TWN SOH Xi Wang Zhi Sheng    Chi Miaoli      1-7  
 7780          0000-0030       USA WRMI Alameda Bible Felow Spa Okeechobee1 26   
 7780          0000-0030       USA WRMI Antena DX           Spa Okeechobee1 3    
@@ -2384,7 +2390,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 7780          0030-0100       USA WRMI Wave Scan           Eng Okeechobee1 35   
 7780          0030-0100       USA WRMI World of Radio      Eng Okeechobee1 2    
 7780          0100-0200       USA WRMI R.Prague            Eng Okeechobee1 1-7  
-7780          0200-0300       USA WRMI R.Prague            Spa Okeechobee1 1-7  
+7780          0200-0300       USA WRMI E Bible Fellowship  Hin Okeechobee1 1-7  
 7780          0330-0400       USA WRMI Alameda Bible Felow Spa Okeechobee1 26   
 7780          0330-0400       USA WRMI Frecuencia al Dia   Spa Okeechobee1 5    
 7780          0330-0400       USA WRMI Walking in Power    Eng Okeechobee1 47   
@@ -3447,7 +3453,6 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 11620         0000-0057       ROU R.ROMANIA INT.           Eng Tiganesti   1-7  
 11620         0100-0157       ROU R.ROMANIA INT.           Fre Tiganesti   1-7  
 11620         0300-0357       ROU R.ROMANIA INT.           Eng Tiganesti   1-7  
-11625         1900-2155       J   NHK WORLD RADIO JAPAN    Jpn Ibaragi-Kog 1-7  
 11630         0600-0700       CHN CNR 17                   Kaz Lingshi 725 124-7
 11630         0700-0800       CHN CNR 17                   Chi Lingshi 725 124-7
 11630         0800-0900       CHN CNR 17                   Kaz Lingshi 725 124-7
@@ -4121,7 +4126,6 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 13645         1800-1827       MLI CHINA RADIO INTERNATIONA Hau Bamako II   1-7  
 13650         1300-1357       TKS CHINA RADIO INTERNATIONA Chi Urumqi Hutu 1-7  
 13650         2300-2357       CUB CHINA RADIO INTERNATIONA Por Quivican    1-7  
-13650         1500-1655       J   NHK WORLD RADIO JAPAN    Jpn Ibaragi-Kog 1-7  
 13650         1700-1730       UAE Radio Prage              Rus Al-Dhabbiya 5    
 13650         1900-1930       UAE Radio Prage              Rus Al-Dhabbiya 1    
 13650         0300-0357       KRE Voice of Korea           Chi Kujang      1-7  
@@ -4793,7 +4797,6 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 15630         1300-1330       GUM KSDA-Adventist World R.G nij Agat        1-7  
 15640         0358-0457       CHN CHINA R.INT. (DRM) 3F2 x Chi Kunming-Ann 1-7  
 15640         0200-0330       PHL R.PILIPINAS              Eng Tinang      1-7  
-15640         0000-0100       J   NHK WORLD RADIO JAPAN    Jpn Ibaragi-Kog 1-7  
 15660         1100-1300       TKS CHINA RADIO INTERNATIONA Eng Kashi-Saiba 1-7  
 15665         0400-0600       TKS CHINA RADIO INTERNATIONA Rus Urumqi Hutu 1-7  
 15665         0800-1000       TKS CHINA RADIO INTERNATIONA Rus Urumqi Hutu 1-7  
@@ -5148,18 +5151,17 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 17790         0500-0650       J   NHK WORLD RADIO JAPAN    Jpn Ibaragi-Kog 1-7  
 17790         0700-0757       ROU R.ROMANIA INT.           Rom Tiganesti   1    
 17790         0300-0357       ROU R.ROMANIA INT. DRM xHE E Eng SNR Tiganes 1-7  
+17790         0000-0100       USA WRMI E Bible Felloship   Spa Okeechobee7 1-7  
 17790         0100-0130       USA R.TAIWAN INT.            Spa Okeechobee7 1-7  
-17790         2200-2230       USA R.TAIWAN INT.            Spa Okeechobee7 1-7  
+17790         0130-0200       USA WRMI R.Slovakia Int.     Eng Okeechobee7 1-7  
+17790         1500-2130       USA WRMI Radio Africa        Eng Okeechobee7 1-7  
 17790         1530-1600       USA WRMI Living the Bible    Eng Okeechobee7 2    
 17790         1900-1930       USA WRMI Living the Bible    Eng Okeechobee7 2    
 17790         1900-1930       USA WRMI Living the Bible    Eng Okeechobee7 1    
-17790         0000-0030       USA WRMI R.Prague            Fre Okeechobee7 1-7  
+17790         2200-2230       USA R.TAIWAN INT.            Spa Okeechobee7 1-7  
 17790         2230-2300       USA WRMI R.Prague            Eng Okeechobee7 1-7  
 17790         2300-2330       USA WRMI R.Prague            Fre Okeechobee7 1-7  
 17790         2330-2400       USA WRMI R.Prague            Eng Okeechobee7 1-7  
-17790         0030-0100       USA WRMI R.Slovakia Int.     Spa Okeechobee7 1-7  
-17790         0130-0200       USA WRMI R.Slovakia Int.     Eng Okeechobee7 1-7  
-17790         1500-2130       USA WRMI Radio Africa        Eng Okeechobee7 1-7  
 17790         0830-0950       CVA VATICAN RADIO            Amh Santa Maria 1    
 17790         0830-0950       CVA VATICAN RADIO            Ara Santa Maria 1    
 17790         0830-0950       CVA VATICAN RADIO            Arm Santa Maria 1    
@@ -5174,7 +5176,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 17800         0200-0500       CHN CNR 8                    Mon Qiqihar 202 1-7  
 17800         0500-0600       CHN CNR 8                    Chi Qiqihar 202 1-7  
 17800         2300-0100       CHN CNR 8                    Mon Qiqihar 202 1-7  
-17800         2200-2355       J   NHK WORLD RADIO JAPAN    Jpn Ibaragi-Kog 1-7  
+17800         2200-2350       J   NHK WORLD RADIO JAPAN    Jpn Ibaragi-Kog 1-7  
 17810         0430-0500       OMA BBC                      Dar Al Seela    1-7  
 17810         0500-0530       OMA BBC                      Pas Al Seela    1-7  
 17810         0700-0730       OMA BBC                      Ara Al Seela    12345
