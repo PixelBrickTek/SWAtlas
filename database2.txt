@@ -5315,6 +5315,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 21800         2300-1400       TWN * SOH Xi Wang Zhi Sheng  Chi Miaoli      1-7  
 25800         0000-2400       DNK World Music Radio        Dan Marslet     1-7  
 25805         0000-2400       DNK World Music Radio        Dan Marslet     1-7  
+EiBiDatabase
 16.3          0000-2400       IND VTX1 Indian Navy         -   v           1-7  
 16.4          0000-2400       NOR JXN Noviken Sub comms    -   no          1-7  
 17            0000-2400       IND VTX2 Indian Navy         -   v           1-7  
