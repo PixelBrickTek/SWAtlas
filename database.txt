@@ -1,4 +1,4 @@
-A26 Shortwave Frequecy List  August 2  2026,  0300 UTC   Day 1 = Sunday
+A26 Shortwave Frequecy List  August 3 2026,  1200 UTC   Day 1 = Sunday
 kHz           Time(UTC)       ITU Station                Lang. Location    Days 
 +-------------+---------+-----+---+------------------------+---+-----------+----
 
@@ -2462,11 +2462,11 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 9330          1700-2200       USA WBCQ World's Last Chance Eng Monticello  1-7  
 9330          2200-0500       USA WBCQ World's Last Chance Por Monticello  1-7  
 9335          1400-1530       UZB Voice of Wilderness      Kor Tashkent    1-7  
-9345          1300-1315       UZB BVBN Christ Gospel Broad Eng Tashkent    2    
-9345          1300-1330       UZB BVBN His Prayer for You  Kor Tashkent    7    
-9345          1315-1330       UZB BVBN Hope for Today      Kor Tashkent    16   
-9345          1300-1315       UZB BVBN Vision for Christ   Kor Tashkent    1    
-9345          1315-1330       UZB BVBN Voice of Truth      Eng Tashkent    2    
+9340          1300-1315       UZB BVBN Christ Gospel Broad Eng Tashkent    2    
+9340          1300-1315       UZB BVBN Vision for Christ   Kor Tashkent    1    
+9340          1300-1330       UZB BVBN His Prayer for You  Kor Tashkent    7    
+9340          1315-1330       UZB BVBN Hope for Today      Kor Tashkent    16   
+9340          1315-1330       UZB BVBN Voice of Truth      Eng Tashkent    2    
 9350          1900-2400       USA WWCR NASHVILLE           Eng Nashville   1-7  
 9360          1400-2400       KWT RADIO FARDA              Per Kuwait      1-7  
 9360          0000-1400       KWT RADIO FARDA              Per Kuwait      1-7  
