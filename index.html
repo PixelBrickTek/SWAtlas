@@ -9,20 +9,36 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="SWAtlas — Shortwave, beautifully decoded">
   <meta property="og:description" content="Find the signal, decode its hidden layers, and understand foreign-language broadcasts with offline transcription and translation.">
-  <meta property="og:image" content="og.png">
+  <meta property="og:image" content="https://pixelbricktek.github.io/SWAtlas/og.png">
+  <meta property="og:url" content="https://pixelbricktek.github.io/SWAtlas/">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="SWAtlas — Shortwave, beautifully decoded">
   <meta name="twitter:description" content="Find the signal, decode its hidden layers, and understand foreign-language broadcasts with offline transcription and translation.">
-  <meta name="twitter:image" content="og.png">
+  <meta name="twitter:image" content="https://pixelbricktek.github.io/SWAtlas/og.png">
+  <link rel="canonical" href="https://pixelbricktek.github.io/SWAtlas/">
   <link rel="icon" type="image/png" href="ico.png">
   <link rel="preload" as="image" href="signal1.webp" type="image/webp" fetchpriority="low">
   <link rel="preload" as="image" href="signal2.webp" type="image/webp" fetchpriority="low">
   <link rel="preload" as="image" href="signal3.webp" type="image/webp" fetchpriority="low">
   <link rel="preload" as="image" href="signal4.webp" type="image/webp" fetchpriority="low">
+  <link rel="preload" as="image" href="signal5.webp" type="image/webp" fetchpriority="low">
+  <link rel="preload" as="image" href="signal6.webp" type="image/webp" fetchpriority="low">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&amp;family=Manrope:wght@400;500;600;700;800&amp;display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="style.css?v=20260716-whisper">
+  <link rel="stylesheet" href="style.css?v=20260805-copy-refresh">
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "SWAtlas",
+    "operatingSystem": "iOS, iPadOS",
+    "applicationCategory": "UtilitiesApplication",
+    "description": "A companion for shortwave listeners with broadcast schedules, alerts, maps, Signal Tools, on-device transcription, and offline translation.",
+    "url": "https://pixelbricktek.github.io/SWAtlas/",
+    "downloadUrl": "https://apps.apple.com/app/swatlas-shortwave-explorer/id6761421523"
+  }
+  </script>
 </head>
 <body>
   <div class="scroll-progress" aria-hidden="true"></div>
@@ -44,7 +60,7 @@
         <div class="top-anchor-nav" id="top-anchor-nav">
           <a href="#database" class="top-anchor-link">Database</a>
           <a href="#code-intelligence" class="top-anchor-link">Code Intelligence</a>
-          <a href="#live-tools" class="top-anchor-link">Live Alerts</a>
+          <a href="#live-tools" class="top-anchor-link">Broadcast Alerts</a>
           <a href="#signal-tools" class="top-anchor-link">Signal Tools</a>
           <a href="#experience" class="top-anchor-link">Inside the App</a>
           <a href="https://apps.apple.com/app/swatlas-shortwave-explorer/id6761421523" class="download-link" target="_blank" rel="noopener noreferrer">App Store <span aria-hidden="true">↗</span></a>
@@ -60,7 +76,7 @@
           <div class="eyebrow"><span class="live-dot"></span> The world is broadcasting</div>
           <h1>Shortwave,<br><em>beautifully decoded.</em></h1>
           <p class="hero-text">
-            Find the signal. Understand the schedule. Transcribe the broadcast, then translate it into the language you choose. SWAtlas turns a vast world of frequencies, stations, languages, and UTC times into one calm, precise listening companion.
+            Use SWAtlas alongside a shortwave receiver to find broadcasts, understand UTC schedules, set alerts, decode Radiofax, Morse, and RTTY, record cleaner audio, and transcribe and translate speech on device.
           </p>
           <div class="hero-actions">
             <a class="primary-button" href="https://apps.apple.com/app/swatlas-shortwave-explorer/id6761421523" target="_blank" rel="noopener noreferrer">
@@ -68,6 +84,7 @@
             </a>
             <a class="text-button" href="#code-intelligence">See how codes become clear <span aria-hidden="true">↓</span></a>
           </div>
+          <p class="hero-receiver-note">SWAtlas is a companion app and does not receive radio signals by itself. A shortwave receiver or another audio source is required for live decoding, recording, and transcription.</p>
           <div class="hero-proof" aria-label="Product highlights">
             <span><b>01</b> Aoki + EiBi</span>
             <span><b>02</b> Live-aware</span>
@@ -266,7 +283,7 @@
             <span class="section-tag">Decode the hidden layer</span>
             <h2>From raw tones<br><em>to readable signals.</em></h2>
           </div>
-          <p class="reveal">The Rig button opens focused tools for decoding Radiofax, Morse, and RTTY, plus offline Whisper transcription and translation that helps you understand spoken broadcasts in other languages.</p>
+          <p class="reveal">Open the Rig screen to check NOAA Space Weather, receive Radiofax images, decode Morse and RTTY, transcribe and translate spoken broadcasts on device, or record and enhance radio audio while keeping the original.</p>
         </div>
 
         <div class="signal-tools-grid">
@@ -290,7 +307,7 @@
           <article class="signal-tool-card signal-tool-morse reveal" data-parallax="-0.012">
             <figure class="signal-tool-visual signal-tool-visual-morse">
               <img src="signal2.webp" alt="SWAtlas Morse code decoder feature" width="1179" height="2556" loading="eager" decoding="async" fetchpriority="low" onerror="this.closest('.signal-tool-visual').classList.add('is-missing'); this.remove();">
-              <figcaption><span>CW</span><strong>Morse Code Decoder</strong></figcaption>
+              <figcaption><span>CW</span><strong>Morse Decoder</strong></figcaption>
             </figure>
             <div class="signal-tool-copy">
               <div class="card-kicker">Morse code</div>
@@ -337,7 +354,42 @@
               </ul>
             </div>
           </article>
+
+          <article class="signal-tool-card signal-tool-recorder reveal" data-parallax="0.01">
+            <div class="signal-tool-copy">
+              <div class="card-kicker">Smart Radio Recorder</div>
+              <h3>Keep the voice. Reduce the radio noise.</h3>
+              <p>Record radio audio, reduce steady noise, and keep both the enhanced and original recordings. Finished recordings can be sent to Whisper Transcriber for on-device transcription and translation.</p>
+              <ul class="signal-tool-points">
+                <li><span>01</span><strong>Archive both enhanced and original recordings</strong></li>
+                <li><span>02</span><strong>Trim, rename, play, and review saved sessions</strong></li>
+                <li><span>03</span><strong>Continue from a recording to Whisper Transcriber</strong></li>
+              </ul>
+            </div>
+            <figure class="signal-tool-visual signal-tool-visual-recorder">
+              <img src="signal5.webp" alt="SWAtlas Smart Radio Recorder detecting a voice signal while recording" width="1179" height="2556" loading="lazy" decoding="async" onerror="this.closest('.signal-tool-visual').classList.add('is-missing'); this.remove();">
+              <figcaption><span>CLEAN AUDIO</span><strong>Smart Radio Recorder</strong></figcaption>
+            </figure>
+          </article>
+
+          <article class="signal-tool-card signal-tool-weather reveal" data-parallax="-0.012">
+            <figure class="signal-tool-visual signal-tool-visual-weather">
+              <img src="signal6.webp" alt="SWAtlas Space Weather dashboard showing NOAA scales and the D-RAP map" width="1179" height="2556" loading="lazy" decoding="async" onerror="this.closest('.signal-tool-visual').classList.add('is-missing'); this.remove();">
+              <figcaption><span>NOAA DATA</span><strong>Space Weather</strong></figcaption>
+            </figure>
+            <div class="signal-tool-copy">
+              <div class="card-kicker">Space Weather</div>
+              <h3>See radio conditions at a glance.</h3>
+              <p>Review NOAA radio conditions, R-scale blackout status, geomagnetic forecasts, solar flux, X-ray activity, and the latest D-RAP map. The most recently downloaded report remains available offline.</p>
+              <ul class="signal-tool-points">
+                <li><span>01</span><strong>Monitor radio blackout and geomagnetic conditions</strong></li>
+                <li><span>02</span><strong>Review the latest NOAA D-RAP world map</strong></li>
+                <li><span>03</span><strong>Save reports for later comparison</strong></li>
+              </ul>
+            </div>
+          </article>
         </div>
+        <div class="signal-tools-guide-link reveal"><a class="text-button" href="signaltools.html">Learn how each Signal Tool works <span aria-hidden="true">↗</span></a></div>
       </section>
 
       <section class="section experience-section" id="experience">
@@ -369,12 +421,15 @@
           <a class="text-button reveal" href="https://apps.apple.com/app/swatlas-shortwave-explorer/id6761421523" target="_blank" rel="noopener noreferrer">Explore SWAtlas on the App Store <span aria-hidden="true">↗</span></a>
         </div>
         <div class="feature-grid">
-          <article class="feature-card reveal"><span>01</span><h3>Frequency search</h3><p>Enter a frequency in kHz and find matching broadcasts in seconds.</p></article>
-          <article class="feature-card reveal"><span>02</span><h3>Station discovery</h3><p>Search by station name and move through clear, focused results.</p></article>
-          <article class="feature-card reveal"><span>03</span><h3>Live highlighting</h3><p>See what is active now with unmistakable on-air treatment.</p></article>
-          <article class="feature-card reveal"><span>04</span><h3>Smart filters</h3><p>Narrow results by language, country, schedule, status, or ITU code.</p></article>
-          <article class="feature-card reveal"><span>05</span><h3>Local schedules</h3><p>Read UTC broadcasts in the time zone set on your device.</p></article>
-          <article class="feature-card reveal"><span>06</span><h3>Offline directory</h3><p>Keep your downloaded reference data ready beyond the network.</p></article>
+          <article class="feature-card reveal"><span>01</span><h3>Frequency and station search</h3><p>Search the on-device directory by frequency, station, language, country, or code.</p></article>
+          <article class="feature-card reveal"><span>02</span><h3>Live schedules and alerts</h3><p>See what is on air, follow live progress, and return when a saved broadcast begins.</p></article>
+          <article class="feature-card reveal"><span>03</span><h3>Smart filters and offline directory</h3><p>Narrow a downloaded schedule by language, country, band, day, status, or ITU code.</p></article>
+          <article class="feature-card reveal"><span>04</span><h3>Maps, distance, and daylight</h3><p>Explore transmitter locations, approximate distance, and local daylight context.</p></article>
+          <article class="feature-card reveal"><span>05</span><h3>Saved Logs and Archive Insights</h3><p>Keep ratings and notes, then review reception history by station, country, date, or distance.</p></article>
+          <article class="feature-card reveal"><span>06</span><h3>Rig profiles and recovery</h3><p>Manage radio setups and recover equipment references found only in archived logs.</p></article>
+          <article class="feature-card reveal"><span>07</span><h3>Six Signal Tools</h3><p>Check Space Weather, decode Radiofax, Morse, and RTTY, transcribe speech, or record cleaner audio.</p></article>
+          <article class="feature-card reveal"><span>08</span><h3>Radiofax schedules and Auto Start</h3><p>Choose worldwide broadcasts, receive an alert, and prepare timed Radiofax reception.</p></article>
+          <article class="feature-card reveal"><span>09</span><h3>Data export and import</h3><p>Back up Saved Logs, settings, alerts, rigs, and Signal Tool archives in a .swatlasbackup package.</p></article>
         </div>
       </section>
 
