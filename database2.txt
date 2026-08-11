@@ -1,4 +1,4 @@
-A26 Shortwave Frequecy List  August 3 2026,  1200 UTC   Day 1 = Sunday
+A26 Shortwave Frequecy List  August 8 2026,  0800 UTC   Day 1 = Sunday
 kHz           Time(UTC)       ITU Station                Lang. Location    Days 
 +-------------+---------+-----+---+------------------------+---+-----------+----
 
@@ -1519,8 +1519,6 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 5970          1600-1630       OMA BBC                      Dar Al Seela    1-7  
 5970          1630-1700       OMA BBC                      Pas Al Seela    23456
 5970          1630-1700       OMA BBC                      Dar Al Seela    17   
-5970          1800-1830       OMA BBC                      Per Al Seela    1-7  
-5970          1830-1930       OMA BBC                      Per Al Seela    1-7  
 5970          1020-1230       CHN PBS Gannan               Tib Hezuo       1-7  
 5970          1230-1410       CHN PBS Gannan               Chi Hezuo       1-7  
 5970          2250-2300       CHN PBS Gannan               Tib Hezuo       1-7  
@@ -2020,7 +2018,6 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 7240          2300-0258       TIB PBS Xizang               Chi Lhasa       1-7  
 7240          1030-1100       TIB PBS Xizang (CNR1)        Chi Lhasa       1-7  
 7240          2230-2300       TIB PBS Xizang (CNR1)        Chi Lhasa       1-7  
-7245          1800-1830       OMA BBC                      Per Al Seela    1-7  
 7245          1600-1657       CHN CHINA RADIO INTERNATIONA Swa Xianyang 59 1-7  
 7245          1900-2057       CHN CHINA RADIO INTERNATIONA Rus Baoji-Xinji 1-7  
 7245          1300-1605       CHN CNR 2-China Business Rad Chi Beijing 491 1-7  
@@ -2706,7 +2703,6 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 9545          2200-0500       SLM Solomon Islands BC       Eng Honiara     1-7  
 9545          0900-1000       ALS World Christian Broadc.K Rus Anchor Poin 1-7  
 9550          1800-1900       GUM KSDA-Adventist World R.G Kor Agat        1-7  
-9550          0330-0430       OMA BBC                      Per Al Seela    1-7  
 9550          0000-0057       CHN CHINA RADIO INTERNATIONA Hak Kunming-Ann 1-7  
 9550          0100-0157       CHN CHINA RADIO INTERNATIONA Amo Kunming-Ann 1-7  
 9550          1100-1657       CHN CHINA RADIO INTERNATIONA Vie Beijing 572 1-7  
@@ -3151,7 +3147,6 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 9870          0000-0100       TUR VOICE OF TURKEY          Por Emirler     1-7  
 9870          0100-0155       TUR VOICE OF TURKEY          Spa Emirler     1-7  
 9874          1304-1309       UZB * VOICE OF TIBET         Tib Tashkent    1-7  
-9875          0330-0430       OMA BBC                      Per Al Seela    1-7  
 9875          2300-2330       PHL FEBC RADIO               Iu  Bocaue      1-7  
 9875          2330-2400       PHL FEBC RADIO               Iu  Bocaue      23456
 9875          0700-0757       KRE Voice of Korea           Rus Kujang      1-7  
