@@ -4,16 +4,16 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="theme-color" content="#f3f0e8">
-  <title>SWAtlas — Shortwave, beautifully decoded</title>
-  <meta name="description" content="Explore shortwave broadcasts and decode, transcribe, translate, and archive what you hear with offline-ready tools in SWAtlas.">
+  <title>SWAtlas — Shortwave, World Airband, and World FM</title>
+  <meta name="description" content="Explore shortwave broadcasts and quickly find nearby World Airband and country-based World FM frequency references with SWAtlas.">
   <meta property="og:type" content="website">
-  <meta property="og:title" content="SWAtlas — Shortwave, beautifully decoded">
-  <meta property="og:description" content="Find the signal, decode its hidden layers, and understand foreign-language broadcasts with offline transcription and translation.">
+  <meta property="og:title" content="SWAtlas — Shortwave, World Airband, and World FM">
+  <meta property="og:description" content="Find shortwave broadcasts and browse location-aware World Airband and World FM frequency references.">
   <meta property="og:image" content="https://pixelbricktek.github.io/SWAtlas/og.png">
   <meta property="og:url" content="https://pixelbricktek.github.io/SWAtlas/">
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="SWAtlas — Shortwave, beautifully decoded">
-  <meta name="twitter:description" content="Find the signal, decode its hidden layers, and understand foreign-language broadcasts with offline transcription and translation.">
+  <meta name="twitter:title" content="SWAtlas — Shortwave, World Airband, and World FM">
+  <meta name="twitter:description" content="Find shortwave broadcasts and browse location-aware World Airband and World FM frequency references.">
   <meta name="twitter:image" content="https://pixelbricktek.github.io/SWAtlas/og.png">
   <link rel="canonical" href="https://pixelbricktek.github.io/SWAtlas/">
   <link rel="icon" type="image/png" href="ico.png">
@@ -26,7 +26,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&amp;family=Manrope:wght@400;500;600;700;800&amp;display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="style.css?v=20260805-copy-refresh">
+  <link rel="stylesheet" href="style.css?v=20260811-airband-fm">
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
@@ -34,7 +34,7 @@
     "name": "SWAtlas",
     "operatingSystem": "iOS, iPadOS",
     "applicationCategory": "UtilitiesApplication",
-    "description": "A companion for shortwave listeners with broadcast schedules, alerts, maps, Signal Tools, on-device transcription, and offline translation.",
+    "description": "A radio companion with shortwave schedules, location-aware World Airband and World FM references, alerts, maps, Signal Tools, on-device transcription, and offline translation.",
     "url": "https://pixelbricktek.github.io/SWAtlas/",
     "downloadUrl": "https://apps.apple.com/app/swatlas-shortwave-explorer/id6761421523"
   }
@@ -76,7 +76,7 @@
           <div class="eyebrow"><span class="live-dot"></span> The world is broadcasting</div>
           <h1>Shortwave,<br><em>beautifully decoded.</em></h1>
           <p class="hero-text">
-            Use SWAtlas alongside a shortwave receiver to find broadcasts, understand UTC schedules, set alerts, decode Radiofax, Morse, and RTTY, record cleaner audio, and transcribe and translate speech on device.
+            Use SWAtlas alongside your radio to explore shortwave broadcasts and quickly find World Airband and World FM frequencies, with nearby airports and relevant country data brought to the top.
           </p>
           <div class="hero-actions">
             <a class="primary-button" href="https://apps.apple.com/app/swatlas-shortwave-explorer/id6761421523" target="_blank" rel="noopener noreferrer">
@@ -85,10 +85,12 @@
             <a class="text-button" href="#code-intelligence">See how codes become clear <span aria-hidden="true">↓</span></a>
           </div>
           <p class="hero-receiver-note">SWAtlas is a companion app and does not receive radio signals by itself. A shortwave receiver or another audio source is required for live decoding, recording, and transcription.</p>
+          <p class="hero-reference-note"><strong>World Airband &amp; World FM are reference tools.</strong> With location access, World Airband lists nearby airports first, while World FM prioritizes stations from your current country—making the frequency you need easier to find.</p>
           <div class="hero-proof" aria-label="Product highlights">
             <span><b>01</b> Aoki + EiBi</span>
             <span><b>02</b> Live-aware</span>
             <span><b>03</b> Offline-ready</span>
+            <span><b>04</b> Airband + FM</span>
           </div>
         </div>
 
@@ -133,7 +135,7 @@
             <span class="section-tag">A deeper directory</span>
             <h2>Thousands of broadcasts.<br><em>One intelligent atlas.</em></h2>
           </div>
-          <p class="reveal">Built on the respected Aoki and EiBi datasets, enhanced with additional listening references, and arranged for fast local discovery—even when your connection disappears.</p>
+          <p class="reveal">Built on respected shortwave datasets and expanded with World Airband and World FM reference directories, arranged to surface the most locally relevant frequency information first.</p>
         </div>
 
         <div class="database-panel reveal" data-parallax="0.02">
@@ -163,6 +165,16 @@
             <article class="database-row">
               <span class="row-number">03</span>
               <div><h3>Distance in context</h3><p>When location data is available, see an approximate distance between you and the transmitter.</p></div>
+              <span class="row-arrow" aria-hidden="true">↗</span>
+            </article>
+            <article class="database-row">
+              <span class="row-number">04</span>
+              <div><h3>Nearby airports first</h3><p>World Airband uses your location to list nearby airports first, helping you reach local tower, approach, ground, and information frequencies faster.</p></div>
+              <span class="row-arrow" aria-hidden="true">↗</span>
+            </article>
+            <article class="database-row">
+              <span class="row-number">05</span>
+              <div><h3>Your country’s FM stations first</h3><p>World FM prioritizes frequency references for your current country, with station and city information where available.</p></div>
               <span class="row-arrow" aria-hidden="true">↗</span>
             </article>
           </div>
@@ -430,6 +442,8 @@
           <article class="feature-card reveal"><span>07</span><h3>Six Signal Tools</h3><p>Check Space Weather, decode Radiofax, Morse, and RTTY, transcribe speech, or record cleaner audio.</p></article>
           <article class="feature-card reveal"><span>08</span><h3>Radiofax schedules and Auto Start</h3><p>Choose worldwide broadcasts, receive an alert, and prepare timed Radiofax reception.</p></article>
           <article class="feature-card reveal"><span>09</span><h3>Data export and import</h3><p>Back up Saved Logs, settings, alerts, rigs, and Signal Tool archives in a .swatlasbackup package.</p></article>
+          <article class="feature-card reveal"><span>10</span><h3>World Airband reference</h3><p>Browse airport communication frequencies with nearby airports placed first when location access is available.</p></article>
+          <article class="feature-card reveal"><span>11</span><h3>World FM reference</h3><p>Look up FM frequencies, stations, and cities worldwide, with your current country prioritized for faster discovery.</p></article>
         </div>
       </section>
 
