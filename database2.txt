@@ -1,4 +1,4 @@
-A26 Shortwave Frequecy List  August 8 2026,  0800 UTC   Day 1 = Sunday
+A26 Shortwave Frequecy List  August 12  2026,  0200 UTC   Day 1 = Sunday
 kHz           Time(UTC)       ITU Station                Lang. Location    Days 
 +-------------+---------+-----+---+------------------------+---+-----------+----
 
@@ -120,6 +120,20 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 639           0430-0700       MMR Myanmar Thazin Radio     Eng Naypyidaw   1-7  
 639           0930-1500       MMR Myanmar Thazin Radio     Bur Naypyidaw   1-7  
 639           2330-0130       MMR Myanmar Thazin Radio     Bur Naypyidaw   1-7  
+639           0600-0630       CYP BBC                      Eng Limassol    1-7  
+639           0630-0700       CYP BBC                      Ara Limassol    12345
+639           0630-0700       CYP BBC                      Eng Limassol    67   
+639           0700-0730       CYP BBC                      Ara Limassol    1-7  
+639           1300-1400       CYP BBC                      Ara Limassol    17   
+639           1300-1430       CYP BBC                      Ara Limassol    23456
+639           1400-1500       CYP BBC                      Eng Limassol    17   
+639           1430-1500       CYP BBC                      Eng Limassol    23456
+639           1500-1530       CYP BBC                      Ara Limassol    1-7  
+639           1530-1700       CYP BBC                      Eng Limassol    23456
+639           1600-1700       CYP BBC                      Eng Limassol    17   
+639           1700-1730       CYP BBC                      Ara Limassol    1-7  
+639           1800-1930       CYP BBC                      Ara Limassol    23456
+639           1900-1930       CYP BBC                      Eng Limassol    17   
 640           0000-2400       USA KFI                      Eng Los Angeles 1-7  
 648           0000-2400       J   AFN Okinawa              Eng Okinawa     1-7  
 648           0000-2400       J   NHK AM Toyama            Jpn Toyama      1-7  
@@ -176,8 +190,20 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 720           0050-0520       IRN VO ISLAMIC REP.IRAN      Aze Taybad      1-7  
 720           0220-1520       IRN VO ISLAMIC REP.IRAN      Dar Taybad      1-7  
 720           1520-1720       IRN VO ISLAMIC REP.IRAN      Taj Taybad      1-7  
-720           1930-2000       CYP BBC                      Per Limassol    1-7  
-720           2030-2100       CYP BBC                      Per Limassol    1-7  
+720           0600-0630       CYP BBC                      Eng Limassol    1-7  
+720           0630-0700       CYP BBC                      Ara Limassol    12345
+720           0630-0700       CYP BBC                      Eng Limassol    67   
+720           0700-0730       CYP BBC                      Ara Limassol    1-7  
+720           1300-1400       CYP BBC                      Ara Limassol    17   
+720           1300-1430       CYP BBC                      Ara Limassol    23456
+720           1400-1500       CYP BBC                      Eng Limassol    17   
+720           1430-1500       CYP BBC                      Eng Limassol    23456
+720           1500-1530       CYP BBC                      Ara Limassol    1-7  
+720           1530-1700       CYP BBC                      Eng Limassol    23456
+720           1600-1700       CYP BBC                      Eng Limassol    17   
+720           1700-1730       CYP BBC                      Ara Limassol    1-7  
+720           1800-1930       CYP BBC                      Ara Limassol    23456
+720           1900-1930       CYP BBC                      Eng Limassol    17   
 720           2200-1500       VTN Voice of Vietnam P       Vie Ho Chi Minh 1-7  
 729           2000-1730       CHN Jiangxi PBS, News Servic Chi Nanchang 56 1-7  
 729           0000-2400       J   NHK AM Nagoya            Jpn Nagoya      1-7  
@@ -690,16 +716,6 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 1242          1430-1500       VTN VOICE OF VIETNAM         Tha Thoi Long   1-7  
 1242          1500-1600       VTN VOICE OF VIETNAM         Vie Thoi Long   1-7  
 1242          1600-1630       VTN VOICE OF VIETNAM         Khm Thoi Long   1-7  
-1251          0200-0230       TJK BBC                      Taj Dushanbe-Ya 1-7  
-1251          0930-1000       TJK BBC                      Taj Dushanbe-Ya 1-7  
-1251          1000-1030       TJK BBC                      Eng Dushanbe-Ya 34567
-1251          1000-1030       TJK BBC                      Pas Dushanbe-Ya 12   
-1251          1300-1330       TJK BBC                      Eng Dushanbe-Ya 1-7  
-1251          1330-1430       TJK BBC                      Taj Dushanbe-Ya 1-7  
-1251          1600-1630       TJK BBC                      Dar Dushanbe-Ya 1-7  
-1251          1730-1800       TJK BBC                      Dar Dushanbe-Ya 1-7  
-1251          1800-1830       TJK BBC                      Taj Dushanbe-Ya 1-7  
-1251          1830-1900       TJK BBC                      Pas Dushanbe-Ya 1-7  
 1251          0000-2400       CHN CNR 1 Voice of China     Chi Heilongjian 1-7  
 1251          0325-2000       HNG Danko Radio              Hun Nyiregyhaza 1-7  
 1251          0325-2000       HNG Danko Radio              Hun Szombathely 1-7  
@@ -728,7 +744,6 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 1296          0000-2400       E   COPE Ciudad Real         Spa Ciudad Real 1-7  
 1296          0000-2400       J   NHK AM Matsue            Jpn Shimane-Mat 1-7  
 1296          0000-2400       AUS Reading Radio            Eng Brisbane/Ti 1-7  
-1296          1630-1700       TJK BBC                      Per Dushanbe-Or 1-7  
 1296          1730-2330       TJK RADIO FARDA              Per Dushanbe-Or 1-7  
 1305          0000-2400       E   RNE Radio 5 Ciudad Real  Spa Ciudad Real 1-7  
 1305          0000-2400       E   RNE Radio 5 Ourense      Spa Ourense/Per 1-7  
@@ -836,6 +851,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 1386          2200-2230       LTU Radio Ukraine Internatio Bel Viesintos   1-7  
 1386          2230-0330       LTU Radio Ukraine Internatio Ukr Viesintos   1-7  
 1395          1500-1700       ARM RADIO FARDA              Per Yerevan-Gav 1-7  
+1395          1730-1800       ARM BBC                      Per Yerevan-Gav 1-7  
 1395          1800-1820       ARM NHK WORLD RADIO JAPAN    Per Yerevan-Gav 1-7  
 1395          1830-2030       ARM Adventist World Radio    Ara Yerevan-Gav 1-7  
 1395          2030-2100       ARM BBC                      Per Yerevan-Gav 1-7  
@@ -3146,6 +3162,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 9870          1100-1200       ALS World Christian Broadc.K Kor Anchor Poin 1-7  
 9870          0000-0100       TUR VOICE OF TURKEY          Por Emirler     1-7  
 9870          0100-0155       TUR VOICE OF TURKEY          Spa Emirler     1-7  
+9870          1500-1530       OMA BBC                      Ara Al Seela    12345
 9874          1304-1309       UZB * VOICE OF TIBET         Tib Tashkent    1-7  
 9875          2300-2330       PHL FEBC RADIO               Iu  Bocaue      1-7  
 9875          2330-2400       PHL FEBC RADIO               Iu  Bocaue      23456
@@ -3718,11 +3735,11 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 11825         0655-0950       J   NHK WORLD RADIO JAPAN    Jpn Ibaragi-Kog 1-7  
 11825         0400-0500       MDG World Christian Broadc.A Eng Mahajanga 2 1-7  
 11830         1300-1400       OMA BBC                      Eng Al Seela    1-7  
-11830         1500-1530       OMA BBC                      Ara Al Seela    12345
 11830         0100-0300       TKS CHINA RADIO INTERNATIONA Spa Kashi-Saiba 1-7  
 11830         2300-0100       TKS CHINA RADIO INTERNATIONA Spa Kashi-Saiba 1-7  
 11830         0300-0357       ROU R.ROMANIA INT.           Eng Tiganesti   1-7  
 11830         1600-1657       ROU R.ROMANIA INT.           Fre Galbeni-Bac 1-7  
+11830         1500-1530       MDG BBC                      Ara Talata-Volo 12345
 11850         1620-1650       IRN VO ISLAMIC REP.IRAN      Ben Sirjan      1-7  
 11850         0000-0600       CHN CNR 1 Voice of China     Chi Nanning 954 1-7  
 11850         0600-0900       CHN CNR 1 Voice of China     Chi Nanning 954 124-7
@@ -4454,7 +4471,6 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 15270         0900-1100       CHN CNR 2-China Business Rad Chi Beijing 491 1-7  
 15270         1030-1055       TUR VOICE OF TURKEY          Uzb Emirler     1-7  
 15280         1530-1557       ROU R.ROMANIA INT.           Ara Galbeni-Bac 1-7  
-15280         1500-1530       MDG BBC                      Ara Talata-Volo 12345
 15280         0655-0950       J   NHK WORLD RADIO JAPAN    Jpn Ibaragi-Kog 1-7  
 15280         2100-1700       TWN * SOH Xi Wang Zhi Sheng  Chi Miaoli      1-7  
 15280         2155-2200       CHN x CNR 11                 Tib Dongfang Ha 1-7  
@@ -5178,6 +5194,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 17810         0830-0930       OMA BBC                      Dar Al Seela    1-7  
 17810         0930-1030       OMA BBC                      Pas Al Seela    1-7  
 17810         1030-1100       OMA BBC                      Dar Al Seela    1-7  
+
 17810         1100-1130       OMA BBC                      Pas Al Seela    1-7  
 17810         0200-0500       J   NHK WORLD RADIO JAPAN    Jpn Ibaragi-Kog 1-7  
 17810         1530-1630       F   VORW Radio International Eng Issoudun    2    
