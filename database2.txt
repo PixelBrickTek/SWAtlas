@@ -1,4 +1,4 @@
-A26 Shortwave Frequecy List  August 12  2026,  0200 UTC   Day 1 = Sunday
+A26 Shortwave Frequecy List  August 14 2026,  1000 UTC   Day 1 = Sunday
 kHz           Time(UTC)       ITU Station                Lang. Location    Days 
 +-------------+---------+-----+---+------------------------+---+-----------+----
 
@@ -2592,7 +2592,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 9450          1300-1357       TKS CHINA RADIO INTERNATIONA Hin Kashi-Saiba 1-7  
 9455          1330-1357       TWN Furusato no kaze         Jpn Paochung    1-7  
 9455          1300-1328       TWN Nippon no Kaze"il bon ue Kor Paochung    1-7  
-9455          2230-2245       TJK RADIO FREE ASIA          Chi Dushanbe-Or 23456
+9455          2230-2256       TJK * RADIO FREE ASIA        Chi Dushanbe-Or 23456
 9455          1500-1600       CHN CHINA RADIO INTERNATIONA Chi Kunming-Ann 1-7  
 9455          0000-0100       USA WRMI E Bible Fellowship  Eng Okeechobee1 34567
 9455          0100-0200       USA WRMI R.Prague            Eng Okeechobee1 1-7  
@@ -2627,7 +2627,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 9470          0500-0600       TKS PBS Xinjiang             Chi Urumqi      1-7  
 9470          0600-0800       TKS PBS Xinjiang             Kaz Urumqi      1-7  
 9470          0800-1100       TKS PBS Xinjiang             Kaz Urumqi      124-7
-9470          1100-1152       TKS PBS Xinjiang             Kaz Urumqi      1-7  
+9470          1100-1153       TKS PBS Xinjiang             Kaz Urumqi      1-7  
 9475          1400-2400       USA WTWW                     Eng Lebanon TN  1-7  
 9480          1800-1957       CHN CHINA RADIO INTERNATIONA Fre Xianyang 59 1-7  
 9480          1100-1400       CHN CNR 11                   Tib Dongfang Ha 1-7  
@@ -3980,6 +3980,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 12025         1258-1357       CHN CHINA RADIO INTERNATIONA Kor Xianyang 59 1-7  
 12025         1400-1500       TKS CHINA RADIO INTERNATIONA Chi Urumqi Hutu 1-7  
 12030         0000-1200       HOL Radio Delta Internationa Dut Elburg      1-7  
+12035         2200-2400       OMA BBC                      Eng Al Seela    1-7  
 12040         1430-1700       UAE RADIO FARDA              Per Al-Dhabbiya 1-7  
 12040         1700-2100       G   RADIO FARDA              Per Woofferton  1-7  
 12045         0600-0900       CHN CNR 1 Voice of China     Chi Beijing 572 124-7
@@ -5194,7 +5195,6 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 17810         0830-0930       OMA BBC                      Dar Al Seela    1-7  
 17810         0930-1030       OMA BBC                      Pas Al Seela    1-7  
 17810         1030-1100       OMA BBC                      Dar Al Seela    1-7  
-
 17810         1100-1130       OMA BBC                      Pas Al Seela    1-7  
 17810         0200-0500       J   NHK WORLD RADIO JAPAN    Jpn Ibaragi-Kog 1-7  
 17810         1530-1630       F   VORW Radio International Eng Issoudun    2    
