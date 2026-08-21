@@ -1,4 +1,4 @@
-A26 Shortwave Frequecy List  August 14 2026,  1000 UTC   Day 1 = Sunday
+A26 Shortwave Frequecy List  August 20 2026,  0800 UTC   Day 1 = Sunday
 kHz           Time(UTC)       ITU Station                Lang. Location    Days 
 +-------------+---------+-----+---+------------------------+---+-----------+----
 
@@ -3175,6 +3175,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 9875          2000-2050       KRE Voice of Korea (KCBS)    Kor Kujang      1-7  
 9875          2300-2350       KRE Voice of Korea (KCBS)    Kor Kujang      1-7  
 9875          2030-2125       TUR VOICE OF TURKEY          Eng Emirler     1-7  
+9875          2330-2400       PHL FEBC RADIO               Rki Bocaue      167  
 9880          0000-0057       CHN CHINA RADIO INTERNATIONA Chi Kunming-Ann 1-7  
 9880          0800-1057       CHN CHINA RADIO INTERNATIONA Chi Beijing 572 1-7  
 9880          0900-1000       CHN CHINA RADIO INTERNATIONA Chi Nanning 954 1-7  
@@ -4303,6 +4304,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 13870         1000-1030       PHL FEBC RADIO               Sha Bocaue      23456
 13870         1030-1100       PHL FEBC RADIO               Iu  Bocaue      23456
 13870         1100-1300       PHL FEBC RADIO               Khm Bocaue      1-7  
+13870         1030-1100       PHL FEBC RADIO               Rki Bocaue      167  
 13890         2200-1700       TWN * SOH Xi Wang Zhi Sheng  Chi Miaoli      1-7  
 13920         2213-1420       TWN * SOH Xi Wang Zhi Sheng  Chi Miaoli      1-7  
 13960         2130-1500       TWN * SOH Xi Wang Zhi Sheng  Chi Miaoli      1-7  
@@ -4661,8 +4663,6 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 15440         1830-1900       D   Adventist World Radio    Amh Nauen       1-7  
 15445         0400-0600       TKS CHINA RADIO INTERNATIONA Rus Kashi-Saiba 1-7  
 15450         0030-0045       PHL FEBC RADIO               Chi Bocaue      167  
-15450         0045-0100       PHL FEBC RADIO               Rak Bocaue      167  
-15450         1100-1115       PHL FEBC RADIO               Rak Bocaue      167  
 15450         1400-1430       PHL FEBC RADIO               ksw Bocaue      23456
 15450         2300-0030       PHL FEBC RADIO               Bur Bocaue      1-7  
 15450         0900-0930       PHL FEBC Radio Liangyou      khb Bocaue      1-7  
