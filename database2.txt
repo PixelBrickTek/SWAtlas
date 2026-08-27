@@ -1,4 +1,4 @@
-A26 Shortwave Frequecy List  August 20 2026,  0800 UTC   Day 1 = Sunday
+A26 Shortwave Frequecy List  August 26  2026,  1200 UTC   Day 1 = Sunday
 kHz           Time(UTC)       ITU Station                Lang. Location    Days 
 +-------------+---------+-----+---+------------------------+---+-----------+----
 
@@ -4051,7 +4051,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 12120         1300-1330       PHL FEBC Radio Liangyou      Lis Bocaue      1-7  
 12120         1730-2030       PHL R.PILIPINAS              Fil Tinang      1-7  
 12120         0030-0102       PHL Trans World Radio        Eng Bocaue      23456
-12140         0500-1500       PHL VOICE OF AMERICA         Kor Tinang      23456
+12140         0500-1500       PHL VOICE OF AMERICA         Kor Tinang      34567
 12150         2130-1700       TWN * SOH Xi Wang Zhi Sheng  Chi Miaoli      1-7  
 12160         2050-1600       TWN * SOH Xi Wang Zhi Sheng  Chi Miaoli      1-7  
 12160         0900-0930       PHL Trans World Radio Do You Hak Bocaue      23456
@@ -4366,7 +4366,8 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 15135         0830-0927       CHN CHINA RADIO INTERNATIONA Ind Kunming-Ann 1-7  
 15135         0930-1027       CHN CHINA RADIO INTERNATIONA Mal Kunming-Ann 1-7  
 15135         1030-1127       CHN CHINA RADIO INTERNATIONA Ind Kunming-Ann 1-7  
-15140         2200-0500       PHL VOICE OF AMERICA         Kor Tinang      23456
+15140         2200-2400       PHL VOICE OF AMERICA         Kor Tinang      23456
+15140         0000-0500       PHL VOICE OF AMERICA         Kor Tinang      34567
 15140         0700-1900       ALG Ifrikya FM               Ara Ourgla      1-7  
 15140         1300-1500       CUB R.HABANA CUBA            Spa Bauta       1-7  
 15140         1500-1530       CUB R.HABANA CUBA            Esp Bauta       1    
@@ -5193,6 +5194,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 17810         0500-0530       OMA BBC                      Pas Al Seela    1-7  
 17810         0700-0730       OMA BBC                      Ara Al Seela    12345
 17810         0830-0930       OMA BBC                      Dar Al Seela    1-7  
+
 17810         0930-1030       OMA BBC                      Pas Al Seela    1-7  
 17810         1030-1100       OMA BBC                      Dar Al Seela    1-7  
 17810         1100-1130       OMA BBC                      Pas Al Seela    1-7  
