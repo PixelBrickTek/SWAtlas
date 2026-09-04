@@ -1,4 +1,4 @@
-A26 Shortwave Frequecy List  August 29  2026,  1100 UTC   Day 1 = Sunday
+A26 Shortwave Frequecy List  September 3  2026,  1100 UTC   Day 1 = Sunday
 kHz           Time(UTC)       ITU Station                Lang. Location    Days 
 +-------------+---------+-----+---+------------------------+---+-----------+----
 
@@ -2155,7 +2155,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 7315          1600-1657       CHN CHINA RADIO INTERNATIONA Vie Kunming-Ann 1-7  
 7315          1100-1605       CHN CNR 2-China Business Rad Chi Xianyang 59 1-7  
 7315          2055-0100       CHN CNR 2-China Business Rad Chi Xianyang 59 1-7  
-7315          0330-0400       MDG JRC Radio Dabanga        Dar Talata-Volo 3456 
+7315          0400-0430       CVA JRC Radio Dabanga        Jub Santa Maria 3456 
 7320          0200-0215       UAE FEBA Radio Pakistan      Urd Al-Dhabbiya 1-7  
 7320          0215-0230       UAE FEBA Radio Pakistan      Bal Al-Dhabbiya 234  
 7320          0215-0230       UAE FEBA Radio Pakistan      Sin Al-Dhabbiya 567  
@@ -3463,6 +3463,8 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 11615         1100-1200       CHN CNR 1 Jamming            Chi Dongfang Ha 1-7  
 11615         1100-1200       TWN * R.TAIWAN INT.          Chi Paochung    1-7  
 11615         2000-2100       D   Music 4 Joy DRM          Mus Nauen       35   
+11615         0400-0430       CVA JRC Radio Tamazui        Jub Santa Maria 3456 
+11615         1600-1630       MDG JRC Radio Tamazui        Jub Talata-Volo 23456
 11620         1000-1257       CHN CHINA RADIO INTERNATIONA Jpn Xianyang 59 1-7  
 11620         2257-2357       CHN CHINA RADIO INTERNATIONA Vie Beijing 572 1-7  
 11620         0000-0600       CHN CNR 5                    Chi Beijing 491 1-7  
@@ -4748,6 +4750,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 15550         0000-0600       CHN CNR 7 Radio The Great Ba Can Huhhot 694  1-7  
 15550         0600-0900       CHN CNR 7 Radio The Great Ba Can Huhhot 694  124-7
 15550         0900-1100       CHN CNR 7 Radio The Great Ba Can Huhhot 694  124-7
+15550         1630-1700       MDG JRC Radio Dabanga        Dar Talata-Volo 17   
 15550         1700-1800       CVA JRC Radio Dabanga        Dar Santa Maria 1-7  
 15550         1330-1400       GUM KSDA-Adventist World R.G Ass Agat        14   
 15555         1200-1257       CHN CHINA RADIO INTERNATIONA Eng Xianyang 59 1-7  
