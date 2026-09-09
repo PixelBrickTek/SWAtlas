@@ -1,4 +1,4 @@
-A26 Shortwave Frequecy List  September 3  2026,  1100 UTC   Day 1 = Sunday
+A26 Shortwave Frequecy List  September 6  2026,  0800 UTC   Day 1 = Sunday
 kHz           Time(UTC)       ITU Station                Lang. Location    Days 
 +-------------+---------+-----+---+------------------------+---+-----------+----
 
