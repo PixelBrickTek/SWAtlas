@@ -1,4 +1,4 @@
-A26 Shortwave Frequecy List  September 6  2026,  0800 UTC   Day 1 = Sunday
+A26 Shortwave Frequecy List  September 11  2026,  0300 UTC   Day 1 = Sunday
 kHz           Time(UTC)       ITU Station                Lang. Location    Days 
 +-------------+---------+-----+---+------------------------+---+-----------+----
 
@@ -3267,6 +3267,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 9930          1300-0130       USA WTWW                     Eng Lebanon TN  1-7  
 9940          1300-1328       TWN Nippon no Kaze"il bon ue Kor Paochung    1-7  
 9950          1500-2200       PHL VOICE OF AMERICA         Kor Tinang      23456
+9950          2200-2400       PHL VOICE OF AMERICA         Kor Tinang      23456
 9950          1445-1500       UZB Trans World Radio Do You Kaz Tashkent    1-7  
 9955          0000-0015       USA WRMI Maravillosas Palabr Spa Okeechobee3 2    
 9955          0000-0015       USA WRMI Todays Word Is      Eng Okeechobee3 6    
@@ -5242,6 +5243,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 17850         1900-2000       F   R.FRANCE INT.            Fre Issoudun    1-7  
 17855         0357-0557       CHN CHINA RADIO INTERNATIONA Eng Beijing 572 1-7  
 17860         1100-1157       ROU R.ROMANIA INT.           Eng Galbeni-Bac 1-7  
+17865         0000-0500       PHL VOICE OF AMERICA         Kor Tinang      23456
 17865         0600-0800       TKS CHINA RADIO INTERNATIONA Fre Kashi-Saiba 1-7  
 17865         0830-1030       UAE IBRA MEDIA/R.Sadaye Zind Dar Al-Dhabbiya 1-7  
 17880         0600-0910       CHN CUC-ECDAV 5B1 DRM test   Chi Kunming-Ann 1-7  
