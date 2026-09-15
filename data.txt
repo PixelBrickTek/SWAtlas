@@ -1,4 +1,4 @@
-A26 Shortwave Frequecy List  September 11  2026,  0300 UTC   Day 1 = Sunday
+A26 Shortwave Frequecy List  September 14  2026,  1300 UTC   Day 1 = Sunday
 FRE   STATION                         UTC       Su-W-Sa Language             Pow Azi Location                ADM L/L             Remarks
    40 Time Signal                     0000-2400 1234567 A1B                   50  ND Otakadoyama Tamura C    J   372221N1405056E NICT
    60 Time Signal                     0000-2400 1234567 A1B                   50  ND Haganeyama              J   332756N1301032E NICT
@@ -4302,7 +4302,6 @@ FRE   STATION                         UTC       Su-W-Sa Language             Pow
 13850 CHINA RADIO INTERNATIONAL       0900-1057 1234567 Chinese              500 193 Beijing 572             CHN 394451N1164849E CRI a26
 13855 Ifrikya FM                      0000-0100 1234567 Arabic/French        300 210 Ourgla                  ALG 315524N0050432E TDA a26
 13855 Ifrikya FM                      1900-2359 1234567 Arabic/French        300 210 Ourgla                  ALG 315524N0050432E TDA a26
-13860xAudio (DRM) 1 xHE AAC           2100-1100 1234567 Chinese(Digital)      30 175 Beijing 572             CHN 394454N1164841E CNR1 DRM a26 Jun.3
 13860 CHINA RADIO INTERNATIONAL       1100-1157 1234567 Russian              500 318 Beijing 572             CHN 394451N1164849E CRI a26
 13860 CHINA RADIO INTERNATIONAL       1500-1600 1234567 Russian              500 315 Shijiazhuang 723        CHN 374951N1142810E CRI a26
 13870*SOH Xi Wang Zhi Sheng           2130-1500 1234567 Chinese                1  ND Miaoli                  TWN 242317N1204253E SOH a26
@@ -5098,6 +5097,7 @@ FRE   STATION                         UTC       Su-W-Sa Language             Pow
 17680 R.ROMANIA INT. DRM E1001        0530-0557 1234567 English               90  97 SNR Tiganesti E2        ROU 444457N0260610E RRO a26
 17690 CHINA RADIO INTERNATIONAL       0000-0157 1234567 Chinese              500 200 Xianyang 594            CHN 342231N1083638E CRI a26
 17690 R.ROMANIA INT.                  0800-0857    1    Romanian"Curierul ro 300 142 Tiganesti               ROU 444457N0260610E RRO a26
+17695 Audio (DRM) 1 xHE AAC           0800-1200 1234567 Chinese(Digital)      30 290 Beijing 572             CHN 394454N1164841E CNR1 DRM a26 Sep.15-
 17700 Audio (DRM) 1 xHE AAC           0100-0900 1234567 Chinese(Digital)      30 300 Qiqihar 2021            CHN 472047N1241607E CNR1 DRM a26
 17700 BBC                             1600-1900    7    Hausa                250  65 Ascension               ASC 075354S0142239W BBC a26
 17700 Trans World Radio               1400-1415    7    Bundeli              250  45 Talata-Volonondry 3     MDG 184509S0473654E TWR a26
@@ -5131,6 +5131,7 @@ FRE   STATION                         UTC       Su-W-Sa Language             Pow
 17715 R.EXTERIOR DE ESPANA            2230-2300    3    French               200 230 Noblejas                E   395729N0032550W REE a26
 17715 R.EXTERIOR DE ESPANA            2300-0200  34567  Spanish              200 230 Noblejas                E   395729N0032550W REE a26
 17715 VATICAN RADIO                   0700-0930 1234567 Arabic               250  98 Santa Maria di Galeria  CVA 420239N0121922E VAT a26
+17720 Audio (DRM) 1 xHE AAC           0800-1200 1234567 Chinese(Digital)      30 290 Beijing 572             CHN 394454N1164841E CNR1 DRM a26 Sep.15-
 17720 CHINA RADIO INTERNATIONAL       0500-0657 1234567 German               500 308 Kashi-Saibagh 2022      TKS 392152N0754258E CRI a26
 17720 R.ROMANIA INT.                  0200-0257 1234567 Spanish              300 247 Tiganesti               ROU 444457N0260610E RRO a26
 17720 Shan News Radio                 1300-1350  23456  Shan/Burmese         250  90 Al-Dhabbiya             UAE 241012N0541459E ENC b25
@@ -5343,6 +5344,10 @@ FRE   STATION                         UTC       Su-W-Sa Language             Pow
       Daily changes
      *Jammed by CNR1                                                                 Tibet Autonomous Region TIB
      xoff the air                                                                    Xinjiang Uyghur         TKS
+
+
+
+
 
 
 

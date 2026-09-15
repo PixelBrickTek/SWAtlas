@@ -1,4 +1,4 @@
-A26 Shortwave Frequecy List  September 11  2026,  0300 UTC   Day 1 = Sunday
+A26 Shortwave Frequecy List  September 14  2026,  1300 UTC   Day 1 = Sunday
 kHz           Time(UTC)       ITU Station                Lang. Location    Days 
 +-------------+---------+-----+---+------------------------+---+-----------+----
 
@@ -4304,7 +4304,6 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 13850         0900-1057       CHN CHINA RADIO INTERNATIONA Chi Beijing 572 1-7  
 13855         0000-0100       ALG Ifrikya FM               Ara Ourgla      1-7  
 13855         1900-2359       ALG Ifrikya FM               Ara Ourgla      1-7  
-13860         2100-1100       CHN x Audio (DRM) 1 xHE AAC  Chi Beijing 572 1-7  
 13860         1100-1157       CHN CHINA RADIO INTERNATIONA Rus Beijing 572 1-7  
 13860         1500-1600       CHN CHINA RADIO INTERNATIONA Rus Shijiazhuan 1-7  
 13870         2130-1500       TWN * SOH Xi Wang Zhi Sheng  Chi Miaoli      1-7  
@@ -5100,6 +5099,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 17680         0530-0557       ROU R.ROMANIA INT. DRM E1001 Eng SNR Tiganes 1-7  
 17690         0000-0157       CHN CHINA RADIO INTERNATIONA Chi Xianyang 59 1-7  
 17690         0800-0857       ROU R.ROMANIA INT.           Rom Tiganesti   1    
+17695         0800-1200       CHN Audio (DRM) 1 xHE AAC    Chi Beijing 572 1-7  
 17700         0100-0900       CHN Audio (DRM) 1 xHE AAC    Chi Qiqihar 202 1-7  
 17700         1600-1900       ASC BBC                      Hau Ascension   7    
 17700         1400-1415       MDG Trans World Radio        Bun Talata-Volo 7    
@@ -5133,6 +5133,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 17715         2230-2300       E   R.EXTERIOR DE ESPANA     Fre Noblejas    3    
 17715         2300-0200       E   R.EXTERIOR DE ESPANA     Spa Noblejas    34567
 17715         0700-0930       CVA VATICAN RADIO            Ara Santa Maria 1-7  
+17720         0800-1200       CHN Audio (DRM) 1 xHE AAC    Chi Beijing 572 1-7  
 17720         0500-0657       TKS CHINA RADIO INTERNATIONA Ger Kashi-Saiba 1-7  
 17720         0200-0257       ROU R.ROMANIA INT.           Spa Tiganesti   1-7  
 17720         1300-1350       UAE Shan News Radio          Sha Al-Dhabbiya 23456
