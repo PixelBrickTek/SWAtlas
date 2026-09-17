@@ -1,4 +1,4 @@
-A26 Shortwave Frequecy List  September 14  2026,  1300 UTC   Day 1 = Sunday
+A26 Shortwave Frequecy List  September 17  2026,  2200 UTC   Day 1 = Sunday
 FRE   STATION                         UTC       Su-W-Sa Language             Pow Azi Location                ADM L/L             Remarks
    40 Time Signal                     0000-2400 1234567 A1B                   50  ND Otakadoyama Tamura C    J   372221N1405056E NICT
    60 Time Signal                     0000-2400 1234567 A1B                   50  ND Haganeyama              J   332756N1301032E NICT
@@ -1457,19 +1457,19 @@ FRE   STATION                         UTC       Su-W-Sa Language             Pow
  5920 HCJB Deutsch                    0400-0500 1234567 Russian                1 145 Weenermoor              D   531210N0071911E HCJ/FNA b25
  5920 HCJB Deutsch                    0500-2300 1234567 German                 1 145 Weenermoor              D   531210N0071911E HCJ/FNA b25
  5920 HCJB Deutsch                    2300-0100 1234567 Russian                1 145 Weenermoor              D   531210N0071911E HCJ/FNA b25
- 5920 New Korean Hope Radio           1730-1800   135   Korean               200 352 Tamsui District         TWN 251108N1212458E _NKHB a26
  5920 WTWW                            0000-1400 1234567 English              100  60 Lebanon TN              USA 361635N0860558W WTWW b25
- 5920 Shiokaze (Sea-breeze)           1600-1630   267   Japanese             300 290 Ibaragi-Koga-Yamata     J   361024N1394923E _JSR a26 Jul.31
- 5920 Shiokaze (Sea-breeze)           1600-1700   35    Korean               300 290 Ibaragi-Koga-Yamata     J   361024N1394923E _JSR a26
- 5920 Shiokaze (Sea-breeze)           1600-1700    4    English              300 290 Ibaragi-Koga-Yamata     J   361024N1394923E _JSR a26
- 5920 Shiokaze (Sea-breeze)           1600-1700    1    Japanese             300 290 Ibaragi-Koga-Yamata     J   361024N1394923E _JSR a26
- 5920 Shiokaze (Sea-breeze)           1630-1700   267   Korean               300 290 Ibaragi-Koga-Yamata     J   361024N1394923E _JSR a26
+ 5920 Shiokaze (Sea-breeze)           1405-1435 1234567 Japanese             300 290 Ibaragi-Koga-Yamata     J   361024N1394923E _JSR a26 Sep.16
  5925 CNR 5                           1000-1705 1234567 Chinese              100 163 Beijing 491             CHN 395309N1163437E CNR5 a26
  5925 CNR 5                           2055-2400 1234567 Chinese              100 163 Beijing 491             CHN 395309N1163437E CNR5 a26=9685
  5925 Voice of Vietnam 2              0300-0600 1234567 Vietnamese            50  ND Hanoi-Xuan Mai          VTN 205245N1053538E VOV 2
  5925 Voice of Vietnam 2              1100-1500 1234567 Vietnamese            50  ND Hanoi-Xuan Mai          VTN 205245N1053538E VOV 2
  5925 Voice of Vietnam 2              2145-0100 1234567 Vietnamese            50  ND Hanoi-Xuan Mai          VTN 205245N1053538E VOV 2
  5930 World Music Radio               0000-2400 1234567 Danish/English      0.15  ND Bramming                DNK 5529N00839E     WMR a26
+ 5935 Shiokaze (Sea-breeze)           1600-1630   267   Japanese             300 290 Ibaragi-Koga-Yamata     J   361024N1394923E _JSR a26
+ 5935 Shiokaze (Sea-breeze)           1600-1700   35    Korean               300 290 Ibaragi-Koga-Yamata     J   361024N1394923E _JSR a26
+ 5935 Shiokaze (Sea-breeze)           1600-1700    4    English              300 290 Ibaragi-Koga-Yamata     J   361024N1394923E _JSR a26 Sep.16
+ 5935 Shiokaze (Sea-breeze)           1600-1700    1    Japanese             300 290 Ibaragi-Koga-Yamata     J   361024N1394923E _JSR a26
+ 5935 Shiokaze (Sea-breeze)           1630-1700   267   Korean               300 290 Ibaragi-Koga-Yamata     J   361024N1394923E _JSR a26
  5935 PBS Xizang                      2000-2230 124567  Chinese              100  85 Lhasa-Baiding 602       TIB 293856N0911511E CTB a26
  5935 PBS Xizang                      2100-2230    3    Chinese              100  85 Lhasa-Baiding 602       TIB 293856N0911511E CTB a26
  5935 PBS Xizang (CNR1)               2230-2300 1234567 Chinese              100  85 Lhasa-Baiding 602       TIB 293856N0911511E CTB a26
@@ -1483,11 +1483,6 @@ FRE   STATION                         UTC       Su-W-Sa Language             Pow
  5935 Welle 370                       1300-1400    1    German/English       125 233 Nauen                   D   523855N0125433E SKW/MBR a23
  5935 WWCR NASHVILLE                  2300-0600 1234567 English              100  85 Nashville               USA 361230N0865338W WWCR2 b25
  5935 WWCR The Overcomer Ministry     0600-1300 1234567 English              100  85 Nashville               USA 361230N0865338W TOM WWCR2 b25
- 5935 Shiokaze (Sea-breeze)           1300-1330   267   Japanese             300 290 Ibaragi-Koga-Yamata     J   361024N1394923E _JSR a26 Jul.31
- 5935 Shiokaze (Sea-breeze)           1300-1400   35    Korean               300 290 Ibaragi-Koga-Yamata     J   361024N1394923E _JSR a26
- 5935 Shiokaze (Sea-breeze)           1300-1400    4    English              300 290 Ibaragi-Koga-Yamata     J   361024N1394923E _JSR a26
- 5935 Shiokaze (Sea-breeze)           1300-1400    1    Japanese             300 290 Ibaragi-Koga-Yamata     J   361024N1394923E _JSR a26
- 5935 Shiokaze (Sea-breeze)           1330-1400   267   Korean               300 290 Ibaragi-Koga-Yamata     J   361024N1394923E _JSR a26
  5940 R.Deegaanka Soomaalida          0400-0600 1234567 Somali               100  ND Jijiga                  ETH 0921N04248E     RDS
  5940 R.Deegaanka Soomaalida          1300-1500 1234567 Somali               100  ND Jijiga                  ETH 0921N04248E     RDS
  5940 R.Deegaanka Soomaalida          1800-2000 1234567 Somali               100  ND Jijiga                  ETH 0921N04248E     RDS
@@ -1515,7 +1510,6 @@ FRE   STATION                         UTC       Su-W-Sa Language             Pow
  5952 Emisoras Pio XII                1000-0100 1234567 Spanish                5  ND Siglo Veinte            BOL 1823S06638W     PioXII
  5955 CHINA RADIO INTERNATIONAL       1100-1600 1234567 English              150  95 Beijing 572             CHN 394451N1164849E CRI a26
  5955 SuperClan Radio                 0500-1500 1234567 Dutch/English          1  90 Putten                  HOL 5214N00537E     HVR b25
- 5955 Shiokaze (Sea-breeze)           1705-1805 1234567 Japanese/Korean      300 290 Ibaragi-Koga-Yamata     J   361024N1394923E _JSR a26 Jul.31
  5960 Mighty KBC Radio                0000-0200    1    Dutch/English        125 300 Nauen                   D   523855N0125433E KBC/MBR b25
  5960 VOICE OF TURKEY                 1830-2055 1234567 Turkish              500 150 Emirler                 TUR 392406N0325121E TRT a26
  5960 PABC Tony Alamo Ministries      1900-1950   17    English              250 333 Issoudun                F   465755N0015146E PAB/TDF a26
@@ -1548,7 +1542,6 @@ FRE   STATION                         UTC       Su-W-Sa Language             Pow
  5975 CNR 8                           1400-1505 1234567 Chinese              100  63 Beijing 491             CHN 395309N1163437E CNR8 a26
  5980 Radio OZ-Viola                  2100-2200    4    Danish               0.1  ND Hilleroed               DNK 5554N01216E     VIO a23
  5980 Scandinav.Weekend R.            1600-2000    7    Finnish/English      0.1  ND Virrat                  FIN 622242N0233929E SWR a23 1st each month
- 5980 Shiokaze (Sea-breeze)           1405-1435 1234567 Japanese             300 290 Ibaragi-Koga-Yamata     J   361024N1394923E _JSR a26 Jul.31
  5985 CHINA RADIO INTERNATIONAL       1130-1158 1234567 Filipino             500 165 Beijing 572             CHN 394451N1164849E CRI a26
  5985 CHINA RADIO INTERNATIONAL       1600-1657 1234567 Swahili              500 257 Beijing 572             CHN 394451N1164849E CRI a26
  5985 CHINA RADIO INTERNATIONAL       1700-1757 1234567 Swahili              500 257 Beijing 572             CHN 394451N1164849E CRI a26
@@ -1645,6 +1638,7 @@ FRE   STATION                         UTC       Su-W-Sa Language             Pow
  6040 Radio Delta International       0800-1600 1234567 Dutch/English          1  ND Elburg                  HOL 5226N00552E     RDI b25
  6040 VO ISLAMIC REP.IRAN             1653-1720 1234567 Pashto               500 289 Zahedan                 IRN 292835N0605150E IRIB b25
  6040 VOICE OF TURKEY                 0400-0555 1234567 Turkish              500 138 Emirler                 TUR 392406N0325121E TRT a26
+ 6040 Shiokaze (Sea-breeze)           1950-2050 1234567 Japanese/Korean      300 290 Ibaragi-Koga-Yamata     J   361024N1394923E _JSR a26 Sep.16
  6045 Radio 60!                       1100-1400 1234567 English/German       100 233 Nauen                   D   523855N0125433E RSZ a26 MBR
  6048 North Korean Jamming            0250-0005 1234567 Noise jamming        200     Kujang                  KRE 400456N1260639E \NKSuperJamming
  6050 CHINA RADIO INTERNATIONAL       1200-1300 1234567 Mongolian            100 345 Hohhot 694              CHN 404753N1114635E CRI a26
@@ -1707,7 +1701,6 @@ FRE   STATION                         UTC       Su-W-Sa Language             Pow
  6065 Adventist World Radio           1500-1600 1234567 Malagasy             100  20 Talata-Volonondry       MDG 184509S0473654E AWR a26
  6065 CNR 2-China Business Radio      1200-1605 1234567 Chinese              150 220 Beijing 491             CHN 395309N1163437E CNR2 a26
  6065 CNR 2-China Business Radio      2055-2230 1234567 Chinese              150 220 Beijing 491             CHN 395309N1163437E CNR2=11670 a26
- 6065 Shiokaze (Sea-breeze)           1950-2050 1234567 Japanese/Korean      300 290 Ibaragi-Koga-Yamata     J   361024N1394923E _JSR a26 Jul.31
  6070 Alt Universe Top 40             1200-1300    7    English               10  ND Rohrbach Waal           D   483559N0113251E R48/FNA a24
  6070 Atlantic 2000 International     1300-1400    7    French                10  ND Rohrbach Waal           D   483559N0113251E R48/FNA a24 3rd
  6070 CFRX Toronto                    0000-2400 1234567 English                1  ND Toronto                 CAN 433020N0793750W CFRX
@@ -1718,11 +1711,6 @@ FRE   STATION                         UTC       Su-W-Sa Language             Pow
  6070 Voice of Korea                  1200-1250 1234567 Japanese             250 109 Kanggye                 KRE 4058N12636E     VOK a26 H3E=6100
  6070 VORW Radio International        0800-0900    4    English               10  ND Rohrbach Waal           D   483559N0113251E R48/FNA VORW a24
  6070 VORW Radio International        1700-1800    3    English               10  ND Rohrbach Waal           D   483559N0113251E R48/FNA VORW a24
- 6070 Shiokaze (Sea-breeze)           1300-1330   267   Japanese             300 290 Ibaragi-Koga-Yamata     J   361024N1394923E _JSR a26 Jul.31
- 6070 Shiokaze (Sea-breeze)           1300-1400   35    Korean               300 290 Ibaragi-Koga-Yamata     J   361024N1394923E _JSR a26
- 6070 Shiokaze (Sea-breeze)           1300-1400    4    English              300 290 Ibaragi-Koga-Yamata     J   361024N1394923E _JSR a26
- 6070 Shiokaze (Sea-breeze)           1300-1400    1    Japanese             300 290 Ibaragi-Koga-Yamata     J   361024N1394923E _JSR a26
- 6070 Shiokaze (Sea-breeze)           1330-1400   267   Korean               300 290 Ibaragi-Koga-Yamata     J   361024N1394923E _JSR a26
  6075 CHINA RADIO INTERNATIONAL       0000-0057 1234567 English              100 174 Kashi-Saibagh 2022      TKS 392152N0754258E CRI a26
  6075 CNR 1 Jamming                   1400-1700 1234567 Chinese              100 203 Qiqihar 2021            CHN 472128N1241458E CNR1 Jam.a26
  6075 CNR 1 Jamming                   2200-2400 1234567 Chinese              100 175 Xianyang 594            CHN 342231N1083638E CNR1 Jam.a26
@@ -1745,6 +1733,7 @@ FRE   STATION                         UTC       Su-W-Sa Language             Pow
  6090 CNR 2-China Business Radio      2055-0100 1234567 Chinese              100 172 Golmud 916              CHN 362555N0945956E CNR2=9570 a26
  6090 KBS WORLD RADIO                 2000-2100 1234567 Arabic               250 172 Woofferton              G   521625N0024942W KBS a26 ENC
  6090 Radio Amhara                    0252-2100 1234567 Amharic              100  ND Addis Ababa-Gedja       ETH 084534N0383941E DRO
+ 6090 Shiokaze (Sea-breeze)           1405-1435 1234567 Japanese             300 290 Ibaragi-Koga-Yamata     J   361024N1394923E _JSR a26 Sep.16
  6095 KBS WORLD RADIO                 1130-1230 1234567 Chinese              250 290 Kimjae                  KOR 354917N1265204E KBS a26
  6095 KBS WORLD RADIO                 1230-1330 1234567 Chinese              250 290 Kimjae                  KOR 354917N1265204E KBS a26
  6095 Sender K?nigs Wusterhausen     0800-0900    1    German               100 233 Nauen                   D   523855N0125433E SKW MBR a26 1st Sat
@@ -1864,6 +1853,11 @@ FRE   STATION                         UTC       Su-W-Sa Language             Pow
  6160 WBCQ The Overcomer Ministry     0200-2300 .23456. English               50 245 Monticello              USA 462030N0674940W WBCQ3 TOM b25
  6160 WBCQ The Overcomer Ministry     0400-2300   17    English               50 245 Monticello              USA 462030N0674940W WBCQ3 TOM b25
  6160 WBCQ World of Radio             0300-0330    2    English               50 245 Monticello              USA 462030N0674940W WBCQ3 b25
+ 6165 Shiokaze (Sea-breeze)           1300-1330   267   Japanese             300 290 Ibaragi-Koga-Yamata     J   361024N1394923E _JSR a26
+ 6165 Shiokaze (Sea-breeze)           1300-1400   35    Korean               300 290 Ibaragi-Koga-Yamata     J   361024N1394923E _JSR a26
+ 6165 Shiokaze (Sea-breeze)           1300-1400    4    English              300 290 Ibaragi-Koga-Yamata     J   361024N1394923E _JSR a26 Sep.16
+ 6165 Shiokaze (Sea-breeze)           1300-1400    1    Japanese             300 290 Ibaragi-Koga-Yamata     J   361024N1394923E _JSR a26
+ 6165 Shiokaze (Sea-breeze)           1330-1400   267   Korean               300 290 Ibaragi-Koga-Yamata     J   361024N1394923E _JSR a26
  6165 CHINA RADIO INTERNATIONAL       1600-1657 1234567 Turkish              500 270 Urumqi Hutubi 201       TKS 440853N0865345E CRI a26
  6165 CHINA RADIO INTERNATIONAL       1700-1757 1234567 English              500 288 Beijing 572             CHN 394451N1164849E CRI a26
  6165 CNR 6                           0900-1100 1234567 Hakka                100 163 Beijing 491             CHN 395309N1163437E CNR6 a26
@@ -1882,17 +1876,13 @@ FRE   STATION                         UTC       Su-W-Sa Language             Pow
  6165 Voice of Vietnam 4              2150-2230 1234567 Hmong                 50  ND Hanoi-Xuan Mai          VTN 205245N1053538E VOV 4
  6165 Voice of Vietnam 4              2230-2300 1234567 Dao                   50  ND Hanoi-Xuan Mai          VTN 205245N1053538E VOV 4
  6165 VOICE OF TURKEY                 0300-0355 1234567 English              500 138 Emirler                 TUR 392406N0325121E TRT a26
- 6165 Shiokaze (Sea-breeze)           1600-1630   267   Japanese             300 290 Ibaragi-Koga-Yamata     J   361024N1394923E _JSR a26 Jul.31
- 6165 Shiokaze (Sea-breeze)           1600-1700   35    Korean               300 290 Ibaragi-Koga-Yamata     J   361024N1394923E _JSR a26
- 6165 Shiokaze (Sea-breeze)           1600-1700    4    English              300 290 Ibaragi-Koga-Yamata     J   361024N1394923E _JSR a26
- 6165 Shiokaze (Sea-breeze)           1600-1700    1    Japanese             300 290 Ibaragi-Koga-Yamata     J   361024N1394923E _JSR a26
- 6165 Shiokaze (Sea-breeze)           1630-1700   267   Korean               300 290 Ibaragi-Koga-Yamata     J   361024N1394923E _JSR a26
  6170 Scandinav.Weekend R.            0000-1200    7    Finnish/English      0.1  ND Virrat                  FIN 622242N0233929E SWR a23 1st each month
  6170 Scandinav.Weekend R.            1200-1600    7    Finnish/English      0.1  ND Virrat                  FIN 622242N0233929E SWR a23 1st each month
  6170 Scandinav.Weekend R.            2000-2400    6    Finnish/English      0.1  ND Virrat                  FIN 622242N0233929E SWR a23 1st each month
  6175 CHINA RADIO INTERNATIONAL       1600-1800 1234567 English              100 200 Nanning 954             CHN 224733N1081127E CRI a26
  6175 Trans World Radio               1420-1435    1    Tso                   50   3 Manzini                 SWZ 262017S0313555E TWR a26
  6175 Trans World Radio               1435-1450    1    Portuguese            50   3 Manzini                 SWZ 262017S0313555E TWR a26
+ 6175 Shiokaze (Sea-breeze)           1950-2050 1234567 Japanese/Korean      300 290 Ibaragi-Koga-Yamata     J   361024N1394923E _JSR a26 Sep.16
  6180 Global Talk America             0500-0530 234567  Hausa                125  65 Ascension               ASC 075354S0142239W GTA ENC a26
  6180 CHINA RADIO INTERNATIONAL       0200-0500 1234567 Russian              100  ND Kashi-Saibagh 2022      TKS 392152N0754258E CRI a26
  6180 CHINA RADIO INTERNATIONAL       2300-0200 1234567 English              100 173 Kashi-Saibagh 2022      TKS 392152N0754258E CRI a26
@@ -1971,6 +1961,11 @@ FRE   STATION                         UTC       Su-W-Sa Language             Pow
  7210 Voice of Korea                  1900-1957 1234567 English              200 271 Kujang                  KRE 400456N1260639E VOK a26
  7210 Voice of Korea (KCBS)           2000-2050 1234567 Korean               200 271 Kujang                  KRE 400456N1260639E VOK a26
  7210 VOICE OF TURKEY                 1100-1125 1234567 Bulgarian            250 300 Emirler                 TUR 392406N0325121E TRT a26
+ 7215 Shiokaze (Sea-breeze)           1600-1630   267   Japanese             300 290 Ibaragi-Koga-Yamata     J   361024N1394923E _JSR a26
+ 7215 Shiokaze (Sea-breeze)           1600-1700   35    Korean               300 290 Ibaragi-Koga-Yamata     J   361024N1394923E _JSR a26
+ 7215 Shiokaze (Sea-breeze)           1600-1700    4    English              300 290 Ibaragi-Koga-Yamata     J   361024N1394923E _JSR a26 Sep.16
+ 7215 Shiokaze (Sea-breeze)           1600-1700    1    Japanese             300 290 Ibaragi-Koga-Yamata     J   361024N1394923E _JSR a26
+ 7215 Shiokaze (Sea-breeze)           1630-1700   267   Korean               300 290 Ibaragi-Koga-Yamata     J   361024N1394923E _JSR a26
  7215 CHINA RADIO INTERNATIONAL       1300-1357 1234567 Chinese              500 190 Xianyang 594            CHN 342231N1083638E CRI a26
  7215 CHINA RADIO INTERNATIONAL       1700-1757 1234567 Swahili              500 252 Xianyang 594            CHN 342231N1083638E CRI a26
  7215 CHINA RADIO INTERNATIONAL       2200-2257 1234567 Chinese              100 184 Kunming-Anning 501      CHN 245235N1022917E CRI a26
@@ -2133,6 +2128,11 @@ FRE   STATION                         UTC       Su-W-Sa Language             Pow
  7290 NEXUS-IBA Radio Rasant          1800-1900    6    English              150 300 Saftica                 ROU 443817N0260433E IRRS a26
  7290 NEXUS-IBA World of Radio        1815-1845    6    English              150 300 Saftica                 ROU 443817N0260433E IRRS a26
  7290 NEXUS-IBA Wave Scan             1830-1900    3    English              150 300 Saftica                 ROU 443817N0260433E IRRS a26
+ 7295 Shiokaze (Sea-breeze)           1300-1330   267   Japanese             300 290 Ibaragi-Koga-Yamata     J   361024N1394923E _JSR a26
+ 7295 Shiokaze (Sea-breeze)           1300-1400   35    Korean               300 290 Ibaragi-Koga-Yamata     J   361024N1394923E _JSR a26
+ 7295 Shiokaze (Sea-breeze)           1300-1400    4    English              300 290 Ibaragi-Koga-Yamata     J   361024N1394923E _JSR a26 Sep.16
+ 7295 Shiokaze (Sea-breeze)           1300-1400    1    Japanese             300 290 Ibaragi-Koga-Yamata     J   361024N1394923E _JSR a26
+ 7295 Shiokaze (Sea-breeze)           1330-1400   267   Korean               300 290 Ibaragi-Koga-Yamata     J   361024N1394923E _JSR a26
  7295 CHINA RADIO INTERNATIONAL       1900-2100 1234567 English              500 269 Kashi-Saibagh 2022      TKS 392152N0754258E CRI a26
  7300 CHINA RADIO INTERNATIONAL       2200-2257 1234567 Esperanto            500 294 Kashi-Saibagh 2022      TKS 392152N0754258E CRI a26
  7300 CNR 1 Jamming                   1500-1600 1234567 Chinese              150 150 Baoji-Sifangshan 724    CHN 342702N1074130E CNR1 Jam.a26
@@ -2154,12 +2154,12 @@ FRE   STATION                         UTC       Su-W-Sa Language             Pow
  7315 CNR 2-China Business Radio      1100-1605 1234567 Chinese              150  ND Xianyang 594            CHN 342231N1083638E CNR2 a26
  7315 CNR 2-China Business Radio      2055-0100 1234567 Chinese              150  ND Xianyang 594            CHN 342231N1083638E CNR2=11660 a26
  7315 JRC Radio Dabanga               0400-0430  3456   Juba Arabic          250 144 Santa Maria di Galeria  CVA 420239N0121922E JRC/MGB a26
+ 7320 Shiokaze (Sea-breeze)           1705-1805 1234567 Japanese/Korean      300 290 Ibaragi-Koga-Yamata     J   361024N1394923E _JSR a26 Sep.16
  7320 FEBA Radio Pakistan             0200-0215 1234567 Urdu                 250  70 Al-Dhabbiya             UAE 241012N0541459E FEBC a26 ENC
  7320 FEBA Radio Pakistan             0215-0230   234   Balichi              250  70 Al-Dhabbiya             UAE 241012N0541459E FEBC a26 ENC
  7320 FEBA Radio Pakistan             0215-0230   567   Sindhi               250  70 Al-Dhabbiya             UAE 241012N0541459E FEBC a26 ENC
  7320 FEBA Radio Pakistan             0215-0230    1    Urdu                 250  70 Al-Dhabbiya             UAE 241012N0541459E FEBC a26 ENC
  7320 FEBA Radio Pakistan             0230-0300    6    Pashto               250  70 Al-Dhabbiya             UAE 241012N0541459E FEBC a26 ENC
- 7325 Shiokaze (Sea-breeze)           1405-1435 1234567 Japanese             300 290 Ibaragi-Koga-Yamata     J   361024N1394923E _JSR a26 Jul.31
  7325 VO ISLAMIC REP.IRAN             1820-1920 1234567 Albanian             500 298 Sirjan                  IRN 293548N0554707E IRIB a26
  7325 CHINA RADIO INTERNATIONAL       1000-1257 1234567 Japanese             500  59 Jinhua 831              CHN 290646N1191840E CRI a26=7410
  7325 CHINA RADIO INTERNATIONAL       1300-1357 1234567 Japanese             500  73 Xianyang 594            CHN 342231N1083638E CRI a26
@@ -2258,7 +2258,6 @@ FRE   STATION                         UTC       Su-W-Sa Language             Pow
  7415 CHINA RADIO INTERNATIONAL       1900-1930 1234567 Czech                500 308 Urumqi Hutubi 201       TKS 440853N0865345E CRI a26
  7415 CHINA RADIO INTERNATIONAL       1930-1957 1234567 Czech                500 308 Urumqi Hutubi 201       TKS 440853N0865345E CRI a26
  7415 CHINA RADIO INTERNATIONAL       2000-2200 1234567 English              500 308 Kashi-Saibagh 2022      TKS 392152N0754258E CRI a26
- 7420 Shiokaze (Sea-breeze)           1950-2050 1234567 Japanese/Korean      300 290 Ibaragi-Koga-Yamata     J   361024N1394923E _JSR a26 Jul.31
  7420 CHINA RADIO INTERNATIONAL       1700-1800 1234567 English              150 191 Kunming-Anning 501      CHN 245235N1022917E CRI a26
  7420 PBS Nei Menggu                  2150-2400 1234567 Chinese               50 263 Hohhot 839              CHN 404301N1113308E NMRB a26
  7420 PBS Nei Menggu                  2150-2400 1234567 Chinese               50  52 Hohhot 839              CHN 404301N1113308E NMRB a26
@@ -2588,6 +2587,7 @@ FRE   STATION                         UTC       Su-W-Sa Language             Pow
  9445 Voice of Korea                  2200-2257 1234567 Chinese              200  ND Kujang                  KRE 400456N1260639E VOK a26
  9445 Voice of Korea (KCBS)           0900-0950 1234567 Korean               200  ND Kujang                  KRE 400456N1260639E VOK a26
  9445 Voice of Korea (KCBS)           2300-2350 1234567 Korean               200  ND Kujang                  KRE 400456N1260639E VOK a26
+ 9445 New Korean Hope Radio           1430-1530  23456  Korean               200 352 Tamsui District         TWN 251108N1212458E _NKHB a26 Sep.1
  9450 CHINA RADIO INTERNATIONAL       0200-0300 1234567 Urdu                 100 209 Kashi-Saibagh 2022      TKS 392152N0754258E CRI a26
  9450 CHINA RADIO INTERNATIONAL       0300-0357 1234567 Chinese              100 209 Kashi-Saibagh 2022      TKS 392152N0754258E CRI a26
  9450 CHINA RADIO INTERNATIONAL       1300-1357 1234567 Hindi                100 174 Kashi-Saibagh 2022      TKS 392152N0754258E CRI a26
@@ -2620,7 +2620,6 @@ FRE   STATION                         UTC       Su-W-Sa Language             Pow
  9465 World Christian Broadc.KNLS     1400-1500 1234567 Chinese              100 315 Anchor Point tx1        ALS 594454N1514409W WCB KNLS a26
  9465 VOICE OF TURKEY                 0200-0255 1234567 Uyghur               500  72 Emirler                 TUR 392406N0325121E TRT a26
  9470 RBS Radio                       1400-1428   246   Korean               200 352 Tamsui District         TWN 251108N1212458E _RBS a26=9685
- 9470 New Korean Hope Radio           1400-1428   357   Korean               200 352 Tamsui District         TWN 251108N1212458E _NKHB a26
  9470 CHINA RADIO INTERNATIONAL       1659-1757 1234567 Russian              150 288 Baoji-Xinjie 722        CHN 344135N1065627E CRI a26
  9470 CHINA RADIO INTERNATIONAL       2300-0100 1234567 Mongolian            500 354 Xianyang 594            CHN 342231N1083638E CRI a26
  9470 R.CAIRO                         1800-1900 1234567 Italian              125 325 Abis                    EGY 310739N0300427E ERU a26
@@ -5344,10 +5343,6 @@ FRE   STATION                         UTC       Su-W-Sa Language             Pow
       Daily changes
      *Jammed by CNR1                                                                 Tibet Autonomous Region TIB
      xoff the air                                                                    Xinjiang Uyghur         TKS
-
-
-
-
 
 
 
