@@ -1,4 +1,4 @@
-A26 Shortwave Frequecy List  September 17  2026,  2200 UTC   Day 1 = Sunday
+A26 Shortwave Frequecy List  September 20  2026,  0300 UTC   Day 1 = Sunday
 FRE   STATION                         UTC       Su-W-Sa Language             Pow Azi Location                ADM L/L             Remarks
    40 Time Signal                     0000-2400 1234567 A1B                   50  ND Otakadoyama Tamura C    J   372221N1405056E NICT
    60 Time Signal                     0000-2400 1234567 A1B                   50  ND Haganeyama              J   332756N1301032E NICT
@@ -42,7 +42,7 @@ FRE   STATION                         UTC       Su-W-Sa Language             Pow
   540 NHK AM Nanao                    0000-2400 1234567 Japanese               1     Ishikawa-Nanao          J   370214N1365934E NHK AM
   540 NHK AM Yamagata                 0000-2400 1234567 Japanese               5     Yamagata                J   381645N1401934E NHK AM JOJG
   540 P1-Kossuth Radio                0330-2130 1234567 Hungarian           1000  ND Solt                    HNG 465003N0190153E MR1
-  540 R.KUWAIT                        0000-2400 1234567 Arabic               600  ND Sulaibiyah              KWT 290843N0474605E MOI b25
+  540 R.KUWAIT                        0000-2400 1234567 Arabic               600  ND Sulaibiyah              KWT 290843N0474605E MOI a26
   540 Yaan Kraw haa-sii-suun          0000-2400 1234567 Thai                  10     Bangkok                 THA 134736N1003110E
   549 CNR 5                           2055-1705 1234567 Chinese             1200     Putian Fujian 824       CHN 252753N1190958E CNR5
   549 NHK AM Naha                     0000-2400 1234567 Japanese              10     Okinawa-Naha            J   261043N1274215E NHK AM JOAP
@@ -417,10 +417,10 @@ FRE   STATION                         UTC       Su-W-Sa Language             Pow
   963 NHK AM Matsuyama                0000-2400 1234567 Japanese               5     Ehime-Matsuyama         J   334924N1324408E NHK AM JOZK
   963 NHK AM Saga                     0000-2400 1234567 Japanese               1     Saga                    J   331507N1301557E NHK AM JOSP
   963 NHK AM Yonago                   0000-2400 1234567 Japanese               1     Tottori-Yonago          J   352648N1331851E NHK AM
-  963 R.KUWAIT                        0500-0800 1234567 English               20  ND Madinat al-Kuwayt       KWT 291051N0480240E MOI b25
-  963 R.KUWAIT                        1200-1600 1234567 Arabic                20  ND Madinat al-Kuwayt       KWT 291051N0480240E MOI b25
-  963 R.KUWAIT                        1800-2100 1234567 English               20  ND Madinat al-Kuwayt       KWT 291051N0480240E MOI b25
-  963 R.KUWAIT                        2100-0500 1234567 Arabic                20  ND Madinat al-Kuwayt       KWT 291051N0480240E MOI b25
+  963 R.KUWAIT                        0500-0800 1234567 English               20  ND Madinat al-Kuwayt       KWT 291051N0480240E MOI a26
+  963 R.KUWAIT                        1200-1600 1234567 Arabic                20  ND Madinat al-Kuwayt       KWT 291051N0480240E MOI a26
+  963 R.KUWAIT                        1800-2100 1234567 English               20  ND Madinat al-Kuwayt       KWT 291051N0480240E MOI a26
+  963 R.KUWAIT                        2100-0500 1234567 Arabic                20  ND Madinat al-Kuwayt       KWT 291051N0480240E MOI a26
   972 IRIB Radio Ilam                 0000-2400 1234567 Persian              200  ND Ilam                    IRN 333828N0462220E IRIB b25
   972 KBS Hanminjok Bangsong 1        0350-2400 1234567 Korean              1500     Dangjin                 KOR 365830N1263717E KBS //6015
   972 VOA Ashna Radio                 1630-1645 1234567 Dari                 800 165 Dushanbe-Orzu           TJK 373205N0684819E VOA/AGM(R.Ashna) a26
@@ -589,7 +589,7 @@ FRE   STATION                         UTC       Su-W-Sa Language             Pow
  1116xNiigata Hoso (BSN)              0000-2400 1234567 Japanese               5     Niigata                 J   375331N1390540E JODR
  1134 Bunka Hoso(NCB)                 0000-2400 1234567 Japanese             100     Tokyo                   J   354932N1394518E JOQR
  1134 KBS 3 Radio HLKC                2055-1805 1234567 Korean               500     Hwaseong                KOR 371249N1264640E KBS//639
- 1134 R.KUWAIT                        0000-2400 1234567 Arabic               100  ND Sulaibiyah              KWT 290843N0474605E MOI b25
+ 1134 R.KUWAIT                        0000-2400 1234567 Arabic               100  ND Sulaibiyah              KWT 290843N0474605E MOI a26
  1143 Heilongjiang PBS                0000-2400 1234567 Chinese               10  ND Heilongjiang-Yichun     CHN 474624N1285102E
  1143 KBS Kyoto (KBS)                 0000-2400 1234567 Japanese              20     Kyoto                   J   345250N1354425E JOBR
  1143 RADIO FREE KOREA                0700-0100 1234567 Korean               100  ND Kyonggi-do Koyang       KOR 373542N1265038E _RFK b25
@@ -777,7 +777,7 @@ FRE   STATION                         UTC       Su-W-Sa Language             Pow
  1332xTokai Radio Hoso                0000-2400 1234567 Japanese             0.1     Aichi-Shinshiro         J   345353N1373011E  '24Aug.1-off
  1332 Tokai Radio Hoso                0000-2400 1234567 Japanese              50     Nagoya                  J   351027N1364719E JOSF
  1340 WCHB                            0000-2400 1234567 English (HD Radio)     1     Royal Oak, Michigan     USA 422810N0830654W The Gospel Station
- 1341 BBC Radio Ulster/Radio 5 Live   0000-2400 1234567 English              100     Lisnagarvey             G   542923N0060337W BBC
+ 1341 R.KUWAIT                        0000-2400 1234567 Arabic               100     Al-Maqwa                KWT 291052N0480239E MOI a26
  1341 CHINA RADIO INTERNATIONAL       1130-1200 1234567 Filipino             100  ND Huadu-Guangdong 522     CHN 232413N1131428E CRI a26
  1341 CHINA RADIO INTERNATIONAL       1200-1400 1234567 English              100  ND Huadu-Guangdong 522     CHN 232413N1131428E CRI a26
  1341 CHINA RADIO INTERNATIONAL       1430-1500 1234567 Filipino             100  ND Huadu-Guangdong 522     CHN 232413N1131428E CRI a26
@@ -2226,7 +2226,7 @@ FRE   STATION                         UTC       Su-W-Sa Language             Pow
  7375 CNR 2-China Business Radio      1200-1605 1234567 Chinese              150 180 Beijing 491             CHN 395309N1163437E CNR2 a26
  7375 NHK WORLD RADIO JAPAN           1655-1900 1234567 Japanese             300 290 Ibaragi-Koga-Yamata     J   361024N1394923E NHK a26
  7375 KSDA-Adventist World R.Guam     1900-2000 1234567 Korean               100 330 Agat                    GUM 132027N1443903E AWR a26
- 7375 RADIO FARDA                     0300-1400 1234567 Persian              250  58 Kuwait                  KWT 290843N0474605E RFE/AGM a26 Au..28-
+ 7375 RADIO FARDA                     0300-1400 1234567 Persian              250  58 Kuwait                  KWT 290843N0474605E RFE/AGM a26 Aug.28-
  7380 Follow The Bible Ministries     2000-2028    1    Arabic               250 140 Woofferton              G   521625N0024942W FBM ENC a26 Apr.22
  7385 CHINA RADIO INTERNATIONAL       1900-1957 1234567 Albanian             500 294 Kashi-Saibagh 2022      TKS 392152N0754258E CRI a26
  7385 CNR 5                           0900-1705 1234567 Chinese              100 163 Beijing 491             CHN 395309N1163437E CNR5 a26
@@ -3463,7 +3463,7 @@ FRE   STATION                         UTC       Su-W-Sa Language             Pow
 11615 Music 4 Joy DRM                 2000-2100   35    Music                100 200 Nauen                   D   523855N0125433E M4J MBR a26 DRM
 11615 JRC Radio Tamazui               0400-0430  3456   Juba Arabic          250 148 Santa Maria di Galeria  CVA 420239N0121922E JRC/MGB a26
 11615 JRC Radio Tamazui               1600-1630  23456  Juba Arabic          250 335 Talata-Volonondry 1     MDG 184509S0473654E JRC/MGB a26 Sep.8-
-11620 CHINA RADIO INTERNATIONAL       1000-1257 1234567 Japanese             500  73 Xianyang 594            CHN 342231N1083638E CRI a26
+11620 CHINA RADIO INTERNATIONAL       0958-1257 1234567 Japanese             500  73 Xianyang 594            CHN 342231N1083638E CRI a26
 11620 CHINA RADIO INTERNATIONAL       2257-2357 1234567 Vietnamese           500 193 Beijing 572             CHN 394451N1164849E CRI a26
 11620 CNR 5                           0000-0600 1234567 Chinese              100 163 Beijing 491             CHN 395309N1163437E CNR5 a26
 11620 CNR 5                           0600-0900 123.567 Chinese              100 163 Beijing 491             CHN 395309N1163437E CNR5 a26
@@ -3479,7 +3479,7 @@ FRE   STATION                         UTC       Su-W-Sa Language             Pow
 11630 CNR 17                          1400-1805 1234567 Kazakh               100 286 Lingshi 725             CHN 365216N1115547E CNR17 a26
 11630 CNR 17                          2355-0600 1234567 Kazakh               100 286 Lingshi 725             CHN 365216N1115547E CNR17 a26
 11630 IBRA MEDIA/Radio Ibrahim        1400-1430 1234567 Tigrinya             250 225 Al-Dhabbiya             UAE 241012N0541459E IBRA a26 ENC
-11635 CHINA RADIO INTERNATIONAL       1000-1057 1234567 English              500 318 Beijing 572             CHN 394451N1164849E CRI a26
+11635 CHINA RADIO INTERNATIONAL       0958-1057 1234567 English              500 318 Beijing 572             CHN 394451N1164849E CRI a26
 11635 Cuban Spy Numers                1755-1850 1234567 Spanish               50  ND Bejucal                 CUB 225157N0821858W HM01 Random numbers
 11635 Cuban Spy Numers                2055-2150 12.4.6. Spanish               50  ND Bejucal                 CUB 225157N0821858W HM01 Random numbers
 11635 Voice of Korea                  1800-1857 1234567 French               200 296 Kujang                  KRE 400456N1260639E VOK a26
@@ -4852,6 +4852,7 @@ FRE   STATION                         UTC       Su-W-Sa Language             Pow
 15730 Iran International TV           0400-1900 1234567 Persian              250 100 Kostinbrod(Sofia)       BUL 424833N0231113E RIT a26//17900
 15735 WINB DRM                        1400-1500 .23456. English(Digital)      15  62 Red Lion                USA 395418N0763457W WINB a23
 15740*SOH Xi Wang Zhi Sheng           2144-1530 1234567 Chinese/Cantonese      1  ND Miaoli                  TWN 242317N1204253E SOH a26
+15745 CNR                             1100-1200 1234567 Chinese              100 253 Lingshi 725             CHN 365216N1115547E
 15750 WINB DRM                        0900-1000    7    English(Digital)      15  62 Red Lion                USA 395418N0763457W WINB a26
 15750 WINB DRM                        1500-2000 .23456. English(Digital)      15  62 Red Lion                USA 395418N0763457W WINB a26
 15760*SOH Xi Wang Zhi Sheng           2130-1500 1234567 Chinese/Cantonese      1  ND Miaoli                  TWN 242317N1204253E SOH a26
@@ -5079,6 +5080,7 @@ FRE   STATION                         UTC       Su-W-Sa Language             Pow
 17660 R.FRANCE INT.                   0800-0900 1234567 French               250 175 Issoudun                F   465704N0015305E RFI a26
 17660 R.FRANCE INT.                   0900-1000 1234567 French               250 175 Issoudun                F   465704N0015305E RFI a26
 17660 R.FRANCE INT.                   1300-1330 1234567 Fulfulde             250 180 Issoudun                F   465704N0015305E RFI a26
+17665 Voice of Independent Myanmar    0030-0130    1    Burmese                                                                  Mizzima/RSF Aug.9-
 17665 CNR 8                           0100-0200 1234567 Chinese              100  80 Urumqi Hutubi 201       TKS 440853N0865345E CNR8 a26
 17665 CNR 8                           0200-0500 1234567 Mongolian            100  80 Urumqi Hutubi 201       TKS 440853N0865345E CNR8 a26
 17665 CNR 8                           0500-0600 1234567 Chinese              100  80 Urumqi Hutubi 201       TKS 440853N0865345E CNR8 a26
@@ -5343,6 +5345,14 @@ FRE   STATION                         UTC       Su-W-Sa Language             Pow
       Daily changes
      *Jammed by CNR1                                                                 Tibet Autonomous Region TIB
      xoff the air                                                                    Xinjiang Uyghur         TKS
+
+
+
+
+
+
+
+
 
 
 

@@ -1,4 +1,4 @@
-A26 Shortwave Frequecy List  September 17  2026,  2200 UTC   Day 1 = Sunday
+A26 Shortwave Frequecy List  September 20  2026,  0300 UTC   Day 1 = Sunday
 kHz           Time(UTC)       ITU Station                Lang. Location    Days 
 +-------------+---------+-----+---+------------------------+---+-----------+----
 
@@ -779,7 +779,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 1332          0000-2400       J   x Tokai Radio Hoso       Jpn Aichi-Shins 1-7  
 1332          0000-2400       J   Tokai Radio Hoso         Jpn Nagoya      1-7  
 1340          0000-2400       USA WCHB                     Eng Royal Oak,  1-7  
-1341          0000-2400       G   BBC Radio Ulster/Radio 5 Eng Lisnagarvey 1-7  
+1341          0000-2400       KWT R.KUWAIT                 Ara Al-Maqwa    1-7  
 1341          1130-1200       CHN CHINA RADIO INTERNATIONA Fil Huadu-Guang 1-7  
 1341          1200-1400       CHN CHINA RADIO INTERNATIONA Eng Huadu-Guang 1-7  
 1341          1430-1500       CHN CHINA RADIO INTERNATIONA Fil Huadu-Guang 1-7  
@@ -3465,7 +3465,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 11615         2000-2100       D   Music 4 Joy DRM          Mus Nauen       35   
 11615         0400-0430       CVA JRC Radio Tamazui        Jub Santa Maria 3456 
 11615         1600-1630       MDG JRC Radio Tamazui        Jub Talata-Volo 23456
-11620         1000-1257       CHN CHINA RADIO INTERNATIONA Jpn Xianyang 59 1-7  
+11620         0958-1257       CHN CHINA RADIO INTERNATIONA Jpn Xianyang 59 1-7  
 11620         2257-2357       CHN CHINA RADIO INTERNATIONA Vie Beijing 572 1-7  
 11620         0000-0600       CHN CNR 5                    Chi Beijing 491 1-7  
 11620         0600-0900       CHN CNR 5                    Chi Beijing 491 5-3  
@@ -3481,7 +3481,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 11630         1400-1805       CHN CNR 17                   Kaz Lingshi 725 1-7  
 11630         2355-0600       CHN CNR 17                   Kaz Lingshi 725 1-7  
 11630         1400-1430       UAE IBRA MEDIA/Radio Ibrahim Tig Al-Dhabbiya 1-7  
-11635         1000-1057       CHN CHINA RADIO INTERNATIONA Eng Beijing 572 1-7  
+11635         0958-1057       CHN CHINA RADIO INTERNATIONA Eng Beijing 572 1-7  
 11635         1755-1850       CUB Cuban Spy Numers         Spa Bejucal     1-7  
 11635         2055-2150       CUB Cuban Spy Numers         Spa Bejucal     1246 
 11635         1800-1857       KRE Voice of Korea           Fre Kujang      1-7  
@@ -4854,6 +4854,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 15730         0400-1900       BUL Iran International TV    Per Kostinbrod( 1-7  
 15735         1400-1500       USA WINB DRM                 Eng Red Lion    23456
 15740         2144-1530       TWN * SOH Xi Wang Zhi Sheng  Chi Miaoli      1-7  
+15745         1100-1200       CHN CNR                      Chi Lingshi 725 1-7  
 15750         0900-1000       USA WINB DRM                 Eng Red Lion    7    
 15750         1500-2000       USA WINB DRM                 Eng Red Lion    23456
 15760         2130-1500       TWN * SOH Xi Wang Zhi Sheng  Chi Miaoli      1-7  
@@ -5081,6 +5082,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 17660         0800-0900       F   R.FRANCE INT.            Fre Issoudun    1-7  
 17660         0900-1000       F   R.FRANCE INT.            Fre Issoudun    1-7  
 17660         1300-1330       F   R.FRANCE INT.            Ful Issoudun    1-7  
+17665         0030-0130           Voice of Independent Mya Bur             1    
 17665         0100-0200       TKS CNR 8                    Chi Urumqi Hutu 1-7  
 17665         0200-0500       TKS CNR 8                    Mon Urumqi Hutu 1-7  
 17665         0500-0600       TKS CNR 8                    Chi Urumqi Hutu 1-7  
