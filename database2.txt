@@ -1,4 +1,4 @@
-A26 Shortwave Frequecy List  September 20  2026,  0300 UTC   Day 1 = Sunday
+A26 Shortwave Frequecy List  September 22 2026,  0400 UTC   Day 1 = Sunday
 kHz           Time(UTC)       ITU Station                Lang. Location    Days 
 +-------------+---------+-----+---+------------------------+---+-----------+----
 
@@ -2332,6 +2332,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 7490          0100-0200       USA WBCQ Voice of Revival    Eng Monticello  2    
 7490          2100-2130       USA WBCQ World of Radio      Eng Monticello  4    
 7490          1300-1600       USA WWCR NASHVILLE           Eng Nashville   1-7  
+7500          1500-2200       PHL VOICE OF AMERICA         Kor Tinang      17   
 7500          1500-2200       PHL VOICE OF AMERICA         Kor Tinang      23456
 7505          2200-1600       USA WRNO                     Eng New Orleans 1-7  
 7515          1530-1600       UZB Voice of Martyrs         Kor Tashkent    1-7  
@@ -3265,6 +3266,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 9930          1115-1130       PLW Hope Radio Truth Talks   Eng Palau Medor 2    
 9930          1300-0130       USA WTWW                     Eng Lebanon TN  1-7  
 9940          1300-1328       TWN Nippon no Kaze"il bon ue Kor Paochung    1-7  
+9950          1500-2200       PHL VOICE OF AMERICA         Kor Tinang      17   
 9950          1500-2200       PHL VOICE OF AMERICA         Kor Tinang      23456
 9950          2200-2400       PHL VOICE OF AMERICA         Kor Tinang      23456
 9950          1445-1500       UZB Trans World Radio Do You Kaz Tashkent    1-7  

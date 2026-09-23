@@ -1,4 +1,4 @@
-A26 Shortwave Frequecy List  September 20  2026,  0300 UTC   Day 1 = Sunday
+A26 Shortwave Frequecy List  September 22 2026,  0400 UTC   Day 1 = Sunday
 FRE   STATION                         UTC       Su-W-Sa Language             Pow Azi Location                ADM L/L             Remarks
    40 Time Signal                     0000-2400 1234567 A1B                   50  ND Otakadoyama Tamura C    J   372221N1405056E NICT
    60 Time Signal                     0000-2400 1234567 A1B                   50  ND Haganeyama              J   332756N1301032E NICT
@@ -2330,6 +2330,7 @@ FRE   STATION                         UTC       Su-W-Sa Language             Pow
  7490 WBCQ Voice of Revival           0100-0200    2    English               50 245 Monticello              USA 462030N0674940W WBCQ1 b25
  7490 WBCQ World of Radio             2100-2130    4    English               50 245 Monticello              USA 462030N0674940W WBCQ1 b25
  7490 WWCR NASHVILLE                  1300-1600 1234567 English              100  85 Nashville               USA 361230N0865338W WWCR2 b25
+ 7500 VOICE OF AMERICA                1500-2200   17    Korean               250  21 Tinang                  PHL 152244N1203733E VOA/AGM a26 Sep.26-
  7500 VOICE OF AMERICA                1500-2200  23456  Korean               250  21 Tinang                  PHL 152244N1203733E VOA/AGM a26 Aug.28-
  7505 WRNO                            2200-1600 1234567 English/Chinese       50  20 New Orleans LA          USA 295010N0900657W WRNO a25
  7515 Voice of Martyrs                1530-1600 1234567 Korean               100  76 Tashkent                UZB 411313N0690902E _VOMK a26 ENC May27
@@ -3263,6 +3264,7 @@ FRE   STATION                         UTC       Su-W-Sa Language             Pow
  9930 Hope Radio Truth Talks          1115-1130    2    English              100 315 Palau Medorn            PLW 072727N1342840E T8WH Angel3 b25
  9930 WTWW                            1300-0130 1234567 English              100  60 Lebanon TN              USA 361635N0860558W WTWW a26
  9940 Nippon no Kaze"il bon ue baram" 1300-1328 1234567 Korean               300   2 Paochung                TWN 234334N1201802E _JCI a26 ENC=9455
+ 9950 VOICE OF AMERICA                1500-2200   17    Korean               250  21 Tinang                  PHL 152244N1203733E VOA/AGM a26 Sep.26-
  9950 VOICE OF AMERICA                1500-2200  23456  Korean               250  21 Tinang                  PHL 152244N1203733E VOA/AGM a26 Jul.27
  9950 VOICE OF AMERICA                2200-2400  23456  Korean               250  21 Tinang                  PHL 152244N1203733E VOA/AGM a26 Sep.18-
  9950 Trans World Radio Do You Know   1445-1500 1234567 Kazakh               100  76 Tashkent                UZB 411313N0690902E KTWR a26 Jun.28
@@ -5345,6 +5347,14 @@ FRE   STATION                         UTC       Su-W-Sa Language             Pow
       Daily changes
      *Jammed by CNR1                                                                 Tibet Autonomous Region TIB
      xoff the air                                                                    Xinjiang Uyghur         TKS
+
+
+
+
+
+
+
+
 
 
 
