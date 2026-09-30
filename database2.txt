@@ -1,4 +1,4 @@
-A26 Shortwave Frequecy List  September 27  2026,  0100 UTC   Day 1 = Sunday
+A26 Shortwave Frequecy List  September 30  2026,  1500 UTC   Day 1 = Sunday
 kHz           Time(UTC)       ITU Station                Lang. Location    Days 
 +-------------+---------+-----+---+------------------------+---+-----------+----
 
@@ -2043,7 +2043,6 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 7245          1300-1400       TJK VOICE OF TAJIK           Eng Dushanbe-Or 1-7  
 7245          1400-1600       TJK VOICE OF TAJIK           Taj Dushanbe-Or 1-7  
 7245          1600-1800       TJK VOICE OF TAJIK           Per Dushanbe-Or 1-7  
-7245          1059-1358       NZL R.NEW ZEALAND INT.       Eng Rangitaiki  23456
 7245          1059-1358       NZL R.NEW ZEALAND INT.       Eng Rangitaiki  17   
 7250          1400-1557       CHN CHINA RADIO INTERNATIONA Nep Xianyang 59 1-7  
 7250          0800-1000       KWT R.KUWAIT                 Per Sulaibiyah  1-7  
@@ -2272,7 +2271,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 7420          0950-1605       CHN PBS Nei Menggu           Chi Hohhot 839  1-7  
 7420          0950-1605       CHN PBS Nei Menggu           Chi Hohhot 839  1-7  
 7425          1300-1605       CHN CNR 2-China Business Rad Chi Xianyang 59 1-7  
-7425          1651-1858       NZL R.NEW ZEALAND INT.(DRM)  Eng Rangitaiki  1-6  
+7425          1651-1758       NZL R.NEW ZEALAND INT.(DRM)  Eng Rangitaiki  1-6  
 7430          0900-0957       CHN CHINA RADIO INTERNATIONA Chi Jinhua 831  1-7  
 7430          2200-2257       CHN CHINA RADIO INTERNATIONA Chi Jinhua 831  1-7  
 7430          2300-0057       CHN CHINA RADIO INTERNATIONA Rus Hohhot 694  1-7  
@@ -2590,7 +2589,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 9445          2200-2257       KRE Voice of Korea           Chi Kujang      1-7  
 9445          0900-0950       KRE Voice of Korea (KCBS)    Kor Kujang      1-7  
 9445          2300-2350       KRE Voice of Korea (KCBS)    Kor Kujang      1-7  
-9445          1430-1530       TWN New Korean Hope Radio    Kor Tamsui Dist 23456
+9445          1430-1530       TWN New Korean Hope Radio    Kor Tamsui Dist 2-7  
 9450          0200-0300       TKS CHINA RADIO INTERNATIONA Urd Kashi-Saiba 1-7  
 9450          0300-0357       TKS CHINA RADIO INTERNATIONA Chi Kashi-Saiba 1-7  
 9450          1300-1357       TKS CHINA RADIO INTERNATIONA Hin Kashi-Saiba 1-7  
@@ -2939,12 +2938,14 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 9695          1730-1830       CHN CHINA RADIO INTERNATIONA Chi Kunming-Ann 1-7  
 9695          1100-1200       TWN R.TAIWAN INT.            Vie Paochung    1-7  
 9695          0800-0900       ALS World Christian Broadc.K Eng Anchor Poin 1-7  
-9700          0000-0057       TKS CHINA RADIO INTERNATIONA Eng Kashi-Saiba 1-7  
 9700          0100-0700       ALG Ifrikya FM               Ara Ourgla      1-7  
-9700          1759-1858       NZL R.NEW ZEALAND INT.       Eng Rangitaiki  1-7  
-9700          0600-0627       ROU R.ROMANIA INT.           Ger Tiganesti   1-7  
 9700          1500-1600       ALS World Christian Broadc.K Chi Anchor Poin 1-7  
 9700          0659-1058       NZL R.NEW ZEALAND INT.       Eng Rangitaiki  1-7  
+9700          1059-1358       NZL R.NEW ZEALAND INT.       Eng Rangitaiki  23456
+9700          1759-1858       NZL R.NEW ZEALAND INT.       Eng Rangitaiki  1-7  
+9700          1759-1858       NZL R.NEW ZEALAND INT.       Eng Rangitaiki  7    
+9700          0600-0627       ROU R.ROMANIA INT.           Ger Tiganesti   1-7  
+9700          0000-0057       TKS CHINA RADIO INTERNATIONA Eng Kashi-Saiba 1-7  
 9705          2000-2030       CVA VATICAN RADIO            Eng Santa Maria 1-7  
 9705          2030-2058       CVA VATICAN RADIO            Fre Santa Maria 1-7  
 9705          1330-1357       TWN Furusato no kaze         Jpn Paochung    1-7  
@@ -3069,7 +3070,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 9780          0600-0900       CHN PBS Qinghai              Chi Xining      124-7
 9780          0900-1600       CHN PBS Qinghai              Chi Xining      1-7  
 9780          2100-0600       CHN PBS Qinghai              Chi Xining      1-7  
-9780          1859-1958       NZL R.NEW ZEALAND INT.(DRM)  Eng Rangitaiki  1-6  
+9780          1759-1858       NZL R.NEW ZEALAND INT.(DRM)  Eng Rangitaiki  1-6  
 9785          1400-1600       KOR KBS WORLD RADIO          Eng Kimjae      1-7  
 9785          1130-1227       CHN CHINA RADIO INTERNATIONA Tha Kunming-Ann 1-7  
 9785          1230-1330       CHN CHINA RADIO INTERNATIONA Lao Kunming-Ann 1-7  
@@ -3611,6 +3612,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 11720         1030-1330       VTN Voice of Vietnam 4       Vie Hanoi-Xuan  1-7  
 11725         1600-1757       CHN CHINA RADIO INTERNATIONA Ger Xianyang 59 1-7  
 11725         1859-1958       NZL R.NEW ZEALAND INT.       Eng Rangitaiki  1-7  
+11725         0459-0658       NZL R.NEW ZEALAND INT.       Eng Rangitaiki  1-7  
 11730         0230-0330       CHN CHINA RADIO INTERNATIONA Nep Kunming-Ann 1-7  
 11730         2300-2357       ROU R.ROMANIA INT.           Spa Galbeni-Bac 1-7  
 11730         1400-1457       ROU R.ROMANIA INT.           Ger Tiganesti   1-7  
@@ -4193,8 +4195,6 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 13690         2000-2100       CHN CHINA RADIO INTERNATIONA Chi Shijiazhuan 1-7  
 13690         2100-2300       CHN CHINA RADIO INTERNATIONA Spa Shijiazhuan 1-7  
 13690         1600-1657       ROU R.ROMANIA INT. DRM xHE E Fre SNR Tiganes 1-7  
-13690         0459-0658       NZL R.NEW ZEALAND INT.       Eng Rangitaiki  1-7  
-13690         1859-1958       NZL R.NEW ZEALAND INT.       Eng Rangitaiki  7    
 13695         0500-0600       F   R.FRANCE INT.            Fre Issoudun    1-7  
 13695         0600-0700       F   R.FRANCE INT.            Fre Issoudun    1-7  
 13695         0700-0800       F   R.FRANCE INT.            Fre Issoudun    1-7  

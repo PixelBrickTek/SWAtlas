@@ -1,4 +1,4 @@
-A26 Shortwave Frequecy List  September 27  2026,  0100 UTC   Day 1 = Sunday
+A26 Shortwave Frequecy List  September 30  2026,  1500 UTC   Day 1 = Sunday
 FRE   STATION                         UTC       Su-W-Sa Language             Pow Azi Location                ADM L/L             Remarks
    40 Time Signal                     0000-2400 1234567 A1B                   50  ND Otakadoyama Tamura C    J   372221N1405056E NICT
    60 Time Signal                     0000-2400 1234567 A1B                   50  ND Haganeyama              J   332756N1301032E NICT
@@ -2041,7 +2041,6 @@ FRE   STATION                         UTC       Su-W-Sa Language             Pow
  7245 VOICE OF TAJIK                  1300-1400 1234567 English              100  ND Dushanbe-Orzu           TJK 373216N0684738E Ovozi Tojik
  7245 VOICE OF TAJIK                  1400-1600 1234567 Tajik                100  ND Dushanbe-Orzu           TJK 373216N0684738E Ovozi Tojik
  7245 VOICE OF TAJIK                  1600-1800 1234567 Persian              100  ND Dushanbe-Orzu           TJK 373216N0684738E Ovozi Tojik
- 7245 R.NEW ZEALAND INT.              1059-1358  23456  English               50 335 Rangitaiki              NZL 385002S1762501E RNZ a26
  7245 R.NEW ZEALAND INT.              1059-1358   17    English               50  35 Rangitaiki              NZL 385002S1762501E RNZ a26
  7250 CHINA RADIO INTERNATIONAL       1400-1557 1234567 Nepali               500 252 Xianyang 594            CHN 342231N1083638E CRI a26
  7250 R.KUWAIT                        0800-1000 1234567 Persian              250  ND Sulaibiyah              KWT 290843N0474605E MOI b25
@@ -2270,7 +2269,7 @@ FRE   STATION                         UTC       Su-W-Sa Language             Pow
  7420 PBS Nei Menggu                  0950-1605 1234567 Chinese               50 263 Hohhot 839              CHN 404301N1113308E NMRB a26
  7420 PBS Nei Menggu                  0950-1605 1234567 Chinese               50  52 Hohhot 839              CHN 404301N1113308E NMRB a26
  7425 CNR 2-China Business Radio      1300-1605 1234567 Chinese              150 257 Xianyang 594            CHN 342231N1083638E CNR2=7360 a26
- 7425 R.NEW ZEALAND INT.(DRM)         1651-1858 123456  English(Digital)      35 325 Rangitaiki              NZL 385002S1762501E RNZ a26
+ 7425 R.NEW ZEALAND INT.(DRM)         1651-1758 123456  English(Digital)      35 325 Rangitaiki              NZL 385002S1762501E RNZ a26
  7430 CHINA RADIO INTERNATIONAL       0900-0957 1234567 Chinese              500  59 Jinhua 831              CHN 290646N1191840E CRI a26=7325
  7430 CHINA RADIO INTERNATIONAL       2200-2257 1234567 Chinese              500 255 Jinhua 831              CHN 290646N1191840E CRI a26
  7430 CHINA RADIO INTERNATIONAL       2300-0057 1234567 Russian              100 345 Hohhot 694              CHN 404753N1114635E CRI a26
@@ -2588,7 +2587,7 @@ FRE   STATION                         UTC       Su-W-Sa Language             Pow
  9445 Voice of Korea                  2200-2257 1234567 Chinese              200  ND Kujang                  KRE 400456N1260639E VOK a26
  9445 Voice of Korea (KCBS)           0900-0950 1234567 Korean               200  ND Kujang                  KRE 400456N1260639E VOK a26
  9445 Voice of Korea (KCBS)           2300-2350 1234567 Korean               200  ND Kujang                  KRE 400456N1260639E VOK a26
- 9445 New Korean Hope Radio           1430-1530  23456  Korean               200 352 Tamsui District         TWN 251108N1212458E _NKHB a26 Sep.1
+ 9445 New Korean Hope Radio           1430-1530 234567  Korean               200 352 Tamsui District         TWN 251108N1212458E _NKHB a26 Sep.1
  9450 CHINA RADIO INTERNATIONAL       0200-0300 1234567 Urdu                 100 209 Kashi-Saibagh 2022      TKS 392152N0754258E CRI a26
  9450 CHINA RADIO INTERNATIONAL       0300-0357 1234567 Chinese              100 209 Kashi-Saibagh 2022      TKS 392152N0754258E CRI a26
  9450 CHINA RADIO INTERNATIONAL       1300-1357 1234567 Hindi                100 174 Kashi-Saibagh 2022      TKS 392152N0754258E CRI a26
@@ -2937,12 +2936,14 @@ FRE   STATION                         UTC       Su-W-Sa Language             Pow
  9695 CHINA RADIO INTERNATIONAL       1730-1830 1234567 Chinese              500 283 Kunming-Anning          CHN 245255N1022945E CRI a26
  9695 R.TAIWAN INT.                   1100-1200 1234567 Vietnamese           300 250 Paochung                TWN 234334N1201802E RTI a26
  9695 World Christian Broadc.KNLS     0800-0900 1234567 English              100 270 Anchor Point tx1        ALS 594454N1514409W WCB KNLS a26
- 9700 CHINA RADIO INTERNATIONAL       0000-0057 1234567 English              100 174 Kashi-Saibagh 2022      TKS 392152N0754258E CRI a26
  9700 Ifrikya FM                      0100-0700 1234567 Arabic/French        300 210 Ourgla                  ALG 315524N0050432E TDA a26
- 9700 R.NEW ZEALAND INT.              1759-1858 1234567 English               50  35 Rangitaiki              NZL 385002S1762501E RNZ a26
- 9700 R.ROMANIA INT.                  0600-0627 1234567 German               300 307 Tiganesti               ROU 444457N0260610E RRO a26
  9700 World Christian Broadc.KNLS     1500-1600 1234567 Chinese              100 315 Anchor Point tx2        ALS 594454N1514409W WCB KNLS a26
  9700 R.NEW ZEALAND INT.              0659-1058 1234567 English               50  35 Rangitaiki              NZL 385002S1762501E RNZ a26
+ 9700 R.NEW ZEALAND INT.              1059-1358  23456  English               50 335 Rangitaiki              NZL 385002S1762501E RNZ a26
+ 9700 R.NEW ZEALAND INT.              1759-1858 1234567 English               50  35 Rangitaiki              NZL 385002S1762501E RNZ a26
+ 9700 R.NEW ZEALAND INT.              1759-1858    7    English               50  35 Rangitaiki              NZL 385002S1762501E RNZ a26
+ 9700 R.ROMANIA INT.                  0600-0627 1234567 German               300 307 Tiganesti               ROU 444457N0260610E RRO a26
+ 9700 CHINA RADIO INTERNATIONAL       0000-0057 1234567 English              100 174 Kashi-Saibagh 2022      TKS 392152N0754258E CRI a26
  9705 VATICAN RADIO                   2000-2030 1234567 English              250 182 Santa Maria di Galeria  CVA 420239N0121922E VAT a26
  9705 VATICAN RADIO                   2030-2058 1234567 French               250 182 Santa Maria di Galeria  CVA 420239N0121922E VAT a26
  9705 Furusato no kaze                1330-1357 1234567 Japanese             300   2 Paochung                TWN 234334N1201802E _JCI a26 ENC
@@ -3067,7 +3068,7 @@ FRE   STATION                         UTC       Su-W-Sa Language             Pow
  9780 PBS Qinghai                     0600-0900 12.4567 Chinese               50 270 Xining                  CHN 363922N1013433E QHTB a22
  9780 PBS Qinghai                     0900-1600 1234567 Chinese               50 270 Xining                  CHN 363922N1013433E QHTB a22
  9780 PBS Qinghai                     2100-0600 1234567 Chinese               50 270 Xining                  CHN 363922N1013433E QHTB a22
- 9780 R.NEW ZEALAND INT.(DRM)         1859-1958 123456  English(Digital)      35 325 Rangitaiki              NZL 385002S1762501E RNZ a26
+ 9780 R.NEW ZEALAND INT.(DRM)         1759-1858 123456  English(Digital)      35 325 Rangitaiki              NZL 385002S1762501E RNZ a26
  9785 KBS WORLD RADIO                 1400-1600 1234567 English              250 264 Kimjae                  KOR 354917N1265204E KBS a26
  9785 CHINA RADIO INTERNATIONAL       1130-1227 1234567 Thai                 150 191 Kunming-Anning 501      CHN 245235N1022917E CRI a26
  9785 CHINA RADIO INTERNATIONAL       1230-1330 1234567 Laotian              150 191 Kunming-Anning 501      CHN 245235N1022917E CRI a26
@@ -3609,6 +3610,7 @@ FRE   STATION                         UTC       Su-W-Sa Language             Pow
 11720 Voice of Vietnam 4              1030-1330 1234567 Vietnamese           100  ND Hanoi-Xuan Mai          VTN 2053N10534E     VOV 1
 11725 CHINA RADIO INTERNATIONAL       1600-1757 1234567 German               500 317 Xianyang 594            CHN 342231N1083638E CRI a26
 11725 R.NEW ZEALAND INT.              1859-1958 1234567 English               50  35 Rangitaiki              NZL 385002S1762501E RNZ a26
+11725 R.NEW ZEALAND INT.              0459-0658 1234567 English               50  35 Rangitaiki              NZL 385002S1762501E RNZ a26
 11730 CHINA RADIO INTERNATIONAL       0230-0330 1234567 Nepali               500 283 Kunming-Anning          CHN 245255N1022945E CRI a26
 11730 R.ROMANIA INT.                  2300-2357 1234567 Spanish              300 280 Galbeni-Bacau           ROU 464438N0265041E RRO a26
 11730 R.ROMANIA INT.                  1400-1457 1234567 German               300 307 Tiganesti               ROU 444457N0260610E RRO a26
@@ -4191,8 +4193,6 @@ FRE   STATION                         UTC       Su-W-Sa Language             Pow
 13690 CHINA RADIO INTERNATIONAL       2000-2100 1234567 Chinese              500 315 Shijiazhuang 723        CHN 374951N1142810E CRI a26
 13690 CHINA RADIO INTERNATIONAL       2100-2300 1234567 Spanish              500 315 Shijiazhuang 723        CHN 374951N1142810E CRI a26
 13690 R.ROMANIA INT. DRM xHE E1E101   1600-1657 1234567 French                90 292 SNR Tiganesti E2        ROU 444457N0260610E RRO a26
-13690 R.NEW ZEALAND INT.              0459-0658 1234567 English               50  35 Rangitaiki              NZL 385002S1762501E RNZ a26
-13690 R.NEW ZEALAND INT.              1859-1958    7    English               50  35 Rangitaiki              NZL 385002S1762501E RNZ a26
 13695 R.FRANCE INT.                   0500-0600 1234567 French               250 160 Issoudun                F   465704N0015305E RFI a26
 13695 R.FRANCE INT.                   0600-0700 1234567 French               250 175 Issoudun                F   465704N0015305E RFI a26
 13695 R.FRANCE INT.                   0700-0800 1234567 French               250 201 Issoudun                F   465704N0015305E RFI a26
