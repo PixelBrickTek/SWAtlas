@@ -1,4 +1,4 @@
-A26 Shortwave Frequecy List  October 4  2026,  1000 UTC   Day 1 = Sunday
+A26 Shortwave Frequecy List  October 6  2026,  1200 UTC   Day 1 = Sunday
 kHz           Time(UTC)       ITU Station                Lang. Location    Days 
 +-------------+---------+-----+---+------------------------+---+-----------+----
 
@@ -3217,6 +3217,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 9900          1300-1327       TWN Living Water Ministry    Kor Paochung    1-7  
 9900          1500-1600       TWN Living Water Ministry    Kor Paochung    1-7  
 9900          2200-2400       TWN * R.TAIWAN INT.          Chi Tamsui Dist 1-7  
+9910          1100-1500       PHL VOICE OF AMERICA         Kor Tinang      1-7  
 9915          0600-0700       ASC BBC                      Eng Ascension   1-7  
 9920          2105-1700       TWN * SOH Xi Wang Zhi Sheng  Chi Miaoli      1-7  
 9920          1730-2030       PHL R.PILIPINAS              Fil Tinang      1-7  
@@ -4062,7 +4063,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 12120         1300-1330       PHL FEBC Radio Liangyou      Lis Bocaue      1-7  
 12120         1730-2030       PHL R.PILIPINAS              Fil Tinang      1-7  
 12120         0030-0102       PHL Trans World Radio        Eng Bocaue      23456
-12140         0500-1500       PHL VOICE OF AMERICA         Kor Tinang      17   
+12140         0500-1500       PHL VOICE OF AMERICA         Kor Tinang      12   
 12140         0500-1500       PHL VOICE OF AMERICA         Kor Tinang      34567
 12150         2130-1700       TWN * SOH Xi Wang Zhi Sheng  Chi Miaoli      1-7  
 12160         2050-1600       TWN * SOH Xi Wang Zhi Sheng  Chi Miaoli      1-7  

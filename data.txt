@@ -1,4 +1,4 @@
-A26 Shortwave Frequecy List  October 4  2026,  1000 UTC   Day 1 = Sunday
+A26 Shortwave Frequecy List  October 6  2026,  1200 UTC   Day 1 = Sunday
 FRE   STATION                         UTC       Su-W-Sa Language             Pow Azi Location                ADM L/L             Remarks
    40 Time Signal                     0000-2400 1234567 A1B                   50  ND Otakadoyama Tamura C    J   372221N1405056E NICT
    60 Time Signal                     0000-2400 1234567 A1B                   50  ND Haganeyama              J   332756N1301032E NICT
@@ -3215,6 +3215,7 @@ FRE   STATION                         UTC       Su-W-Sa Language             Pow
  9900 Living Water Ministry           1300-1327 1234567 Korean               300   2 Paochung                TWN 234334N1201802E TWR/BRB a26
  9900 Living Water Ministry           1500-1600 1234567 Korean               300   2 Paochung                TWN 234334N1201802E TWR/BRB a26
  9900*R.TAIWAN INT.                   2200-2400 1234567 Chinese              300 352 Tamsui District         TWN 251108N1212458E CBSC a26//6075
+ 9910 VOICE OF AMERICA                1100-1500 1234567 Korean               250  21 Tinang                  PHL 152244N1203733E VOA/AGM a26 Oct.8-
  9915 BBC                             0600-0700 1234567 English              125  65 Ascension               ASC 075354S0142239W BBC a26
  9920*SOH Xi Wang Zhi Sheng           2105-1700 1234567 Chinese/Cantonese      1  ND Miaoli                  TWN 242317N1204253E SOH a26
  9920 R.PILIPINAS                     1730-2030 1234567 Filipino             250 283 Tinang                  PHL 152244N1203733E AGM/PBS a26
@@ -4060,7 +4061,7 @@ FRE   STATION                         UTC       Su-W-Sa Language             Pow
 12120 FEBC Radio Liangyou             1300-1330 1234567 Lisu                 100 293 Bocaue                  PHL 144809N1205438E FEBC a26
 12120 R.PILIPINAS                     1730-2030 1234567 Filipino             250 283 Tinang                  PHL 152244N1203733E AGM/PBS a26
 12120 Trans World Radio               0030-0102  23456  English              100 345 Bocaue                  PHL 144809N1205438E KTWR a26
-12140 VOICE OF AMERICA                0500-1500   17    Korean               250  21 Tinang                  PHL 152244N1203733E VOA/AGM a26 Sep.27-
+12140 VOICE OF AMERICA                0500-1500   12    Korean               250  21 Tinang                  PHL 152244N1203733E VOA/AGM a26 Sep.27-
 12140 VOICE OF AMERICA                0500-1500  34567  Korean               250  21 Tinang                  PHL 152244N1203733E VOA/AGM a26 Jul.28
 12150*SOH Xi Wang Zhi Sheng           2130-1700 1234567 Chinese/Cantonese      1  ND Miaoli                  TWN 242317N1204253E SOH a26
 12160*SOH Xi Wang Zhi Sheng           2050-1600 1234567 Chinese/Cantonese    0.1  ND Miaoli                  TWN 242317N1204253E SOH a26
@@ -5352,6 +5353,10 @@ FRE   STATION                         UTC       Su-W-Sa Language             Pow
       Daily changes
      *Jammed by CNR1                                                                 Tibet Autonomous Region TIB
      xoff the air                                                                    Xinjiang Uyghur         TKS
+
+
+
+
 
 
 
