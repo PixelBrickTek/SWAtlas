@@ -19,8 +19,8 @@
   <link rel="icon" type="image/png" href="ico.png">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&amp;family=Manrope:wght@400;500;600;700;800&amp;display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="style.css?v=20261012-field">
+  <link href="https://fonts.googleapis.com/css2?family=Anton&amp;family=DM+Sans:wght@400;500;600;700&amp;family=Manrope:wght@400;500;600;700;800&amp;display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css?v=20261012-nordic">
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
@@ -31,6 +31,7 @@
     "mainEntityOfPage": "https://pixelbricktek.github.io/SWAtlas/signaltools.html"
   }
   </script>
+  <script src="nature.js?v=20261012-nordic" defer></script>
 </head>
 <body class="signal-help-page">
   <a class="help-skip-link" href="#main-content">Skip to the guide</a>
@@ -55,7 +56,7 @@
           <a href="#space-weather">Space Weather</a>
           <a href="#troubleshooting">Troubleshooting</a>
         </nav>
-        <a class="help-home-link" href="index.html#signal-tools"><span aria-hidden="true">←</span> Main site</a>
+        <a class="help-home-link" href="index.html#signal-tools"> Main site</a>
       </div>
     </div>
   </header>
@@ -63,7 +64,7 @@
   <main class="help-main" id="main-content">
     <section class="help-section-intro" aria-labelledby="choose-tool-title">
       <div>
-        <span>Choose by sound</span>
+        
         <h1 id="choose-tool-title">Six tools, each built for a different signal.</h1>
       </div>
       <p>Clean up noisy radio recordings, see how space weather may affect reception, receive Radiofax charts, decode Morse and RTTY, and turn spoken broadcasts into searchable, translated text with Whisper.</p>
@@ -72,23 +73,23 @@
     <article class="help-tool" id="radiofax" aria-labelledby="radiofax-title">
       <figure class="help-tool-media help-tool-media--fax">
         <img src="signal1.webp" alt="Radiofax decoder receiving a black-and-white test chart" width="1179" height="2556" decoding="async">
-        <figcaption><span>HF FAX</span><strong>Radiofax Decoder</strong></figcaption>
+        <figcaption><strong>Radiofax Decoder</strong></figcaption>
       </figure>
       <div class="help-tool-content">
-        <div class="help-tool-label"><span>01</span> Radiofax</div>
+        <div class="help-tool-label">Radiofax</div>
         <h2 id="radiofax-title">Receive weather charts as pictures.</h2>
         <p class="help-lead">Radiofax—often called weather fax or WEFAX—is a way for a station to send a black-and-white image over radio. Maritime stations use it for weather maps, pressure charts, forecasts, and other information useful at sea.</p>
 
         <div class="help-simple-explanation">
-          <strong>Think of it like this</strong>
+          
           The station reads a picture one thin horizontal line at a time. SWAtlas hears those changing tones and rebuilds the same lines on your screen until the full chart appears.
         </div>
 
-        <a class="help-schedule-guide-button" href="radiofax-schedule-guide.html">Open Radiofax Schedules Guide <span aria-hidden="true">→</span></a>
+        <a class="help-schedule-guide-button" href="radiofax-schedule-guide.html">Open Radiofax Schedules Guide </a>
 
         <section class="help-test-card" aria-labelledby="radiofax-test-title">
           <div class="help-test-heading">
-            <div><span>Try it yourself</span><h3 id="radiofax-test-title">Test Radiofax with a sample video</h3></div>
+            <div><h3 id="radiofax-test-title">Test Radiofax with a sample video</h3></div>
             <a class="help-video-button" href="https://www.youtube.com/watch?v=aZU3Wp9451M" target="_blank" rel="noopener noreferrer" aria-label="Open the Radiofax test video on YouTube">Play test video <span aria-hidden="true">▶</span></a>
           </div>
           <p>Use a second phone, tablet, or computer to play the video. Keep SWAtlas open on your main device so its microphone can listen to the sample just as it would listen to a real radio.</p>
@@ -133,21 +134,21 @@
     <article class="help-tool help-tool--reverse" id="morse" aria-labelledby="morse-title">
       <figure class="help-tool-media help-tool-media--morse">
         <img src="signal2.webp" alt="Morse code decoder showing live decoded text and automatic tone controls" width="1179" height="2556" loading="lazy" decoding="async">
-        <figcaption><span>CW</span><strong>Morse Decoder</strong></figcaption>
+        <figcaption><strong>Morse Decoder</strong></figcaption>
       </figure>
       <div class="help-tool-content">
-        <div class="help-tool-label"><span>02</span> Morse code</div>
+        <div class="help-tool-label">Morse code</div>
         <h2 id="morse-title">Read dots and dashes as live text.</h2>
         <p class="help-lead">Morse code sends letters using short sounds (dots), long sounds (dashes), and the quiet gaps between them. Radio operators often call this kind of transmission CW, short for continuous wave.</p>
 
         <div class="help-simple-explanation">
-          <strong>Think of it like this</strong>
+          
           A dot and a dash are simply a short beep and a long beep. SWAtlas measures the length of each tone and gap, groups the pattern, and places the matching letter in the Live Text area.
         </div>
 
         <section class="help-test-card" aria-labelledby="morse-test-title">
           <div class="help-test-heading">
-            <div><span>Try it yourself</span><h3 id="morse-test-title">Test Morse with a sample video</h3></div>
+            <div><h3 id="morse-test-title">Test Morse with a sample video</h3></div>
             <a class="help-video-button" href="https://www.youtube.com/watch?v=adQnv8LRb00&amp;t=62s" target="_blank" rel="noopener noreferrer" aria-label="Open the Morse code test video on YouTube at one minute and two seconds">Play from 1:02 <span aria-hidden="true">▶</span></a>
           </div>
           <p>Play the sample on a separate phone, tablet, or computer. SWAtlas must remain open on the decoding device with microphone access enabled.</p>
@@ -192,21 +193,21 @@
     <article class="help-tool" id="rtty" aria-labelledby="rtty-title">
       <figure class="help-tool-media help-tool-media--rtty">
         <img src="signal3.webp" alt="RTTY decoder waiting for a signal and showing smart tuning readouts" width="1179" height="2556" loading="lazy" decoding="async">
-        <figcaption><span>FSK</span><strong>RTTY Decoder</strong></figcaption>
+        <figcaption><strong>RTTY Decoder</strong></figcaption>
       </figure>
       <div class="help-tool-content">
-        <div class="help-tool-label"><span>03</span> RTTY</div>
+        <div class="help-tool-label">RTTY</div>
         <h2 id="rtty-title">Turn two alternating tones into typed text.</h2>
         <p class="help-lead">RTTY means radio teletype. Instead of using one tone with short and long beeps, it switches quickly between two pitches. Those two states carry letters, numbers, and punctuation for the decoder to reconstruct.</p>
 
         <div class="help-simple-explanation">
-          <strong>Think of it like this</strong>
+          
           Imagine an old typing machine using a high tone for one signal state and a low tone for the other. The exact pattern of those changes tells SWAtlas which character was sent.
         </div>
 
         <section class="help-test-card" aria-labelledby="rtty-test-title">
           <div class="help-test-heading">
-            <div><span>Try it yourself</span><h3 id="rtty-test-title">Test RTTY with a sample video</h3></div>
+            <div><h3 id="rtty-test-title">Test RTTY with a sample video</h3></div>
             <a class="help-video-button" href="https://www.youtube.com/watch?v=MaPh4nhfh8w" target="_blank" rel="noopener noreferrer" aria-label="Open the RTTY test video on YouTube">Play test video <span aria-hidden="true">▶</span></a>
           </div>
           <p>Use a second device to play the RTTY sample while SWAtlas listens through the microphone on your main device. A quiet room makes the first test easier.</p>
@@ -253,21 +254,21 @@
     <article class="help-tool help-tool--reverse" id="whisper" aria-labelledby="whisper-title">
       <figure class="help-tool-media help-tool-media--whisper">
         <img src="signal4.webp" alt="Whisper Transcriber ready for offline speech transcription and translation" width="1179" height="2556" loading="lazy" decoding="async">
-        <figcaption><span>AI SPEECH</span><strong>Whisper Transcriber</strong></figcaption>
+        <figcaption><strong>Whisper Transcriber</strong></figcaption>
       </figure>
       <div class="help-tool-content">
-        <div class="help-tool-label"><span>04</span> Whisper</div>
+        <div class="help-tool-label">Whisper</div>
         <h2 id="whisper-title">Hear a distant language. Read it in yours.</h2>
         <p class="help-lead">The first three Signal Tools decode specialist radio modes. Whisper is different: it helps you explore and understand spoken shortwave broadcasts. It turns speech in another language into a transcript, then translates that text into the language you choose.</p>
 
         <div class="help-simple-explanation">
-          <strong>Think of it like this</strong>
+          
           Whisper is a listening notebook and interpreter in one. It writes down the broadcast as it plays, keeps the original words, and creates a separate translation you can read and archive.
         </div>
 
         <section class="help-test-card" aria-labelledby="whisper-setup-title">
           <div class="help-test-heading">
-            <div><span>One-time setup</span><h3 id="whisper-setup-title">Download both models before going offline</h3></div>
+            <div><h3 id="whisper-setup-title">Download both models before going offline</h3></div>
           </div>
           <p>Transcription and translation use separate on-device models. Download each model while you have an internet connection; once both are installed, the complete workflow can run without a network.</p>
           <ol class="help-test-steps">
@@ -313,10 +314,10 @@
     <article class="help-tool" id="smart-recorder" aria-labelledby="smart-recorder-title">
       <figure class="help-tool-media help-tool-media--recorder">
         <img src="signal5.webp" alt="Smart Radio Recorder detecting a voice signal while recording" width="1179" height="2556" loading="lazy" decoding="async">
-        <figcaption><span>CLEAN AUDIO</span><strong>Smart Radio Recorder</strong></figcaption>
+        <figcaption><strong>Smart Radio Recorder</strong></figcaption>
       </figure>
       <div class="help-tool-content">
-        <div class="help-tool-label"><span>05</span> Smart Radio Recorder</div>
+        <div class="help-tool-label">Smart Radio Recorder</div>
         <h2 id="smart-recorder-title">Keep the voice. Reduce the radio noise.</h2>
         <p class="help-lead">Record a radio broadcast while SWAtlas identifies the useful voice and reduces the familiar hiss and static around it. The original recording is archived too, so you always keep an untouched copy.</p>
 
@@ -330,10 +331,10 @@
     <article class="help-tool help-tool--reverse" id="space-weather" aria-labelledby="space-weather-title">
       <figure class="help-tool-media help-tool-media--space-weather">
         <img src="signal6.webp" alt="Space Weather dashboard showing NOAA scales, radio effects, and the D-RAP world map" width="1179" height="2556" loading="lazy" decoding="async">
-        <figcaption><span>NOAA DATA</span><strong>Space Weather</strong></figcaption>
+        <figcaption><strong>Space Weather</strong></figcaption>
       </figure>
       <div class="help-tool-content">
-        <div class="help-tool-label"><span>06</span> Space Weather</div>
+        <div class="help-tool-label">Space Weather</div>
         <h2 id="space-weather-title">See radio conditions at a glance.</h2>
         <p class="help-lead">SWAtlas turns NOAA space-weather data into a quick view of conditions that may affect shortwave and radio reception. The information updates automatically; when you are offline, the app keeps showing the most recently downloaded report.</p>
 
@@ -345,37 +346,37 @@
     </article>
 
     <section class="help-compare" aria-labelledby="compare-title">
-      <span>A quick way to remember</span>
+      
       <h2 id="compare-title">Match the tool to what the signal is carrying.</h2>
       <p>Each tool is designed for a different part of listening, decoding, recording, or understanding radio conditions.</p>
       <div class="help-compare-grid">
         <article class="help-compare-card">
-          <span>01 · RADIOFAX</span>
+          <span>RADIOFAX</span>
           <h3>Changing sweep → image</h3>
           <p>Use it when a station is sending weather maps, charts, or other black-and-white pictures.</p>
         </article>
         <article class="help-compare-card">
-          <span>02 · MORSE</span>
+          <span>MORSE</span>
           <h3>Short and long beeps → text</h3>
           <p>Use it for a single tone that switches on and off in dot-and-dash rhythms.</p>
         </article>
         <article class="help-compare-card">
-          <span>03 · RTTY</span>
+          <span>RTTY</span>
           <h3>Two alternating tones → text</h3>
           <p>Use it for the fast, continuous two-pitch sound of radio teletype.</p>
         </article>
         <article class="help-compare-card">
-          <span>04 · WHISPER</span>
+          <span>WHISPER</span>
           <h3>Spoken broadcast &rarr; transcript + translation</h3>
           <p>Use it to understand voice broadcasts in another language and keep both versions in your archive.</p>
         </article>
         <article class="help-compare-card">
-          <span>05 · SMART RECORDER</span>
+          <span>SMART RECORDER</span>
           <h3>Radio audio &rarr; cleaner voice</h3>
           <p>Record a broadcast, reduce radio noise, and keep both the enhanced and original audio.</p>
         </article>
         <article class="help-compare-card">
-          <span>06 · SPACE WEATHER</span>
+          <span>SPACE WEATHER</span>
           <h3>NOAA data &rarr; radio outlook</h3>
           <p>Check current radio impacts, review the D-RAP map, and retain the latest report offline.</p>
         </article>
@@ -384,7 +385,7 @@
 
     <section class="help-troubleshooting" id="troubleshooting" aria-labelledby="troubleshooting-title">
       <div>
-        <span>Before changing settings</span>
+        
         <h2 id="troubleshooting-title">Most problems begin with the audio.</h2>
       </div>
       <div class="help-faq">
