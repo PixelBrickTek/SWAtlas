@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="theme-color" content="#f3f0e8">
+  <meta name="theme-color" content="#f6f5f0">
   <title>SWAtlas — Shortwave, World Airband, and World FM</title>
   <meta name="description" content="Explore shortwave broadcasts and quickly find nearby World Airband and country-based World FM frequency references with SWAtlas.">
   <meta property="og:type" content="website">
@@ -17,16 +17,10 @@
   <meta name="twitter:image" content="https://pixelbricktek.github.io/SWAtlas/og.png">
   <link rel="canonical" href="https://pixelbricktek.github.io/SWAtlas/">
   <link rel="icon" type="image/png" href="ico.png">
-  <link rel="preload" as="image" href="signal1.webp" type="image/webp" fetchpriority="low">
-  <link rel="preload" as="image" href="signal2.webp" type="image/webp" fetchpriority="low">
-  <link rel="preload" as="image" href="signal3.webp" type="image/webp" fetchpriority="low">
-  <link rel="preload" as="image" href="signal4.webp" type="image/webp" fetchpriority="low">
-  <link rel="preload" as="image" href="signal5.webp" type="image/webp" fetchpriority="low">
-  <link rel="preload" as="image" href="signal6.webp" type="image/webp" fetchpriority="low">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&amp;family=Manrope:wght@400;500;600;700;800&amp;display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="style.css?v=20260811-airband-fm">
+  <link rel="stylesheet" href="style.css?v=20261012-field">
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
@@ -69,49 +63,24 @@
     </nav>
 
     <header class="hero" id="top">
-      <div class="hero-orbit orbit-one" aria-hidden="true"></div>
-      <div class="hero-orbit orbit-two" aria-hidden="true"></div>
-      <div class="hero-grid">
-        <div class="hero-copy reveal" data-parallax="0.045">
-          <div class="eyebrow"><span class="live-dot"></span> The world is broadcasting</div>
-          <h1>Shortwave,<br><em>beautifully decoded.</em></h1>
-          <p class="hero-text">
+      <div class="hero-intro">
+        <div class="hero-title"><div class="eyebrow"><span class="live-dot"></span> The world is broadcasting</div><h1>Shortwave,<br><em>beautifully decoded.</em></h1></div>
+        <div class="hero-summary"><p class="hero-text">
             Use SWAtlas alongside your radio to explore shortwave broadcasts and quickly find World Airband and World FM frequencies, with nearby airports and relevant country data brought to the top.
-          </p>
-          <div class="hero-actions">
+          </p><div class="hero-actions">
             <a class="primary-button" href="https://apps.apple.com/app/swatlas-shortwave-explorer/id6761421523" target="_blank" rel="noopener noreferrer">
               Download on the App Store <span aria-hidden="true">↗</span>
             </a>
             <a class="text-button" href="#code-intelligence">See how codes become clear <span aria-hidden="true">↓</span></a>
-          </div>
-          <p class="hero-receiver-note">SWAtlas is a companion app and does not receive radio signals by itself. A shortwave receiver or another audio source is required for live decoding, recording, and transcription.</p>
-          <p class="hero-reference-note"><strong>World Airband &amp; World FM are reference tools.</strong> With location access, World Airband lists nearby airports first, while World FM prioritizes stations from your current country—making the frequency you need easier to find.</p>
-          <div class="hero-proof" aria-label="Product highlights">
+          </div></div>
+      </div>
+      <figure class="field-hero"><img src="field-radio.webp" alt="SWAtlas radio beside a forest lake" width="2000" height="1125" fetchpriority="high"></figure>
+      <div class="hero-context"><p class="hero-receiver-note">SWAtlas is a companion app and does not receive radio signals by itself. A shortwave receiver or another audio source is required for live decoding, recording, and transcription.</p><p class="hero-reference-note"><strong>World Airband &amp; World FM are reference tools.</strong> With location access, World Airband lists nearby airports first, while World FM prioritizes stations from your current country—making the frequency you need easier to find.</p><div class="hero-proof" aria-label="Product highlights">
             <span><b>01</b> Aoki + EiBi</span>
             <span><b>02</b> Live-aware</span>
             <span><b>03</b> Offline-ready</span>
             <span><b>04</b> Airband + FM</span>
-          </div>
-        </div>
-
-        <div class="hero-stage reveal" data-parallax="-0.065">
-          <div class="frequency-halo" aria-hidden="true">
-            <span>3</span><span>6</span><span>9</span><span>12</span><span>15</span><span>18</span><span>21</span>
-          </div>
-          <div class="phone-frame" data-tilt>
-            <div class="phone-sheen" aria-hidden="true"></div>
-            <img src="main.jpg" alt="SWAtlas frequency search screen showing live stations" class="hero-screenshot">
-          </div>
-          <div class="floating-card floating-live" aria-hidden="true">
-            <span class="pulse-ring"></span>
-            <div><small>ON AIR NOW</small><strong>NHK Radio Japan</strong></div>
-          </div>
-          <div class="floating-card floating-frequency" aria-hidden="true">
-            <small>FREQUENCY</small><strong>13,645 <span>kHz</span></strong>
-          </div>
-          <div class="scroll-cue" aria-hidden="true"><span></span> Scroll to tune</div>
-        </div>
-      </div>
+          </div></div>
     </header>
 
     <div class="signal-marquee" aria-hidden="true">
@@ -138,8 +107,10 @@
           <p class="reveal">Built on respected shortwave datasets and expanded with World Airband and World FM reference directories, arranged to surface the most locally relevant frequency information first.</p>
         </div>
 
-        <div class="database-panel reveal" data-parallax="0.02">
-          <div class="database-visual" aria-hidden="true">
+        <div class="database-panel reveal">
+          <div class="database-visual">
+            <img class="directory-screenshot" src="main.jpg" alt="SWAtlas frequency search screen showing live stations" width="1179" height="2556" loading="lazy">
+            <div class="database-art" aria-hidden="true">
             <div class="map-grid"></div>
             <div class="map-glow map-glow-1"></div>
             <div class="map-glow map-glow-2"></div>
@@ -150,6 +121,7 @@
             <div class="range-ring ring-1"></div>
             <div class="range-ring ring-2"></div>
             <div class="database-counter"><small>DATABASE SOURCES</small><strong>Aoki + EiBi</strong><span>plus additional listening data</span></div>
+            </div>
           </div>
           <div class="database-list">
             <article class="database-row">
@@ -195,7 +167,7 @@
             </ul>
           </div>
 
-          <div class="code-demo reveal" data-parallax="-0.025">
+          <div class="code-demo reveal">
             <div class="demo-toolbar">
               <div class="demo-dots" aria-hidden="true"><i></i><i></i><i></i></div>
               <span>CODE RESOLVER</span>
@@ -240,7 +212,7 @@
         </div>
 
         <div class="live-bento">
-          <article class="live-card live-card-alert reveal" data-parallax="0.018">
+          <article class="live-card live-card-alert reveal">
             <div class="card-kicker"><span class="live-dot"></span> Broadcast alert</div>
             <h3>A quiet reminder,<br>right on cue.</h3>
             <p>Set an alert from any broadcast detail and return when the station comes on air.</p>
@@ -251,7 +223,7 @@
             </div>
           </article>
 
-          <article class="live-card live-card-time reveal" data-parallax="-0.014">
+          <article class="live-card live-card-time reveal">
             <div class="card-kicker">UTC → Local</div>
             <h3>Time that speaks<br>your language.</h3>
             <div class="time-dial">
@@ -299,7 +271,7 @@
         </div>
 
         <div class="signal-tools-grid">
-          <article class="signal-tool-card signal-tool-fax reveal" data-parallax="0.014">
+          <article class="signal-tool-card signal-tool-fax reveal">
             <div class="signal-tool-copy">
               <div class="card-kicker">Radiofax</div>
               <h3>Weather charts, received as images.</h3>
@@ -316,7 +288,7 @@
             </figure>
           </article>
 
-          <article class="signal-tool-card signal-tool-morse reveal" data-parallax="-0.012">
+          <article class="signal-tool-card signal-tool-morse reveal">
             <figure class="signal-tool-visual signal-tool-visual-morse">
               <img src="signal2.webp" alt="SWAtlas Morse code decoder feature" width="1179" height="2556" loading="eager" decoding="async" fetchpriority="low" onerror="this.closest('.signal-tool-visual').classList.add('is-missing'); this.remove();">
               <figcaption><span>CW</span><strong>Morse Decoder</strong></figcaption>
@@ -333,7 +305,7 @@
             </div>
           </article>
 
-          <article class="signal-tool-card signal-tool-rtty reveal" data-parallax="0.01">
+          <article class="signal-tool-card signal-tool-rtty reveal">
             <div class="signal-tool-copy">
               <div class="card-kicker">RTTY</div>
               <h3>Two tones, turned into live text.</h3>
@@ -350,7 +322,7 @@
             </figure>
           </article>
 
-          <article class="signal-tool-card signal-tool-whisper reveal" data-parallax="-0.012">
+          <article class="signal-tool-card signal-tool-whisper reveal">
             <figure class="signal-tool-visual signal-tool-visual-whisper">
               <img src="signal4.webp" alt="SWAtlas Whisper Transcriber ready for offline transcription and translation" width="1179" height="2556" loading="lazy" decoding="async" onerror="this.closest('.signal-tool-visual').classList.add('is-missing'); this.remove();">
               <figcaption><span>AI SPEECH</span><strong>Whisper Transcriber</strong></figcaption>
@@ -367,7 +339,7 @@
             </div>
           </article>
 
-          <article class="signal-tool-card signal-tool-recorder reveal" data-parallax="0.01">
+          <article class="signal-tool-card signal-tool-recorder reveal">
             <div class="signal-tool-copy">
               <div class="card-kicker">Smart Radio Recorder</div>
               <h3>Keep the voice. Reduce the radio noise.</h3>
@@ -384,7 +356,7 @@
             </figure>
           </article>
 
-          <article class="signal-tool-card signal-tool-weather reveal" data-parallax="-0.012">
+          <article class="signal-tool-card signal-tool-weather reveal">
             <figure class="signal-tool-visual signal-tool-visual-weather">
               <img src="signal6.webp" alt="SWAtlas Space Weather dashboard showing NOAA scales and the D-RAP map" width="1179" height="2556" loading="lazy" decoding="async" onerror="this.closest('.signal-tool-visual').classList.add('is-missing'); this.remove();">
               <figcaption><span>NOAA DATA</span><strong>Space Weather</strong></figcaption>
@@ -448,6 +420,7 @@
       </section>
 
       <section class="closing-section">
+        <figure class="field-companion"><img src="field-companion.webp" alt="SWAtlas app and radio in the forest" width="2000" height="1125" loading="lazy" decoding="async"></figure>
         <div class="closing-orbit" aria-hidden="true"></div>
         <div class="closing-content reveal">
           <span class="section-tag light">Your next signal is waiting</span>
@@ -476,35 +449,34 @@
   </div>
 
   <script>
-    const root = document.documentElement;
     const menuButton = document.querySelector('.top-anchor-menu-button');
     const nav = document.querySelector('.top-anchor-nav');
-    const reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
 
     menuButton?.addEventListener('click', () => {
       const isOpen = nav.classList.toggle('is-open');
       menuButton.classList.toggle('is-open', isOpen);
       menuButton.setAttribute('aria-expanded', String(isOpen));
+      menuButton.setAttribute('aria-label', isOpen ? 'Close menu' : 'Open menu');
     });
 
     nav?.querySelectorAll('a').forEach(link => link.addEventListener('click', () => {
       nav.classList.remove('is-open');
       menuButton?.classList.remove('is-open');
       menuButton?.setAttribute('aria-expanded', 'false');
+      menuButton?.setAttribute('aria-label', 'Open menu');
     }));
 
-    const revealItems = document.querySelectorAll('.reveal');
-    const revealObserver = new IntersectionObserver((entries) => {
-      entries.forEach(entry => {
-        if (entry.isIntersecting) {
-          entry.target.classList.add('is-visible');
-          revealObserver.unobserve(entry.target);
-        }
-      });
-    }, { threshold: 0.12, rootMargin: '0px 0px -7% 0px' });
-    revealItems.forEach(item => revealObserver.observe(item));
+    document.addEventListener('keydown', event => {
+      if (event.key === 'Escape' && nav?.classList.contains('is-open')) {
+        menuButton.click();
+        menuButton.focus();
+      }
+    });
+    document.addEventListener('click', event => {
+      if (nav?.classList.contains('is-open') && !event.target.closest('.top-anchor-inner')) menuButton.click();
+    });
 
-    const sections = [...document.querySelectorAll('main section[id]')];
+    const sections = [...document.querySelectorAll('header.hero[id], main section[id]')];
     const navLinks = [...document.querySelectorAll('.top-anchor-link')];
     const sectionObserver = new IntersectionObserver((entries) => {
       entries.forEach(entry => {
@@ -513,37 +485,6 @@
       });
     }, { rootMargin: '-35% 0px -55% 0px' });
     sections.forEach(section => sectionObserver.observe(section));
-
-    let ticking = false;
-    const updateScroll = () => {
-      const scrollY = window.scrollY;
-      const max = document.documentElement.scrollHeight - window.innerHeight;
-      root.style.setProperty('--scroll-progress', max > 0 ? scrollY / max : 0);
-      root.style.setProperty('--scroll-y', `${scrollY}px`);
-
-      if (!reduceMotion) {
-        document.querySelectorAll('[data-parallax]').forEach(element => {
-          const rect = element.getBoundingClientRect();
-          const offset = (rect.top + rect.height / 2 - window.innerHeight / 2) * Number(element.dataset.parallax);
-          element.style.setProperty('--parallax', `${offset}px`);
-        });
-        const showcase = document.querySelector('[data-gallery-scroll]');
-        if (showcase && !showcase.dataset.interacted) {
-          const rect = showcase.getBoundingClientRect();
-          const progress = Math.max(0, Math.min(1, (window.innerHeight - rect.top) / (window.innerHeight + rect.height)));
-          const overflow = Math.max(0, showcase.scrollWidth - showcase.clientWidth);
-          showcase.scrollLeft = overflow * progress * .72;
-        }
-      }
-      ticking = false;
-    };
-    const requestScrollUpdate = () => {
-      if (!ticking) requestAnimationFrame(updateScroll);
-      ticking = true;
-    };
-    updateScroll();
-    addEventListener('scroll', requestScrollUpdate, { passive: true });
-    addEventListener('resize', requestScrollUpdate);
 
     const codeData = {
       JPN: { language: 'Japanese' },
@@ -686,26 +627,17 @@
     lightbox?.addEventListener('click', event => { if (event.target === lightbox) closeLightbox(); });
     document.addEventListener('keydown', event => {
       if (!lightbox?.classList.contains('is-open')) return;
+      if (event.key === 'Tab') {
+        const buttons = [...lightbox.querySelectorAll('button')];
+        const first = buttons[0], last = buttons[buttons.length - 1];
+        if (event.shiftKey && document.activeElement === first) { event.preventDefault(); last.focus(); }
+        else if (!event.shiftKey && document.activeElement === last) { event.preventDefault(); first.focus(); }
+      }
       if (event.key === 'Escape') closeLightbox();
       if (event.key === 'ArrowLeft') showImage(activeImage - 1);
       if (event.key === 'ArrowRight') showImage(activeImage + 1);
     });
 
-    if (!reduceMotion && matchMedia('(pointer: fine)').matches) {
-      document.querySelectorAll('[data-tilt]').forEach(card => {
-        card.addEventListener('pointermove', event => {
-          const rect = card.getBoundingClientRect();
-          const x = (event.clientX - rect.left) / rect.width - .5;
-          const y = (event.clientY - rect.top) / rect.height - .5;
-          card.style.setProperty('--tilt-x', `${y * -5}deg`);
-          card.style.setProperty('--tilt-y', `${x * 7}deg`);
-        });
-        card.addEventListener('pointerleave', () => {
-          card.style.setProperty('--tilt-x', '0deg');
-          card.style.setProperty('--tilt-y', '0deg');
-        });
-      });
-    }
   </script>
 </body>
 </html>
