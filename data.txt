@@ -1,4 +1,4 @@
-A26 Shortwave Frequecy List  October 11  2026,  1400 UTC   Day 1 = Sunday
+A26 Shortwave Frequecy List  October 13  2026,  1000 UTC   Day 1 = Sunday
 FRE   STATION                         UTC       Su-W-Sa Language             Pow Azi Location                ADM L/L             Remarks
    40 Time Signal                     0000-2400 1234567 A1B                   50  ND Otakadoyama Tamura C    J   372221N1405056E NICT
    60 Time Signal                     0000-2400 1234567 A1B                   50  ND Haganeyama              J   332756N1301032E NICT
@@ -1422,7 +1422,7 @@ FRE   STATION                         UTC       Su-W-Sa Language             Pow
  5850 WRMI R.Prague                   2300-2330 1234567 French               100 315 Okeechobee12            USA 272726N0805559W RMI a26
  5850 WRMI R.Prague                   2330-2400 1234567 English              100 315 Okeechobee12            USA 272726N0805559W RMI a26
  5857 HLL Seoul Meteorological Radio  0000-2400 1234567 Korean/Japanese/Engl   3  ND Boseong                 KOR 3449N12715E     HLL2 H3E
- 5860 RADIO FARDA                     1300-0600 1234567 Persian              250  50 Kuwait                  KWT 290843N0474605E RFE/AGM a26
+ 5860 RADIO FARDA                     1300-0400 1234567 Persian              250  50 Kuwait                  KWT 290843N0474605E RFE/AGM a26
  5890 Iran International TV           1900-0400 1234567 Persian              250 100 Kostinbrod(Sofia)       BUL 424833N0231113E RIT a26//9525
  5890 WWCR NASHVILLE                  0300-1300 1234567 English              100  90 Nashville               USA 361230N0865338W WWCR4 b25
  5895 LKB/LLE R.Northern Star         0455-2205 1234567 Norwegian              1  ND Erdal                   NOR 602655N0051300E LLE-3 b25
@@ -2485,7 +2485,6 @@ FRE   STATION                         UTC       Su-W-Sa Language             Pow
  9360 RADIO FARDA                     1400-2400 1234567 Persian              250  58 Kuwait                  KWT 290843N0474605E RFE/AGM a26 Apr.27
  9360 RADIO FARDA                     0000-1400 1234567 Persian              250  50 Kuwait                  KWT 290843N0474605E RFE/AGM a26
  9375 VOICE OF AMERICA                2100-2400  34567  Chinese              250  87 Dushanbe-Orzu           TJK 373216N0684738E VOA/AGM a26 Oct.8--
- 9375 RADIO FARDA                     0300-1400 1234567 Persian              250  58 Kuwait                  KWT 290843N0474605E RFE/AGM a26 Aug.28-
  9380 VOA Ashna Radio                 1630-1645 1234567 Dari                 250  70 Kuwait                  KWT 290843N0474605E VOA/AGM a26
  9380 VOA Ashna Radio                 1700-1715 1234567 Pashto               250  70 Kuwait                  KWT 290843N0474605E VOA/AGM a26
  9380 Trans World Radio               1744-1759    7    Turkana              100   5 Manzini                 SWZ 262017S0313555E TWR a26
@@ -3220,7 +3219,6 @@ FRE   STATION                         UTC       Su-W-Sa Language             Pow
  9900 Living Water Ministry           1300-1327 1234567 Korean               300   2 Paochung                TWN 234334N1201802E TWR/BRB a26
  9900 Living Water Ministry           1500-1600 1234567 Korean               300   2 Paochung                TWN 234334N1201802E TWR/BRB a26
  9900*R.TAIWAN INT.                   2200-2400 1234567 Chinese              300 352 Tamsui District         TWN 251108N1212458E CBSC a26//6075
- 9910 VOICE OF AMERICA                1100-1500 1234567 Korean               250  21 Tinang                  PHL 152244N1203733E VOA/AGM a26 Oct.8-
  9915 BBC                             0600-0700 1234567 English              125  65 Ascension               ASC 075354S0142239W BBC a26
  9920*SOH Xi Wang Zhi Sheng           2105-1700 1234567 Chinese/Cantonese      1  ND Miaoli                  TWN 242317N1204253E SOH a26
  9920 R.PILIPINAS                     1730-2030 1234567 Filipino             250 283 Tinang                  PHL 152244N1203733E AGM/PBS a26
@@ -5356,14 +5354,6 @@ FRE   STATION                         UTC       Su-W-Sa Language             Pow
       Daily changes
      *Jammed by CNR1                                                                 Tibet Autonomous Region TIB
      xoff the air                                                                    Xinjiang Uyghur         TKS
-
-
-
-
-
-
-
-
 
 
 

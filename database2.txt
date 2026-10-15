@@ -1,4 +1,4 @@
-A26 Shortwave Frequecy List  October 11  2026,  1400 UTC   Day 1 = Sunday
+A26 Shortwave Frequecy List  October 13  2026,  1000 UTC   Day 1 = Sunday
 kHz           Time(UTC)       ITU Station                Lang. Location    Days 
 +-------------+---------+-----+---+------------------------+---+-----------+----
 
@@ -1424,7 +1424,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 5850          2300-2330       USA WRMI R.Prague            Fre Okeechobee1 1-7  
 5850          2330-2400       USA WRMI R.Prague            Eng Okeechobee1 1-7  
 5857          0000-2400       KOR HLL Seoul Meteorological Kor Boseong     1-7  
-5860          1300-0600       KWT RADIO FARDA              Per Kuwait      1-7  
+5860          1300-0400       KWT RADIO FARDA              Per Kuwait      1-7  
 5890          1900-0400       BUL Iran International TV    Per Kostinbrod( 1-7  
 5890          0300-1300       USA WWCR NASHVILLE           Eng Nashville   1-7  
 5895          0455-2205       NOR LKB/LLE R.Northern Star  Nor Erdal       1-7  
@@ -2487,7 +2487,6 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 9360          1400-2400       KWT RADIO FARDA              Per Kuwait      1-7  
 9360          0000-1400       KWT RADIO FARDA              Per Kuwait      1-7  
 9375          2100-2400       TJK VOICE OF AMERICA         Chi Dushanbe-Or 34567
-9375          0300-1400       KWT RADIO FARDA              Per Kuwait      1-7  
 9380          1630-1645       KWT VOA Ashna Radio          Dar Kuwait      1-7  
 9380          1700-1715       KWT VOA Ashna Radio          Pas Kuwait      1-7  
 9380          1744-1759       SWZ Trans World Radio        Tur Manzini     7    
@@ -3222,7 +3221,6 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 9900          1300-1327       TWN Living Water Ministry    Kor Paochung    1-7  
 9900          1500-1600       TWN Living Water Ministry    Kor Paochung    1-7  
 9900          2200-2400       TWN * R.TAIWAN INT.          Chi Tamsui Dist 1-7  
-9910          1100-1500       PHL VOICE OF AMERICA         Kor Tinang      1-7  
 9915          0600-0700       ASC BBC                      Eng Ascension   1-7  
 9920          2105-1700       TWN * SOH Xi Wang Zhi Sheng  Chi Miaoli      1-7  
 9920          1730-2030       PHL R.PILIPINAS              Fil Tinang      1-7  
