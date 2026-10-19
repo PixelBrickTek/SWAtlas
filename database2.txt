@@ -1,4 +1,4 @@
-A26 Shortwave Frequecy List  October 13  2026,  1000 UTC   Day 1 = Sunday
+A26 Shortwave Frequecy List  October 18  2026,  1400 UTC   Day 1 = Sunday
 kHz           Time(UTC)       ITU Station                Lang. Location    Days 
 +-------------+---------+-----+---+------------------------+---+-----------+----
 
@@ -4434,6 +4434,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 15200         1700-1757       ROU R.ROMANIA INT.           Rom Galbeni-Bac 1-7  
 15205         1200-1400       UZB Radio 60!                Eng Tashkent    7    
 15210         0000-0015       TWN RADIO FREE ASIA          Lao Paochung    1-7  
+15210         1300-1357       ROU R.ROMANIA INT.           Rus Tiganesti   1-7  
 15215         1200-1230       UAE FEBA Radio               Tib Al-Dhabbiya 123  
 15215         1500-1530       GUM KSDA-Adventist World R.G Kan Agat        1-7  
 15215         1530-1558       GUM KSDA-Adventist World R.G Hin Agat        1-7  
@@ -4746,7 +4747,6 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 15530         1400-1430       GUM KSDA-Adventist World R.G kxf Agat        1-7  
 15530         1430-1500       GUM KSDA-Adventist World R.G kxf Agat        1-7  
 15530         1500-1530       GUM KSDA-Adventist World R.G Tam Agat        1-7  
-15530         1300-1357       ROU R.ROMANIA INT.           Rus Tiganesti   1-7  
 15540         0100-0600       CHN CNR 2-China Business Rad Chi Lingshi 725 1-7  
 15540         0600-0855       CHN CNR 2-China Business Rad Chi Lingshi 725 124-7
 15540         0855-1100       CHN CNR 2-China Business Rad Chi Lingshi 725 1-7  

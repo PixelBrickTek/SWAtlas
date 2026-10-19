@@ -1,4 +1,4 @@
-A26 Shortwave Frequecy List  October 13  2026,  1000 UTC   Day 1 = Sunday
+A26 Shortwave Frequecy List  October 18  2026,  1400 UTC   Day 1 = Sunday
 FRE   STATION                         UTC       Su-W-Sa Language             Pow Azi Location                ADM L/L             Remarks
    40 Time Signal                     0000-2400 1234567 A1B                   50  ND Otakadoyama Tamura C    J   372221N1405056E NICT
    60 Time Signal                     0000-2400 1234567 A1B                   50  ND Haganeyama              J   332756N1301032E NICT
@@ -4432,6 +4432,7 @@ FRE   STATION                         UTC       Su-W-Sa Language             Pow
 15200 R.ROMANIA INT.                  1700-1757 1234567 Romanian             300 285 Galbeni-Bacau           ROU 464438N0265041E RRO a26
 15205 Radio 60!                       1200-1400    7    English/German       100  66 Tashkent                UZB 411313N0690902E RSZ MBR a25
 15210 RADIO FREE ASIA                 0000-0015 1234567 Lao                  300 205 Paochung                TWN 234334N1201802E RFA/AGM a26 May21-
+15210 R.ROMANIA INT.                  1300-1357 1234567 Russian              300  52 Tiganesti               ROU 444457N0260610E RRO a26
 15215 FEBA Radio                      1200-1230   123   Tibetan              250  70 Al-Dhabbiya             UAE 241012N0541459E FEBC a26 ENC
 15215 KSDA-Adventist World R.Guam     1500-1530 1234567 Kannada              100 285 Agat                    GUM 132027N1443903E AWR a26
 15215 KSDA-Adventist World R.Guam     1530-1558 1234567 Hindi                100 285 Agat                    GUM 132027N1443903E AWR a26
@@ -4744,7 +4745,6 @@ FRE   STATION                         UTC       Su-W-Sa Language             Pow
 15530 KSDA-Adventist World R.Guam     1400-1430 1234567 kxf/Manumanaw Karen  100 285 Agat                    GUM 132027N1443903E AWR a26
 15530 KSDA-Adventist World R.Guam     1430-1500 1234567 kxf/Manumanaw Karen  100 285 Agat                    GUM 132027N1443903E AWR a26
 15530 KSDA-Adventist World R.Guam     1500-1530 1234567 Tamil                100 285 Agat                    GUM 132027N1443903E AWR a26
-15530 R.ROMANIA INT.                  1300-1357 1234567 Russian              300  52 Tiganesti               ROU 444457N0260610E RRO a26
 15540 CNR 2-China Business Radio      0100-0600 1234567 Chinese              100 286 Lingshi 725             CHN 365216N1115547E CNR2 a26
 15540 CNR 2-China Business Radio      0600-0855 12.4567 Chinese              100 286 Lingshi 725             CHN 365216N1115547E CNR2 a26 Tu.!
 15540 CNR 2-China Business Radio      0855-1100 1234567 Chinese              100 286 Lingshi 725             CHN 365216N1115547E CNR2 a26=11740
