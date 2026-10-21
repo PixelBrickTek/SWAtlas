@@ -1,4 +1,4 @@
-A26 Shortwave Frequecy List  October 18  2026,  1400 UTC   Day 1 = Sunday
+A26 Shortwave Frequecy List  October 21  2026,  0001 UTC   Day 1 = Sunday
 FRE   STATION                         UTC       Su-W-Sa Language             Pow Azi Location                ADM L/L             Remarks
    40 Time Signal                     0000-2400 1234567 A1B                   50  ND Otakadoyama Tamura C    J   372221N1405056E NICT
    60 Time Signal                     0000-2400 1234567 A1B                   50  ND Haganeyama              J   332756N1301032E NICT
@@ -4182,7 +4182,7 @@ FRE   STATION                         UTC       Su-W-Sa Language             Pow
 13670 CNR 6                           0900-1000 1234567 Hakka                100 142 Nanning 954             CHN 224732N1081129E CNR6 a26=11775
 13670 World Christian Broadc. R.Feda  1900-2000 1234567 Arabic               100 340 Mahajanga 3             MDG 154338S0462646E MWV KNLS a26
 13670 World Christian Broadc.AfricavPa1800-1900 1234567 English              100 310 Mahajanga 3             MDG 154338S0462646E MWV KNLS a26
-13670 PBS Xinjiang                    0200-0600 1234567 Uyghur                50 230 Urumqi                  TKS 440934N0865357E XJBS a26 May13
+13670 PBS Xinjiang                    0135-0600 1234567 Uyghur                50 230 Urumqi                  TKS 440934N0865357E XJBS a26 May13
 13670 PBS Xinjiang (CNR13)            0600-0700 1234567 Uyghur                50 230 Urumqi                  TKS 440934N0865357E XJBS a26
 13670 PBS Xinjiang                    0700-0800 1234567 Uyghur                50 230 Urumqi                  TKS 440934N0865357E XJBS a26
 13670 PBS Xinjiang                    0800-0900 12.4567 Chinese               50 230 Urumqi                  TKS 440934N0865357E XJBS a26
