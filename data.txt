@@ -1,4 +1,4 @@
-A26 Shortwave Frequecy List  October 21  2026,  0001 UTC   Day 1 = Sunday
+A26 Shortwave Frequecy List  October 23 2026,  1000 UTC   Day 1 = Sunday
 FRE   STATION                         UTC       Su-W-Sa Language             Pow Azi Location                ADM L/L             Remarks
    40 Time Signal                     0000-2400 1234567 A1B                   50  ND Otakadoyama Tamura C    J   372221N1405056E NICT
    60 Time Signal                     0000-2400 1234567 A1B                   50  ND Haganeyama              J   332756N1301032E NICT
@@ -2791,6 +2791,7 @@ FRE   STATION                         UTC       Su-W-Sa Language             Pow
  9590 Thazin Radio                    0730-0830 1234567 Paoh                  50 356 Naypyidaw               MMR 220059N0963253E MRMS
  9590 BBC                             0000-0200 1234567 English              100 131 Tashkent                UZB 411313N0690902E BBC a26
  9595*R.TAIWAN INT.                   0900-1100 1234567 Chinese              100 310 Paochung                TWN 234334N1201802E CBSC a26
+ 9595 CNR 1 Jamming                   1000-1100 1234567 Chinese              500  20 Kunming-Anning 501      CHN 245255N1022945E CNR1 Jam.a26
  9600 CHINA RADIO INTERNATIONAL       1200-1300 1234567 English              150 163 Kunming-Anning 501      CHN 245235N1022917E CRI a26
  9600 CHINA RADIO INTERNATIONAL       1300-1357 1234567 Bengali              150 255 Baoji-Xinjie 722        CHN 344135N1065627E CRI a26
  9600 CHINA RADIO INTERNATIONAL       1500-1527 1234567 Persian              500 269 Kashi-Saibagh 2022      TKS 392152N0754258E CRI a26
@@ -4285,7 +4286,7 @@ FRE   STATION                         UTC       Su-W-Sa Language             Pow
 13825 Mizzima Radio                   1200-1300 1234567 Burmese              100 131 Tashkent                UZB 411313N0690902E MIZ a26
 13825 BBC                             2200-2400 1234567 English              250 105 Al Seela                OMA 215538N0593741E BBC a26
 13825 Audio (DRM) 1 xHE AAC           0053-0900 1234567 Chinese(Digital)      30 175 Beijing 572             CHN 394454N1164841E CNR1 DRM a26
-13825 CNR 1 Jamming                   1000-1030 1234567 Chinese              100 128                         URU                 CNR1 Jam.a26
+13825 CNR 1 Jamming                   1000-1030 1234567 Chinese              100 128 Kashi-Saibagh 2022      TKS 392152N0754258E CNR1 Jam.a26
 13825*R.TAIWAN INT.                   1000-1030 1234567 Cantonese            100 225 Paochung                TWN 234334N1201802E RTI a26
 13825 R.TAIWAN INT.                   1030-1100 1234567 Hakka                100 225 Paochung                TWN 234334N1201802E RTI a26
 13830 Norddeutscher Rundfunk          1800-2100    3    German/English       250 205 Nauen                   D   523855N0125433E NDR b24
@@ -4537,7 +4538,7 @@ FRE   STATION                         UTC       Su-W-Sa Language             Pow
 15310 Trans World Radio               1300-1330    1    Chinese              250  95 Dushanbe-Orzu           TJK 373216N0684738E KTWR a26
 15310 Trans World Radio               1300-1340  23456  Chinese              250  95 Dushanbe-Orzu           TJK 373216N0684738E KTWR a26
 15310 Trans World Radio Women of Hope 1300-1345    7    Chinese              250  95 Dushanbe-Orzu           TJK 373216N0684738E KTWR a26
-15320 CNR 1 Jamming                   0400-0430 1234567 Chinese              100 128                         URU                 CNR1 Jam.a26
+15320 CNR 1 Jamming                   0400-0430 1234567 Chinese              100 128 Kashi-Saibagh 2022      TKS 392152N0754258E CNR1 Jam.a26
 15320 R.ROMANIA INT.                  1100-1157 1234567 English              300 290 Tiganesti               ROU 444457N0260610E RRO a26
 15320 R.ROMANIA INT.                  1200-1227 1234567 Arabic               300 245 Galbeni-Bacau           ROU 464438N0265041E RRO a26
 15320*R.TAIWAN INT.                   0400-0430 123456  Cantonese            100 225 Paochung                TWN 234334N1201802E RTI a26
@@ -5354,6 +5355,10 @@ FRE   STATION                         UTC       Su-W-Sa Language             Pow
       Daily changes
      *Jammed by CNR1                                                                 Tibet Autonomous Region TIB
      xoff the air                                                                    Xinjiang Uyghur         TKS
+
+
+
+
 
 
 

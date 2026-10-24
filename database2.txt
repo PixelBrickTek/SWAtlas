@@ -1,4 +1,4 @@
-A26 Shortwave Frequecy List  October 21  2026,  0001 UTC   Day 1 = Sunday
+A26 Shortwave Frequecy List  October 23 2026,  1000 UTC   Day 1 = Sunday
 kHz           Time(UTC)       ITU Station                Lang. Location    Days 
 +-------------+---------+-----+---+------------------------+---+-----------+----
 
@@ -2793,6 +2793,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 9590          0730-0830       MMR Thazin Radio             Pao Naypyidaw   1-7  
 9590          0000-0200       UZB BBC                      Eng Tashkent    1-7  
 9595          0900-1100       TWN * R.TAIWAN INT.          Chi Paochung    1-7  
+9595          1000-1100       CHN CNR 1 Jamming            Chi Kunming-Ann 1-7  
 9600          1200-1300       CHN CHINA RADIO INTERNATIONA Eng Kunming-Ann 1-7  
 9600          1300-1357       CHN CHINA RADIO INTERNATIONA Ben Baoji-Xinji 1-7  
 9600          1500-1527       TKS CHINA RADIO INTERNATIONA Per Kashi-Saiba 1-7  
@@ -4287,7 +4288,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 13825         1200-1300       UZB Mizzima Radio            Bur Tashkent    1-7  
 13825         2200-2400       OMA BBC                      Eng Al Seela    1-7  
 13825         0053-0900       CHN Audio (DRM) 1 xHE AAC    Chi Beijing 572 1-7  
-13825         1000-1030       URU CNR 1 Jamming            Chi             1-7  
+13825         1000-1030       TKS CNR 1 Jamming            Chi Kashi-Saiba 1-7  
 13825         1000-1030       TWN * R.TAIWAN INT.          Can Paochung    1-7  
 13825         1030-1100       TWN R.TAIWAN INT.            Hak Paochung    1-7  
 13830         1800-2100       D   Norddeutscher Rundfunk   Ger Nauen       3    
@@ -4539,7 +4540,7 @@ kHz           Time(UTC)       ITU Station                Lang. Location    Days
 15310         1300-1330       TJK Trans World Radio        Chi Dushanbe-Or 1    
 15310         1300-1340       TJK Trans World Radio        Chi Dushanbe-Or 23456
 15310         1300-1345       TJK Trans World Radio Women  Chi Dushanbe-Or 7    
-15320         0400-0430       URU CNR 1 Jamming            Chi             1-7  
+15320         0400-0430       TKS CNR 1 Jamming            Chi Kashi-Saiba 1-7  
 15320         1100-1157       ROU R.ROMANIA INT.           Eng Tiganesti   1-7  
 15320         1200-1227       ROU R.ROMANIA INT.           Ara Galbeni-Bac 1-7  
 15320         0400-0430       TWN * R.TAIWAN INT.          Can Paochung    1-6  
